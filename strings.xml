@@ -90,20 +90,17 @@
 	<string name="x">%s×</string>
 	<string name="title_filter">Hledání</string>
 
-	<plurals name="views">
-		<item quantity="other">zobrazení</item>
-	</plurals>
+	<!-- views -->
+	<string name="views_0">zobrazení</string>
 
-	<plurals name="people">
-		<item quantity="one">člověku</item>
-		<item quantity="other">lidem</item>
-	</plurals>
+	<!-- people -->
+	<string name="people_0">člověku</string>
+	<string name="people_1">lidem</string>
 
-	<plurals name="hours">
-		<item quantity="one">hodina</item>
-		<item quantity="few">hodiny</item>
-		<item quantity="other">hodin</item>
-	</plurals>
+	<!-- hours -->
+	<string name="hours_0">hodina</string>
+	<string name="hours_1">hodiny</string>
+	<string name="hours_2">hodin</string>
 
 	<!--FilterUserFragment-->
 	<string name="user_content_all">Všechny typy obsahu</string>
