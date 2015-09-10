@@ -1,16 +1,10 @@
 <resources>
 
 	<string name="app_name">Amatéři</string>
-	<string name="preferences">amateri</string>
-
-	<string name="ga_code_live">UA-64934524-1</string>
-	<string name="ga_code_dev">UA-66026134-1</string>
-	<string name="new_relic">AAa7e16680886eecc0f239d404a3849b0b8c204ff6</string>
 
 	<string name="general_error">Ouvej!</string>
 	<string name="general_error_no_connection">Vypadá to, že nemáte připojení k internetu. Prosím, zkuste to později.</string>
 	<string name="general_loading">Strpení, načítám data</string>
-	<string name="brackets">(%s)</string>
 
 	<!--MainActivity-->
 	<string name="title_album">Fotoalba</string>
@@ -55,11 +49,6 @@
 	<string name="filter_advanced">Pokročilý filtr</string>
 	<string name="filter_sort_by">seřadit podle</string>
 
-	<!--ProfileActivity-->
-	<string name="number_99k_plus">99k</string>
-	<string name="k">%sk</string>
-	<string name="k_plus">%sk+</string>
-
 	<!--ProfileInfoFragment-->
 	<string name="title_personal_info">Osobní údaje</string>
 	<string name="title_sex">Pohlaví</string>
@@ -87,7 +76,6 @@
 	<string name="title_share">Sdílet adresu</string>
 	<string name="title_profile">Profil</string>
 
-	<string name="x">%s×</string>
 	<string name="title_filter">Hledání</string>
 
 	<!-- views -->
@@ -115,8 +103,6 @@
 	<string name="filter_show">Zobrazit</string>
 	<string name="profiles">profilů</string>
 	<string name="no_users_found">Žádní uživatelé nenalezeni</string>
-	<string name="sort_ascending_triangle">▲</string>
-	<string name="sort_descending_triangle">▼</string>
 
 	<!--FilterAlbumFragment-->
 	<string name="album_category_all">Všechny typy obsahu</string>
@@ -126,7 +112,6 @@
 	<string name="album_history_all">Shlédnuté i neshlédnuté</string>
 	<string name="albums">alb</string>
 	<string name="no_albums_found">Žádná alba nenalezena</string>
-
 
 	<!--AlbumInfoActivity-->
 	<string name="author">autor</string>
@@ -163,8 +148,6 @@
 	<string name="update_dialog_content">Máme pro vás lepší, šťavňatější verzi aplikace. Chcete si ji stáhnout?</string>
 	<string name="update_dialog_later">Později</string>
 	<string name="update_dialog_download">Stáhnout</string>
-	<string name="kb_mb">%1$d kB / %2$.2f MB</string>
-	<string name="mb_mb">%1$.2f MB / %2$.2f MB</string>
 
 	<!-- Invalid token dialog -->
 	<string name="invalid_token_dialog_title">Neplatné přihlášení</string>
@@ -201,9 +184,14 @@
 	<string name="invalid_login_dialog_forgot_password">Zapomněl jsem heslo</string>
 
 	<!-- Feedback dialog -->
-	<string name="feedback_dialog_title">Neplatné přihlášení</string>
+	<string name="feedback_dialog_title">Feedback</string>
 	<string name="feedback_dialog_text">Díky, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
 	<string name="feedback_dialog_ok">OK</string>
+
+	<!-- Welcome dialog -->
+	<string name="welcome_dialog_title">Welcome</string>
+	<string name="welcome_dialog_text">Díky, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
+	<string name="welcome_dialog_ok">OK</string>
 
 	<!-- WebActivity -->
 	<string name="title_webview">Amateri.cz</string>
