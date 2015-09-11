@@ -1,6 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
 
-	<string name="app_name">Amatéři</string>
+	<string name="app_name">Amatéri</string>
 	<string name="preferences">amateri</string>
 
-</resources>
+<string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>
+	<string name="general_loading">Strpenie, načítam dáta</string>
+
+	<string name="title_album">Fotoalbumy</string>
+	<string name="title_people">Ľudia</string>
+	<string name="title_my_profile">Môj profil</string>
+	<string name="title_logout">Odhlásiť sa</string>
+	<string name="title_version">Verzia %s</string>
+	<string name="title_feedback">Odoslať feedback</string>
+	<string name="title_new_version">Nová verzia!</string>
+
+	<string name="tab_latest">Najnovšie</string>
+	<string name="tab_best">Najlepšie</string>
+
+	<string name="title_comments">Komentáre</string>
+	<string name="title_likes">sa páči</string>
+	<string name="title_like">Páči sa</string>
+	<string name="title_next_comments">%Dalšie kmentáre (%s)</string>
+	<string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
+
+	<string name="menu_notification">Upozornenie</string>
+	<string name="menu_badges">Badges</string>
+	<string name="menu_reset">Reset</string>
+	<string name="menu_settings">Nastavenie</string>
+
+	<string name="action_try_again">Skúsiť znovu</string>
+
+	<string name="hint_username">Užívateľské meno</string>
+	<string name="hint_password">Heslo</string>
+
+	<string name="tab_albums">Fotoalbumy</string>
+	<string name="tab_info">Info</string>
+	<string name="tab_user">Užívateľ</string>
+	<string name="tab_album">Fotoalbum</string>
+
+	<string name="empty_people">Žiadne položky</string>
+
+	<string name="filter_from">filtrovať od</string>
+	<string name="filter_to">filtrovať do</string>
+	<string name="filter_advanced">Pokročilý filter</string>
+	<string name="filter_sort_by">zoradiť podľa</string>
+
+	<string name="title_personal_info">Osobné údaje</string>
+	<string name="title_sex">Pohlavie</string>
+	<string name="title_age">Vek</string>
+	<string name="title_country">Krajina</string>
+	<string name="title_region">Región</string>
+	<string name="title_marital_status">Rodinný stav</string>
+	<string name="title_sexual_orientation">Sexuálna orientácia</string>
+	<string name="title_height">Výška</string>
+	<string name="title_weight">Váha</string>
+	<string name="title_eye_color">Oči</string>
+	<string name="title_hair_color">Vlasy</string>
+	<string name="title_statistics">Štatistiky</string>
+	<string name="title_registration_date">Dátum registrácie</string>
+	<string name="title_chat_time">Čas na chate</string>
+	<string name="title_attended_events">Navštívené akcie</string>
+	<string name="title_views">Zobrazení profilu</string>
+	<string name="title_hobbies">Sexuálne koníčky a záujmy</string>
+	<string name="title_personal_descr">Vlastný popis</string>
+	<string name="title_profile_address">Adresa profilu</string>
+	<string name="title_unknown">N/A</string>
+	<string name="title_centimeters">cm</string>
+	<string name="title_kilograms">kg</string>
+	<string name="toast_copied_text">Adresa bola skopírovná do schránky!</string>
+	<string name="title_share">Zdieľať adresu</string>
+	<string name="title_profile">Profil</string>
+
+	<string name="title_filter">Hľadanie</string>
+
+	<string name="views_0">zobrazení</string>
+
+	<string name="people_0">človeku</string>
+	<string name="people_1">ľuďom</string>
+
+	<string name="hours_0">hodina</string>
+	<string name="hours_1">hodiny</string>
+	<string name="hours_2">hodín</string>
+
+	<string name="general_error">Ups!</string>
+	</resources>
