@@ -30,7 +30,6 @@
 	<string name="menu_notification">Upozornění</string>
 	<string name="menu_badges">Badges</string>
 	<string name="menu_reset">Reset</string>
-	<string name="menu_settings">Nastavení</string>
 
 	<string name="action_try_again">Zkusit znovu</string>
 
@@ -78,9 +77,6 @@
 
 	<string name="title_filter">Hledání</string>
 
-	<!-- views -->
-	<string name="views_0">zobrazení</string>
-
 	<!-- people -->
 	<string name="people_0">člověku</string>
 	<string name="people_1">lidem</string>
@@ -119,7 +115,6 @@
 	<string name="photo_count">počet fotek</string>
 	<string name="vip">vip</string>
 	<string name="certificated">certifikace</string>
-	<string name="age">stáří</string>
 	<string name="views">zobrazení</string>
 	<string name="rating">hodnocení</string>
 	<string name="comments">komentáře</string>
