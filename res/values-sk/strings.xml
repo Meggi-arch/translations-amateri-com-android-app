@@ -25,7 +25,7 @@
 	<string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
 
 	<string name="menu_notification">Upozornenie</string>
-	<string name="menu_badges">Badges</string>
+	<string name="menu_badges">Odznaky</string>
 	<string name="menu_reset">Reset</string>
 	<string name="menu_settings">Nastavenie</string>
 
@@ -84,4 +84,92 @@
 	<string name="hours_2">hodín</string>
 
 	<string name="general_error">Ups!</string>
-	</resources>
+	<string name="user_content_all">Všetky typy obsahu</string>
+	<string name="user_sex_all">Všetky pohlavia</string>
+	<string name="user_age_all">Všetky vekové kategórie</string>
+	<string name="user_country_all">Všetky krajiny</string>
+	<string name="user_region_all">Všetky regióny</string>
+	<string name="user_sexual_orientation_all">Všetky sexuálne orientácie</string>
+	<string name="user_marital_status_all">Všetky rodinné stavy</string>
+	<string name="user_height_all">Všetky výšky</string>
+	<string name="user_weight_all">Všetky váhy</string>
+	<string name="filter_show">Zobraziť</string>
+	<string name="profiles">profilov</string>
+	<string name="no_users_found">Nenájdení žiadni užívatelia</string>
+
+	<string name="album_category_all">Všetky typy obsahu</string>
+	<string name="album_verified_all">Overené aj neoverené</string>
+	<string name="album_theme_all">Všetky témy</string>
+	<string name="album_contest_all">Všetky súťaže</string>
+	<string name="album_history_all">Pozreté aj nepozreté</string>
+	<string name="albums">albumy</string>
+	<string name="no_albums_found">Nenájdené žiadne albumy</string>
+
+	<string name="author">autor</string>
+	<string name="category">kategórie</string>
+	<string name="photo_count">počet fotiek</string>
+	<string name="vip">vip</string>
+	<string name="certificated">certifikácia</string>
+	<string name="views">zobrazení</string>
+	<string name="rating">hodnotení</string>
+	<string name="comments">komentáre</string>
+	<string name="added">pridané</string>
+	<string name="album_number">číslo albumu</string>
+	<string name="album_address">adresa fotoalbumu</string>
+	<string name="yes">áno</string>
+	<string name="no">nie</string>
+
+	<string name="error_no_albums">Žiadne albumy na prezretie.</string>
+
+	<string name="notifications_title">Notifikácie</string>
+	<string name="notifications_99_plus">99+</string>
+	<string name="notifications_visits">Návštevy</string>
+	<string name="notifications_messages">Pošta</string>
+	<string name="notifications_dating_messages">Odpovede na inzeráty</string>
+	<string name="notifications_requests">Žiadosti o priateľstvo</string>
+	<string name="notifications_favourites">Obľúbili si ma</string>
+	<string name="notifications_profile_setup">Nastavenie účtu</string>
+	<string name="notifications_profile_edit">Upraviť profil</string>
+
+	<string name="update_dialog_title">Nová verzia</string>
+	<string name="update_dialog_content">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcte si ju stiahnuť?</string>
+	<string name="update_dialog_later">Neskôr</string>
+	<string name="update_dialog_download">Stiahnuť</string>
+
+	<string name="invalid_token_dialog_title">Neplatné prihlásenie</string>
+	<string name="invalid_token_dialog_content">Aby sme mali istotu, že ste to naozaj vy, musíte sa znovu prihlásiť.</string>
+
+	<string name="redirect_dialog_title">Budete presmerovaní</string>
+	<string name="redirect_dialog_content">Táto časť aplikácie je prístupná iba cez webové rozhranie. Chcete byť presmerovaní na webové stránky?</string>
+
+	<string name="unauthorized_dialog_title">Nie ste prihlásení</string>
+	<string name="unauthorized_dialog_content">Túto funkciu môžu používať iba prihlásení užívatelia.</string>
+	<string name="unauthorized_dialog_register">Registrovať sa</string>
+
+	<string name="lists_error_dialog_title">Chyba pripojenia</string>
+	<string name="lists_error_dialog_content">Skontrolujte si prosím pripojenie k internetu.</string>
+	<string name="lists_error_dialog_retry">Opakovať</string>
+
+	<string name="button_login">Prihlásiť sa</string>
+	<string name="button_registration">Registrácia</string>
+	<string name="button_entry">Vstup bez prihlásenia</string>
+
+	<string name="title_filter_results">Výsledky hľadania</string>
+
+	<string name="button_verify">Certifikovať profil</string>
+
+	<string name="invalid_login_dialog_title">Neplatné prihlásenie</string>
+	<string name="invalid_login_dialog_content">Vyzerá to tak, že ste zadali neplatné prihlasovacie údaje.</string>
+	<string name="invalid_login_dialog_retry">Skúsiť znovu</string>
+	<string name="invalid_login_dialog_forgot_password">Zabudol som heslo</string>
+
+	<string name="feedback_dialog_title">Spätná väzba</string>
+	<string name="feedback_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
+	<string name="feedback_dialog_ok">OK</string>
+
+	<string name="welcome_dialog_title">Vitajte</string>
+	<string name="welcome_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
+	<string name="welcome_dialog_ok">OK</string>
+
+	<string name="title_webview">Amateri.sk</string>
+</resources>
