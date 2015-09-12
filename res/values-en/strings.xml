@@ -1,2 +1,169 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources><string name="app_name">Amateurs</string>
+
+	<string name="general_error">Ooops!</string>
+	<string name="general_error_no_connection">It seems that you have no internet connection. Please try again later.</string>
+	<string name="general_loading">Please wait, loading data</string>
+
+	<string name="title_album">Albums</string>
+	<string name="title_people">People</string>
+	<string name="title_my_profile">My profile</string>
+	<string name="title_logout">Log off</string>
+	<string name="title_version">Version %s</string>
+	<string name="title_feedback">Send Feedback</string>
+	<string name="title_new_version">New version!</string>
+
+	<string name="tab_latest">Newest</string>
+	<string name="tab_best">Best</string>
+
+	<string name="title_comments">Comments</string>
+	<string name="title_likes">likes</string>
+	<string name="title_like">Does not like</string>
+	<string name="title_next_comments">Other comments (%s)</string>
+	<string name="title_next_albums">Other albums (%s)</string>
+
+	<string name="menu_notification">Warning</string>
+	<string name="menu_badges">Badges</string>
+	<string name="menu_reset">Reset</string>
+
+	<string name="action_try_again">Try again</string>
+
+	<string name="hint_username">Username</string>
+	<string name="hint_password">Password</string>
+
+	<string name="tab_albums">Albums</string>
+	<string name="tab_info">Info</string>
+	<string name="tab_user">User</string>
+	<string name="tab_album">Album</string>
+
+	<string name="empty_people">No items</string>
+
+	<string name="filter_from">filter from</string>
+	<string name="filter_to">filter to</string>
+	<string name="filter_advanced">Enhanced filter</string>
+	<string name="filter_sort_by">order by</string>
+
+	<string name="title_personal_info">Personal data</string>
+	<string name="title_sex">Sex</string>
+	<string name="title_age">Age</string>
+	<string name="title_country">Country</string>
+	<string name="title_region">Region</string>
+	<string name="title_marital_status">Marital status</string>
+	<string name="title_sexual_orientation">Sexual orientation</string>
+	<string name="title_height">Hight</string>
+	<string name="title_weight">Weight</string>
+	<string name="title_eye_color">Eyes</string>
+	<string name="title_hair_color">Hair</string>
+	<string name="title_statistics">Statistics</string>
+	<string name="title_registration_date">Registration date</string>
+	<string name="title_chat_time">Time on chat</string>
+	<string name="title_attended_events">Visited actions</string>
+	<string name="title_views">Profile visits</string>
+	<string name="title_hobbies">Sexual hobbies and interests</string>
+	<string name="title_personal_descr">Own description</string>
+	<string name="title_profile_address">Profile address</string>
+	<string name="title_unknown">N/A</string>
+	<string name="title_centimeters">cm</string>
+	<string name="title_kilograms">kg</string>
+	<string name="toast_copied_text">Address copied to clipboard!</string>
+	<string name="title_share">Share address</string>
+	<string name="title_profile">Profile</string>
+
+	<string name="title_filter">Search</string>
+
+	<string name="people_0">man</string>
+	<string name="people_1">people</string>
+
+	<string name="hours_0">hour</string>
+	<string name="hours_1">hours</string>
+	<string name="hours_2">hours</string>
+
+	<string name="user_content_all">All types of content</string>
+	<string name="user_sex_all">All genders</string>
+	<string name="user_age_all">All age groups</string>
+	<string name="user_country_all">All countries</string>
+	<string name="user_region_all">All regions</string>
+	<string name="user_sexual_orientation_all">All sexual orientations</string>
+	<string name="user_marital_status_all">All marital statuses</string>
+	<string name="user_height_all">All hights</string>
+	<string name="user_weight_all">All weights</string>
+	<string name="filter_show">Show</string>
+	<string name="profiles">profiles</string>
+	<string name="no_users_found">No users found</string>
+
+	<string name="album_category_all">All types of content</string>
+	<string name="album_verified_all">Verified and non-Verified</string>
+	<string name="album_theme_all">All topics</string>
+	<string name="album_contest_all">All contests</string>
+	<string name="album_history_all">Viewed and not viewed</string>
+	<string name="albums">albums</string>
+	<string name="no_albums_found">No albums found</string>
+
+	<string name="author">author</string>
+	<string name="category">category</string>
+	<string name="photo_count">number of pictures</string>
+	<string name="vip">vip</string>
+	<string name="certificated">certification</string>
+	<string name="views">views</string>
+	<string name="rating">rating</string>
+	<string name="comments">comments</string>
+	<string name="added">added</string>
+	<string name="album_number">album-ID</string>
+	<string name="album_address">album address</string>
+	<string name="yes">yes</string>
+	<string name="no">no</string>
+
+	<string name="error_no_albums">No albums to view.</string>
+
+	<string name="notifications_title">Notifications</string>
+	<string name="notifications_99_plus">99+</string>
+	<string name="notifications_visits">Visits</string>
+	<string name="notifications_messages">Messages</string>
+	<string name="notifications_dating_messages">Dating ad answers</string>
+	<string name="notifications_requests">Friend requests</string>
+	<string name="notifications_favourites">Like me</string>
+	<string name="notifications_profile_setup">Account settings</string>
+	<string name="notifications_profile_edit">Change profile</string>
+
+	<string name="update_dialog_title">New version</string>
+	<string name="update_dialog_content">We have a better, more spicy application version. Wanna download it?</string>
+	<string name="update_dialog_later">Later</string>
+	<string name="update_dialog_download">Download</string>
+
+	<string name="invalid_token_dialog_title">Invalit logon</string>
+	<string name="invalid_token_dialog_content">To be sure that it´s you, please log on again.</string>
+
+	<string name="redirect_dialog_title">You will be redirected</string>
+	<string name="redirect_dialog_content">This part of application is accessible only through Web interface. Would you like to be redirected to Website?</string>
+
+	<string name="unauthorized_dialog_title">You are not logged in</string>
+	<string name="unauthorized_dialog_content">Only logged in users may use this function.</string>
+	<string name="unauthorized_dialog_register">Register</string>
+
+	<string name="lists_error_dialog_title">Connection error</string>
+	<string name="lists_error_dialog_content">Check your internet connection, please.</string>
+	<string name="lists_error_dialog_retry">Retry</string>
+
+	<string name="button_login">Login</string>
+	<string name="button_registration">Registration</string>
+	<string name="button_entry">Enter without logon</string>
+
+	<string name="title_filter_results">Search results</string>
+
+	<string name="button_verify">Certify profile</string>
+
+	<string name="invalid_login_dialog_title">Invalid logon</string>
+	<string name="invalid_login_dialog_content">It seems, that you entered invalid logon data.</string>
+	<string name="invalid_login_dialog_retry">Try again</string>
+	<string name="invalid_login_dialog_forgot_password">I forgot my password</string>
+
+	<string name="feedback_dialog_title">Feedback</string>
+	<string name="feedback_dialog_text">Thank you that you help us improving our application. We are looking forward to your feedback, the link you can find inthe menu below.</string>
+	<string name="feedback_dialog_ok">OK</string>
+
+	<string name="welcome_dialog_title">Welcome</string>
+	<string name="welcome_dialog_text">Thank you that you help us improving our application. We are looking forward to your feedback, the link you can find inthe menu below.</string>
+	<string name="welcome_dialog_ok">OK</string>
+
+	<string name="title_webview">Xamateurs.co.uk</string>
+</resources>
