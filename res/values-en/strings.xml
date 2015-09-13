@@ -96,22 +96,22 @@
 	<string name="album_theme_all">All topics</string>
 	<string name="album_contest_all">All contests</string>
 	<string name="album_history_all">Viewed and not viewed</string>
-	<string name="albums">albums</string>
+	<string name="albums"/>
 	<string name="no_albums_found">No albums found</string>
 
-	<string name="author">author</string>
+	<string name="author"></string>
 	<string name="category">category</string>
 	<string name="photo_count">number of pictures</string>
 	<string name="vip">vip</string>
 	<string name="certificated">certification</string>
-	<string name="views">views</string>
+	<string name="views"/>
 	<string name="rating">rating</string>
-	<string name="comments">comments</string>
+	<string name="comments"/>
 	<string name="added">added</string>
 	<string name="album_number">album-ID</string>
 	<string name="album_address">album address</string>
-	<string name="yes">yes</string>
-	<string name="no">no</string>
+	<string name="yes"/>
+	<string name="no"/>
 
 	<string name="error_no_albums">No albums to view.</string>
 
