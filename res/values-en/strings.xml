@@ -119,7 +119,7 @@
 	<string name="notifications_99_plus">99+</string>
 	<string name="notifications_visits">Visits</string>
 	<string name="notifications_messages">Messages</string>
-	<string name="notifications_dating_messages">Dating ad answers</string>
+	<string name="notifications_dating_messages">Dating responses</string>
 	<string name="notifications_requests">Friend requests</string>
 	<string name="notifications_favourites">Like me</string>
 	<string name="notifications_profile_setup">Account settings</string>
