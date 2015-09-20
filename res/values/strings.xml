@@ -1,193 +1,206 @@
 <resources>
 
-	<string name="app_name">Amatéři</string>
+    <string name="app_name">Amateri</string>
 
-	<string name="general_error">Ouvej!</string>
-	<string name="general_error_no_connection">Vypadá to, že nemáte připojení k internetu. Prosím, zkuste to později.</string>
-	<string name="general_loading">Strpení, načítám data</string>
+    <string name="general_error">Ooops!</string>
+    <string name="general_error_no_connection">It seems, you don't have internet connection. Please try again later.</string>
+    <string name="general_loading">Please wait, loading data</string>
 
-	<!--MainActivity-->
-	<string name="title_album">Fotoalba</string>
-	<string name="title_people">Lidé</string>
-	<string name="title_my_profile">Můj profil</string>
-	<string name="title_logout">Odhlásit se</string>
-	<string name="title_version">Verze %s</string>
-	<string name="title_feedback">Odeslat feedback</string>
-	<string name="title_new_version">Nová verze!</string>
+    <!--MainActivity-->
+    <string name="title_album">Albums</string>
+    <string name="title_people">People</string>
+    <string name="title_my_profile">My profile</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_version">Version %s</string>
+    <string name="title_feedback">Send feedback</string>
+    <string name="title_new_version">New version!</string>
 
-	<!--AlbumFragment-->
-	<string name="tab_latest">Nejnovější</string>
-	<string name="tab_best">Nejlepší</string>
+    <!--AlbumFragment-->
+    <string name="tab_latest">Newest</string>
+    <string name="tab_best">Best</string>
 
-	<!--AlbumDetailActivity-->
-	<string name="title_comments">Komentáře</string>
-	<string name="title_likes">se líbí</string>
-	<string name="title_like">Líbí se</string>
-	<string name="title_next_comments">Další komentáře (%s)</string>
-	<string name="title_next_albums">Další fotoalba (%s)</string>
+    <!--AlbumDetailActivity-->
+    <string name="title_comments">Comments</string>
+    <string name="title_likes">likes</string>
+    <string name="title_like">Like</string>
+    <string name="title_next_comments">Other comments (%s)</string>
+    <string name="title_next_albums">Other albums (%s)</string>
 
-	<!-- Menu -->
-	<string name="menu_notification">Upozornění</string>
-	<string name="menu_badges">Badges</string>
-	<string name="menu_reset">Reset</string>
+    <!-- Menu -->
+    <string name="menu_notification">Notification</string>
+    <string name="menu_badges">Badges</string>
+    <string name="menu_reset">Reset</string>
 
-	<string name="action_try_again">Zkusit znovu</string>
+    <string name="action_try_again">Try again</string>
 
-	<string name="hint_username">Uživatelské jméno</string>
-	<string name="hint_password">Heslo</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
 
-	<string name="tab_albums">Fotoalba</string>
-	<string name="tab_info">Info</string>
-	<string name="tab_user">Uživatel</string>
-	<string name="tab_album">Fotoalbum</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_user">User</string>
+    <string name="tab_album">Album</string>
 
-	<string name="empty_people">Žádné položky</string>
+    <string name="empty_people">Empty</string>
 
-	<string name="filter_from">filtrovat od</string>
-	<string name="filter_to">filtrovat do</string>
-	<string name="filter_advanced">Pokročilý filtr</string>
-	<string name="filter_sort_by">seřadit podle</string>
+    <string name="filter_from">filter from</string>
+    <string name="filter_to">filter to</string>
+    <string name="filter_advanced">Advanced filter</string>
+    <string name="filter_sort_by">Sort by</string>
 
-	<!--ProfileInfoFragment-->
-	<string name="title_personal_info">Osobní údaje</string>
-	<string name="title_sex">Pohlaví</string>
-	<string name="title_age">Věk</string>
-	<string name="title_country">Země</string>
-	<string name="title_region">Region</string>
-	<string name="title_marital_status">Rodinný stav</string>
-	<string name="title_sexual_orientation">Sexuální orientace</string>
-	<string name="title_height">Výška</string>
-	<string name="title_weight">Váha</string>
-	<string name="title_eye_color">Oči</string>
-	<string name="title_hair_color">Vlasy</string>
-	<string name="title_statistics">Statistiky</string>
-	<string name="title_registration_date">Datum registrace</string>
-	<string name="title_chat_time">Čas na chatu</string>
-	<string name="title_attended_events">Navštívené akce</string>
-	<string name="title_views">Shlednutí profilu</string>
-	<string name="title_hobbies">Sexuální hobbies a zájmy</string>
-	<string name="title_personal_descr">Vlastní popis</string>
-	<string name="title_profile_address">Adresa profilu</string>
-	<string name="title_unknown">N/A</string>
-	<string name="title_centimeters">cm</string>
-	<string name="title_kilograms">kg</string>
-	<string name="toast_copied_text">Adresa byla zkopírována do schránky!</string>
-	<string name="title_share">Sdílet adresu</string>
-	<string name="title_profile">Profil</string>
+    <!--ProfileInfoFragment-->
+    <string name="title_personal_info">Personal information</string>
+    <string name="title_sex">Sex</string>
+    <string name="title_age">Age</string>
+    <string name="title_country">Country</string>
+    <string name="title_region">Region</string>
+    <string name="title_marital_status">Marital status</string>
+    <string name="title_sexual_orientation">Sexual orientation</string>
+    <string name="title_height">Height</string>
+    <string name="title_weight">Weight</string>
+    <string name="title_eye_color">Eye colour</string>
+    <string name="title_hair_color">Hair colour</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_registration_date">Registration date</string>
+    <string name="title_chat_time">Time spent on chat</string>
+    <string name="title_attended_events">Attended events</string>
+    <string name="title_views">Views</string>
+    <string name="title_hobbies">Sexual hobbies and interests</string>
+    <string name="title_personal_descr">Personal description</string>
+    <string name="title_profile_address">Profile url</string>
+    <string name="title_unknown">N/A</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">Address copied to clipboard!</string>
+    <string name="title_share">Share address</string>
+    <string name="title_profile">Profile</string>
+    <string name="profile_he">ON</string>
+    <string name="profile_she">ONA</string>
+    <string name="profile_male">Muž</string>
+    <string name="profile_female">Žena</string>
+    <string name="profile_group">Skupina</string>
 
-	<string name="title_filter">Hledání</string>
+    <string name="title_filter">Search</string>
 
-	<!-- people -->
-	<string name="people_0">člověku</string>
-	<string name="people_1">lidem</string>
+    <!-- people -->
+    <string name="people_0">person</string>
+    <string name="people_1">people</string>
 
-	<!-- hours -->
-	<string name="hours_0">hodina</string>
-	<string name="hours_1">hodiny</string>
-	<string name="hours_2">hodin</string>
+    <!-- hours -->
+    <string name="hours_0">hour</string>
+    <string name="hours_1">hours</string>
 
-	<!--FilterUserFragment-->
-	<string name="user_content_all">Všechny typy obsahu</string>
-	<string name="user_sex_all">Všechna pohlaví</string>
-	<string name="user_age_all">Všechny věkové kategorie</string>
-	<string name="user_country_all">Všechny země</string>
-	<string name="user_region_all">Všechny regiony</string>
-	<string name="user_sexual_orientation_all">Všechny sexuální orientace</string>
-	<string name="user_marital_status_all">Všechny rodinné stavy</string>
-	<string name="user_height_all">Všechny výšky</string>
-	<string name="user_weight_all">Všechny váhy</string>
-	<string name="filter_show">Zobrazit</string>
-	<string name="profiles">profilů</string>
-	<string name="no_users_found">Žádní uživatelé nenalezeni</string>
+    <!--FilterUserFragment-->
+    <string name="user_content_all">All types of content</string>
+    <string name="user_sex_all">All sex</string>
+    <string name="user_age_all">All age groups</string>
+    <string name="user_country_all">All countries</string>
+    <string name="user_region_all">All regions</string>
+    <string name="user_sexual_orientation_all">All sexual orientations</string>
+    <string name="user_marital_status_all">All marital statuses</string>
+    <string name="user_height_all">All heights</string>
+    <string name="user_weight_all">All weights</string>
+    <string name="filter_show">Show</string>
+    <string name="profiles">profiles</string>
+    <string name="no_users_found">No users found</string>
 
-	<!--FilterAlbumFragment-->
-	<string name="album_category_all">Všechny typy obsahu</string>
-	<string name="album_verified_all">Ověřené i neověřené</string>
-	<string name="album_theme_all">Všechna témata</string>
-	<string name="album_contest_all">Všechny soutěže</string>
-	<string name="album_history_all">Shlédnuté i neshlédnuté</string>
-	<string name="albums">alb</string>
-	<string name="no_albums_found">Žádná alba nenalezena</string>
+    <!--FilterAlbumFragment-->
+    <string name="album_category_all">All types of content</string>
+    <string name="album_verified_all">Verified and unverified</string>
+    <string name="album_theme_all">All topics</string>
+    <string name="album_contest_all">All contests</string>
+    <string name="album_history_all">Viewed and unviewed</string>
+    <string name="albums">albums</string>
+    <string name="no_albums_found">No albums found</string>
 
-	<!--AlbumInfoActivity-->
-	<string name="author">autor</string>
-	<string name="category">kategorie</string>
-	<string name="photo_count">počet fotek</string>
-	<string name="vip">vip</string>
-	<string name="certificated">certifikace</string>
-	<string name="views">zobrazení</string>
-	<string name="rating">hodnocení</string>
-	<string name="comments">komentáře</string>
-	<string name="added">přidáno</string>
-	<string name="album_number">číslo fotoalba</string>
-	<string name="album_address">adresa fotoalba</string>
-	<string name="yes">ano</string>
-	<string name="no">ne</string>
+    <!--AlbumInfoActivity-->
+    <string name="author">author</string>
+    <string name="category">category</string>
+    <string name="photo_count">number of pictures</string>
+    <string name="vip">vip</string>
+    <string name="certificated">verified</string>
+    <string name="views">views</string>
+    <string name="rating">rating</string>
+    <string name="comments">comments</string>
+    <string name="added">added</string>
+    <string name="album_number">album ID</string>
+    <string name="album_address">album address</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
 
-	<!--AlbumUserFragment-->
-	<string name="error_no_albums">Žádná fotoalba k prohlédnutí.</string>
+    <!--AlbumUserFragment-->
+    <string name="error_no_albums">No albums to view.</string>
 
-	<!--Notification menu-->
-	<string name="notifications_title">Notifikace</string>
-	<string name="notifications_99_plus">99+</string>
-	<string name="notifications_visits">Návštěvy</string>
-	<string name="notifications_messages">Vzkazy</string>
-	<string name="notifications_dating_messages">Odpovědi na inzeráty</string>
-	<string name="notifications_requests">Žádosti o přátelství</string>
-	<string name="notifications_favourites">Oblíbili si mě</string>
-	<string name="notifications_profile_setup">Nastavení účtu</string>
-	<string name="notifications_profile_edit">Upravit profil</string>
+    <!--Notification menu-->
+    <string name="notifications_title">Notifications</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Profile views</string>
+    <string name="notifications_messages">Messages</string>
+    <string name="notifications_dating_messages">Dating ad responses</string>
+    <string name="notifications_requests">Friend requests</string>
+    <string name="notifications_favourites">Like me</string>
+    <string name="notifications_profile_setup">Account settings</string>
+    <string name="notifications_profile_edit">Edit profile</string>
 
-	<!-- Update dialog -->
-	<string name="update_dialog_title">Nová verze</string>
-	<string name="update_dialog_content">Máme pro vás lepší, šťavňatější verzi aplikace. Chcete si ji stáhnout?</string>
-	<string name="update_dialog_later">Později</string>
-	<string name="update_dialog_download">Stáhnout</string>
+    <!-- Update dialog -->
+    <string name="update_dialog_title">New version</string>
+    <string name="update_dialog_content">We have prepared for you a new, more juicy and improved application version. Do you want to download it?</string>
+    <string name="update_dialog_later">Later</string>
+    <string name="update_dialog_download">Download</string>
 
-	<!-- Invalid token dialog -->
-	<string name="invalid_token_dialog_title">Neplatné přihlášení</string>
-	<string name="invalid_token_dialog_content">Abychom měli jistotu, že jste to opravdu vy, musíte se znovu přihlásit.</string>
+    <!-- Old version dialog -->
+    <string name="old_dialog_title">Obsolete version</string>
+    <string name="old_dialog_content">Unfortunatelly you use an unsupported application version. We have prepared for you a new, more juicy and improved application version. Do you want to download it?</string>
+    <string name="old_dialog_exit">Leave</string>
 
-	<!-- Redirect dialog -->
-	<string name="redirect_dialog_title">Budete přesměrováni</string>
-	<string name="redirect_dialog_content">Tato část aplikace je přístupná pouze přes webové rozhraní. Chcete přesměrovat na webové stránky?</string>
+    <!-- Invalid token dialog -->
+    <string name="invalid_token_dialog_title">Invalid login/string>
+    <string name="invalid_token_dialog_content">To make sure that it´s really you, please log in again.</string>
 
-	<!-- Unauthorized dialog -->
-	<string name="unauthorized_dialog_title">Nejste přihlášeni</string>
-	<string name="unauthorized_dialog_content">Tuto funkci mohou využívat jen přihlášení uživatelé.</string>
-	<string name="unauthorized_dialog_register">Registrovat se</string>
+    <!--Timeout dialog-->
+    <string name="timeout_dialog_title">Your session has expired. Please log-in again.</string>
+    <string name="timeout_dialog_content">Log in again, please</string>
 
-	<!-- Lists error dialog -->
-	<string name="lists_error_dialog_title">Chyba připojení</string>
-	<string name="lists_error_dialog_content">Zkontrolujte prosím připojení k internetu.</string>
-	<string name="lists_error_dialog_retry">Opakovat</string>
+    <!-- Redirect dialog -->
+    <string name="redirect_dialog_title">You will be redirected</string>
+    <string name="redirect_dialog_content">This part of application is accessible only through Web interface. Would you like to be redirected to website?</string>
 
-	<!--LoginActivity-->
-	<string name="button_login">Přihlásit se</string>
-	<string name="button_registration">Registrace</string>
-	<string name="button_entry">Vstup bez přihlášení</string>
+    <!-- Unauthorized dialog -->
+    <string name="unauthorized_dialog_title">You are not logged in</string>
+    <string name="unauthorized_dialog_content">You must be logged in to use this feature.</string>
+    <string name="unauthorized_dialog_register">Register</string>
 
-	<!-- FilterAlbumActivity | FilterUserActivity -->
-	<string name="title_filter_results">Výsledky hledání</string>
+    <!-- Lists error dialog -->
+    <string name="lists_error_dialog_title">Connection error</string>
+    <string name="lists_error_dialog_content">Check your internet connection, please.</string>
+    <string name="lists_error_dialog_retry">Retry</string>
 
-	<string name="button_verify">Certifikovat profil</string>
+    <!--LoginActivity-->
+    <string name="button_login">Login</string>
+    <string name="button_registration">Registration</string>
+    <string name="button_entry">Enter without login</string>
 
-	<!-- Invalid login dialog -->
-	<string name="invalid_login_dialog_title">Neplatné přihlášení</string>
-	<string name="invalid_login_dialog_content">Vypadá to, že jste zadali neplatné přihlašovací údaje.</string>
-	<string name="invalid_login_dialog_retry">Zkusit znovu</string>
-	<string name="invalid_login_dialog_forgot_password">Zapomněl jsem heslo</string>
+    <!-- FilterAlbumActivity | FilterUserActivity -->
+    <string name="title_filter_results">Search results</string>
 
-	<!-- Feedback dialog -->
-	<string name="feedback_dialog_title">Feedback</string>
-	<string name="feedback_dialog_text">Díky, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
-	<string name="feedback_dialog_ok">OK</string>
+    <string name="button_verify">Verify profile</string>
 
-	<!-- Welcome dialog -->
-	<string name="welcome_dialog_title">Welcome</string>
-	<string name="welcome_dialog_text">Díky, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
-	<string name="welcome_dialog_ok">OK</string>
+    <!-- Invalid login dialog -->
+    <string name="invalid_login_dialog_title">Invalid login</string>
+    <string name="invalid_login_dialog_content">You entered invalid credentials.</string>
+    <string name="invalid_login_dialog_retry">Tray again</string>
+    <string name="invalid_login_dialog_forgot_password">I forgot my password</string>
 
-	<!-- WebActivity -->
-	<string name="title_webview">Amateri.cz</string>
+    <!-- Feedback dialog -->
+    <string name="feedback_dialog_title">Feedback</string>
+    <string name="feedback_dialog_text">Thank you for helping us improving our application. We are looking forward to your feedback, you can find the link in the menu below.</string>
+    <string name="feedback_dialog_ok">OK</string>
+
+    <!-- Welcome dialog -->
+    <string name="welcome_dialog_title">Welcome</string>
+    <string name="welcome_dialog_text">Thank you for helping us improving our application. We are looking forward to your feedback, you can find the link in the menu below.</string>
+    <string name="welcome_dialog_ok">OK</string>
+
+    <!-- WebActivity -->
+    <string name="title_webview">Amateri.com</string>
 </resources>
