@@ -6,6 +6,6 @@
 	</plurals>
 	<plurals name="hours">
 		<item quantity="one">@string/hours_0</item>
-		<item quantity="other">@string/hours_2</item>
+		<item quantity="other">@string/hours_1</item>
 	</plurals>
 </resources>
