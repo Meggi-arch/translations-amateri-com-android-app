@@ -155,7 +155,7 @@
     <string name="old_dialog_exit">Leave</string>
 
     <!-- Invalid token dialog -->
-    <string name="invalid_token_dialog_title">Invalid login/string>
+    <string name="invalid_token_dialog_title">Invalid login</string>
     <string name="invalid_token_dialog_content">To make sure that it´s really you, please log in again.</string>
 
     <!--Timeout dialog-->
