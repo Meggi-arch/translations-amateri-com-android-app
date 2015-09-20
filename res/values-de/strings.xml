@@ -77,7 +77,6 @@
 
 	<string name="hours_0">Stunde</string>
 	<string name="hours_1">Stunden</string>
-	<string name="hours_2">Stunden</string>
 
 	<string name="user_content_all">Alle Inhaltstypen</string>
 	<string name="user_sex_all">Alle Geschlechter</string>
@@ -165,5 +164,5 @@
 	<string name="welcome_dialog_text">Danke dass Sie uns helfen unser Anwendung zu verbessern. Wir freuen uns von jedem Feedback, Link zu Feedback finden Sie unten im Menü.</string>
 	<string name="welcome_dialog_ok">OK</string>
 
-	<string name="title_webview">Xamateure.net</string>
+	<string name="title_webview">Amateri.com</string>
 </resources>

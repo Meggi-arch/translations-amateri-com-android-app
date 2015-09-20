@@ -4,7 +4,7 @@
 	<string name="app_name">Amatéri</string>
 	<string name="preferences">amateri</string>
 
-<string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>
+	<string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>
 	<string name="general_loading">Strpenie, načítam dáta</string>
 
 	<string name="title_album">Fotoalbumy</string>
@@ -73,11 +73,10 @@
 	<string name="title_profile">Profil</string>
 
 	<string name="title_filter">Hľadanie</string>
-
-	<string name="views_0">zobrazení</string>
-
+
 	<string name="people_0">človeku</string>
 	<string name="people_1">ľuďom</string>
+	<string name="people_2">ľuďom</string>
 
 	<string name="hours_0">hodina</string>
 	<string name="hours_1">hodiny</string>
