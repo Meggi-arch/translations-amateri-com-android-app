@@ -160,7 +160,7 @@
     <string name="invalid_token_dialog_content">Abychom měli jistotu, že jste to opravdu Vy, přihlašte se znovu prosím.</string>
 
     <!--Timeout dialog-->
-    <string name="timeout_dialog_title">Platnost přihlášení vypršela</string>
+    <string name="timeout_dialog_title">Platnost přihlášení vypršela.</string>
     <string name="timeout_dialog_content">Přihlašte se znovu prosím</string>
 
     <!-- Redirect dialog -->
