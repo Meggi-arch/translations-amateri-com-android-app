@@ -4,7 +4,7 @@
     <string name="app_name">Amateri</string>
 
     <string name="general_error">Ooops!</string>
-    <string name="general_error_no_connection">It seems, you don't have internet connection. Please try again later.</string>
+    <string name="general_error_no_connection">It seems that you have no internet connection. Please try again later.</string>
     <string name="general_loading">Please wait, loading data</string>
 
     <!--MainActivity-->
@@ -72,14 +72,14 @@
     <string name="title_unknown">N/A</string>
     <string name="title_centimeters">cm</string>
     <string name="title_kilograms">kg</string>
-    <string name="toast_copied_text">Address copied to clipboard!</string>
+    <string name="toast_copied_text">The address was copied into your inbox!</string>
     <string name="title_share">Share address</string>
     <string name="title_profile">Profile</string>
-    <string name="profile_he">ON</string>
-    <string name="profile_she">ONA</string>
-    <string name="profile_male">Muž</string>
-    <string name="profile_female">Žena</string>
-    <string name="profile_group">Skupina</string>
+    <string name="profile_he">He</string>
+    <string name="profile_she">She</string>
+    <string name="profile_male">Man</string>
+    <string name="profile_female">Woman</string>
+    <string name="profile_group">Group</string>
 
     <string name="title_filter">Search</string>
 
@@ -145,7 +145,7 @@
 
     <!-- Update dialog -->
     <string name="update_dialog_title">New version</string>
-    <string name="update_dialog_content">We have prepared for you a new, more juicy and improved application version. Do you want to download it?</string>
+    <string name="update_dialog_content">We have a better, more juicy version of the application for you. Do you want yo download it?</string>
     <string name="update_dialog_later">Later</string>
     <string name="update_dialog_download">Download</string>
 
@@ -156,7 +156,7 @@
 
     <!-- Invalid token dialog -->
     <string name="invalid_token_dialog_title">Invalid login</string>
-    <string name="invalid_token_dialog_content">To make sure that it´s really you, please log in again.</string>
+    <string name="invalid_token_dialog_content">To be sure that it is really you, please log in again.</string>
 
     <!--Timeout dialog-->
     <string name="timeout_dialog_title">Your session has expired. Please log-in again.</string>
@@ -164,16 +164,16 @@
 
     <!-- Redirect dialog -->
     <string name="redirect_dialog_title">You will be redirected</string>
-    <string name="redirect_dialog_content">This part of application is accessible only through Web interface. Would you like to be redirected to website?</string>
+    <string name="redirect_dialog_content">This part of the application is accessible through the web interface only. Do you want to be redirected to the website?</string>
 
     <!-- Unauthorized dialog -->
     <string name="unauthorized_dialog_title">You are not logged in</string>
-    <string name="unauthorized_dialog_content">You must be logged in to use this feature.</string>
+    <string name="unauthorized_dialog_content">You have to log in to use this function.</string>
     <string name="unauthorized_dialog_register">Register</string>
 
     <!-- Lists error dialog -->
     <string name="lists_error_dialog_title">Connection error</string>
-    <string name="lists_error_dialog_content">Check your internet connection, please.</string>
+    <string name="lists_error_dialog_content">Please check the internet connection.</string>
     <string name="lists_error_dialog_retry">Retry</string>
 
     <!--LoginActivity-->
@@ -188,17 +188,17 @@
 
     <!-- Invalid login dialog -->
     <string name="invalid_login_dialog_title">Invalid login</string>
-    <string name="invalid_login_dialog_content">You entered invalid credentials.</string>
+    <string name="invalid_login_dialog_content">You entered invalid login information.</string>
     <string name="invalid_login_dialog_retry">Tray again</string>
     <string name="invalid_login_dialog_forgot_password">I forgot my password</string>
 
     <!-- Feedback dialog -->
     <string name="feedback_dialog_title">Feedback</string>
-    <string name="feedback_dialog_text">Thank you for helping us improving our application. We are looking forward to your feedback, you can find the link in the menu below.</string>
+    <string name="feedback_dialog_text">Thank you for helping us to improving our application. We will be happy to have your feedback, you can find the link in the menu below.</string>
     <string name="feedback_dialog_ok">OK</string>
 
     <!-- Welcome dialog -->
     <string name="welcome_dialog_title">Welcome</string>
-    <string name="welcome_dialog_text">Thank you for helping us improving our application. We are looking forward to your feedback, you can find the link in the menu below.</string>
+    <string name="welcome_dialog_text">Thank you for helping us to improving our application. We will be happy to have your feedback, you can find the link in the menu below.</string>
     <string name="welcome_dialog_ok">OK</string>
 </resources>
