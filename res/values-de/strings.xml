@@ -166,4 +166,17 @@
 	<string name="welcome_dialog_ok">OK</string>
 
 	<string name="title_webview">Amateri.com</string>
-</resources>
+<string name="profile_he">ER</string>
+    <string name="profile_she">SIE</string>
+    <string name="profile_male">Man</string>
+    <string name="profile_female">Frau</string>
+    <string name="profile_group">Gruppe</string>
+
+    <string name="old_dialog_title">Veraltete Version</string>
+    <string name="old_dialog_content">Leider nutzen Sie eine Version, die nicht mehr unterstützt wird. Wir haben eine bessere, saftiger Version. Wollen Sie es herunterladen?</string>
+    <string name="old_dialog_exit">Verlassen</string>
+
+    <string name="timeout_dialog_title">Deine Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.</string>
+    <string name="timeout_dialog_content">Bitte melden Sie sich erneut an</string>
+
+    </resources>
