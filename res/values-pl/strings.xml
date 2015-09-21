@@ -1,2 +1,180 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources><string name="app_name">Amateri</string>
+
+    <string name="general_error">Ups!</string>
+    <string name="general_error_no_connection">Wygląda na to, że nie masz połączenia z internetem. Prosimy spróbować poźniej.</string>
+    <string name="general_loading">Czekaj, wgrywam dane</string>
+
+    <string name="title_album">Albumy</string>
+    <string name="title_people">Ludzie</string>
+    <string name="title_my_profile">Mój profil</string>
+    <string name="title_logout">Wyloguj się</string>
+    <string name="title_version">Wersja %s</string>
+    <string name="title_feedback">Prześlij feedback</string>
+    <string name="title_new_version">Nowa wersja!</string>
+
+    <string name="tab_latest">Najnowsze</string>
+    <string name="tab_best">Najlepsze</string>
+
+    <string name="title_comments">Komentarze</string>
+    <string name="title_likes">podoba się</string>
+    <string name="title_like">Lajk</string>
+    <string name="title_next_comments">Więcej komentarzy (%s)</string>
+    <string name="title_next_albums">Więcej albumów (%s)</string>
+
+    <string name="menu_notification">Powiadomienia</string>
+    <string name="menu_badges">Badges</string>
+    <string name="menu_reset">Reset</string>
+
+    <string name="action_try_again">Spróbuj ponownie</string>
+
+    <string name="hint_username">Nazwa użytkownika</string>
+    <string name="hint_password">Hasło</string>
+
+    <string name="tab_albums">Albumy</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_user">Użytkownik</string>
+    <string name="tab_album">Album</string>
+
+    <string name="empty_people">Pusty</string>
+
+    <string name="filter_from">filtruj od</string>
+    <string name="filter_to">filtruj do</string>
+    <string name="filter_advanced">Filtr zaawansowany</string>
+    <string name="filter_sort_by">uporządkuj według</string>
+
+    <string name="title_personal_info">Dane osobowe</string>
+    <string name="title_sex">Płeć</string>
+    <string name="title_age">Wiek</string>
+    <string name="title_country">Kraj</string>
+    <string name="title_region">Region</string>
+    <string name="title_marital_status">Stan cywilny</string>
+    <string name="title_sexual_orientation">Orientacja seksualna</string>
+    <string name="title_height">Wzrost</string>
+    <string name="title_weight">Waga</string>
+    <string name="title_eye_color">Kolor oczu</string>
+    <string name="title_hair_color">Kolor włosów</string>
+    <string name="title_statistics">Statystyki</string>
+    <string name="title_registration_date">Data rejestracji</string>
+    <string name="title_chat_time">Czas spędzony na czacie</string>
+    <string name="title_attended_events">Imprezy, w których wziąłeś udział</string>
+    <string name="title_views">Wyświetlenia profilu</string>
+    <string name="title_hobbies">Preferencje i upodobania seksualne</string>
+    <string name="title_personal_descr">Własny opis</string>
+    <string name="title_profile_address">Adres profilu</string>
+    <string name="title_unknown">N/A</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">Adres został skopiowany do schowka!</string>
+    <string name="title_share">Udostępnij adres</string>
+    <string name="title_profile">Profil</string>
+    <string name="profile_he">ON</string>
+    <string name="profile_she">ONA</string>
+    <string name="profile_male">Mężczyzna</string>
+    <string name="profile_female">Kobieta</string>
+    <string name="profile_group">Grupa</string>
+
+    <string name="title_filter">Szukaj</string>
+
+    <string name="people_0">osobie</string>
+    <string name="people_1">ludziom</string>
+
+    <string name="hours_0">godzina</string>
+    <string name="hours_1">godziny</string>
+
+    <string name="user_content_all">Wszystkie rodzaje treści</string>
+    <string name="user_sex_all">Wszystkie płcie</string>
+    <string name="user_age_all">Wszystkie kategorie wiekowe</string>
+    <string name="user_country_all">Wszystkie kraje</string>
+    <string name="user_region_all">Wszystkie regiony</string>
+    <string name="user_sexual_orientation_all">Wszystkie orientacje seksualne</string>
+    <string name="user_marital_status_all">Wszystkie stany cywilne</string>
+    <string name="user_height_all">Wszystkie wartości wzrostu</string>
+    <string name="user_weight_all">Wszystkie wartości wagi</string>
+    <string name="filter_show">Pokaż</string>
+    <string name="profiles">profili</string>
+    <string name="no_users_found">Nie znaleziono żadnych użytkowników</string>
+
+    <string name="album_category_all">Wszystkie rodzaje treści</string>
+    <string name="album_verified_all">Zweryfikowani i niezweryfikowani</string>
+    <string name="album_theme_all">Wszystkie tematy</string>
+    <string name="album_contest_all">Wszystkie konkursy</string>
+    <string name="album_history_all">Obejrzane i nieobejrzane</string>
+    <string name="albums">albumy</string>
+    <string name="no_albums_found">Nie znaleziono żadnych albumów</string>
+
+    <string name="author">autor</string>
+    <string name="category">kategorie</string>
+    <string name="photo_count">liczba zdjęć</string>
+    <string name="vip">vip</string>
+    <string name="certificated">weryfikacja</string>
+    <string name="views">wyświetlenia</string>
+    <string name="rating">ocena</string>
+    <string name="comments">komentarze</string>
+    <string name="added">dodano</string>
+    <string name="album_number">numer albumu</string>
+    <string name="album_address">adres albumu</string>
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+
+    <string name="error_no_albums">Brak albumów do wyświetlenia.</string>
+
+    <string name="notifications_title">Powiadomienia</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Odwiedziny</string>
+    <string name="notifications_messages">Wiadomości</string>
+    <string name="notifications_dating_messages">Odpowiedzi na ogłoszenia</string>
+    <string name="notifications_requests">Propozycje dodania do znajomych</string>
+    <string name="notifications_favourites">Komu się podobam</string>
+    <string name="notifications_profile_setup">Ustawienia konta</string>
+    <string name="notifications_profile_edit">Edytuj profil</string>
+
+    <string name="update_dialog_title">Nowa wersja</string>
+    <string name="update_dialog_content">Mamy dla Ciebie nową, lepszą wersję aplikacji. Czy chcesz ją pobrać?</string>
+    <string name="update_dialog_later">Później</string>
+    <string name="update_dialog_download">Pobierz</string>
+
+    <string name="old_dialog_title">Przestarzała wersja</string>
+    <string name="old_dialog_content">Niestety korzystasz z wersji, która nie ma już wsparcia technicznego. Mamy dla Ciebie nową, lepszą wersję aplikacji. Czy chcesz ją pobrać?</string>
+    <string name="old_dialog_exit">Wyjdź</string>
+
+    <string name="invalid_token_dialog_title">Nieprawidłowe logowanie</string>
+    <string name="invalid_token_dialog_content">Chcemy mieć pewność, że to naprawdę Ty. Zaloguj się ponownie.</string>
+
+    <string name="timeout_dialog_title">Logowanie straciło ważność. Zaloguj się ponownie.</string>
+    <string name="timeout_dialog_content">Zaloguj się ponownie</string>
+
+    <string name="redirect_dialog_title">Zostaniesz przekierunkowany</string>
+    <string name="redirect_dialog_content">Ta część aplikacji jest dostępna wyłącznie w przeglądarce internetowej. Czy chcesz zostać przekierunkowany na stronę?</string>
+
+    <string name="unauthorized_dialog_title">Nie jesteś zalogowany</string>
+    <string name="unauthorized_dialog_content">Aby skorzystać z tej funkcji, musisz się zalogować.</string>
+    <string name="unauthorized_dialog_register">Zarejestruj się</string>
+
+    <string name="lists_error_dialog_title">Błąd połączenia</string>
+    <string name="lists_error_dialog_content">Sprawdź połączenie z internetem.</string>
+    <string name="lists_error_dialog_retry">Spróbuj ponownie</string>
+
+    <string name="button_login">Zaloguj się</string>
+    <string name="button_registration">Rejestracja</string>
+    <string name="button_entry">Dostęp bez logowania</string>
+
+    <string name="title_filter_results">Wyniki wyszukiwania</string>
+
+    <string name="button_verify">Zweryfikuj profil</string>
+
+    <string name="invalid_login_dialog_title">Błędne logowanie</string>
+    <string name="invalid_login_dialog_content">Wpisałeś nieprawidłowe dane logowania.</string>
+    <string name="invalid_login_dialog_retry">Spróbuj ponownie</string>
+    <string name="invalid_login_dialog_forgot_password">Zapomniałem hasła</string>
+
+    <string name="feedback_dialog_title">Feedback</string>
+    <string name="feedback_dialog_text">Dziękujemy, że pomagasz nam ulepszać naszą aplikację. Jesteśmy ciekawi Twojej opinii, możesz ją przesłać, klikając w link na dole.</string>
+    <string name="feedback_dialog_ok">OK</string>
+
+    <string name="welcome_dialog_title">Witaj</string>
+    <string name="welcome_dialog_text">Dziękujemy, że pomagasz nam ulepszać naszą aplikację. Jesteśmy ciekawi Twojej opinii, możesz ją przesłać, klikając w link na dole.</string>
+    <string name="welcome_dialog_ok">OK</string>
+
+    <string name="title_webview">Amateri.com</string>
+</resources>
