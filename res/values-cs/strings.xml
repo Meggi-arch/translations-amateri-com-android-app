@@ -21,8 +21,6 @@
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Komentáře</string>
-    <string name="title_likes">se líbí</string>
-    <string name="title_like">Líbí se</string>
     <string name="title_next_comments">Další komentáře (%s)</string>
     <string name="title_next_albums">Další fotoalba (%s)</string>
 
@@ -83,9 +81,9 @@
     <string name="title_filter">Hledání</string>
 
     <!-- people -->
-    <string name="people_0">člověku</string>
-    <string name="people_1">lidem</string>
-    <string name="people_2">lidem</string>
+    <string name="people_0">%s člověku se líbí</string>
+    <string name="people_1">%s lidem se líbí</string>
+    <string name="people_2">%s lidem se líbí</string>
 
     <!-- hours -->
     <string name="hours_0">hodina</string>
@@ -102,8 +100,6 @@
     <string name="user_marital_status_all">Všechny rodinné stavy</string>
     <string name="user_height_all">Všechny výšky</string>
     <string name="user_weight_all">Všechny váhy</string>
-    <string name="filter_show">Zobrazit</string>
-    <string name="profiles">profilů</string>
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
 
     <!--FilterAlbumFragment-->
@@ -112,7 +108,6 @@
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Všechny soutěže</string>
     <string name="album_history_all">Shlédnuté i neshlédnuté</string>
-    <string name="albums">alb</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
 
     <!--AlbumInfoActivity-->

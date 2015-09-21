@@ -19,9 +19,7 @@
 	<string name="tab_best">Najlepšie</string>
 
 	<string name="title_comments">Komentáre</string>
-	<string name="title_likes">sa páči</string>
-	<string name="title_like">Páči sa</string>
-	<string name="title_next_comments">%Dalšie kmentáre (%s)</string>
+	<string name="title_next_comments">Dalšie kmentáre (%s)</string>
 	<string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
 
 	<string name="menu_notification">Upozornenie</string>
@@ -75,9 +73,9 @@
 	<string name="title_filter">Hľadanie</string>
 
 
-	<string name="people_0">človeku</string>
-	<string name="people_1">ľuďom</string>
-	<string name="people_2">ľuďom</string>
+    <string name="people_0">%s člověku se líbí</string>
+    <string name="people_1">%s lidem se líbí</string>
+    <string name="people_2">%s lidem se líbí</string>
 
 	<string name="hours_0">hodina</string>
 	<string name="hours_1">hodiny</string>
@@ -93,8 +91,6 @@
 	<string name="user_marital_status_all">Všetky rodinné stavy</string>
 	<string name="user_height_all">Všetky výšky</string>
 	<string name="user_weight_all">Všetky váhy</string>
-	<string name="filter_show">Zobraziť</string>
-	<string name="profiles">profilov</string>
 	<string name="no_users_found">Nenájdení žiadni užívatelia</string>
 
 	<string name="album_category_all">Všetky typy obsahu</string>
@@ -102,7 +98,6 @@
 	<string name="album_theme_all">Všetky témy</string>
 	<string name="album_contest_all">Všetky súťaže</string>
 	<string name="album_history_all">Pozreté aj nepozreté</string>
-	<string name="albums">albumy</string>
 	<string name="no_albums_found">Nenájdené žiadne albumy</string>
 
 	<string name="author">autor</string>

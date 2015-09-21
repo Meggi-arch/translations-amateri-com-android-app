@@ -17,8 +17,6 @@
     <string name="tab_best">Najlepsze</string>
 
     <string name="title_comments">Komentarze</string>
-    <string name="title_likes">podoba się</string>
-    <string name="title_like">Lajk</string>
     <string name="title_next_comments">Więcej komentarzy (%s)</string>
     <string name="title_next_albums">Więcej albumów (%s)</string>
 
@@ -76,10 +74,10 @@
 
     <string name="title_filter">Szukaj</string>
 
-    <string name="people_0">osobie</string>
-    <string name="people_1">ludziom</string>
-    <string name="people_2">ludziom</string>
-    <string name="people_3">ludziom</string>
+    <string name="people_0">%s člověku se líbí</string>
+    <string name="people_1">%s lidem se líbí</string>
+    <string name="people_2">%s lidem se líbí</string>
+    <string name="people_3">%s lidem se líbí</string>
 
     <string name="hours_0">godzina</string>
     <string name="hours_1">godziny</string>
@@ -95,8 +93,6 @@
     <string name="user_marital_status_all">Wszystkie stany cywilne</string>
     <string name="user_height_all">Wszystkie wartości wzrostu</string>
     <string name="user_weight_all">Wszystkie wartości wagi</string>
-    <string name="filter_show">Pokaż</string>
-    <string name="profiles">profili</string>
     <string name="no_users_found">Nie znaleziono żadnych użytkowników</string>
 
     <string name="album_category_all">Wszystkie rodzaje treści</string>
@@ -104,7 +100,6 @@
     <string name="album_theme_all">Wszystkie tematy</string>
     <string name="album_contest_all">Wszystkie konkursy</string>
     <string name="album_history_all">Obejrzane i nieobejrzane</string>
-    <string name="albums">albumy</string>
     <string name="no_albums_found">Nie znaleziono żadnych albumów</string>
 
     <string name="author">autor</string>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-<string name="albums">Alben</string>
 	<string name="app_name">Amateure</string>
 
 	<string name="general_error">Ooops!</string>
@@ -19,8 +18,6 @@
 	<string name="tab_best">Beste</string>
 
 	<string name="title_comments">Kommentare</string>
-	<string name="title_likes">gefällt</string>
-	<string name="title_like">Gefällt</string>
 	<string name="title_next_comments">Weitere Kommentare (%s)</string>
 	<string name="title_next_albums">Weitere Fotoalben (%s)</string>
 
@@ -73,8 +70,8 @@
 
 	<string name="title_filter">Suche</string>
 
-	<string name="people_0">Menschen</string>
-	<string name="people_1">Leuten</string>
+    <string name="people_0">%s člověku se líbí</string>
+    <string name="people_1">%s lidem se líbí</string>
 
 	<string name="hours_0">Stunde</string>
 	<string name="hours_1">Stunden</string>
@@ -88,8 +85,6 @@
 	<string name="user_marital_status_all">Alle Famielienstände</string>
 	<string name="user_height_all">Alle Höhen</string>
 	<string name="user_weight_all">Alle Waagen</string>
-	<string name="filter_show">Anzeigen</string>
-	<string name="profiles">Profilen</string>
 	<string name="no_users_found">Keine Benutzer gefunden</string>
 
 	<string name="album_category_all">Alle Inhaltstypen</string>

@@ -22,8 +22,6 @@
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Comments</string>
-    <string name="title_likes">likes</string>
-    <string name="title_like">Like</string>
     <string name="title_next_comments">Other comments (%s)</string>
     <string name="title_next_albums">Other albums (%s)</string>
 
@@ -84,8 +82,8 @@
     <string name="title_filter">Search</string>
 
     <!-- people -->
-    <string name="people_0">person</string>
-    <string name="people_1">people</string>
+    <string name="people_0">%s man like this</string>
+    <string name="people_1">%s people like this</string>
 
     <!-- hours -->
     <string name="hours_0">hour</string>
@@ -101,8 +99,7 @@
     <string name="user_marital_status_all">All marital statuses</string>
     <string name="user_height_all">All heights</string>
     <string name="user_weight_all">All weights</string>
-    <string name="filter_show">Show</string>
-    <string name="profiles">profiles</string>
+    <string name="user_filter_show">Show %s profiles</string>
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
@@ -111,7 +108,7 @@
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
     <string name="album_history_all">Viewed and unviewed</string>
-    <string name="albums">albums</string>
+    <string name="album_filter_show">Show %s albums</string>
     <string name="no_albums_found">No albums found</string>
 
     <!--AlbumInfoActivity-->
