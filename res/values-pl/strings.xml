@@ -78,9 +78,13 @@
 
     <string name="people_0">osobie</string>
     <string name="people_1">ludziom</string>
+    <string name="people_2">ludziom</string>
+    <string name="people_3">ludziom</string>
 
     <string name="hours_0">godzina</string>
     <string name="hours_1">godziny</string>
+    <string name="hours_2">godziny</string>
+    <string name="hours_3">godziny</string>
 
     <string name="user_content_all">Wszystkie rodzaje treści</string>
     <string name="user_sex_all">Wszystkie płcie</string>
@@ -175,6 +179,4 @@
     <string name="welcome_dialog_title">Witaj</string>
     <string name="welcome_dialog_text">Dziękujemy, że pomagasz nam ulepszać naszą aplikację. Jesteśmy ciekawi Twojej opinii, możesz ją przesłać, klikając w link na dole.</string>
     <string name="welcome_dialog_ok">OK</string>
-
-    <string name="title_webview">Amateri.com</string>
 </resources>

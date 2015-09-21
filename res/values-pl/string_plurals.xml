@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<plurals name="people">
+		<item quantity="one">@string/people_0</item>
+		<item quantity="few">@string/people_1</item>
+		<item quantity="many">@string/people_2</item>
+		<item quantity="other">@string/people_3</item>
+	</plurals>
+	<plurals name="hours">
+		<item quantity="one">@string/hours_0</item>
+		<item quantity="few">@string/hours_1</item>
+		<item quantity="many">@string/hours_2</item>
+		<item quantity="other">@string/hours_3</item>
+	</plurals>
+</resources>

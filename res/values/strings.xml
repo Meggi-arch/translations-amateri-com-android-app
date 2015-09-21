@@ -201,7 +201,4 @@
     <string name="welcome_dialog_title">Welcome</string>
     <string name="welcome_dialog_text">Thank you for helping us improving our application. We are looking forward to your feedback, you can find the link in the menu below.</string>
     <string name="welcome_dialog_ok">OK</string>
-
-    <!-- WebActivity -->
-    <string name="title_webview">Amateri.com</string>
 </resources>

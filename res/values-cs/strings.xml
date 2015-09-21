@@ -202,7 +202,4 @@
     <string name="welcome_dialog_title">Welcome</string>
     <string name="welcome_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
     <string name="welcome_dialog_ok">OK</string>
-
-    <!-- WebActivity -->
-    <string name="title_webview">Amateri.com</string>
 </resources>
