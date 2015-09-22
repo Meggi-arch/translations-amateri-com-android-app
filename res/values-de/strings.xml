@@ -173,4 +173,6 @@
     <string name="timeout_dialog_title">Deine Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.</string>
     <string name="timeout_dialog_content">Bitte melden Sie sich erneut an</string>
 
+    <string name="user_filter_show">%s Profile anzeigen</string>
+    <string name="album_filter_show">%s Alben anzeigen</string>
     </resources>
