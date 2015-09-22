@@ -126,13 +126,13 @@
 	<string name="update_dialog_download">Herunterladen</string>
 
 	<string name="invalid_token_dialog_title">Ungültige Anmeldung</string>
-	<string name="invalid_token_dialog_content">Um sicherzustellen, dass Sie es wirklich sind, melden Sie sich erneut an.</string>
+	<string name="invalid_token_dialog_content">Um sicherzustellen, dass Sie es wirklich sind, melden Sie sich bitte erneut an.</string>
 
 	<string name="redirect_dialog_title">Sie werden weitergeleitet</string>
 	<string name="redirect_dialog_content">Dieser Teil der Anwendung ist nur über eine Weboberfläche erreichbar. Wollen Sie zur Webseite umgeleitet werden?</string>
 
 	<string name="unauthorized_dialog_title">Sie sind nicht angemeldet</string>
-	<string name="unauthorized_dialog_content">Diese Funktion kann nur von angemeldeten Nutzern verwendet werden.</string>
+	<string name="unauthorized_dialog_content">Um diese Funktion zu nutzen müssen Sie sich anmelden.</string>
 	<string name="unauthorized_dialog_register">Sich Registrieren</string>
 
 	<string name="lists_error_dialog_title">Ferbindungsfehler</string>
@@ -148,7 +148,7 @@
 	<string name="button_verify">Profil zertifizieren</string>
 
 	<string name="invalid_login_dialog_title">Ungültige Anmeldung</string>
-	<string name="invalid_login_dialog_content">Es scheint, dass Sie ungültige Anmeldeinformationen eingegeben haben.</string>
+	<string name="invalid_login_dialog_content">Sie haben ungültige Anmeldeinformationen eingegeben.</string>
 	<string name="invalid_login_dialog_retry">Wieder versuchen</string>
 	<string name="invalid_login_dialog_forgot_password">Ich hab das Passwort vergessen</string>
 
@@ -162,7 +162,7 @@
 
 <string name="profile_he">ER</string>
     <string name="profile_she">SIE</string>
-    <string name="profile_male">Man</string>
+    <string name="profile_male">Mann</string>
     <string name="profile_female">Frau</string>
     <string name="profile_group">Gruppe</string>
 
