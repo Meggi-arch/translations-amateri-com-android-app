@@ -179,4 +179,6 @@
     <string name="timeout_dialog_title">Platnosť prihlásenia vypršala.</string>
     <string name="timeout_dialog_content">Prihláste sa opäť</string>
 
+    <string name="user_filter_show">Zobraziť %s profilov</string>
+    <string name="album_filter_show">Zobraziť %s albumov</string>
     </resources>
