@@ -44,7 +44,7 @@
     <string name="filter_from">filtrovat od</string>
     <string name="filter_to">filtrovat do</string>
     <string name="filter_advanced">Pokročilý filtr</string>
-    <string name="filter_sort_by">seřadit podle</string>
+    <string name="filter_sort_by">Seřadit podle</string>
 
     <!--ProfileInfoFragment-->
     <string name="title_personal_info">Osobní údaje</string>
@@ -56,15 +56,15 @@
     <string name="title_sexual_orientation">Sexuální orientace</string>
     <string name="title_height">Výška</string>
     <string name="title_weight">Váha</string>
-    <string name="title_eye_color">Oči</string>
-    <string name="title_hair_color">Vlasy</string>
+    <string name="title_eye_color">Barva očí</string>
+    <string name="title_hair_color">Barva vlasů</string>
     <string name="title_statistics">Statistiky</string>
     <string name="title_registration_date">Datum registrace</string>
     <string name="title_chat_time">Čas na chatu</string>
     <string name="title_attended_events">Navštívené akce</string>
-    <string name="title_views">Shlednutí profilu</string>
+    <string name="title_views">Zobrazení</string>
     <string name="title_hobbies">Sexuální hobbies a zájmy</string>
-    <string name="title_personal_descr">Vlastní popis</string>
+    <string name="title_personal_descr">Osobní popis</string>
     <string name="title_profile_address">Adresa profilu</string>
     <string name="title_unknown">N/A</string>
     <string name="title_centimeters">cm</string>
@@ -72,13 +72,13 @@
     <string name="toast_copied_text">Adresa byla zkopírována do schránky!</string>
     <string name="title_share">Sdílet adresu</string>
     <string name="title_profile">Profil</string>
-    <string name="profile_he">ON</string>
-    <string name="profile_she">ONA</string>
+    <string name="profile_he">On</string>
+    <string name="profile_she">Ona</string>
     <string name="profile_male">Muž</string>
     <string name="profile_female">Žena</string>
     <string name="profile_group">Skupina</string>
 
-    <string name="title_filter">Hledání</string>
+    <string name="title_filter">Hledat</string>
 
     <!-- people -->
     <string name="people_0">%s člověku se líbí</string>
@@ -197,4 +197,6 @@
     <string name="welcome_dialog_title">Welcome</string>
     <string name="welcome_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
     <string name="welcome_dialog_ok">OK</string>
-</resources>
+<string name="user_filter_show">Zobrazit %s profilů</string>
+    <string name="album_filter_show">Zobrazit %s alb</string>
+    </resources>
