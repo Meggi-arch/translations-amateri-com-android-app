@@ -115,12 +115,12 @@
     <string name="category">kategorie</string>
     <string name="photo_count">počet fotek</string>
     <string name="vip">vip</string>
-    <string name="certificated">certifikace</string>
+    <string name="certificated">ověřeno</string>
     <string name="views">zobrazení</string>
     <string name="rating">hodnocení</string>
     <string name="comments">komentáře</string>
     <string name="added">přidáno</string>
-    <string name="album_number">číslo fotoalba</string>
+    <string name="album_number">ID alba</string>
     <string name="album_address">adresa fotoalba</string>
     <string name="yes">ano</string>
     <string name="no">ne</string>
@@ -131,7 +131,7 @@
     <!--Notification menu-->
     <string name="notifications_title">Notifikace</string>
     <string name="notifications_99_plus">99+</string>
-    <string name="notifications_visits">Návštěvy</string>
+    <string name="notifications_visits">Zobrazení profilu</string>
     <string name="notifications_messages">Vzkazy</string>
     <string name="notifications_dating_messages">Odpovědi na inzeráty</string>
     <string name="notifications_requests">Žádosti o přátelství</string>
@@ -152,11 +152,11 @@
 
     <!-- Invalid token dialog -->
     <string name="invalid_token_dialog_title">Neplatné přihlášení</string>
-    <string name="invalid_token_dialog_content">Abychom měli jistotu, že jste to opravdu Vy, přihlašte se znovu prosím.</string>
+    <string name="invalid_token_dialog_content">Abychom měli jistotu, že jste to opravdu vy, přihlašte se znovu prosím.</string>
 
     <!--Timeout dialog-->
-    <string name="timeout_dialog_title">Platnost přihlášení vypršela.</string>
-    <string name="timeout_dialog_content">Přihlašte se znovu prosím</string>
+    <string name="timeout_dialog_title">Platnost přihlášení vypršela. Prosím přihlaste se znovu.</string>
+    <string name="timeout_dialog_content">Přihlaste se znovu prosím</string>
 
     <!-- Redirect dialog -->
     <string name="redirect_dialog_title">Budete přesměrováni</string>
@@ -189,12 +189,12 @@
     <string name="invalid_login_dialog_forgot_password">Zapomněl jsem heslo</string>
 
     <!-- Feedback dialog -->
-    <string name="feedback_dialog_title">Feedback</string>
-    <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
+    <string name="feedback_dialog_title">Zpětná vazba</string>
+    <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na něj najdete dole v menu.</string>
     <string name="feedback_dialog_ok">OK</string>
 
     <!-- Welcome dialog -->
-    <string name="welcome_dialog_title">Welcome</string>
+    <string name="welcome_dialog_title">Vítejte</string>
     <string name="welcome_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
     <string name="welcome_dialog_ok">OK</string>
 <string name="user_filter_show">Zobrazit %s profilů</string>
