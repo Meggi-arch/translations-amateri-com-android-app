@@ -132,13 +132,13 @@
 	<string name="update_dialog_download">Stiahnuť</string>
 
 	<string name="invalid_token_dialog_title">Neplatné prihlásenie</string>
-	<string name="invalid_token_dialog_content">Aby sme mali istotu, že ste to naozaj vy, musíte sa znovu prihlásiť.</string>
+	<string name="invalid_token_dialog_content">Aby sme mali istotu, že ste to naozaj vy, prihláste sa znovu prosím.</string>
 
 	<string name="redirect_dialog_title">Budete presmerovaní</string>
 	<string name="redirect_dialog_content">Táto časť aplikácie je prístupná iba cez webové rozhranie. Chcete byť presmerovaní na webové stránky?</string>
 
 	<string name="unauthorized_dialog_title">Nie ste prihlásení</string>
-	<string name="unauthorized_dialog_content">Túto funkciu môžu používať iba prihlásení užívatelia.</string>
+	<string name="unauthorized_dialog_content">Na použitie tejto funkcie sa musíte prihlásiť.</string>
 	<string name="unauthorized_dialog_register">Registrovať sa</string>
 
 	<string name="lists_error_dialog_title">Chyba pripojenia</string>
@@ -154,7 +154,7 @@
 	<string name="button_verify">Certifikovať profil</string>
 
 	<string name="invalid_login_dialog_title">Neplatné prihlásenie</string>
-	<string name="invalid_login_dialog_content">Vyzerá to tak, že ste zadali neplatné prihlasovacie údaje.</string>
+	<string name="invalid_login_dialog_content">Zadali ste neplatné prihlasovacie údaje.</string>
 	<string name="invalid_login_dialog_retry">Skúsiť znovu</string>
 	<string name="invalid_login_dialog_forgot_password">Zabudol som heslo</string>
 
