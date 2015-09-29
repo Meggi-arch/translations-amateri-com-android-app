@@ -4,7 +4,7 @@
 
     <string name="general_error">Ouvej!</string>
     <string name="general_error_no_connection">Zdá se, že nemáte připojení k internetu. Zkuste to prosím později.</string>
-    <string name="general_loading">Strpení, načítám data</string>
+    <string name="general_loading">Prosím strpení, načítáme data</string>
 
     <!--MainActivity-->
     <string name="title_album">Fotoalba</string>
@@ -102,7 +102,7 @@
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_category_all">Všechny typy obsahu</string>
+    <string name="album_category_all">Všechny kategorie</string>
     <string name="album_verified_all">Ověřené i neověřené</string>
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Všechny soutěže</string>
@@ -131,7 +131,7 @@
     <!--Notification menu-->
     <string name="notifications_title">Upozornění</string>
     <string name="notifications_99_plus">99+</string>
-    <string name="notifications_visits">Zobrazení profilu</string>
+    <string name="notifications_visits">Návštěvy</string>
     <string name="notifications_messages">Vzkazy</string>
     <string name="notifications_dating_messages">Odpovědi na inzeráty</string>
     <string name="notifications_requests">Žádosti o přátelství</string>
@@ -156,7 +156,7 @@
 
     <!--Timeout dialog-->
     <string name="timeout_dialog_title">Platnost přihlášení vypršela</string>
-    <string name="timeout_dialog_content">Přihlaste se prosím znovu</string>
+    <string name="timeout_dialog_content">Přihlaste se prosím znovu.</string>
 
     <!-- Redirect dialog -->
     <string name="redirect_dialog_title">Budete přesměrováni</string>
