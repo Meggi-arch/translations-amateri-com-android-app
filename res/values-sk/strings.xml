@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
 
-	<string name="app_name">Amatéri</string>
+	<string name="app_name">Amateri</string>
 	<string name="preferences">amateri</string>
 
 	<string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>

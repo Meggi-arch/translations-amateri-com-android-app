@@ -1,38 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-
     <string name="app_name">Amateri</string>
 
-    <string name="general_error">Ooops!</string>
-    <string name="general_error_no_connection">It seems that you have no internet connection. Please try again later.</string>
-    <string name="general_loading">Please wait, loading data</string>
+    <string name="general_error">Ouch!</string>
+    <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
+    <string name="general_loading">Please wait while we load the data</string>
 
     <!--MainActivity-->
     <string name="title_album">Albums</string>
     <string name="title_people">People</string>
     <string name="title_my_profile">My profile</string>
-    <string name="title_logout">Logout</string>
+    <string name="title_logout">Log out</string>
     <string name="title_version">Version %s</string>
     <string name="title_feedback">Send feedback</string>
     <string name="title_new_version">New version!</string>
 
     <!--AlbumFragment-->
-    <string name="tab_latest">Newest</string>
+    <string name="tab_latest">Latest</string>
     <string name="tab_best">Best</string>
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Comments</string>
-    <string name="title_next_comments">Other comments (%s)</string>
-    <string name="title_next_albums">Other albums (%s)</string>
+    <string name="title_next_comments">More comments (%s)</string>
+    <string name="title_next_albums">More albums (%s)</string>
 
     <!-- Menu -->
-    <string name="menu_notification">Notification</string>
+    <string name="menu_notification">Notifications</string>
     <string name="menu_badges">Badges</string>
     <string name="menu_reset">Reset</string>
 
     <string name="action_try_again">Try again</string>
 
-    <string name="hint_username">Username</string>
+    <string name="hint_username">Nickname</string>
     <string name="hint_password">Password</string>
 
     <string name="tab_albums">Albums</string>
@@ -40,15 +39,13 @@
     <string name="tab_user">User</string>
     <string name="tab_album">Album</string>
 
-    <string name="empty_people">Empty</string>
+    <string name="empty_people">No items</string>
 
-    <string name="filter_from">filter from</string>
-    <string name="filter_to">filter to</string>
     <string name="filter_advanced">Advanced filter</string>
-    <string name="filter_sort_by">Sort by</string>
+    <string name="filter_sort_by">List sorted by</string>
 
     <!--ProfileInfoFragment-->
-    <string name="title_personal_info">Personal information</string>
+    <string name="title_personal_info">Personal details</string>
     <string name="title_sex">Sex</string>
     <string name="title_age">Age</string>
     <string name="title_country">Country</string>
@@ -61,17 +58,17 @@
     <string name="title_hair_color">Hair colour</string>
     <string name="title_statistics">Statistics</string>
     <string name="title_registration_date">Registration date</string>
-    <string name="title_chat_time">Time spent on chat</string>
-    <string name="title_attended_events">Attended events</string>
+    <string name="title_chat_time">Time on chat</string>
+    <string name="title_attended_events">Events attended</string>
     <string name="title_views">Views</string>
-    <string name="title_hobbies">Sexual hobbies and interests</string>
+    <string name="title_hobbies">Sexual preferences and interests</string>
     <string name="title_personal_descr">Personal description</string>
-    <string name="title_profile_address">Profile url</string>
+    <string name="title_profile_address">Profile URL</string>
     <string name="title_unknown">N/A</string>
     <string name="title_centimeters">cm</string>
     <string name="title_kilograms">kg</string>
-    <string name="toast_copied_text">The address was copied into your inbox!</string>
-    <string name="title_share">Share address</string>
+    <string name="toast_copied_text">The url has been copied to your clipboard!</string>
+    <string name="title_share">Share</string>
     <string name="title_profile">Profile</string>
     <string name="profile_he">He</string>
     <string name="profile_she">She</string>
@@ -82,100 +79,100 @@
     <string name="title_filter">Search</string>
 
     <!-- people -->
-    <string name="people_0">%s man like this</string>
-    <string name="people_1">%s people like this</string>
+    <string name="people_0">%s like the person</string>
+    <string name="people_1">%s people like</string>
 
     <!-- hours -->
     <string name="hours_0">hour</string>
     <string name="hours_1">hours</string>
-
+    
     <!--FilterUserFragment-->
-    <string name="user_content_all">All types of content</string>
+    <string name="user_content_all">All content type</string>
     <string name="user_sex_all">All sex</string>
-    <string name="user_age_all">All age groups</string>
+    <string name="user_age_all">All age categories</string>
     <string name="user_country_all">All countries</string>
     <string name="user_region_all">All regions</string>
     <string name="user_sexual_orientation_all">All sexual orientations</string>
-    <string name="user_marital_status_all">All marital statuses</string>
+    <string name="user_marital_status_all">All family statuses</string>
     <string name="user_height_all">All heights</string>
     <string name="user_weight_all">All weights</string>
-    <string name="user_filter_show">Show %s profiles</string>
+    <string name="user_filter_show">Display %s profiles</string>
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_category_all">All types of content</string>
+    <string name="album_category_all">All categories</string>
     <string name="album_verified_all">Verified and unverified</string>
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
-    <string name="album_history_all">Viewed and unviewed</string>
-    <string name="album_filter_show">Show %s albums</string>
+    <string name="album_history_all">Viewed and not viewed</string>
+    <string name="album_filter_show">Display %s albums</string>
     <string name="no_albums_found">No albums found</string>
 
     <!--AlbumInfoActivity-->
-    <string name="author">author</string>
-    <string name="category">category</string>
-    <string name="photo_count">number of pictures</string>
-    <string name="vip">vip</string>
-    <string name="certificated">verified</string>
-    <string name="views">views</string>
-    <string name="rating">rating</string>
-    <string name="comments">comments</string>
-    <string name="added">added</string>
-    <string name="album_number">album ID</string>
-    <string name="album_address">album address</string>
-    <string name="yes">yes</string>
-    <string name="no">no</string>
+    <string name="author">Author</string>
+    <string name="category">Category</string>
+    <string name="photo_count">Number of photos</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Verified</string>
+    <string name="views">Views</string>
+    <string name="rating">Rating</string>
+    <string name="comments">Comments</string>
+    <string name="added">Added</string>
+    <string name="album_number">Album ID</string>
+    <string name="album_address">Album URL</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 
     <!--AlbumUserFragment-->
     <string name="error_no_albums">No albums to view.</string>
 
     <!--Notification menu-->
-    <string name="notifications_title">Notifications</string>
+    <string name="notifications_title">Notification</string>
     <string name="notifications_99_plus">99+</string>
-    <string name="notifications_visits">Profile views</string>
+    <string name="notifications_visits">Visits</string>
     <string name="notifications_messages">Messages</string>
-    <string name="notifications_dating_messages">Dating ad responses</string>
+    <string name="notifications_dating_messages">Answers to your ads</string>
     <string name="notifications_requests">Friend requests</string>
-    <string name="notifications_favourites">Like me</string>
+    <string name="notifications_favourites">Added me to favourites</string>
     <string name="notifications_profile_setup">Account settings</string>
     <string name="notifications_profile_edit">Edit profile</string>
 
     <!-- Update dialog -->
     <string name="update_dialog_title">New version</string>
-    <string name="update_dialog_content">We have a better, more juicy version of the application for you. Do you want yo download it?</string>
+    <string name="update_dialog_content">New enhanced and juicier version of the application is available. Do you want to download it?</string>
     <string name="update_dialog_later">Later</string>
     <string name="update_dialog_download">Download</string>
 
     <!-- Old version dialog -->
-    <string name="old_dialog_title">Obsolete version</string>
-    <string name="old_dialog_content">Unfortunatelly you use an unsupported application version. We have prepared for you a new, more juicy and improved application version. Do you want to download it?</string>
+    <string name="old_dialog_title">Old version</string>
+    <string name="old_dialog_content">Unfortunately you’re using a version which is no longer supported. New enhanced version version of the application is available. Do you want to download it?</string>
     <string name="old_dialog_exit">Leave</string>
 
     <!-- Invalid token dialog -->
     <string name="invalid_token_dialog_title">Invalid login</string>
-    <string name="invalid_token_dialog_content">To be sure that it is really you, please log in again.</string>
+    <string name="invalid_token_dialog_content">To make sure that it is really you, please log in again.</string>
 
     <!--Timeout dialog-->
-    <string name="timeout_dialog_title">Your session has expired. Please log-in again.</string>
-    <string name="timeout_dialog_content">Log in again, please</string>
+    <string name="timeout_dialog_title">Session expired</string>
+    <string name="timeout_dialog_content">Please log in again.</string>
 
     <!-- Redirect dialog -->
     <string name="redirect_dialog_title">You will be redirected</string>
-    <string name="redirect_dialog_content">This part of the application is accessible through the web interface only. Do you want to be redirected to the website?</string>
+    <string name="redirect_dialog_content">This part of the application is only accessible via the web interface. Want to be redirected to the website?</string>
 
     <!-- Unauthorized dialog -->
-    <string name="unauthorized_dialog_title">You are not logged in</string>
-    <string name="unauthorized_dialog_content">You have to log in to use this function.</string>
-    <string name="unauthorized_dialog_register">Register</string>
+    <string name="unauthorized_dialog_title">You aren’t logged in</string>
+    <string name="unauthorized_dialog_content">You need to log in to use this function.</string>
+    <string name="unauthorized_dialog_register">Sign up</string>
 
     <!-- Lists error dialog -->
     <string name="lists_error_dialog_title">Connection error</string>
-    <string name="lists_error_dialog_content">Please check the internet connection.</string>
-    <string name="lists_error_dialog_retry">Retry</string>
+    <string name="lists_error_dialog_content">Please check your internet connection.</string>
+    <string name="lists_error_dialog_retry">Repeat</string>
 
     <!--LoginActivity-->
-    <string name="button_login">Login</string>
-    <string name="button_registration">Registration</string>
+    <string name="button_login">Log in</string>
+    <string name="button_registration">Sign up</string>
     <string name="button_entry">Enter without login</string>
 
     <!-- FilterAlbumActivity | FilterUserActivity -->
@@ -185,17 +182,17 @@
 
     <!-- Invalid login dialog -->
     <string name="invalid_login_dialog_title">Invalid login</string>
-    <string name="invalid_login_dialog_content">You entered invalid login information.</string>
-    <string name="invalid_login_dialog_retry">Tray again</string>
-    <string name="invalid_login_dialog_forgot_password">I forgot my password</string>
+    <string name="invalid_login_dialog_content">Incorrect login details entered.</string>
+    <string name="invalid_login_dialog_retry">Try again</string>
+    <string name="invalid_login_dialog_forgot_password">I’ve forgotten my password</string>
 
     <!-- Feedback dialog -->
     <string name="feedback_dialog_title">Feedback</string>
-    <string name="feedback_dialog_text">Thank you for helping us to improving our application. We will be happy to have your feedback, you can find the link in the menu below.</string>
+    <string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
     <string name="feedback_dialog_ok">OK</string>
 
     <!-- Welcome dialog -->
     <string name="welcome_dialog_title">Welcome</string>
-    <string name="welcome_dialog_text">Thank you for helping us to improving our application. We will be happy to have your feedback, you can find the link in the menu below.</string>
+    <string name="welcome_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
     <string name="welcome_dialog_ok">OK</string>
 </resources>

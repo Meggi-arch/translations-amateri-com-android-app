@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Amatéři</string>
+    <string name="app_name">Amateri</string>
 
     <string name="general_error">Ouvej!</string>
-    <string name="general_error_no_connection">Vypadá to, že nemáte připojení k internetu. Prosím, zkuste to později.</string>
+    <string name="general_error_no_connection">Zdá se, že nemáte připojení k internetu. Zkuste to prosím později.</string>
     <string name="general_loading">Strpení, načítám data</string>
 
     <!--MainActivity-->
@@ -31,7 +31,7 @@
 
     <string name="action_try_again">Zkusit znovu</string>
 
-    <string name="hint_username">Uživatelské jméno</string>
+    <string name="hint_username">Nick</string>
     <string name="hint_password">Heslo</string>
 
     <string name="tab_albums">Fotoalba</string>
@@ -41,8 +41,6 @@
 
     <string name="empty_people">Žádné položky</string>
 
-    <string name="filter_from">filtrovat od</string>
-    <string name="filter_to">filtrovat do</string>
     <string name="filter_advanced">Pokročilý filtr</string>
     <string name="filter_sort_by">Seřadit podle</string>
 
@@ -63,14 +61,14 @@
     <string name="title_chat_time">Čas na chatu</string>
     <string name="title_attended_events">Navštívené akce</string>
     <string name="title_views">Zobrazení</string>
-    <string name="title_hobbies">Sexuální hobbies a zájmy</string>
+    <string name="title_hobbies">Sexuální záliby</string>
     <string name="title_personal_descr">Osobní popis</string>
-    <string name="title_profile_address">Adresa profilu</string>
+    <string name="title_profile_address">URL profilu</string>
     <string name="title_unknown">N/A</string>
     <string name="title_centimeters">cm</string>
     <string name="title_kilograms">kg</string>
-    <string name="toast_copied_text">Adresa byla zkopírována do schránky!</string>
-    <string name="title_share">Sdílet adresu</string>
+    <string name="toast_copied_text">URL adresa byla zkopírována do schránky!</string>
+    <string name="title_share">Sdílet</string>
     <string name="title_profile">Profil</string>
     <string name="profile_he">On</string>
     <string name="profile_she">Ona</string>
@@ -100,6 +98,7 @@
     <string name="user_marital_status_all">Všechny rodinné stavy</string>
     <string name="user_height_all">Všechny výšky</string>
     <string name="user_weight_all">Všechny váhy</string>
+    <string name="user_filter_show">Zobrazit %s profilů</string>
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
 
     <!--FilterAlbumFragment-->
@@ -108,28 +107,29 @@
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Všechny soutěže</string>
     <string name="album_history_all">Shlédnuté i neshlédnuté</string>
+    <string name="album_filter_show">Zobrazit %s alb</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
 
     <!--AlbumInfoActivity-->
-    <string name="author">autor</string>
-    <string name="category">kategorie</string>
-    <string name="photo_count">počet fotek</string>
-    <string name="vip">vip</string>
-    <string name="certificated">ověřeno</string>
-    <string name="views">zobrazení</string>
-    <string name="rating">hodnocení</string>
-    <string name="comments">komentáře</string>
-    <string name="added">přidáno</string>
-    <string name="album_number">ID alba</string>
-    <string name="album_address">adresa fotoalba</string>
-    <string name="yes">ano</string>
-    <string name="no">ne</string>
+    <string name="author">Autor</string>
+    <string name="category">Kategorie</string>
+    <string name="photo_count">Počet fotek</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Certifikace</string>
+    <string name="views">Zobrazení</string>
+    <string name="rating">Hodnocení</string>
+    <string name="comments">Komentáře</string>
+    <string name="added">Přidáno</string>
+    <string name="album_number">Číslo fotoalba</string>
+    <string name="album_address">URL fotoalba</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
 
     <!--AlbumUserFragment-->
     <string name="error_no_albums">Žádná fotoalba k prohlédnutí.</string>
 
     <!--Notification menu-->
-    <string name="notifications_title">Notifikace</string>
+    <string name="notifications_title">Upozornění</string>
     <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Zobrazení profilu</string>
     <string name="notifications_messages">Vzkazy</string>
@@ -141,22 +141,22 @@
 
     <!-- Update dialog -->
     <string name="update_dialog_title">Nová verze</string>
-    <string name="update_dialog_content">Máme pro vás lepší, šťavňatější verzi aplikace. Chcete si ji stáhnout?</string>
+    <string name="update_dialog_content">Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
     <string name="update_dialog_later">Později</string>
     <string name="update_dialog_download">Stáhnout</string>
 
     <!-- Old version dialog -->
     <string name="old_dialog_title">Zastaralá verze</string>
-    <string name="old_dialog_content">Bohužel používáte verzi, která již není podporována. Máme pro vás lepší, šťavňatější verzi aplikace. Chcete si ji stáhnout?</string>
+    <string name="old_dialog_content">Bohužel používáte verzi, která již není podporována. Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
     <string name="old_dialog_exit">Odejít</string>
 
     <!-- Invalid token dialog -->
     <string name="invalid_token_dialog_title">Neplatné přihlášení</string>
-    <string name="invalid_token_dialog_content">Abychom měli jistotu, že jste to opravdu vy, přihlašte se znovu prosím.</string>
+    <string name="invalid_token_dialog_content">Abychom měli jistotu, že jste to opravdu Vy, přihlašte se prosím znovu.</string>
 
     <!--Timeout dialog-->
-    <string name="timeout_dialog_title">Platnost přihlášení vypršela. Prosím přihlaste se znovu.</string>
-    <string name="timeout_dialog_content">Přihlaste se znovu prosím</string>
+    <string name="timeout_dialog_title">Platnost přihlášení vypršela</string>
+    <string name="timeout_dialog_content">Přihlaste se prosím znovu</string>
 
     <!-- Redirect dialog -->
     <string name="redirect_dialog_title">Budete přesměrováni</string>
@@ -190,13 +190,11 @@
 
     <!-- Feedback dialog -->
     <string name="feedback_dialog_title">Zpětná vazba</string>
-    <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na něj najdete dole v menu.</string>
+    <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na ni najdete dole v levém menu.</string>
     <string name="feedback_dialog_ok">OK</string>
 
     <!-- Welcome dialog -->
     <string name="welcome_dialog_title">Vítejte</string>
-    <string name="welcome_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za feedback, odkaz na něj najdete dole v menu.</string>
+    <string name="welcome_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na ni najdete dole v levém menu.</string>
     <string name="welcome_dialog_ok">OK</string>
-<string name="user_filter_show">Zobrazit %s profilů</string>
-    <string name="album_filter_show">Zobrazit %s alb</string>
-    </resources>
+</resources>
