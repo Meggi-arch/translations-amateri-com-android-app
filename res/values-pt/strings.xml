@@ -126,4 +126,48 @@
     <string name="update_dialog_download">Baixar</string>
 
     <string name="old_dialog_title">Versão anterior</string>
-    </resources>
+    <string name="menu_badges">Marcações</string>
+    <string name="people_0">%s gostam da pessoa</string>
+    <string name="people_1">% pessoas gostam</string>
+
+    <string name="old_dialog_content">Infelizmente, você está usando uma versão que não é mais suportada. Uma nova versão aprimorada do aplicativo está disponível. Você deseja baixá-la?</string>
+    <string name="old_dialog_exit">Sair</string>
+
+    <string name="invalid_token_dialog_title">Logon inválido</string>
+    <string name="invalid_token_dialog_content">Certifique-se de que realmente é você, efetue logon novamente.</string>
+
+    <string name="timeout_dialog_title">Sessão expirada</string>
+    <string name="timeout_dialog_content">Efetue logon novamente.</string>
+
+    <string name="redirect_dialog_title">Você será redirecionado</string>
+    <string name="redirect_dialog_content">Esta parte do aplicativo só é acessível através da interface da Web. Você deseja ser redirecionado para o site?</string>
+
+    <string name="unauthorized_dialog_title">Você não efetuou logon</string>
+    <string name="unauthorized_dialog_content">Você precisa efetuar logon para usar esta função.</string>
+    <string name="unauthorized_dialog_register">Acessar</string>
+
+    <string name="lists_error_dialog_title">Erro de conexão</string>
+    <string name="lists_error_dialog_content">Verifique a sua conexão com a Internet.</string>
+    <string name="lists_error_dialog_retry">Repetir</string>
+
+    <string name="button_login">Logon</string>
+    <string name="button_registration">Acessar</string>
+    <string name="button_entry">Entrar sem logon</string>
+
+    <string name="title_filter_results">Resultados da pesquisa</string>
+
+    <string name="button_verify">Verificar perfil</string>
+
+    <string name="invalid_login_dialog_title">Logon inválido</string>
+    <string name="invalid_login_dialog_content">Detalhes de logon incorretos inseridos.</string>
+    <string name="invalid_login_dialog_retry">Tente novamente</string>
+    <string name="invalid_login_dialog_forgot_password">Eu esqueci a minha senha</string>
+
+    <string name="feedback_dialog_title">Comentários</string>
+    <string name="feedback_dialog_text">Obrigado por nos ajudar a desenvolver este aplicativo. Nós ficamos felizes em receber sua opinião, clique no link no menu à esquerda.</string>
+    <string name="feedback_dialog_ok">OK</string>
+
+    <string name="welcome_dialog_title">Seja bem-vindo</string>
+    <string name="welcome_dialog_text">Obrigado por nos ajudar a desenvolver este aplicativo. Nós ficamos felizes em receber sua opinião, clique no link no menu à esquerda.</string>
+    <string name="welcome_dialog_ok">OK</string>
+</resources>
