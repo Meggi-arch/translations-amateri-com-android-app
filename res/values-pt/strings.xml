@@ -1,5 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources><string name="yes">sim</string>
-    <string name="no">não</string>
+    <string name="no">Não</string>
 
+    <string name="app_name">Amateri</string>
+
+    <string name="general_error">Ixi!</string>
+    <string name="general_error_no_connection">Parece que não há nenhuma conexão com a Internet. Tente novamente mais tarde.</string>
+    <string name="general_loading">Aguarde enquanto carregamos os dados</string>
+
+    <string name="title_album">Álbuns</string>
+    <string name="title_people">Pessoas</string>
+    <string name="title_my_profile">Meu perfil</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_version">Versão %s</string>
+    <string name="title_feedback">Enviar comentários</string>
+    <string name="title_new_version">Nova versão!</string>
+
+    <string name="tab_latest">Mais recentes</string>
+    <string name="tab_best">Melhores</string>
+
+    <string name="title_comments">Comentários</string>
+    <string name="title_next_comments">Mais comentários (%s)</string>
+    <string name="title_next_albums">Mais álbuns (%s)</string>
+
+    <string name="menu_notification">Notificações</string>
+    <string name="menu_reset">Redefinir</string>
+
+    <string name="action_try_again">Tente novamente</string>
+
+    <string name="hint_username">Apelido</string>
+    <string name="hint_password">Senha</string>
+
+    <string name="tab_albums">Álbuns</string>
+    <string name="tab_info">Informações</string>
+    <string name="tab_user">Usuário</string>
+    <string name="tab_album">Álbum</string>
+
+    <string name="empty_people">Nenhum item</string>
+
+    <string name="filter_advanced">Filtro avançado</string>
+    <string name="filter_sort_by">Lista classificada por</string>
+
+    <string name="title_personal_info">Detalhes pessoais</string>
+    <string name="title_sex">Gênero</string>
+    <string name="title_age">Idade</string>
+    <string name="title_country">País</string>
+    <string name="title_region">Estado</string>
+    <string name="title_marital_status">Estado civil</string>
+    <string name="title_sexual_orientation">Orientação sexual</string>
+    <string name="title_height">Altura</string>
+    <string name="title_weight">Peso</string>
+    <string name="title_eye_color">Cor dos olhos</string>
+    <string name="title_hair_color">Cor do cabelo</string>
+    <string name="title_statistics">Estatísticas</string>
+    <string name="title_registration_date">Data de registro</string>
+    <string name="title_chat_time">Tempo no bate-papo</string>
+    <string name="title_attended_events">Eventos comparecidos</string>
+    <string name="title_views">Visualizações</string>
+    <string name="title_hobbies">Interesses e preferências sexuais</string>
+    <string name="title_personal_descr">Descrição pessoal</string>
+    <string name="title_profile_address">URL do perfil</string>
+    <string name="title_unknown">Não aplicável</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">A url foi copiada para a área de transferência!</string>
+    <string name="title_share">Compartilhar</string>
+    <string name="title_profile">Perfil</string>
+    <string name="profile_he">Ele</string>
+    <string name="profile_she">Ela</string>
+    <string name="profile_male">Homem</string>
+    <string name="profile_female">Mulher</string>
+    <string name="profile_group">Grupo</string>
+
+    <string name="title_filter">Pesquisar</string>
+
+    <string name="hours_0">hora</string>
+    <string name="hours_1">horas</string>
+    
+    <string name="user_content_all">Todos os tipos de conteúdo</string>
+    <string name="user_sex_all">Todos os gêneros</string>
+    <string name="user_age_all">Todas as faixas etárias</string>
+    <string name="user_country_all">Todos os países</string>
+    <string name="user_region_all">Todos os estados</string>
+    <string name="user_sexual_orientation_all">Todas as orientações sexuais</string>
+    <string name="user_marital_status_all">Todos os estados civis</string>
+    <string name="user_height_all">Todas as alturas</string>
+    <string name="user_weight_all">Todos os pesos</string>
+    <string name="user_filter_show">Exibir %s perfis</string>
+    <string name="no_users_found">Nenhum usuário encontrado</string>
+
+    <string name="album_category_all">Todas as categorias</string>
+    <string name="album_verified_all">Verificados e não verificados</string>
+    <string name="album_theme_all">Todos os tópicos</string>
+    <string name="album_contest_all">Todos os concursos</string>
+    <string name="album_history_all">Visualizados e não visualizados</string>
+    <string name="album_filter_show">Exibir %s álbuns</string>
+    <string name="no_albums_found">Nenhum álbum encontrado</string>
+
+    <string name="author">Autor</string>
+    <string name="category">Categoria</string>
+    <string name="photo_count">Número de fotos</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Verificado</string>
+    <string name="views">Visualizações</string>
+    <string name="rating">Classificação</string>
+    <string name="comments">Comentários</string>
+    <string name="added">Adicionado</string>
+    <string name="album_number">ID do álbum</string>
+    <string name="album_address">URL do álbum</string>
+    <string name="error_no_albums">Nenhum álbum a ser visualizado.</string>
+
+    <string name="notifications_title">Notificação</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Visitas</string>
+    <string name="notifications_messages">Mensagens</string>
+    <string name="notifications_dating_messages">Respostas aos seus anúncios</string>
+    <string name="notifications_requests">Solicitações de amizade</string>
+    <string name="notifications_favourites">Adicionaram-me aos favoritos</string>
+    <string name="notifications_profile_setup">Configurações da conta</string>
+    <string name="notifications_profile_edit">Editar perfil</string>
+
+    <string name="update_dialog_title">Nova versão</string>
+    <string name="update_dialog_content">Uma nova versão melhorada e mais atrativa do aplicativo está disponível. Você deseja baixá-la?</string>
+    <string name="update_dialog_later">Mais tarde</string>
+    <string name="update_dialog_download">Baixar</string>
+
+    <string name="old_dialog_title">Versão anterior</string>
     </resources>
