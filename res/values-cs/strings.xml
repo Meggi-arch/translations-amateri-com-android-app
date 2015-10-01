@@ -26,7 +26,7 @@
 
     <!-- Menu -->
     <string name="menu_notification">Upozornění</string>
-    <string name="menu_badges">Badges</string>
+    <string name="menu_badges">Štítky</string>
     <string name="menu_reset">Reset</string>
 
     <string name="action_try_again">Zkusit znovu</string>
