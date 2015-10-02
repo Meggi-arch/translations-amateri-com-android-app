@@ -1,8 +1,173 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources><string name="yes">da</string>
-    <string name="no">ne</string>
+<resources><string name="yes">Da</string>
+    <string name="no">Ne</string>
 
-    <string name="author">autor</string>
-    <string name="comments">komentari</string>
-    <string name="views">pregleda</string>
-    </resources>
+    <string name="author">Autor</string>
+    <string name="comments">Komentari</string>
+    <string name="views">Pregleda</string>
+    <string name="app_name">Amateri</string>
+
+    <string name="general_error">Ups!</string>
+    <string name="general_error_no_connection">Čini se da nema veze s internetom. Pokušajte ponovno kasnije.</string>
+    <string name="general_loading">Pričekajte dok učitavamo podatke</string>
+
+    <string name="title_album">Albumi</string>
+    <string name="title_people">Ljudi</string>
+    <string name="title_my_profile">Moj profil</string>
+    <string name="title_logout">Odjava</string>
+    <string name="title_version">Verzija %s</string>
+    <string name="title_feedback">Pošalji povratne informacije</string>
+    <string name="title_new_version">Nova verzija!</string>
+
+    <string name="tab_latest">Najnovije</string>
+    <string name="tab_best">Najbolje</string>
+
+    <string name="title_comments">Komentari</string>
+    <string name="title_next_comments">Više komentara (%)</string>
+    <string name="title_next_albums">Više album (%s)</string>
+
+    <string name="menu_notification">Obavijesti</string>
+    <string name="menu_badges">Oznake</string>
+    <string name="menu_reset">Resetiraj</string>
+
+    <string name="action_try_again">Pokušaj ponovno</string>
+
+    <string name="hint_username">Nadimak</string>
+    <string name="hint_password">Lozinka</string>
+
+    <string name="tab_albums">Albumi</string>
+    <string name="tab_info">Informacije</string>
+    <string name="tab_user">Korisnik</string>
+    <string name="tab_album">Album</string>
+
+    <string name="empty_people">Nema stavki</string>
+
+    <string name="filter_advanced">Napredni filtar</string>
+    <string name="filter_sort_by">Popis je razvrstan prema</string>
+
+    <string name="title_personal_info">Osobne pojedinosti</string>
+    <string name="title_sex">Spol</string>
+    <string name="title_age">Dob</string>
+    <string name="title_country">Zemlja</string>
+    <string name="title_region">Regija</string>
+    <string name="title_marital_status">Bračni status</string>
+    <string name="title_sexual_orientation">Seksualna orijentacija</string>
+    <string name="title_height">Visina</string>
+    <string name="title_weight">Težina</string>
+    <string name="title_eye_color">Boja očiju</string>
+    <string name="title_hair_color">Boja kose</string>
+    <string name="title_statistics">Statistički podaci</string>
+    <string name="title_registration_date">Datum registracije</string>
+    <string name="title_chat_time">Vrijeme u čavrljanju</string>
+    <string name="title_attended_events">Posjećeni sastanci</string>
+    <string name="title_views">Pogleda</string>
+    <string name="title_hobbies">Seksualne preference i interesi</string>
+    <string name="title_personal_descr">Osobni opis</string>
+    <string name="title_profile_address">URL profila</string>
+    <string name="title_unknown">Ništa</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">URL je kopiran u vaš međuspremnik!</string>
+    <string name="title_share">Podijeli</string>
+    <string name="title_profile">Profil</string>
+    <string name="profile_he">On</string>
+    <string name="profile_she">Ona</string>
+    <string name="profile_male">Muškarac</string>
+    <string name="profile_female">Žena</string>
+    <string name="profile_group">Grupa</string>
+
+    <string name="title_filter">Traži</string>
+
+    <string name="people_0">%s se sviđa ova osoba</string>
+    <string name="people_1">%s ljudi se sviđa</string>
+
+    <string name="hours_0">sat</string>
+    <string name="hours_1">sati</string>
+    
+    <string name="user_content_all">Sve vrste sadržaja</string>
+    <string name="user_sex_all">Svi spolovi</string>
+    <string name="user_age_all">Sve dobne kategorije</string>
+    <string name="user_country_all">Sve zemlje</string>
+    <string name="user_region_all">Sve regije</string>
+    <string name="user_sexual_orientation_all">Sve seksualne orijentacije</string>
+    <string name="user_marital_status_all">Svi obiteljski statusi</string>
+    <string name="user_height_all">Sve visine</string>
+    <string name="user_weight_all">Sve težine</string>
+    <string name="user_filter_show">Prikaži % profila</string>
+    <string name="no_users_found">Nije pronađen nijedan korisnik</string>
+
+    <string name="album_category_all">Sve kategorije</string>
+    <string name="album_verified_all">Verificirani i neverificirani</string>
+    <string name="album_theme_all">Sve teme</string>
+    <string name="album_contest_all">Svi natječaji</string>
+    <string name="album_history_all">Pregledano i nepregledano</string>
+    <string name="album_filter_show">Prikaži %s albuma</string>
+    <string name="no_albums_found">Nije pronađen nijedan album</string>
+
+    <string name="category">Kategorija</string>
+    <string name="photo_count">Broj fotografija</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Verificiran</string>
+    <string name="rating">Ocjena</string>
+    <string name="added">Dodano</string>
+    <string name="album_number">ID albuma</string>
+    <string name="album_address">URL albuma</string>
+    <string name="error_no_albums">Nema albuma za prikaz.</string>
+
+    <string name="notifications_title">Obavijest</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Posjeta</string>
+    <string name="notifications_messages">Poruke</string>
+    <string name="notifications_dating_messages">Odgovori na vaše oglase</string>
+    <string name="notifications_requests">Zahtjevi za prijateljstvom</string>
+    <string name="notifications_favourites">Dodao/la me u favorite</string>
+    <string name="notifications_profile_setup">Postavke računa</string>
+    <string name="notifications_profile_edit">Uredi profil</string>
+
+    <string name="update_dialog_title">Nova verzija</string>
+    <string name="update_dialog_content">Dostupna je nova, poboljšana i sadržajnija verzija aplikacije. Želite li je preuzeti?</string>
+    <string name="update_dialog_later">Kasnije</string>
+    <string name="update_dialog_download">Preuzmi</string>
+
+    <string name="old_dialog_title">Stara verzija</string>
+    <string name="old_dialog_content">Nažalost koristite verziju koja više nije podržana. Dostupna je nova, poboljšana verzija aplikacije. Želite li je preuzeti?</string>
+    <string name="old_dialog_exit">Izađi</string>
+
+    <string name="invalid_token_dialog_title">Neispravna prijava</string>
+    <string name="invalid_token_dialog_content">Kako bismo bili sigurni da ste to stvarno vi, molimo prijavite se ponovno.</string>
+
+    <string name="timeout_dialog_title">Sesija je istekla</string>
+    <string name="timeout_dialog_content">Prijavite se ponovno.</string>
+
+    <string name="redirect_dialog_title">Bit ćete preusmjereni</string>
+    <string name="redirect_dialog_content">Ovom dijelu aplikacije može se pristupiti samo putem web sučelja. Želite li biti preusmjereni na web stranicu?</string>
+
+    <string name="unauthorized_dialog_title">Niste prijavljeni</string>
+    <string name="unauthorized_dialog_content">Za korištenje ove funkcije, morate se prijaviti.</string>
+    <string name="unauthorized_dialog_register">Registracija</string>
+
+    <string name="lists_error_dialog_title">Greška veze</string>
+    <string name="lists_error_dialog_content">Provjerite vezu s internetom.</string>
+    <string name="lists_error_dialog_retry">Ponovi</string>
+
+    <string name="button_login">Prijava</string>
+    <string name="button_registration">Registracija</string>
+    <string name="button_entry">Ulaz bez prijave</string>
+
+    <string name="title_filter_results">Rezultati pretraživanja</string>
+
+    <string name="button_verify">Verificiraj profil</string>
+
+    <string name="invalid_login_dialog_title">Neispravna prijava</string>
+    <string name="invalid_login_dialog_content">Unijeli ste neispravne pojedinosti za prijavu.</string>
+    <string name="invalid_login_dialog_retry">Pokušajte ponovno</string>
+    <string name="invalid_login_dialog_forgot_password">Zaboravio sam lozinku</string>
+
+    <string name="feedback_dialog_title">Povratne informacije</string>
+    <string name="feedback_dialog_text">Hvala što nam pomažete u razvoju ove aplikacije. Željeli bismo dobiti vaše povratne informacije, molimo vas kliknite na poveznicu u lijevom izborniku.</string>
+    <string name="feedback_dialog_ok">U redu</string>
+
+    <string name="welcome_dialog_title">Dobrodošli</string>
+    <string name="welcome_dialog_text">Hvala što nam pomažete u razvoju ove aplikacije. Željeli bismo dobiti vaše povratne informacije, molimo vas kliknite na poveznicu u lijevom izborniku.</string>
+    <string name="welcome_dialog_ok">U redu</string>
+</resources>
