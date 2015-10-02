@@ -97,14 +97,14 @@
     <string name="album_filter_show">Exibir %s álbuns</string>
     <string name="no_albums_found">Nenhum álbum encontrado</string>
 
-    <string name="author">Autor</string>
+    <string name="author">autor</string>
     <string name="category">Categoria</string>
     <string name="photo_count">Número de fotos</string>
     <string name="vip">VIP</string>
     <string name="certificated">Verificado</string>
-    <string name="views">Visualizações</string>
+    <string name="views">visualizações</string>
     <string name="rating">Classificação</string>
-    <string name="comments">Comentários</string>
+    <string name="comments">comentários</string>
     <string name="added">Adicionado</string>
     <string name="album_number">ID do álbum</string>
     <string name="album_address">URL do álbum</string>
