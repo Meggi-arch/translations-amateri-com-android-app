@@ -21,7 +21,7 @@
     <string name="title_next_albums">Więcej albumów (%s)</string>
 
     <string name="menu_notification">Powiadomienia</string>
-    <string name="menu_badges">Badges</string>
+    <string name="menu_badges">Tagi</string>
     <string name="menu_reset">Reset</string>
 
     <string name="action_try_again">Spróbuj ponownie</string>
@@ -34,12 +34,12 @@
     <string name="tab_user">Użytkownik</string>
     <string name="tab_album">Album</string>
 
-    <string name="empty_people">Pusty</string>
+    <string name="empty_people">Bez pozycji</string>
 
     <string name="filter_from">filtruj od</string>
     <string name="filter_to">filtruj do</string>
     <string name="filter_advanced">Filtr zaawansowany</string>
-    <string name="filter_sort_by">uporządkuj według</string>
+    <string name="filter_sort_by">Uporządkuj według</string>
 
     <string name="title_personal_info">Dane osobowe</string>
     <string name="title_sex">Płeć</string>
@@ -54,9 +54,9 @@
     <string name="title_hair_color">Kolor włosów</string>
     <string name="title_statistics">Statystyki</string>
     <string name="title_registration_date">Data rejestracji</string>
-    <string name="title_chat_time">Czas spędzony na czacie</string>
+    <string name="title_chat_time">Czas na czacie</string>
     <string name="title_attended_events">Imprezy, w których wziąłeś udział</string>
-    <string name="title_views">Wyświetlenia profilu</string>
+    <string name="title_views">Wyświetlenia</string>
     <string name="title_hobbies">Preferencje i upodobania seksualne</string>
     <string name="title_personal_descr">Własny opis</string>
     <string name="title_profile_address">Adres profilu</string>
@@ -64,7 +64,7 @@
     <string name="title_centimeters">cm</string>
     <string name="title_kilograms">kg</string>
     <string name="toast_copied_text">Adres został skopiowany do schowka!</string>
-    <string name="title_share">Udostępnij adres</string>
+    <string name="title_share">Udostępnij</string>
     <string name="title_profile">Profil</string>
     <string name="profile_he">ON</string>
     <string name="profile_she">ONA</string>
@@ -74,8 +74,8 @@
 
     <string name="title_filter">Szukaj</string>
 
-    <string name="people_0">%s člověku se líbí</string>
-    <string name="people_1">%s lidem se líbí</string>
+    <string name="people_0">%s ludziom się podoba</string>
+    <string name="people_1">%s ludziom się podoba</string>
     <string name="people_2">%s lidem se líbí</string>
     <string name="people_3">%s lidem se líbí</string>
 
@@ -95,7 +95,7 @@
     <string name="user_weight_all">Wszystkie wartości wagi</string>
     <string name="no_users_found">Nie znaleziono żadnych użytkowników</string>
 
-    <string name="album_category_all">Wszystkie rodzaje treści</string>
+    <string name="album_category_all">Wszystkie kategorie</string>
     <string name="album_verified_all">Zweryfikowani i niezweryfikowani</string>
     <string name="album_theme_all">Wszystkie tematy</string>
     <string name="album_contest_all">Wszystkie konkursy</string>
@@ -174,4 +174,6 @@
     <string name="welcome_dialog_title">Witaj</string>
     <string name="welcome_dialog_text">Dziękujemy, że pomagasz nam ulepszać naszą aplikację. Jesteśmy ciekawi Twojej opinii, możesz ją przesłać, klikając w link na dole.</string>
     <string name="welcome_dialog_ok">OK</string>
-</resources>
+<string name="user_filter_show">Pokaż %s profili</string>
+    <string name="album_filter_show">Pokaż %s albumów</string>
+    </resources>
