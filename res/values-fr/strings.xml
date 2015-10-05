@@ -1,2 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources><string name="app_name">Amateurs</string>
+
+    <string name="general_error">Ouille !</string>
+    <string name="general_error_no_connection">Il semble que vous ne soyez pas connecté à Internet. Essayez plus tard s\'il vous plaît.</string>
+    <string name="general_loading">Un peu de patience s\'il vous plaît, nous chargeons les données</string>
+
+    <string name="title_album">Albums de photos</string>
+    <string name="title_people">Les gens</string>
+    <string name="title_my_profile">Mon profil</string>
+    <string name="title_logout">Se déconnecter</string>
+    <string name="title_version">Version %</string>
+    <string name="title_feedback">Envoyer un feedback</string>
+    <string name="title_new_version">Nouvelle version !</string>
+
+    <string name="tab_latest">Le plus récent</string>
+    <string name="tab_best">Le meilleur</string>
+
+    <string name="title_comments">Commentaires</string>
+    <string name="title_next_comments">Autres commentaires (%)</string>
+    <string name="title_next_albums">Autres albums de photos (%)</string>
+
+    <string name="menu_notification">Avertissements</string>
+    <string name="menu_badges">Balises</string>
+    <string name="menu_reset">Reset</string>
+
+    <string name="action_try_again">Réessayer</string>
+
+    <string name="hint_username">Alias</string>
+    <string name="hint_password">Mot de passe</string>
+
+    <string name="tab_albums">Albums de photos</string>
+    <string name="tab_info">Infos</string>
+    <string name="tab_user">Utilisateur</string>
+    <string name="tab_album">Album de photos</string>
+
+    <string name="empty_people">Aucun article</string>
+
+    <string name="filter_advanced">Filtre avancé</string>
+    <string name="filter_sort_by">Classer selon</string>
+
+    <string name="title_personal_info">Données personnelles</string>
+    <string name="title_sex">Sexe</string>
+    <string name="title_age">Age</string>
+    <string name="title_country">Pays</string>
+    <string name="title_region">Région</string>
+    <string name="title_marital_status">Etat civil</string>
+    <string name="title_sexual_orientation">Orientation sexuelle</string>
+    <string name="title_height">Taille</string>
+    <string name="title_weight">Poids</string>
+    <string name="title_eye_color">Couleur des yeux</string>
+    <string name="title_hair_color">Couleur des cheveux</string>
+    <string name="title_statistics">Statistiques</string>
+    <string name="title_registration_date">Date d\'enregistrement</string>
+    <string name="title_chat_time">Temps sur le chat</string>
+    <string name="title_attended_events">Evénements visités</string>
+    <string name="title_views">Vues</string>
+    <string name="title_hobbies">Préférences sexuelles</string>
+    <string name="title_personal_descr">Description personnelle</string>
+    <string name="title_profile_address">Profil URL</string>
+    <string name="title_unknown">N/A</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">L\'adresse URL a été copiée dans le presse-papiers !</string>
+    <string name="title_share">Partager</string>
+    <string name="title_profile">Profil</string>
+    <string name="profile_he">Il</string>
+    <string name="profile_she">Elle</string>
+    <string name="profile_male">Homme</string>
+    <string name="profile_female">Femme</string>
+    <string name="profile_group">Groupe</string>
+
+    <string name="title_filter">Chercher</string>
+
+    <string name="people_0">% aiment la personne</string>
+    <string name="people_1">% de gens aiment</string>
+
+    <string name="hours_0">heure</string>
+    <string name="hours_1">heures</string>
+    
+    <string name="user_content_all">Tous types de contenu</string>
+    <string name="user_sex_all">Tous les sexes</string>
+    <string name="user_age_all">Toutes les catégories d\'âges</string>
+    <string name="user_country_all">Tous les pays</string>
+    <string name="user_region_all">Toutes les régions</string>
+    <string name="user_sexual_orientation_all">Toutes les orientations sexuelles</string>
+    <string name="user_marital_status_all">Tous les états civils</string>
+    <string name="user_height_all">Toutes les tailles</string>
+    <string name="user_weight_all">Tous les poids</string>
+    <string name="user_filter_show">Afficher % de profils</string>
+    <string name="no_users_found">Aucun utilisateur trouvé</string>
+
+    <string name="album_category_all">Toutes les catégories</string>
+    <string name="album_verified_all">Vérifiés et non vérifiés</string>
+    <string name="album_theme_all">Tous les thèmes</string>
+    <string name="album_contest_all">Tous les concours</string>
+    <string name="album_history_all">Vus et non vus</string>
+    <string name="album_filter_show">Afficher % d\'albums</string>
+    <string name="no_albums_found">Aucun album photos trouvé</string>
+
+    <string name="author">Auteur</string>
+    <string name="category">Catégorie</string>
+    <string name="photo_count">Nombre de photos</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Certification</string>
+    <string name="views">Vues</string>
+    <string name="rating">Note</string>
+    <string name="comments">Commentaires</string>
+    <string name="added">Ajouté</string>
+    <string name="album_number">Numéro d\'album photos</string>
+    <string name="album_address">URL de l\'album photos</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+    <string name="error_no_albums">Aucun album photos à voir</string>
+
+    <string name="notifications_title">Avertissement</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Visites</string>
+    <string name="notifications_messages">Messages</string>
+    <string name="notifications_dating_messages">Réponses aux annonces</string>
+    <string name="notifications_requests">Demandes d\'amis</string>
+    <string name="notifications_favourites">M\'ont ajouté à leurs favoris</string>
+    <string name="notifications_profile_setup">Paramètres du compte</string>
+    <string name="notifications_profile_edit">Mise à jour du profil</string>
+
+    <string name="update_dialog_title">Nouvelle version</string>
+    <string name="update_dialog_content">Nous avons une meilleure version, plus juteuse de l\'application pour vous. Voulez-vous la télécharger ?</string>
+    <string name="update_dialog_later">Plus tard</string>
+    <string name="update_dialog_download">Télécharger</string>
+
+    <string name="old_dialog_title">Version obsolète</string>
+    <string name="old_dialog_content">Vous utilisez malheureusement une version qui n\'est plus soutenue. Nous avons une meilleure version, plus juteuse de l\'application pour vous. Voulez-vous la télécharger ?</string>
+    <string name="old_dialog_exit">Quitter</string>
+
+    <string name="invalid_token_dialog_title">Connexion invalide</string>
+    <string name="invalid_token_dialog_content">Pour être sûrs que c\'est vraiment vous, veuillez vous reconnecter</string>
+
+    <string name="timeout_dialog_title">Session expirée</string>
+    <string name="timeout_dialog_content">Veuillez vous reconnecter</string>
+
+    <string name="redirect_dialog_title">Vous allez être redirigé</string>
+    <string name="redirect_dialog_content">Cette partie de l\'application n\'est accessible que par l\'interface web. Voulez-vous être redirigé sur le site web ?</string>
+
+    <string name="unauthorized_dialog_title">Vous n\'êtes pas connecté</string>
+    <string name="unauthorized_dialog_content">Pour utiliser cette fonction vous devez vous connecter</string>
+    <string name="unauthorized_dialog_register">S\'enregistrer</string>
+
+    <string name="lists_error_dialog_title">Erreur de connexion</string>
+    <string name="lists_error_dialog_content">Veuillez contrôler la connexion à Internet</string>
+    <string name="lists_error_dialog_retry">Répéter</string>
+
+    <string name="button_login">Se connecter</string>
+    <string name="button_registration">Enregistrement</string>
+    <string name="button_entry">Entrée sans connexion</string>
+
+    <string name="title_filter_results">Résultats de la recherche</string>
+
+    <string name="button_verify">Vérifier le profil</string>
+
+    <string name="invalid_login_dialog_title">Connexion invalide</string>
+    <string name="invalid_login_dialog_content">Vous avez rentré des données de connexion invalides</string>
+    <string name="invalid_login_dialog_retry">Réessayer</string>
+    <string name="invalid_login_dialog_forgot_password">J\'ai oublié mon mot de passe</string>
+
+    <string name="feedback_dialog_title">Rétroaction</string>
+    <string name="feedback_dialog_text">Merci de nous aider à développer notre appli. Nous serions très heureux de recevoir votre rétroaction, vous trouverez son lien en bas dans le menu gauche.</string>
+    <string name="feedback_dialog_ok">OK</string>
+
+    <string name="welcome_dialog_title">Bienvenue</string>
+    <string name="welcome_dialog_text">Merci de nous aider à développer notre appli. Nous serions très heureux de recevoir votre rétroaction, vous trouverez son lien en bas dans le menu gauche.</string>
+    <string name="welcome_dialog_ok">OK</string>
+</resources>
