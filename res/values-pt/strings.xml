@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources><string name="yes">sim</string>
+<resources><string name="yes">Sim</string>
     <string name="no">Não</string>
 
     <string name="app_name">Amateri</string>
 
-    <string name="general_error">Ixi!</string>
+    <string name="general_error">Ai!</string>
     <string name="general_error_no_connection">Parece que não há nenhuma conexão com a Internet. Tente novamente mais tarde.</string>
     <string name="general_loading">Aguarde enquanto carregamos os dados</string>
 
@@ -81,12 +81,12 @@
     <string name="user_sex_all">Todos os gêneros</string>
     <string name="user_age_all">Todas as faixas etárias</string>
     <string name="user_country_all">Todos os países</string>
-    <string name="user_region_all">Todos os estados</string>
+    <string name="user_region_all">Todos as regiões</string>
     <string name="user_sexual_orientation_all">Todas as orientações sexuais</string>
     <string name="user_marital_status_all">Todos os estados civis</string>
     <string name="user_height_all">Todas as alturas</string>
     <string name="user_weight_all">Todos os pesos</string>
-    <string name="user_filter_show">Exibir %s perfis</string>
+    <string name="user_filter_show">Mostrar %s perfis</string>
     <string name="no_users_found">Nenhum usuário encontrado</string>
 
     <string name="album_category_all">Todas as categorias</string>
@@ -94,29 +94,29 @@
     <string name="album_theme_all">Todos os tópicos</string>
     <string name="album_contest_all">Todos os concursos</string>
     <string name="album_history_all">Visualizados e não visualizados</string>
-    <string name="album_filter_show">Exibir %s álbuns</string>
+    <string name="album_filter_show">Mostrar %s álbuns</string>
     <string name="no_albums_found">Nenhum álbum encontrado</string>
 
-    <string name="author">autor</string>
+    <string name="author">Autor</string>
     <string name="category">Categoria</string>
     <string name="photo_count">Número de fotos</string>
     <string name="vip">VIP</string>
     <string name="certificated">Verificado</string>
-    <string name="views">visualizações</string>
+    <string name="views">Visualizações</string>
     <string name="rating">Classificação</string>
-    <string name="comments">comentários</string>
+    <string name="comments">Comentários</string>
     <string name="added">Adicionado</string>
     <string name="album_number">ID do álbum</string>
     <string name="album_address">URL do álbum</string>
     <string name="error_no_albums">Nenhum álbum a ser visualizado.</string>
 
     <string name="notifications_title">Notificação</string>
-    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_99_plus">Mais de 99</string>
     <string name="notifications_visits">Visitas</string>
     <string name="notifications_messages">Mensagens</string>
     <string name="notifications_dating_messages">Respostas aos seus anúncios</string>
     <string name="notifications_requests">Solicitações de amizade</string>
-    <string name="notifications_favourites">Adicionaram-me aos favoritos</string>
+    <string name="notifications_favourites">Fui adicionado aos favoritos</string>
     <string name="notifications_profile_setup">Configurações da conta</string>
     <string name="notifications_profile_edit">Editar perfil</string>
 
