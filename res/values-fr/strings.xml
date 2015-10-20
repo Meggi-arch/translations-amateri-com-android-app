@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources><string name="app_name">Amateurs</string>
+<resources><string name="app_name">Amateri</string>
 
     <string name="general_error">Ouille !</string>
     <string name="general_error_no_connection">Il semble que vous ne soyez pas connecté à Internet. Essayez plus tard s\'il vous plaît.</string>
@@ -9,7 +9,7 @@
     <string name="title_people">Les gens</string>
     <string name="title_my_profile">Mon profil</string>
     <string name="title_logout">Se déconnecter</string>
-    <string name="title_version">Version %</string>
+    <string name="title_version">Version %s</string>
     <string name="title_feedback">Envoyer un feedback</string>
     <string name="title_new_version">Nouvelle version !</string>
 
@@ -17,8 +17,8 @@
     <string name="tab_best">Le meilleur</string>
 
     <string name="title_comments">Commentaires</string>
-    <string name="title_next_comments">Autres commentaires (%)</string>
-    <string name="title_next_albums">Autres albums de photos (%)</string>
+    <string name="title_next_comments">Autres commentaires (%s)</string>
+    <string name="title_next_albums">Autres albums de photos (%s)</string>
 
     <string name="menu_notification">Avertissements</string>
     <string name="menu_badges">Balises</string>
@@ -72,8 +72,8 @@
 
     <string name="title_filter">Chercher</string>
 
-    <string name="people_0">% aiment la personne</string>
-    <string name="people_1">% de gens aiment</string>
+    <string name="people_0">%s personne aime</string>
+    <string name="people_1">%s personnes aiment</string>
 
     <string name="hours_0">heure</string>
     <string name="hours_1">heures</string>
@@ -87,7 +87,8 @@
     <string name="user_marital_status_all">Tous les états civils</string>
     <string name="user_height_all">Toutes les tailles</string>
     <string name="user_weight_all">Tous les poids</string>
-    <string name="user_filter_show">Afficher % de profils</string>
+    <string name="user_filter_show">Afficher %s profil</string>
+    <string name="user_filter_show">Afficher %s profils</string>
     <string name="no_users_found">Aucun utilisateur trouvé</string>
 
     <string name="album_category_all">Toutes les catégories</string>
@@ -95,7 +96,8 @@
     <string name="album_theme_all">Tous les thèmes</string>
     <string name="album_contest_all">Tous les concours</string>
     <string name="album_history_all">Vus et non vus</string>
-    <string name="album_filter_show">Afficher % d\'albums</string>
+    <string name="album_filter_show">Afficher %s album</string>
+    <string name="album_filter_show">Afficher %s albums</string>
     <string name="no_albums_found">Aucun album photos trouvé</string>
 
     <string name="author">Auteur</string>

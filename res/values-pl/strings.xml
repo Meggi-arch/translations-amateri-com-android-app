@@ -74,15 +74,15 @@
 
     <string name="title_filter">Szukaj</string>
 
-    <string name="people_0">%s ludziom się podoba</string>
+    <string name="people_0">%s człowiekowi się podoba</string>
     <string name="people_1">%s ludziom się podoba</string>
-    <string name="people_2">%s lidem se líbí</string>
-    <string name="people_3">%s lidem se líbí</string>
+    <string name="people_2">%s ludziom się podoba</string>
+    <string name="people_3">%s ludziom się podoba</string>
 
     <string name="hours_0">godzina</string>
     <string name="hours_1">godziny</string>
-    <string name="hours_2">godziny</string>
-    <string name="hours_3">godziny</string>
+    <string name="hours_2">godzin</string>
+    <string name="hours_3">godzin</string>
 
     <string name="user_content_all">Wszystkie rodzaje treści</string>
     <string name="user_sex_all">Wszystkie płcie</string>
@@ -93,6 +93,10 @@
     <string name="user_marital_status_all">Wszystkie stany cywilne</string>
     <string name="user_height_all">Wszystkie wartości wzrostu</string>
     <string name="user_weight_all">Wszystkie wartości wagi</string>
+    <string name="user_filter_show_0">Wyświetlić %s profil</string>
+    <string name="user_filter_show_1">Wyświetlić %s profile</string>
+    <string name="user_filter_show_2">Wyświetlić %s profili</string>
+    <string name="user_filter_show_3">Wyświetlić %s profili</string>
     <string name="no_users_found">Nie znaleziono żadnych użytkowników</string>
 
     <string name="album_category_all">Wszystkie kategorie</string>
@@ -100,6 +104,10 @@
     <string name="album_theme_all">Wszystkie tematy</string>
     <string name="album_contest_all">Wszystkie konkursy</string>
     <string name="album_history_all">Obejrzane i nieobejrzane</string>
+    <string name="album_filter_show_0">Wyświetlić %s album</string>
+    <string name="album_filter_show_1">Wyświetlić %s albumy</string>
+    <string name="album_filter_show_2">Wyświetlić %s albumów</string>
+    <string name="album_filter_show_3">Wyświetlić %s albumów</string>
     <string name="no_albums_found">Nie znaleziono żadnych albumów</string>
 
     <string name="author">autor</string>
@@ -174,6 +182,4 @@
     <string name="welcome_dialog_title">Witaj</string>
     <string name="welcome_dialog_text">Dziękujemy, że pomagasz nam ulepszać naszą aplikację. Jesteśmy ciekawi Twojej opinii, możesz ją przesłać, klikając w link na dole.</string>
     <string name="welcome_dialog_ok">OK</string>
-<string name="user_filter_show">Pokaż %s profili</string>
-    <string name="album_filter_show">Pokaż %s albumów</string>
     </resources>

@@ -72,7 +72,7 @@
 
     <string name="title_filter">Buscar</string>
 
-    <string name="people_0">A %s les gusta la persona</string>
+    <string name="people_0">A %s persona le gusta</string>
     <string name="people_1">A %s personas les gusta</string>
 
     <string name="hours_0">hora</string>
@@ -87,7 +87,8 @@
     <string name="user_marital_status_all">Todos los estatus de familia</string>
     <string name="user_height_all">Todas las alturas</string>
     <string name="user_weight_all">Todos los pesos</string>
-    <string name="user_filter_show">Mostrar %s perfiles</string>
+    <string name="user_filter_show_0">Mostrar %s perfil</string>
+    <string name="user_filter_show_1">Mostrar %s perfiles</string>
     <string name="no_users_found">Ningún usuario encontrado</string>
 
     <string name="album_category_all">Todas las categorías</string>
@@ -95,7 +96,8 @@
     <string name="album_theme_all">Todos los temas</string>
     <string name="album_contest_all">Todos los concursos</string>
     <string name="album_history_all">Visto y no visto</string>
-    <string name="album_filter_show">Mostrar %s álbumes</string>
+    <string name="album_filter_show_0">Mostrar %s álbum</string>
+    <string name="album_filter_show_1">Mostrar %s álbumes</string>
     <string name="no_albums_found">Ningún álbum encontrado</string>
 
     <string name="author">Autor</string>

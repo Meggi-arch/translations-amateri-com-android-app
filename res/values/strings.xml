@@ -96,7 +96,8 @@
     <string name="user_marital_status_all">All family statuses</string>
     <string name="user_height_all">All heights</string>
     <string name="user_weight_all">All weights</string>
-    <string name="user_filter_show">Show %s profiles</string>
+    <string name="user_filter_show_0">Show %s profile</string>
+    <string name="user_filter_show_1">Show %s profiles</string>
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
@@ -105,7 +106,8 @@
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
     <string name="album_history_all">Viewed and not viewed</string>
-    <string name="album_filter_show">Show %s albums</string>
+    <string name="album_filter_show_0">Show %s album</string>
+    <string name="album_filter_show_1">Show %s albums</string>
     <string name="no_albums_found">No albums found</string>
 
     <!--AlbumInfoActivity-->

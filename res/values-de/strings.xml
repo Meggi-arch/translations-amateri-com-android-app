@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-	<string name="app_name">Amateure</string>
+	<string name="app_name">Amateri</string>
 
 	<string name="general_error">Autsch!</string>
 	<string name="general_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Bitte versuchen Sie es später noch einmal.</string>
@@ -70,8 +70,8 @@
 
 	<string name="title_filter">Suche</string>
 
-    <string name="people_0">%s Menschen gefällt</string>
-    <string name="people_1">%s Leuten gefällt</string>
+    <string name="people_0">Gefällt %s Person</string>
+    <string name="people_1">Gefällt %s Personen</string>
 
 	<string name="hours_0">Stunde</string>
 	<string name="hours_1">Stunden</string>
@@ -85,6 +85,8 @@
 	<string name="user_marital_status_all">Alle Familienstände</string>
 	<string name="user_height_all">Alle Größen</string>
 	<string name="user_weight_all">Alle Gewichtsklassen</string>
+	<string name="user_filter_show_0">%s Profil zeigen</string>
+	<string name="user_filter_show_1">%s Profile zeigen</string>
 	<string name="no_users_found">Keine Benutzer gefunden</string>
 
 	<string name="album_category_all">Alle Inhaltstypen</string>
@@ -92,6 +94,8 @@
 	<string name="album_theme_all">Alle Themen</string>
 	<string name="album_contest_all">Alle Wettbewerbe</string>
 	<string name="album_history_all">Angesehene und nicht-angesehene</string>
+	<string name="album_filter_show_0">%s Album zeigen</string>
+    <string name="album_filter_show_1">%s Alben anzeigen</string>
 	<string name="no_albums_found">Keine Fotoalben gefunden</string>
 
 	<string name="author">Autor</string>
@@ -160,7 +164,7 @@
 	<string name="welcome_dialog_text">Danke, dass Sie uns helfen, unsere App zu verbessern. Wir freuen uns über jedes Feedback, einen Link zum Feedback finden Sie unten im Menü.</string>
 	<string name="welcome_dialog_ok">OK</string>
 
-<string name="profile_he">Er</string>
+	<string name="profile_he">Er</string>
     <string name="profile_she">Sie</string>
     <string name="profile_male">Mann</string>
     <string name="profile_female">Frau</string>
@@ -172,7 +176,4 @@
 
     <string name="timeout_dialog_title">Die Sitzung ist abgelaufen.</string>
     <string name="timeout_dialog_content">Bitte melden Sie sich erneut an.</string>
-
-    <string name="user_filter_show">%s Profile anzeigen</string>
-    <string name="album_filter_show">%s Alben anzeigen</string>
     </resources>

@@ -98,7 +98,9 @@
     <string name="user_marital_status_all">Všechny rodinné stavy</string>
     <string name="user_height_all">Všechny výšky</string>
     <string name="user_weight_all">Všechny váhy</string>
-    <string name="user_filter_show">Zobrazit %s profilů</string>
+    <string name="user_filter_show_0">Zobrazit %s profil</string>
+    <string name="user_filter_show_1">Zobrazit %s profily</string>
+    <string name="user_filter_show_2">Zobrazit %s profilů</string>
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
 
     <!--FilterAlbumFragment-->
@@ -107,7 +109,9 @@
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Všechny soutěže</string>
     <string name="album_history_all">Shlédnuté i neshlédnuté</string>
-    <string name="album_filter_show">Zobrazit %s alb</string>
+    <string name="album_filter_show_0">Zobrazit %s album</string>
+    <string name="album_filter_show_1">Zobrazit %s alba</string>
+    <string name="album_filter_show_2">Zobrazit %s alb</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
 
     <!--AlbumInfoActivity-->

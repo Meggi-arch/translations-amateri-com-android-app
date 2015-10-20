@@ -2,7 +2,6 @@
 <resources>
 
 	<string name="app_name">Amateri</string>
-	<string name="preferences">amateri</string>
 
 	<string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>
 	<string name="general_loading">Strpenie, načítam dáta</string>
@@ -73,9 +72,9 @@
 	<string name="title_filter">Hľadanie</string>
 
 
-    <string name="people_0">%s člověku se líbí</string>
-    <string name="people_1">%s lidem se líbí</string>
-    <string name="people_2">%s lidem se líbí</string>
+    <string name="people_0">%s člověku sa páči</string>
+    <string name="people_1">%s ľuďom sa páči</string>
+    <string name="people_2">%s ľuďom sa páči</string>
 
 	<string name="hours_0">hodina</string>
 	<string name="hours_1">hodiny</string>
@@ -91,6 +90,9 @@
 	<string name="user_marital_status_all">Všetky rodinné stavy</string>
 	<string name="user_height_all">Všetky výšky</string>
 	<string name="user_weight_all">Všetky váhy</string>
+	<string name="user_filter_show_0">Zobraziť %s profil</string>
+	<string name="user_filter_show_1">Zobraziť %s profily</string>
+	<string name="user_filter_show_2">Zobraziť %s profilov</string>
 	<string name="no_users_found">Nenájdení žiadni užívatelia</string>
 
 	<string name="album_category_all">Všetky typy obsahu</string>
@@ -98,6 +100,9 @@
 	<string name="album_theme_all">Všetky témy</string>
 	<string name="album_contest_all">Všetky súťaže</string>
 	<string name="album_history_all">Pozreté aj nepozreté</string>
+	<string name="album_filter_show_0">Zobraziť %s album</string>
+    <string name="album_filter_show_1">Zobraziť %s albumy</string>
+    <string name="album_filter_show_2">Zobraziť %s albumov</string>
 	<string name="no_albums_found">Nenájdené žiadne albumy</string>
 
 	<string name="author">autor</string>
@@ -166,7 +171,7 @@
 	<string name="welcome_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
 	<string name="welcome_dialog_ok">OK</string>
 
-<string name="profile_he">ON</string>
+	<string name="profile_he">ON</string>
     <string name="profile_she">ONA</string>
     <string name="profile_male">Muž</string>
     <string name="profile_female">Žena</string>
@@ -178,7 +183,4 @@
 
     <string name="timeout_dialog_title">Platnosť prihlásenia vypršala</string>
     <string name="timeout_dialog_content">Prihláste sa opäť</string>
-
-    <string name="user_filter_show">Zobraziť %s profilov</string>
-    <string name="album_filter_show">Zobraziť %s albumov</string>
     </resources>

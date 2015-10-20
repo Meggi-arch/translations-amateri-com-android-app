@@ -23,7 +23,7 @@
     <string name="tab_best">Najbolje</string>
 
     <string name="title_comments">Komentari</string>
-    <string name="title_next_comments">Više komentara (%)</string>
+    <string name="title_next_comments">Više komentara (%s)</string>
     <string name="title_next_albums">Više album (%s)</string>
 
     <string name="menu_notification">Obavijesti</string>
@@ -78,11 +78,15 @@
 
     <string name="title_filter">Traži</string>
 
-    <string name="people_0">%s se sviđa ova osoba</string>
-    <string name="people_1">%s ljudi se sviđa</string>
+    <string name="people_0">%s osobi se sviđa</string>
+    <string name="people_1">%s osobe se sviđa</string>
+    <string name="people_2">%s osoba se sviđa</string>
+    <string name="people_3">%s osoba se sviđa</string>
 
     <string name="hours_0">sat</string>
-    <string name="hours_1">sati</string>
+    <string name="hours_1">sata</string>
+    <string name="hours_2">sati</string>
+    <string name="hours_2">sati</string>
     
     <string name="user_content_all">Sve vrste sadržaja</string>
     <string name="user_sex_all">Svi spolovi</string>
@@ -93,7 +97,10 @@
     <string name="user_marital_status_all">Svi obiteljski statusi</string>
     <string name="user_height_all">Sve visine</string>
     <string name="user_weight_all">Sve težine</string>
-    <string name="user_filter_show">Prikaži % profila</string>
+    <string name="user_filter_show_0">Prikaži %s profil</string>
+    <string name="user_filter_show_1">Prikaži %s profila</string>
+    <string name="user_filter_show_2">Prikaži %s profila</string>
+    <string name="user_filter_show_3">Prikaži %s profila</string>
     <string name="no_users_found">Nije pronađen nijedan korisnik</string>
 
     <string name="album_category_all">Sve kategorije</string>
@@ -101,7 +108,10 @@
     <string name="album_theme_all">Sve teme</string>
     <string name="album_contest_all">Svi natječaji</string>
     <string name="album_history_all">Pregledano i nepregledano</string>
-    <string name="album_filter_show">Prikaži %s albuma</string>
+    <string name="album_filter_show_0">Prikaži %s album</string>
+    <string name="album_filter_show_1">Prikaži %s albuma</string>
+    <string name="album_filter_show_2">Prikaži %s albuma</string>
+    <string name="album_filter_show_3">Prikaži %s albuma</string>
     <string name="no_albums_found">Nije pronađen nijedan album</string>
 
     <string name="category">Kategorija</string>

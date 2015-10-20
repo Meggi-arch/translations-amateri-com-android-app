@@ -8,4 +8,12 @@
 		<item quantity="one">@string/hours_0</item>
 		<item quantity="other">@string/hours_1</item>
 	</plurals>
+	<plurals name="user_filter_show">
+		<item quantity="one">@string/user_filter_show_0</item>
+		<item quantity="other">@string/user_filter_show_1</item>
+	</plurals>
+	<plurals name="album_filter_show">
+		<item quantity="one">@string/album_filter_show_0</item>
+		<item quantity="other">@string/album_filter_show_1</item>
+	</plurals>
 </resources>

@@ -74,6 +74,9 @@
 
     <string name="title_filter">Pesquisar</string>
 
+    <string name="people_0">%s pessoa gosta</string>
+    <string name="people_1">%s pessoas gostam</string>
+
     <string name="hours_0">hora</string>
     <string name="hours_1">horas</string>
     
@@ -86,7 +89,8 @@
     <string name="user_marital_status_all">Todos os estados civis</string>
     <string name="user_height_all">Todas as alturas</string>
     <string name="user_weight_all">Todos os pesos</string>
-    <string name="user_filter_show">Mostrar %s perfis</string>
+    <string name="user_filter_show_0">Mostrar %s perfil</string>
+    <string name="user_filter_show_1">Mostrar %s perfis</string>
     <string name="no_users_found">Nenhum usuário encontrado</string>
 
     <string name="album_category_all">Todas as categorias</string>
@@ -94,7 +98,8 @@
     <string name="album_theme_all">Todos os tópicos</string>
     <string name="album_contest_all">Todos os concursos</string>
     <string name="album_history_all">Visualizados e não visualizados</string>
-    <string name="album_filter_show">Mostrar %s álbuns</string>
+    <string name="album_filter_show_0">Mostrar %s álbum</string>
+    <string name="album_filter_show_1">Mostrar %s álbuns</string>
     <string name="no_albums_found">Nenhum álbum encontrado</string>
 
     <string name="author">Autor</string>
@@ -128,7 +133,7 @@
     <string name="old_dialog_title">Versão anterior</string>
     <string name="menu_badges">Marcações</string>
     <string name="people_0">%s gostam da pessoa</string>
-    <string name="people_1">% pessoas gostam</string>
+    <string name="people_1">%s pessoas gostam</string>
 
     <string name="old_dialog_content">Infelizmente, você está usando uma versão que não é mais suportada. Uma nova versão aprimorada do aplicativo está disponível. Você deseja baixá-la?</string>
     <string name="old_dialog_exit">Sair</string>

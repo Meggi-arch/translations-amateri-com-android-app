@@ -77,11 +77,15 @@
 
     <string name="title_filter">Поиск</string>
 
-    <string name="people_0">%s мужчинам это нравится</string>
-    <string name="people_1">%s людям это нравится</string>
+    <string name="people_0">%s человеку понравилось</string>
+    <string name="people_1">%s людям понравилось</string>
+    <string name="people_2">%s людям понравилось</string>
+    <string name="people_3">%s людям понравилось</string>
 
     <string name="hours_0">час</string>
-    <string name="hours_1">часы</string>
+    <string name="hours_1">часа</string>
+    <string name="hours_2">часов</string>
+    <string name="hours_3">часов</string>
 
     <string name="user_content_all">Все типы содержания</string>
     <string name="user_sex_all">Весь секс</string>
@@ -92,7 +96,10 @@
     <string name="user_marital_status_all">Любое семейное положение</string>
     <string name="user_height_all">Любой рост</string>
     <string name="user_weight_all">Любой вес</string>
-    <string name="user_filter_show">Показать %s профилей</string>
+    <string name="user_filter_show_0">Показать %s профиль</string>
+    <string name="user_filter_show_1">Показать %s профиля</string>
+    <string name="user_filter_show_2">Показать %s профилей</string>
+    <string name="user_filter_show_3">Показать %s профилей</string>
     <string name="no_users_found">Пользователи не найдены</string>
 
     <string name="album_category_all">Все типы содержимого</string>
@@ -100,7 +107,10 @@
     <string name="album_theme_all">Все темы</string>
     <string name="album_contest_all">Все конкурсы</string>
     <string name="album_history_all">Просмотренные и непросмотренные</string>
-    <string name="album_filter_show">Показать %s альбомов</string>
+    <string name="album_filter_show_0">Показать %s альбом</string>
+    <string name="album_filter_show_1">Показать %s альбомa</string>
+    <string name="album_filter_show_2">Показать %s альбомов</string>
+    <string name="album_filter_show_3">Показать %s альбомов</string>
     <string name="no_albums_found">Альбомы не найдены</string>
 
     <string name="author">автор</string>
