@@ -175,7 +175,7 @@
     <string name="invalid_login_dialog_retry">Spróbuj ponownie</string>
     <string name="invalid_login_dialog_forgot_password">Zapomniałem hasła</string>
 
-    <string name="feedback_dialog_title">Feedback</string>
+    <string name="feedback_dialog_title">informacje zwrotne</string>
     <string name="feedback_dialog_text">Dziękujemy, że pomagasz nam ulepszać naszą aplikację. Jesteśmy ciekawi Twojej opinii, możesz ją przesłać, klikając w link na dole.</string>
     <string name="feedback_dialog_ok">OK</string>
 
