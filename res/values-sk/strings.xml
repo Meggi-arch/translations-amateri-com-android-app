@@ -116,8 +116,8 @@
 	<string name="added">pridané</string>
 	<string name="album_number">číslo albumu</string>
 	<string name="album_address">adresa fotoalbumu</string>
-	<string name="yes">áno</string>
-	<string name="no">nie</string>
+	<string name="yes">Áno</string>
+	<string name="no">Nie</string>
 
 	<string name="error_no_albums">Žiadne albumy na prezretie.</string>
 
