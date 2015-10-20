@@ -136,20 +136,20 @@
     <string name="old_dialog_exit">Quitter</string>
 
     <string name="invalid_token_dialog_title">Connexion invalide</string>
-    <string name="invalid_token_dialog_content">Pour être sûrs que c\'est vraiment vous, veuillez vous reconnecter</string>
+    <string name="invalid_token_dialog_content">Pour être sûrs que c\'est vraiment vous, veuillez vous reconnecter.</string>
 
     <string name="timeout_dialog_title">Session expirée</string>
-    <string name="timeout_dialog_content">Veuillez vous reconnecter</string>
+    <string name="timeout_dialog_content">Veuillez vous reconnecter.</string>
 
     <string name="redirect_dialog_title">Vous allez être redirigé</string>
     <string name="redirect_dialog_content">Cette partie de l\'application n\'est accessible que par l\'interface web. Voulez-vous être redirigé sur le site web ?</string>
 
     <string name="unauthorized_dialog_title">Vous n\'êtes pas connecté</string>
-    <string name="unauthorized_dialog_content">Pour utiliser cette fonction vous devez vous connecter</string>
+    <string name="unauthorized_dialog_content">Pour utiliser cette fonction vous devez vous connecter.</string>
     <string name="unauthorized_dialog_register">S\'enregistrer</string>
 
     <string name="lists_error_dialog_title">Erreur de connexion</string>
-    <string name="lists_error_dialog_content">Veuillez contrôler la connexion à Internet</string>
+    <string name="lists_error_dialog_content">Veuillez contrôler la connexion à Internet.</string>
     <string name="lists_error_dialog_retry">Répéter</string>
 
     <string name="button_login">Se connecter</string>
@@ -161,7 +161,7 @@
     <string name="button_verify">Vérifier le profil</string>
 
     <string name="invalid_login_dialog_title">Connexion invalide</string>
-    <string name="invalid_login_dialog_content">Vous avez rentré des données de connexion invalides</string>
+    <string name="invalid_login_dialog_content">Vous avez rentré des données de connexion invalides.</string>
     <string name="invalid_login_dialog_retry">Réessayer</string>
     <string name="invalid_login_dialog_forgot_password">J\'ai oublié mon mot de passe</string>
 
