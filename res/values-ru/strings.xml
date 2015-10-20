@@ -148,7 +148,7 @@
     <string name="invalid_token_dialog_title">Неверный логин</string>
     <string name="invalid_token_dialog_content">Чтобы подтвердить, что это действительно вы, пожалуйста, войдите снова.</string>
 
-    <string name="timeout_dialog_title">Ваша сессия истекла. Пожалуйста, войдите снова</string>
+    <string name="timeout_dialog_title">Ваша сессия истекла</string>
     <string name="timeout_dialog_content">Войдите снова, пожалуйста.</string>
 
     <string name="redirect_dialog_title">Вы будете перенаправлены</string>
