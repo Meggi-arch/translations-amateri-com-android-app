@@ -87,8 +87,8 @@
     <string name="user_marital_status_all">Tous les états civils</string>
     <string name="user_height_all">Toutes les tailles</string>
     <string name="user_weight_all">Tous les poids</string>
-    <string name="user_filter_show">Afficher %s profil</string>
-    <string name="user_filter_show">Afficher %s profils</string>
+    <string name="user_filter_show_0">Afficher %s profil</string>
+    <string name="user_filter_show_1">Afficher %s profils</string>
     <string name="no_users_found">Aucun utilisateur trouvé</string>
 
     <string name="album_category_all">Toutes les catégories</string>
@@ -96,8 +96,8 @@
     <string name="album_theme_all">Tous les thèmes</string>
     <string name="album_contest_all">Tous les concours</string>
     <string name="album_history_all">Vus et non vus</string>
-    <string name="album_filter_show">Afficher %s album</string>
-    <string name="album_filter_show">Afficher %s albums</string>
+    <string name="album_filter_show_0">Afficher %s album</string>
+    <string name="album_filter_show_1">Afficher %s albums</string>
     <string name="no_albums_found">Aucun album photos trouvé</string>
 
     <string name="author">Auteur</string>
