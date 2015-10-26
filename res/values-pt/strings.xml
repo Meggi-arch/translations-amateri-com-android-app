@@ -132,8 +132,6 @@
 
     <string name="old_dialog_title">Versão anterior</string>
     <string name="menu_badges">Marcações</string>
-    <string name="people_0">%s gostam da pessoa</string>
-    <string name="people_1">%s pessoas gostam</string>
 
     <string name="old_dialog_content">Infelizmente, você está usando uma versão que não é mais suportada. Uma nova versão aprimorada do aplicativo está disponível. Você deseja baixá-la?</string>
     <string name="old_dialog_exit">Sair</string>
