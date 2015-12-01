@@ -74,12 +74,6 @@
 
     <string name="title_filter">Pesquisar</string>
 
-    <string name="people_0">%s pessoa gosta</string>
-    <string name="people_1">%s pessoas gostam</string>
-
-    <string name="hours_0">hora</string>
-    <string name="hours_1">horas</string>
-    
     <string name="user_content_all">Todos os tipos de conteúdo</string>
     <string name="user_sex_all">Todos os gêneros</string>
     <string name="user_age_all">Todas as faixas etárias</string>
@@ -89,8 +83,6 @@
     <string name="user_marital_status_all">Todos os estados civis</string>
     <string name="user_height_all">Todas as alturas</string>
     <string name="user_weight_all">Todos os pesos</string>
-    <string name="user_filter_show_0">Mostrar %s perfil</string>
-    <string name="user_filter_show_1">Mostrar %s perfis</string>
     <string name="no_users_found">Nenhum usuário encontrado</string>
 
     <string name="album_category_all">Todas as categorias</string>
@@ -98,8 +90,6 @@
     <string name="album_theme_all">Todos os tópicos</string>
     <string name="album_contest_all">Todos os concursos</string>
     <string name="album_history_all">Visualizados e não visualizados</string>
-    <string name="album_filter_show_0">Mostrar %s álbum</string>
-    <string name="album_filter_show_1">Mostrar %s álbuns</string>
     <string name="no_albums_found">Nenhum álbum encontrado</string>
 
     <string name="author">Autor</string>
@@ -173,4 +163,26 @@
     <string name="welcome_dialog_title">Seja bem-vindo</string>
     <string name="welcome_dialog_text">Obrigado por nos ajudar a desenvolver este aplicativo. Nós ficamos felizes em receber sua opinião, clique no link no menu à esquerda.</string>
     <string name="welcome_dialog_ok">OK</string>
+
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s pessoa gosta</item>
+        <item quantity="other">%s pessoas gostam</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">hora</item>
+        <item quantity="other">horas</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Mostrar %s perfil</item>
+        <item quantity="other">Mostrar %s perfis</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Mostrar %s álbum</item>
+        <item quantity="other">Mostrar %s álbun</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Show %s video</item>
+        <item quantity="other">Show %s videos</item>
+    </plurals>
 </resources>
