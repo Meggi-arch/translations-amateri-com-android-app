@@ -78,16 +78,6 @@
 
     <string name="title_filter">Traži</string>
 
-    <string name="people_0">%s osobi se sviđa</string>
-    <string name="people_1">%s osobe se sviđa</string>
-    <string name="people_2">%s osoba se sviđa</string>
-    <string name="people_3">%s osoba se sviđa</string>
-
-    <string name="hours_0">sat</string>
-    <string name="hours_1">sata</string>
-    <string name="hours_2">sati</string>
-    <string name="hours_2">sati</string>
-    
     <string name="user_content_all">Sve vrste sadržaja</string>
     <string name="user_sex_all">Svi spolovi</string>
     <string name="user_age_all">Sve dobne kategorije</string>
@@ -97,10 +87,6 @@
     <string name="user_marital_status_all">Svi obiteljski statusi</string>
     <string name="user_height_all">Sve visine</string>
     <string name="user_weight_all">Sve težine</string>
-    <string name="user_filter_show_0">Prikaži %s profil</string>
-    <string name="user_filter_show_1">Prikaži %s profila</string>
-    <string name="user_filter_show_2">Prikaži %s profila</string>
-    <string name="user_filter_show_3">Prikaži %s profila</string>
     <string name="no_users_found">Nije pronađen nijedan korisnik</string>
 
     <string name="album_category_all">Sve kategorije</string>
@@ -108,10 +94,6 @@
     <string name="album_theme_all">Sve teme</string>
     <string name="album_contest_all">Svi natječaji</string>
     <string name="album_history_all">Pregledano i nepregledano</string>
-    <string name="album_filter_show_0">Prikaži %s album</string>
-    <string name="album_filter_show_1">Prikaži %s albuma</string>
-    <string name="album_filter_show_2">Prikaži %s albuma</string>
-    <string name="album_filter_show_3">Prikaži %s albuma</string>
     <string name="no_albums_found">Nije pronađen nijedan album</string>
 
     <string name="category">Kategorija</string>
@@ -180,4 +162,36 @@
     <string name="welcome_dialog_title">Dobrodošli</string>
     <string name="welcome_dialog_text">Hvala što nam pomažete u razvoju ove aplikacije. Željeli bismo dobiti vaše povratne informacije, molimo vas kliknite na poveznicu u lijevom izborniku.</string>
     <string name="welcome_dialog_ok">U redu</string>
+
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s osobi se sviđa</item>
+        <item quantity="few">%s osobe se sviđa</item>
+        <item quantity="many">%s osoba se sviđa</item>
+        <item quantity="other">%s osoba se sviđa</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">sat</item>
+        <item quantity="few">sata</item>
+        <item quantity="many">sati</item>
+        <item quantity="other">sati</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Prikaži %s profil</item>
+        <item quantity="few">Prikaži %s profila</item>
+        <item quantity="many">Prikaži %s profila</item>
+        <item quantity="other">Prikaži %s profila</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Prikaži %s album</item>
+        <item quantity="few">Prikaži %s albuma</item>
+        <item quantity="many">Prikaži %s albuma</item>
+        <item quantity="other">Prikaži %s albuma</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Show %s video</item>
+        <item quantity="few">Show %s video</item>
+        <item quantity="many">Show %s video</item>
+        <item quantity="other">Show %s videos</item>
+    </plurals>
 </resources>
