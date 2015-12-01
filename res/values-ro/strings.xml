@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s like the person</item>
+        <item quantity="other">%s people like</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">hour</item>
+        <item quantity="other">hours</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Show %s profile</item>
+        <item quantity="other">Show %s profiles</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Show %s album</item>
+        <item quantity="other">Show %s albums</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Show %s video</item>
+        <item quantity="other">Show %s videos</item>
+    </plurals>
+</resources>
