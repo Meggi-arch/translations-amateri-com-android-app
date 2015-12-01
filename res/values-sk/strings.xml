@@ -71,15 +71,6 @@
 
 	<string name="title_filter">Hľadanie</string>
 
-
-    <string name="people_0">%s člověku sa páči</string>
-    <string name="people_1">%s ľuďom sa páči</string>
-    <string name="people_2">%s ľuďom sa páči</string>
-
-	<string name="hours_0">hodina</string>
-	<string name="hours_1">hodiny</string>
-	<string name="hours_2">hodín</string>
-
 	<string name="general_error">Ups!</string>
 	<string name="user_content_all">Všetky typy obsahu</string>
 	<string name="user_sex_all">Všetky pohlavia</string>
@@ -90,9 +81,6 @@
 	<string name="user_marital_status_all">Všetky rodinné stavy</string>
 	<string name="user_height_all">Všetky výšky</string>
 	<string name="user_weight_all">Všetky váhy</string>
-	<string name="user_filter_show_0">Zobraziť %s profil</string>
-	<string name="user_filter_show_1">Zobraziť %s profily</string>
-	<string name="user_filter_show_2">Zobraziť %s profilov</string>
 	<string name="no_users_found">Nenájdení žiadni užívatelia</string>
 
 	<string name="album_category_all">Všetky typy obsahu</string>
@@ -100,9 +88,6 @@
 	<string name="album_theme_all">Všetky témy</string>
 	<string name="album_contest_all">Všetky súťaže</string>
 	<string name="album_history_all">Pozreté aj nepozreté</string>
-	<string name="album_filter_show_0">Zobraziť %s album</string>
-    <string name="album_filter_show_1">Zobraziť %s albumy</string>
-    <string name="album_filter_show_2">Zobraziť %s albumov</string>
 	<string name="no_albums_found">Nenájdené žiadne albumy</string>
 
 	<string name="author">autor</string>
@@ -183,4 +168,31 @@
 
     <string name="timeout_dialog_title">Platnosť prihlásenia vypršala</string>
     <string name="timeout_dialog_content">Prihláste sa opäť.</string>
-    </resources>
+
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s člověku sa páči</item>
+        <item quantity="few">%s ľuďom sa páči</item>
+        <item quantity="other">%s ľuďom sa páči</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">hodina</item>
+        <item quantity="few">hodiny</item>
+        <item quantity="other">hodín</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Zobraziť %s profil</item>
+        <item quantity="few">Zobraziť %s profily</item>
+        <item quantity="other">Zobraziť %s profilov</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Zobraziť %s album</item>
+        <item quantity="few">Zobraziť %s albumy</item>
+        <item quantity="other">Zobraziť %s albumov</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Zobraziť %s video</item>
+        <item quantity="few">Zobraziť %s videa</item>
+        <item quantity="other">Zobraziť %s videí</item>
+    </plurals>
+</resources>
