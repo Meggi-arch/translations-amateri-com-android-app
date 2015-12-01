@@ -70,12 +70,6 @@
 
 	<string name="title_filter">Suche</string>
 
-    <string name="people_0">Gefällt %s Person</string>
-    <string name="people_1">Gefällt %s Personen</string>
-
-	<string name="hours_0">Stunde</string>
-	<string name="hours_1">Stunden</string>
-
 	<string name="user_content_all">Alle Inhaltstypen</string>
 	<string name="user_sex_all">Alle Geschlechter</string>
 	<string name="user_age_all">Alle Altersgruppen</string>
@@ -85,8 +79,6 @@
 	<string name="user_marital_status_all">Alle Familienstände</string>
 	<string name="user_height_all">Alle Größen</string>
 	<string name="user_weight_all">Alle Gewichtsklassen</string>
-	<string name="user_filter_show_0">%s Profil zeigen</string>
-	<string name="user_filter_show_1">%s Profile zeigen</string>
 	<string name="no_users_found">Keine Benutzer gefunden</string>
 
 	<string name="album_category_all">Alle Inhaltstypen</string>
@@ -94,8 +86,6 @@
 	<string name="album_theme_all">Alle Themen</string>
 	<string name="album_contest_all">Alle Wettbewerbe</string>
 	<string name="album_history_all">Angesehene und nicht-angesehene</string>
-	<string name="album_filter_show_0">%s Album zeigen</string>
-    <string name="album_filter_show_1">%s Alben anzeigen</string>
 	<string name="no_albums_found">Keine Fotoalben gefunden</string>
 
 	<string name="author">Autor</string>
@@ -176,4 +166,26 @@
 
     <string name="timeout_dialog_title">Die Sitzung ist abgelaufen</string>
     <string name="timeout_dialog_content">Bitte melden Sie sich erneut an.</string>
-    </resources>
+
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">Gefällt %s Person</item>
+        <item quantity="other">Gefällt %s Personen</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">Stunde</item>
+        <item quantity="other">Stunden</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">%s Profil zeigen</item>
+        <item quantity="other">%s Profile zeigen</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">%s Album zeigen</item>
+        <item quantity="other">%s Alben anzeigen</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Show %s video</item>
+        <item quantity="other">Show %s videos</item>
+    </plurals>
+</resources>
