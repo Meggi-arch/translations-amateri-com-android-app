@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Amateri</string>
-
     <string name="general_error">Ouch!</string>
     <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
     <string name="general_loading">Please wait while we load the data</string>
 
     <!--MainActivity-->
     <string name="title_album">Albums</string>
+    <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
     <string name="title_my_profile">My profile</string>
     <string name="title_logout">Log out</string>
@@ -23,6 +22,11 @@
     <string name="title_comments">Comments</string>
     <string name="title_next_comments">More comments (%s)</string>
     <string name="title_next_albums">More albums (%s)</string>
+    <string name="album_comment_fail">Unable to send comment</string>
+
+    <!--VideoDetailActivity-->
+    <string name="title_next_videos">More videos (%s)</string>
+    <string name="video_comment_fail">Unable to send comment</string>
 
     <!-- Menu -->
     <string name="menu_notification">Notifications</string>
@@ -35,11 +39,11 @@
     <string name="hint_password">Password</string>
 
     <string name="tab_albums">Albums</string>
+    <string name="tab_videos">Videos</string>
     <string name="tab_info">Info</string>
     <string name="tab_user">User</string>
     <string name="tab_album">Album</string>
-
-    <string name="empty_people">No items</string>
+    <string name="tab_video">Video</string>
 
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
@@ -69,23 +73,34 @@
     <string name="title_kilograms">kg</string>
     <string name="toast_copied_text">The url has been copied to your clipboard!</string>
     <string name="title_share">Share</string>
-    <string name="title_profile">Profile</string>
-    <string name="profile_he">He</string>
-    <string name="profile_she">She</string>
     <string name="profile_male">Man</string>
     <string name="profile_female">Woman</string>
     <string name="profile_group">Group</string>
 
     <string name="title_filter">Search</string>
 
-    <!-- people -->
-    <string name="people_0">%s like the person</string>
-    <string name="people_1">%s people like</string>
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s like the person</item>
+        <item quantity="other">%s people like</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">hour</item>
+        <item quantity="other">hours</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Show %s profile</item>
+        <item quantity="other">Show %s profiles</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Show %s album</item>
+        <item quantity="other">Show %s albums</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Show %s video</item>
+        <item quantity="other">Show %s videos</item>
+    </plurals>
 
-    <!-- hours -->
-    <string name="hours_0">hour</string>
-    <string name="hours_1">hours</string>
-    
     <!--FilterUserFragment-->
     <string name="user_content_all">All content type</string>
     <string name="user_sex_all">All sex</string>
@@ -96,8 +111,6 @@
     <string name="user_marital_status_all">All family statuses</string>
     <string name="user_height_all">All heights</string>
     <string name="user_weight_all">All weights</string>
-    <string name="user_filter_show_0">Show %s profile</string>
-    <string name="user_filter_show_1">Show %s profiles</string>
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
@@ -106,9 +119,15 @@
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
     <string name="album_history_all">Viewed and not viewed</string>
-    <string name="album_filter_show_0">Show %s album</string>
-    <string name="album_filter_show_1">Show %s albums</string>
     <string name="no_albums_found">No albums found</string>
+
+    <!--FilterVideoFragment-->
+    <string name="video_category_all">All categories</string>
+    <string name="video_verified_all">Verified and unverified</string>
+    <string name="video_duration_all">All durations</string>
+    <string name="video_contest_all">All contests</string>
+    <string name="video_history_all">Viewed and not viewed</string>
+    <string name="no_videos_found">No videos found</string>
 
     <!--AlbumInfoActivity-->
     <string name="author">Author</string>
@@ -125,8 +144,8 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
 
-    <!--AlbumUserFragment-->
-    <string name="error_no_albums">No albums to view.</string>
+    <!--VideoInfoActivity-->
+    <string name="video_duration">Duration</string>
 
     <!--Notification menu-->
     <string name="notifications_title">Notification</string>
@@ -147,12 +166,8 @@
 
     <!-- Old version dialog -->
     <string name="old_dialog_title">Old version</string>
-    <string name="old_dialog_content">Unfortunately you’re using a version which is no longer supported. New enhanced version version of the application is available. Do you want to download it?</string>
+    <string name="old_dialog_content">Unfortunately you’re using a version which is no longer supported. New enhanced version of the application is available. Do you want to download it?</string>
     <string name="old_dialog_exit">Leave</string>
-
-    <!-- Invalid token dialog -->
-    <string name="invalid_token_dialog_title">Invalid login</string>
-    <string name="invalid_token_dialog_content">To make sure that it is really you, please log in again.</string>
 
     <!--Timeout dialog-->
     <string name="timeout_dialog_title">Session expired</string>
@@ -197,4 +212,42 @@
     <string name="welcome_dialog_title">Welcome</string>
     <string name="welcome_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
     <string name="welcome_dialog_ok">OK</string>
+
+    <!-- Comment not allowed dialog -->
+    <string name="comment_disallowed_dialog_text">Only verified users can comment this album.</string>
+    <string name="comment_disallowed_dialog_ok">OK</string>
+
+    <!-- Buy VIP dialog -->
+    <string name="vip_dialog_title">We are sorry, but only VIP members can use this feature for free.</string>
+    <string name="vip_dialog_activate">I want to become VIP member</string>
+    <string name="vip_dialog_login">Log in</string>
+    <string name="vip_dialog_register">Register</string>
+
+    <!-- FeedbackActivity -->
+    <string name="title_activity_feedback">Send feedback</string>
+    <string name="feedback_email">e-mail</string>
+    <string name="feedback_category">category</string>
+    <string name="feedback_message">your message</string>
+    <string name="feedback_send">Send</string>
+    <string name="feedback_category_default">Choose a category</string>
+    <string name="feedback_ok">OK</string>
+
+    <!-- Change profile photo -->
+    <string name="profile_photo_camera">Take a photo</string>
+    <string name="profile_photo_library">Select from library</string>
+    <string name="profile_photo_processing">Processing photo</string>
+    <string name="profile_photo_change">Change profile photo</string>
+    <string name="profile_photo_fail">Unable to upload profile photo</string>
+    <string name="profile_photo_camera_fail">Unable to find camera app</string>
+
+    <!-- Comment adding -->
+    <string name="comment_write_hint">Write a comment</string>
+    <string name="emoticon_dialog_close">close</string>
+    <string name="emoticon_no_emoticons">No emoticons</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search</string>
+    <string name="search_album_hint">Search in albums</string>
+    <string name="search_video_hint">Search in videos</string>
+    <string name="search_user_hint">Search in users</string>
 </resources>
