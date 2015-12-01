@@ -77,16 +77,6 @@
     <string name="profile_group">Skupina</string>
 
     <string name="title_filter">Hledat</string>
-
-    <!-- people -->
-    <string name="people_0">%s člověku se líbí</string>
-    <string name="people_1">%s lidem se líbí</string>
-    <string name="people_2">%s lidem se líbí</string>
-
-    <!-- hours -->
-    <string name="hours_0">hodina</string>
-    <string name="hours_1">hodiny</string>
-    <string name="hours_2">hodin</string>
     
     <!--FilterUserFragment-->
     <string name="user_content_all">Všechny typy obsahu</string>
@@ -98,9 +88,6 @@
     <string name="user_marital_status_all">Všechny rodinné stavy</string>
     <string name="user_height_all">Všechny výšky</string>
     <string name="user_weight_all">Všechny váhy</string>
-    <string name="user_filter_show_0">Zobrazit %s profil</string>
-    <string name="user_filter_show_1">Zobrazit %s profily</string>
-    <string name="user_filter_show_2">Zobrazit %s profilů</string>
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
 
     <!--FilterAlbumFragment-->
@@ -109,9 +96,6 @@
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Všechny soutěže</string>
     <string name="album_history_all">Shlédnuté i neshlédnuté</string>
-    <string name="album_filter_show_0">Zobrazit %s album</string>
-    <string name="album_filter_show_1">Zobrazit %s alba</string>
-    <string name="album_filter_show_2">Zobrazit %s alb</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
 
     <!--AlbumInfoActivity-->
@@ -201,4 +185,31 @@
     <string name="welcome_dialog_title">Vítejte</string>
     <string name="welcome_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na ni najdete dole v levém menu.</string>
     <string name="welcome_dialog_ok">OK</string>
+
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s člověku se líbí</item>
+        <item quantity="few">%s lidem se líbí</item>
+        <item quantity="other">%s lidem se líbí</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">hodina</item>
+        <item quantity="few">hodiny</item>
+        <item quantity="other">hodin</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Zobrazit %s profil</item>
+        <item quantity="few">Zobrazit %s profily</item>
+        <item quantity="other">Zobrazit %s profilů</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Zobrazit %s album</item>
+        <item quantity="few">Zobrazit %s alba</item>
+        <item quantity="other">Zobrazit %s alb</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Zobrazit %s video</item>
+        <item quantity="few">Zobrazit %s videa</item>
+        <item quantity="other">Zobrazit %s videí</item>
+    </plurals>
 </resources>
