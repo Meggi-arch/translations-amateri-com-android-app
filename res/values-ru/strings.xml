@@ -77,16 +77,6 @@
 
     <string name="title_filter">Поиск</string>
 
-    <string name="people_0">%s человеку понравилось</string>
-    <string name="people_1">%s людям понравилось</string>
-    <string name="people_2">%s людям понравилось</string>
-    <string name="people_3">%s людям понравилось</string>
-
-    <string name="hours_0">час</string>
-    <string name="hours_1">часа</string>
-    <string name="hours_2">часов</string>
-    <string name="hours_3">часов</string>
-
     <string name="user_content_all">Все типы содержания</string>
     <string name="user_sex_all">Весь секс</string>
     <string name="user_age_all">Все возрастные группы</string>
@@ -96,10 +86,6 @@
     <string name="user_marital_status_all">Любое семейное положение</string>
     <string name="user_height_all">Любой рост</string>
     <string name="user_weight_all">Любой вес</string>
-    <string name="user_filter_show_0">Показать %s профиль</string>
-    <string name="user_filter_show_1">Показать %s профиля</string>
-    <string name="user_filter_show_2">Показать %s профилей</string>
-    <string name="user_filter_show_3">Показать %s профилей</string>
     <string name="no_users_found">Пользователи не найдены</string>
 
     <string name="album_category_all">Все типы содержимого</string>
@@ -107,10 +93,6 @@
     <string name="album_theme_all">Все темы</string>
     <string name="album_contest_all">Все конкурсы</string>
     <string name="album_history_all">Просмотренные и непросмотренные</string>
-    <string name="album_filter_show_0">Показать %s альбом</string>
-    <string name="album_filter_show_1">Показать %s альбомa</string>
-    <string name="album_filter_show_2">Показать %s альбомов</string>
-    <string name="album_filter_show_3">Показать %s альбомов</string>
     <string name="no_albums_found">Альбомы не найдены</string>
 
     <string name="author">автор</string>
@@ -182,4 +164,36 @@
     <string name="welcome_dialog_title">Добро пожаловать</string>
     <string name="welcome_dialog_text">Спасибо за то, что вы помогаете нам улучшить приложение. Мы будем рады получить ваш отчет, если вы найдете ссылку в меню внизу.</string>
     <string name="welcome_dialog_ok">ОК</string>
+
+    <!-- plurals -->
+    <plurals name="people">
+        <item quantity="one">%s человеку понравилось</item>
+        <item quantity="few">%s людям понравилось</item>
+        <item quantity="many">%s людям понравилось</item>
+        <item quantity="other">%s людям понравилось</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+        <item quantity="many">часов</item>
+        <item quantity="other">часов</item>
+    </plurals>
+    <plurals name="user_filter_show">
+        <item quantity="one">Показать %s профиль</item>
+        <item quantity="few">Показать %s профиля</item>
+        <item quantity="many">Показать %s профилей</item>
+        <item quantity="other">Показать %s профилей</item>
+    </plurals>
+    <plurals name="album_filter_show">
+        <item quantity="one">Показать %s альбом</item>
+        <item quantity="few">Показать %s альбомa</item>
+        <item quantity="many">Показать %s альбомов</item>
+        <item quantity="other">Показать %s альбомов</item>
+    </plurals>
+    <plurals name="video_filter_show">
+        <item quantity="one">Show %s video</item>
+        <item quantity="few">Show %s video</item>
+        <item quantity="many">Show %s video</item>
+        <item quantity="other">Show %s videos</item>
+    </plurals>
 </resources>
