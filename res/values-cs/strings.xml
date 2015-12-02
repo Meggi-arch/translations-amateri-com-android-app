@@ -212,4 +212,26 @@
         <item quantity="few">Zobrazit %s videa</item>
         <item quantity="other">Zobrazit %s videí</item>
     </plurals>
+<string name="title_videos">Videa</string>
+    <string name="tab_videos">Videa</string>
+    <string name="tab_video">Video</string>
+
+    <string name="video_category_all">Všechny kategorie</string>
+    <string name="video_verified_all">Ověřené i neověřené</string>
+    <string name="video_contest_all">Všechny soutěže</string>
+    <string name="video_history_all">Shlédnuté i neshlédnuté</string>
+    <string name="no_videos_found">Žádná videa nenalezena</string>
+
+    <string name="video_duration">Délka</string>
+
+    <string name="comment_disallowed_dialog_ok">OK</string>
+
+    <string name="title_activity_feedback">Poslat zpětnou vazbu</string>
+    <string name="feedback_email">e-mail</string>
+    <string name="feedback_category">kategorie</string>
+    <string name="feedback_ok">OK</string>
+
+    <string name="emoticon_dialog_close">zavřít</string>
+    <string name="search_hint">Hledat</string>
+    <string name="search_user_hint">Hledat v uživatelých</string>
 </resources>
