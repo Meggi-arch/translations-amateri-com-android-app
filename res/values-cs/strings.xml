@@ -234,4 +234,31 @@
     <string name="emoticon_dialog_close">zavřít</string>
     <string name="search_hint">Hledat</string>
     <string name="search_user_hint">Hledat v uživatelých</string>
-</resources>
+<string name="album_comment_fail">Nelze odeslat komentář</string>
+
+    <string name="title_next_videos">Další videa (%s)</string>
+    <string name="video_comment_fail">Nelze odeslat komentář</string>
+
+    <string name="video_duration_all">Všechny délky</string>
+    <string name="comment_disallowed_dialog_text">Pouze ověření uživatelé mohou komentovat toto album.</string>
+    <string name="vip_dialog_title">Je nám líto, ale jen VIP uživatelé mohou zdarma využívat tuto funkci.</string>
+    <string name="vip_dialog_activate">Chci se stát VIP členem</string>
+    <string name="vip_dialog_login">Přihlásit se</string>
+    <string name="vip_dialog_register">Registrovat se</string>
+
+    <string name="feedback_message">Váš vzkaz</string>
+    <string name="feedback_send">Odeslat</string>
+    <string name="feedback_category_default">Vyberte si kategorii</string>
+    <string name="profile_photo_camera">Pořiďte fotku</string>
+    <string name="profile_photo_library">Vyberte z knihovny</string>
+    <string name="profile_photo_processing">Fotka se zpracovává</string>
+    <string name="profile_photo_change">Změnit profilovku</string>
+    <string name="profile_photo_fail">Nelze nahrát profilovku</string>
+    <string name="profile_photo_camera_fail">Nelze najít fotoaplikaci</string>
+
+    <string name="comment_write_hint">Napsat komentář</string>
+    <string name="emoticon_no_emoticons">Žádné emotikony</string>
+
+    <string name="search_album_hint">Hledat v albech</string>
+    <string name="search_video_hint">Hledat ve videích</string>
+    </resources>
