@@ -184,4 +184,53 @@
         <item quantity="one">Show %s video</item>
         <item quantity="other">Show %s videos</item>
     </plurals>
+<string name="title_videos">Vídeos</string>
+    <string name="album_comment_fail">No se pudo enviar el comentario</string>
+
+    <string name="title_next_videos">Más vídeos (%s)</string>
+    <string name="video_comment_fail">No se pudo enviar el comentario</string>
+
+    <string name="tab_videos">Vídeos</string>
+    <string name="tab_video">Vídeo</string>
+
+    <string name="video_category_all">Todas las categorías</string>
+    <string name="video_verified_all">Verificado y no verificado</string>
+    <string name="video_duration_all">Todas las duraciones</string>
+    <string name="video_contest_all">Todos los concursos</string>
+    <string name="video_history_all">Visionado y no visionado</string>
+    <string name="no_videos_found">Ningún vídeo encontrado</string>
+
+    <string name="video_duration">Duración</string>
+
+    <string name="comment_disallowed_dialog_text">Sólo los usuarios verificados pueden comentar este álbum.</string>
+    <string name="comment_disallowed_dialog_ok">OK</string>
+
+    <string name="vip_dialog_title">Lo sentimos, pero sólo los miembros VIP pueden utilizar esta función de forma gratuita.</string>
+    <string name="vip_dialog_activate">Quiero convertirme en miembro VIP</string>
+    <string name="vip_dialog_login">Iniciar sesión</string>
+    <string name="vip_dialog_register">Registrarse</string>
+
+    <string name="title_activity_feedback">Enviar comentario</string>
+    <string name="feedback_email">correo electrónico</string>
+    <string name="feedback_category">categoría</string>
+    <string name="feedback_message">su mensaje</string>
+    <string name="feedback_send">Enviar</string>
+    <string name="feedback_category_default">Elija una categoría</string>
+    <string name="feedback_ok">OK</string>
+
+    <string name="profile_photo_camera">Tomar una foto</string>
+    <string name="profile_photo_library">Seleccionar de la biblioteca</string>
+    <string name="profile_photo_processing">Procesando la foto</string>
+    <string name="profile_photo_change">Cambiar la foto de perfil</string>
+    <string name="profile_photo_fail">No se pudo cargar la foto de perfil</string>
+    <string name="profile_photo_camera_fail">No se pudo encontrar la aplicación de la cámara</string>
+
+    <string name="comment_write_hint">Escribir un comentario</string>
+    <string name="emoticon_dialog_close">cerrar</string>
+    <string name="emoticon_no_emoticons">Ningún emoticono</string>
+
+    <string name="search_hint">Buscar</string>
+    <string name="search_album_hint">Buscar álbumes</string>
+    <string name="search_video_hint">Buscar vídeos</string>
+    <string name="search_user_hint">Buscar usuarios</string>
 </resources>
