@@ -13,7 +13,7 @@
     <string name="title_my_profile">Мой профиль</string>
     <string name="title_logout">Выход</string>
     <string name="title_version">Версия %s</string>
-    <string name="title_feedback">Отправить отчет</string>
+    <string name="title_feedback">Отправить отзыв</string>
     <string name="title_new_version">Новая версия!</string>
 
     <string name="tab_latest">Новое</string>
@@ -24,12 +24,12 @@
     <string name="title_next_albums">Другие альбомы (%s)</string>
 
     <string name="menu_notification">Оповещения</string>
-    <string name="menu_badges">Бейджи</string>
+    <string name="menu_badges">Теги</string>
     <string name="menu_reset">Сбросить</string>
 
     <string name="action_try_again">Попробовать снова</string>
 
-    <string name="hint_username">Логин</string>
+    <string name="hint_username">Псевдоним</string>
     <string name="hint_password">Пароль</string>
 
     <string name="tab_albums">Альбомы</string>
@@ -45,7 +45,7 @@
     <string name="filter_sort_by">Сортировать по</string>
 
     <string name="title_personal_info">Личная информация</string>
-    <string name="title_sex">Секс</string>
+    <string name="title_sex">Пол</string>
     <string name="title_age">Возраст</string>
     <string name="title_country">Страна</string>
     <string name="title_region">Регион</string>
@@ -60,14 +60,14 @@
     <string name="title_chat_time">Время в чате</string>
     <string name="title_attended_events">Мероприятия</string>
     <string name="title_views">Просмотры</string>
-    <string name="title_hobbies">Сексуальные хобби и интересы</string>
+    <string name="title_hobbies">Сексуальные предпочтения и интересы</string>
     <string name="title_personal_descr">Личное описание</string>
-    <string name="title_profile_address">Адрес профиля</string>
-    <string name="title_unknown">Недоступен</string>
+    <string name="title_profile_address">URL-адрес профиля</string>
+    <string name="title_unknown">Недоступно</string>
     <string name="title_centimeters">см</string>
     <string name="title_kilograms">кг</string>
-    <string name="toast_copied_text">Адрес был скопирован в ваши входящие сообщения!</string>
-    <string name="title_share">Поделиться адресом</string>
+    <string name="toast_copied_text">Адрес скопирован в буфер!</string>
+    <string name="title_share">Поделиться</string>
     <string name="title_profile">Профиль</string>
     <string name="profile_he">Он</string>
     <string name="profile_she">Она</string>
@@ -77,8 +77,8 @@
 
     <string name="title_filter">Поиск</string>
 
-    <string name="user_content_all">Все типы содержания</string>
-    <string name="user_sex_all">Весь секс</string>
+    <string name="user_content_all">Все типы контента</string>
+    <string name="user_sex_all">Оба пола</string>
     <string name="user_age_all">Все возрастные группы</string>
     <string name="user_country_all">Все страны</string>
     <string name="user_region_all">Все регионы</string>
@@ -88,49 +88,49 @@
     <string name="user_weight_all">Любой вес</string>
     <string name="no_users_found">Пользователи не найдены</string>
 
-    <string name="album_category_all">Все типы содержимого</string>
+    <string name="album_category_all">Все категории</string>
     <string name="album_verified_all">Проверенные и непроверенные</string>
     <string name="album_theme_all">Все темы</string>
-    <string name="album_contest_all">Все конкурсы</string>
+    <string name="album_contest_all">Все дискуссии</string>
     <string name="album_history_all">Просмотренные и непросмотренные</string>
     <string name="no_albums_found">Альбомы не найдены</string>
 
-    <string name="author">автор</string>
-    <string name="category">категория</string>
-    <string name="photo_count">количество фотографий</string>
-    <string name="vip">vip</string>
-    <string name="certificated">проверено</string>
-    <string name="views">просмотры</string>
-    <string name="rating">рейтинг</string>
-    <string name="comments">комментарии</string>
-    <string name="added">добавлено</string>
+    <string name="author">Автор</string>
+    <string name="category">Категория</string>
+    <string name="photo_count">Количество фотографий</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Проверено</string>
+    <string name="views">Просмотры</string>
+    <string name="rating">Рейтинг</string>
+    <string name="comments">Комментарии</string>
+    <string name="added">Добавлено</string>
     <string name="album_number">ID альбома</string>
-    <string name="album_address">адрес альбома</string>
+    <string name="album_address">URL-адрес альбома</string>
     <string name="error_no_albums">Нет альбомов для просмотра.</string>
 
-    <string name="notifications_title">Оповещения</string>
+    <string name="notifications_title">Оповещение</string>
     <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Просмотры профиля</string>
     <string name="notifications_messages">Сообщения</string>
     <string name="notifications_dating_messages">Ответы на объявления</string>
     <string name="notifications_requests">Запросы на добавление в друзья</string>
-    <string name="notifications_favourites">Понравилось</string>
+    <string name="notifications_favourites">Добавили меня в избранное</string>
     <string name="notifications_profile_setup">Настройки аккаунта</string>
     <string name="notifications_profile_edit">Редактировать профиль</string>
 
     <string name="update_dialog_title">Новая версия</string>
-    <string name="update_dialog_content">У нас есть новая, более интересная версия приложения для вас. Хотите скачать ее?</string>
+    <string name="update_dialog_content">У нас есть новая, более интересная версия приложения. Хотите скачать ее?</string>
     <string name="update_dialog_later">Позже</string>
     <string name="update_dialog_download">Скачать</string>
 
-    <string name="old_dialog_title">Устаревшая версия</string>
-    <string name="old_dialog_content">К сожалению, вы используете версию приложения, которая не поддерживается. Мы приготовили для вас новую, более интересную и улучшенную версию. Хотите скачать ее?</string>
-    <string name="old_dialog_exit">Покинуть</string>
+    <string name="old_dialog_title">Старая версия</string>
+    <string name="old_dialog_content">К сожалению, вы используете версию приложения, которая больше не поддерживается. Мы приготовили для вас новую, более интересную и улучшенную версию. Хотите скачать ее?</string>
+    <string name="old_dialog_exit">Уйти</string>
 
     <string name="invalid_token_dialog_title">Неверный логин</string>
     <string name="invalid_token_dialog_content">Чтобы подтвердить, что это действительно вы, пожалуйста, войдите снова.</string>
 
-    <string name="timeout_dialog_title">Ваша сессия истекла</string>
+    <string name="timeout_dialog_title">Сессия истекла</string>
     <string name="timeout_dialog_content">Войдите снова, пожалуйста.</string>
 
     <string name="redirect_dialog_title">Вы будете перенаправлены</string>
@@ -148,21 +148,21 @@
     <string name="button_registration">Регистрация</string>
     <string name="button_entry">Войти без логина</string>
 
-    <string name="title_filter_results">Искать результаты</string>
+    <string name="title_filter_results">Результаты поиска</string>
 
     <string name="button_verify">Верифицировать профиль</string>
 
     <string name="invalid_login_dialog_title">Неверный логин</string>
     <string name="invalid_login_dialog_content">Вы ввели неверную информацию.</string>
     <string name="invalid_login_dialog_retry">Попробовать снова</string>
-    <string name="invalid_login_dialog_forgot_password">Вспомнить пароль</string>
+    <string name="invalid_login_dialog_forgot_password">Я не помню пароль</string>
 
-    <string name="feedback_dialog_title">Отчет</string>
-    <string name="feedback_dialog_text">Спасибо за то, что вы помогаете нам улучшить приложение. Мы будем рады получить ваш отчет, если вы найдете ссылку в меню внизу.</string>
+    <string name="feedback_dialog_title">Отзыв</string>
+    <string name="feedback_dialog_text">Спасибо за то, что вы помогаете нам в разработке приложения. Мы будем рады получить ваш отзыв, пожалуйста, перейдите по ссылке в левом меню.</string>
     <string name="feedback_dialog_ok">ОК</string>
 
     <string name="welcome_dialog_title">Добро пожаловать</string>
-    <string name="welcome_dialog_text">Спасибо за то, что вы помогаете нам улучшить приложение. Мы будем рады получить ваш отчет, если вы найдете ссылку в меню внизу.</string>
+    <string name="welcome_dialog_text">Спасибо за то, что вы помогаете нам в разработке приложения. Мы будем рады получить ваш отзыв, пожалуйста, перейдите по ссылке в левом меню.</string>
     <string name="welcome_dialog_ok">ОК</string>
 
     <!-- plurals -->
@@ -206,19 +206,19 @@
     <string name="tab_video">Видео</string>
 
     <string name="video_category_all">Все категории</string>
-    <string name="video_verified_all">Проверено и не проверено</string>
+    <string name="video_verified_all">Проверенные и непроверенные</string>
     <string name="video_duration_all">Любой продолжительности</string>
-    <string name="video_contest_all">Все конкурирующие</string>
+    <string name="video_contest_all">Все дискуссии</string>
     <string name="video_history_all">Просмотренные и непросмотренные</string>
-    <string name="no_videos_found">Видео не найдены</string>
+    <string name="no_videos_found">Видео не найдено</string>
 
     <string name="video_duration">Продолжительность</string>
 
     <string name="comment_disallowed_dialog_text">Только подтвержденные пользователи могут комментировать данный альбом.</string>
     <string name="comment_disallowed_dialog_ok">ОК</string>
 
-    <string name="vip_dialog_title">Извините, но только ВИП-члены могут использовать данную функцию бесплатно.</string>
-    <string name="vip_dialog_activate">Я хочу стать ВИП-членом</string>
+    <string name="vip_dialog_title">Извините, но только ВИП-пользователи могут использовать данную функцию бесплатно.</string>
+    <string name="vip_dialog_activate">Я хочу стать ВИП-пользователем</string>
     <string name="vip_dialog_login">Войти</string>
     <string name="vip_dialog_register">Зарегистрироваться</string>
 
@@ -242,7 +242,7 @@
     <string name="emoticon_no_emoticons">Без смайликов</string>
 
     <string name="search_hint">Поиск</string>
-    <string name="search_album_hint">Искать в альбомах</string>
-    <string name="search_video_hint">Искать в видео</string>
+    <string name="search_album_hint">Поиск по альбомам</string>
+    <string name="search_video_hint">Поиск по видео</string>
     <string name="search_user_hint">Поиск по пользователям</string>
 </resources>
