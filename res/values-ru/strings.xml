@@ -196,4 +196,53 @@
         <item quantity="many">Show %s video</item>
         <item quantity="other">Show %s videos</item>
     </plurals>
+<string name="title_videos">Видео</string>
+    <string name="album_comment_fail">Невозможно отправить комментарий</string>
+
+    <string name="title_next_videos">Больше видео (%s)</string>
+    <string name="video_comment_fail">Невозможно отправить комментарий</string>
+
+    <string name="tab_videos">Видео</string>
+    <string name="tab_video">Видео</string>
+
+    <string name="video_category_all">Все категории</string>
+    <string name="video_verified_all">Проверено и не проверено</string>
+    <string name="video_duration_all">Любой продолжительности</string>
+    <string name="video_contest_all">Все конкурирующие</string>
+    <string name="video_history_all">Просмотренные и непросмотренные</string>
+    <string name="no_videos_found">Видео не найдены</string>
+
+    <string name="video_duration">Продолжительность</string>
+
+    <string name="comment_disallowed_dialog_text">Только подтвержденные пользователи могут комментировать данный альбом.</string>
+    <string name="comment_disallowed_dialog_ok">ОК</string>
+
+    <string name="vip_dialog_title">Извините, но только ВИП-члены могут использовать данную функцию бесплатно.</string>
+    <string name="vip_dialog_activate">Я хочу стать ВИП-членом</string>
+    <string name="vip_dialog_login">Войти</string>
+    <string name="vip_dialog_register">Зарегистрироваться</string>
+
+    <string name="title_activity_feedback">Отправить отзыв</string>
+    <string name="feedback_email">e-mail</string>
+    <string name="feedback_category">категория</string>
+    <string name="feedback_message">ваше сообщение</string>
+    <string name="feedback_send">Отправить</string>
+    <string name="feedback_category_default">Выберите категорию</string>
+    <string name="feedback_ok">ОК</string>
+
+    <string name="profile_photo_camera">Сделать фото</string>
+    <string name="profile_photo_library">Выбрать из библиотеки</string>
+    <string name="profile_photo_processing">Фото обрабатывается</string>
+    <string name="profile_photo_change">Изменить фото профиля</string>
+    <string name="profile_photo_fail">Не удается загрузить фото профиля</string>
+    <string name="profile_photo_camera_fail">Не удается найти приложение камеры</string>
+
+    <string name="comment_write_hint">Написать комментарий</string>
+    <string name="emoticon_dialog_close">закрыть</string>
+    <string name="emoticon_no_emoticons">Без смайликов</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="search_album_hint">Искать в альбомах</string>
+    <string name="search_video_hint">Искать в видео</string>
+    <string name="search_user_hint">Поиск по пользователям</string>
 </resources>
