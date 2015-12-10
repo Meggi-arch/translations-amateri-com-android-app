@@ -195,4 +195,53 @@
         <item quantity="few">Zobraziť %s videa</item>
         <item quantity="other">Zobraziť %s videí</item>
     </plurals>
+<string name="title_videos">Videá</string>
+    <string name="album_comment_fail">Nie je možné odoslať komentár</string>
+
+    <string name="title_next_videos">Ďalšie videá (%s)</string>
+    <string name="video_comment_fail">Nie je možné odoslať komentár</string>
+
+    <string name="tab_videos">Videá</string>
+    <string name="tab_video">Video</string>
+
+    <string name="video_category_all">Všetky kategórie</string>
+    <string name="video_verified_all">Overené aj neoverené</string>
+    <string name="video_duration_all">Všetky dĺžky</string>
+    <string name="video_contest_all">Všetky súťaže</string>
+    <string name="video_history_all">Pozreté aj nepozreté</string>
+    <string name="no_videos_found">Nenájdené žiadne videá</string>
+
+    <string name="video_duration">Dĺžka</string>
+
+    <string name="comment_disallowed_dialog_text">Iba overení užívatelia môžu komentovať tento album.</string>
+    <string name="comment_disallowed_dialog_ok">OK</string>
+
+    <string name="vip_dialog_title">Ľutujeme, ale iba VIP užívatelia môžu využívať túto funkciu zadarmo.</string>
+    <string name="vip_dialog_activate">Chcem sa stať VIP členom</string>
+    <string name="vip_dialog_login">Prihlásiť sa</string>
+    <string name="vip_dialog_register">Registrovať sa</string>
+
+    <string name="title_activity_feedback">Poslať spätnú väzbu</string>
+    <string name="feedback_email">e-mail</string>
+    <string name="feedback_category">kategória</string>
+    <string name="feedback_message">Vaša pošta</string>
+    <string name="feedback_send">Odoslať</string>
+    <string name="feedback_category_default">Vyberte si kategóriu</string>
+    <string name="feedback_ok">OK</string>
+
+    <string name="profile_photo_camera">Urobte fotku</string>
+    <string name="profile_photo_library">Vyberte z knižnice</string>
+    <string name="profile_photo_processing">Fotografia sa spracuváva</string>
+    <string name="profile_photo_change">Zmeniť profilovku</string>
+    <string name="profile_photo_fail">Nie je možne nahrať profilovku</string>
+    <string name="profile_photo_camera_fail">Nie je možné nájsť fotoaplikáciu</string>
+
+    <string name="comment_write_hint">Napísať komentár</string>
+    <string name="emoticon_dialog_close">zavrieť</string>
+    <string name="emoticon_no_emoticons">Žiadne emotikony</string>
+
+    <string name="search_hint">Hľadať</string>
+    <string name="search_album_hint">Hľadať v albumoch</string>
+    <string name="search_video_hint">Hľadať vo videách</string>
+    <string name="search_user_hint">Hľadať v užívateľoch</string>
 </resources>
