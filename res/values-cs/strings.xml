@@ -389,7 +389,7 @@
     <string name="notification_friendship_approve_title">Žádost o přátelství přijmuta</string>
     <string name="notification_friendship_approve_text">Gratulujeme, vy a %s jste nyní přátelé.</string>
 
-    <string name="notification_favourite_add_text">Uživatel %s si vás přidal ke svým oblíbeným.</string>
+    <string name="notification_favourite_add_text">Uživatel/ka %s si vás přidal/a ke svým oblíbeným.</string>
 
     <string name="notification_album_comment_add_title">Nový komentář k albu</string>
     <string name="notification_video_comment_add_title">Nový komentář k videu</string>
