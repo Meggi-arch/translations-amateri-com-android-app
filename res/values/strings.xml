@@ -6,7 +6,6 @@
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
 
-
     <!--MainActivity-->
     <string name="title_album">Albums</string>
     <string name="title_videos">Videos</string>
@@ -28,15 +27,15 @@
     <string name="title_comments">Comments</string>
     <string name="title_next_comments">More comments (%s)</string>
     <string name="title_next_albums">More albums (%s)</string>
-    <string name="album_comment_disallowed">You are not allowed to comment</string>
     <string name="album_comment_fail">Unable to send comment</string>
+    <string name="album_comment_disallowed">You are not allowed to comment</string>
 
     <!--VideoDetailActivity-->
     <string name="title_next_videos">More videos (%s)</string>
     <string name="video_comment_fail">Unable to send comment</string>
     <string name="video_comment_disallowed">You are not allowed to comment</string>
 
-    <!-- Menu -->
+    <!--Menu-->
     <string name="menu_notification">Notifications</string>
     <string name="menu_badges">Tags</string>
     <string name="menu_reset">Reset</string>
@@ -89,7 +88,7 @@
 
     <string name="title_filter">Search</string>
 
-    <!-- plurals -->
+    <!--plurals-->
     <plurals name="people">
         <item quantity="one">%s like the person</item>
         <item quantity="other">%s people like</item>
@@ -168,13 +167,13 @@
     <string name="notifications_requests">Friend requests</string>
     <string name="notifications_favourites">Added me to favourites</string>
 
-    <!-- Update dialog -->
+    <!--Update dialog-->
     <string name="update_dialog_title">New version</string>
     <string name="update_dialog_content">New enhanced and juicier version of the application is available. Do you want to download it?</string>
     <string name="update_dialog_later">Later</string>
     <string name="update_dialog_download">Download</string>
 
-    <!-- Old version dialog -->
+    <!--Old version dialog-->
     <string name="old_dialog_title">Old version</string>
     <string name="old_dialog_content">Unfortunately you’re using a version which is no longer supported. New enhanced version of the application is available. Do you want to download it?</string>
     <string name="old_dialog_exit">Leave</string>
@@ -183,16 +182,16 @@
     <string name="timeout_dialog_title">Session expired</string>
     <string name="timeout_dialog_content">Please log in again.</string>
 
-    <!-- Redirect dialog -->
+    <!--Redirect dialog-->
     <string name="redirect_dialog_title">You will be redirected</string>
     <string name="redirect_dialog_content">This part of the application is only accessible via the web interface. Want to be redirected to the website?</string>
 
-    <!-- Unauthorized dialog -->
+    <!--Unauthorized dialog-->
     <string name="unauthorized_dialog_title">You aren’t logged in</string>
     <string name="unauthorized_dialog_content">You need to log in to use this function.</string>
     <string name="unauthorized_dialog_register">Sign up</string>
 
-    <!-- Lists error dialog -->
+    <!--Lists error dialog-->
     <string name="lists_error_dialog_title">Connection error</string>
     <string name="lists_error_dialog_content">Please check your internet connection.</string>
     <string name="lists_error_dialog_retry">Repeat</string>
@@ -202,27 +201,37 @@
     <string name="button_registration">Sign up</string>
     <string name="button_entry">Enter without login</string>
 
-    <!-- FilterAlbumActivity | FilterUserActivity -->
+    <!--FilterAlbumActivity | FilterUserActivity-->
     <string name="title_filter_results">Search results</string>
 
-    <!-- Invalid login dialog -->
+    <!--MyProfileActivity-->
+    <string name="verify_button">Verify profile</string>
+    <string name="verify_title">Get more trustworthy verified profile right now</string>
+    <string name="verify_chooser_title">Choose a photo</string>
+    <string name="verify_text">Write your nick, current date, name amateri.com on the paper and take a photo with it. If you are using the profile as a pair, we need a verification photo from you both.</string>
+    <string name="verify_more_info">More information</string>
+    <string name="verify_send">Upload verification photo</string>
+    <string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
+    <string name="done">Done!</string>
+
+    <!--Invalid login dialog-->
     <string name="invalid_login_dialog_title">Invalid login</string>
     <string name="invalid_login_dialog_content">Incorrect login details entered.</string>
     <string name="invalid_login_dialog_retry">Try again</string>
     <string name="invalid_login_dialog_forgot_password">I’ve forgotten my password</string>
 
-    <!-- Feedback dialog -->
+    <!--Feedback dialog-->
     <string name="feedback_dialog_title">Feedback</string>
     <string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
     <string name="feedback_dialog_ok">OK</string>
 
-    <!-- Buy VIP dialog -->
+    <!--Buy VIP dialog-->
     <string name="vip_dialog_title">We are sorry, but only VIP members can use this feature for free.</string>
     <string name="vip_dialog_activate">I want to become VIP member</string>
     <string name="vip_dialog_login">Log in</string>
     <string name="vip_dialog_register">Register</string>
 
-    <!-- FeedbackActivity -->
+    <!--FeedbackActivity-->
     <string name="title_activity_feedback">Send feedback</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">category</string>
@@ -230,7 +239,7 @@
     <string name="feedback_send">Send</string>
     <string name="feedback_category_default">Choose a category</string>
 
-    <!-- Change profile photo -->
+    <!--Change profile photo-->
     <string name="profile_photo_camera">Take a photo</string>
     <string name="profile_photo_library">Select from library</string>
     <string name="profile_photo_processing">Uploading photo</string>
@@ -238,17 +247,18 @@
     <string name="profile_photo_fail">Unable to upload profile photo</string>
     <string name="profile_photo_camera_fail">Unable to find camera app</string>
 
-    <!-- Comment adding -->
+    <!--Comment adding-->
     <string name="comment_write_hint">Write a comment</string>
     <string name="emoticon_dialog_close">close</string>
     <string name="emoticon_no_emoticons">No emoticons</string>
 
-    <!-- Search -->
+    <!--Search-->
     <string name="search_hint">Search</string>
     <string name="search_album_hint">Search in albums</string>
     <string name="search_video_hint">Search in videos</string>
     <string name="search_user_hint">Search in users</string>
 
+    <!--SetupActivity-->
     <string name="setup_notifications">Notifications</string>
     <string name="setup_notification_new_message">New message</string>
     <string name="setup_notification_advert_reply">New dating ad response</string>
@@ -270,7 +280,7 @@
     <string name="setup_update_check">Check for updates</string>
     <string name="setup_no_updates">No updates available</string>
 
-    <!-- LockedActivity -->
+    <!--LockedActivity-->
     <string name="locked_unlock">Unlock</string>
     <string name="locked_forgot_pin">Forgotten PIN code</string>
     <string name="locked_pin_hint">PIN code</string>
@@ -279,11 +289,11 @@
     <string name="locked_bad_pin_retry">Try again</string>
     <string name="locked_bad_pin_forgot">Forgotten PIN code</string>
 
-    <!-- ForgotPinActivity -->
+    <!--ForgotPinActivity-->
     <string name="forgot_pin_forgot_password">Forgotten password</string>
     <string name="forgot_pin_title">Please log in again.</string>
 
-    <!-- Pin Dialogs -->
+    <!--Pin Dialogs-->
     <string name="dialog_pin_title_new">Enter new PIN code</string>
     <string name="dialog_pin_title_old">Enter current PIN code</string>
     <string name="dialog_pin_text_setup">Enter 4-digit PIN code.</string>
@@ -295,7 +305,7 @@
     <string name="dialog_pin_remove">Remove</string>
     <string name="dialog_pin_create">Create</string>
 
-    <!-- AlbumSettingsActivity -->
+    <!--AlbumSettingsActivity-->
     <string name="album_settings_title">Title</string>
     <string name="album_settings_title_hint">Enter title</string>
     <string name="album_settings_description">Description</string>
@@ -317,12 +327,12 @@
     <string name="album_settings_missing_name">Please enter the title</string>
     <string name="album_settings_missing_password">Please enter the password</string>
     <string name="album_not_vip_title">VIP expired</string>
-    <string name="album_not_vip_text">VIP expired. You won't be able to turn the password lock back on.</string>
+    <string name="album_not_vip_text">VIP expired. You won\'t be able to turn the password lock back on.</string>
     <string name="album_not_vip_confirm">Turn off password lock?</string>
     <string name="album_not_vip_main_button">Turn off</string>
     <string name="album_not_vip_other_button">Cancel</string>
 
-    <!-- VideoSettingsActivity -->
+    <!--VideoSettingsActivity-->
     <string name="video_settings_title">Title</string>
     <string name="video_settings_title_hint">Enter title</string>
     <string name="video_settings_description">Description</string>
@@ -342,25 +352,25 @@
     <string name="video_settings_missing_name">Please enter the title</string>
     <string name="video_settings_missing_password">Please enter the password</string>
     <string name="video_not_vip_title">VIP expired</string>
-    <string name="video_not_vip_text">VIP expired. You won't be able to turn the password lock back on.</string>
+    <string name="video_not_vip_text">VIP expired. You won\'t be able to turn the password lock back on.</string>
     <string name="video_not_vip_confirm">Turn off password lock?</string>
     <string name="video_not_vip_main_button">Turn off</string>
     <string name="video_not_vip_other_button">Cancel</string>
 
-    <!-- ProfileAlbumSettingsFragment -->
+    <!--ProfileAlbumSettingsFragment-->
     <string name="profile_album_settings_edit_error">You cannot edit this album</string>
-    <string name="profile_video_settings_edit_error">You cannot edit this video</string>
     <string name="visibility">Published</string>
     <string name="no_album_title">You have no albums yet.</string>
     <string name="no_album_text">To add an album is easy and you can start right now.</string>
     <string name="add_album">Add new album</string>
 
-    <!-- ProfileVideoSettingsFragment -->
+    <!--ProfileVideoSettingsFragment-->
+    <string name="profile_video_settings_edit_error">You cannot edit this video</string>
     <string name="no_video_title">You have no videos yet.</string>
     <string name="no_video_text">To add a video is easy and you can start right now.</string>
     <string name="add_video">Add new video</string>
 
-    <!-- Notification Actions -->
+    <!--Notification Actions-->
     <string name="notification_profile">Profile</string>
     <string name="notification_message">Message</string>
     <string name="notification_album">Album</string>
@@ -371,7 +381,7 @@
     <string name="notification_dating_respond">Reply</string>
     <string name="notification_more_info">Learn more</string>
 
-    <!-- Notification Texts -->
+    <!--Notification Texts-->
     <string name="notification_profile_view_title">New profile visit</string>
     <string name="notification_profile_view_text">%s has just visited your profile.</string>
 
