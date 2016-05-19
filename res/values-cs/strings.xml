@@ -424,4 +424,5 @@
     <string name="notification_friendship_request_text">Uživatel/ka %s by chtěl/a být váš přítel!</string>
 
     <string name="notification_favourite_add_title">Přidání do oblíbených</string>
+    <string name="video_not_vip_title">VIP vypršelo</string>
     </resources>
