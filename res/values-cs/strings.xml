@@ -425,4 +425,13 @@
 
     <string name="notification_favourite_add_title">Přidání do oblíbených</string>
     <string name="video_not_vip_title">VIP vypršelo</string>
+    <string name="verify_button">Ověřit profil</string>
+    <string name="verify_title">Získejte důvěryhodnější ověřený profil hned teď</string>
+    <string name="verify_chooser_title">Vyberte fotku</string>
+    <string name="verify_text">Na papír napište svůj nick (přezdívku), aktuální datum, název amateri.com a s papírem v rukou se vyfoťte. Pokud využíváte profil jako pár, ověřovací fotku potřebujeme od obou.</string>
+    <string name="verify_more_info">Více informací</string>
+    <string name="verify_send">Nahrát ověřovací fotku</string>
+    <string name="verify_done_text">Nový obrázek byl úspěšně nahrán. Ověrovací fotka bude zkontrolována správcem. Děkujeme vám.</string>
+    <string name="done">Hotovo!</string>
+
     </resources>
