@@ -358,7 +358,6 @@
     <string name="video_settings_save_success">Changes saved</string>
     <string name="video_settings_submit">Submit for approval</string>
     <string name="video_settings_submit_success">Changes have been sent for approval</string>
-    <string name="video_settings_comment_default">Comment settings</string>
     <string name="video_settings_missing_name">Please enter the title</string>
     <string name="video_settings_missing_password">Please enter the password</string>
     <string name="video_not_vip_title">VIP membership expired</string>
