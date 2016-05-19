@@ -261,4 +261,150 @@
 
     <string name="search_album_hint">Hledat v albech</string>
     <string name="search_video_hint">Hledat ve videích</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+
+
+    <string name="title_album_settings">Nastavení alba</string>
+    <string name="title_video_settings">Nastavení videa</string>
+    <string name="title_profile_settings">Nastavení obsahu</string>
+
+    <string name="album_filter_show_all">Zobrazit alba</string>
+    <string name="video_filter_show_all">Zobrazit videa</string>
+
+    <string name="video_sex_all">Všechny kategorie</string>
+    <string name="video_number">Video ID</string>
+    <string name="video_address">Video URL</string>
+
+    <string name="setup_notifications">Push notifikace</string>
+    <string name="setup_notification_new_message">Nový vzkaz</string>
+    <string name="setup_notification_advert_reply">Nová odpověd na inzerát v seznamce</string>
+    <string name="setup_notification_new_visit">Nová návštěva profilu</string>
+    <string name="setup_notification_new_album_comment">Nový komentář k albu</string>
+    <string name="setup_notification_new_video_comment">Nový komentář k videu</string>
+    <string name="setup_notification_album_approval">Nově schválené album</string>
+    <string name="setup_notification_video_approval">Nově schválené video</string>
+    <string name="setup_notification_advertisement">Reklamní sdělení</string>
+    <string name="setup_privacy">Zabezpečení</string>
+    <string name="change_pin">Změna PIN kódu</string>
+    <string name="next">Další</string>
+    <string name="setup_about_app">O aplikaci</string>
+    <string name="setup_current_version">Současná verze</string>
+    <string name="setup_update_check">Zkontrolovat aktualizace</string>
+    <string name="setup_no_updates">Zádné aktualizace nejsou k dispozici</string>
+
+    <string name="locked_unlock">Odemknout</string>
+    <string name="locked_forgot_pin">Zapomenutý PIN kód</string>
+    <string name="locked_pin_hint">PIN kód</string>
+    <string name="locked_pin_missing">Zadejte PIN kód</string>
+    <string name="locked_bad_pin_title">Neplatný PIN kód</string>
+    <string name="locked_bad_pin_retry">Zkusit znovu</string>
+    <string name="locked_bad_pin_forgot">Zapomenutý PIN kód</string>
+
+    <string name="forgot_pin_forgot_password">Zapomenuté heslo</string>
+    <string name="forgot_pin_title">Prosím přihlaste se znovu.</string>
+
+    <string name="dialog_pin_title_new">Zadejte nový PIN kód</string>
+    <string name="dialog_pin_title_old">Zadejte současný PIN kód</string>
+    <string name="dialog_pin_text_setup">Zadejte 4-místný PIN kód.</string>
+    <string name="dialog_pin_text_forgot">Zadejte nový 4-místný PIN kód nebo jej odstraňte.</string>
+    <string name="dialog_pin_text_old">Zadejte současný PIN kód.</string>
+    <string name="dialog_pin_text_change_fail">Neplatný PIN kód</string>
+    <string name="dialog_pin_hint_1">Zadejte PIN kód</string>
+    <string name="dialog_pin_hint_2">Zadejte znovu PIN kód</string>
+    <string name="dialog_pin_remove">Odstranit</string>
+    <string name="dialog_pin_create">Vytvořit</string>
+
+    <string name="album_settings_title">Název</string>
+    <string name="album_settings_title_hint">Zadejte název</string>
+    <string name="album_settings_description">Popis</string>
+    <string name="album_settings_description_hint">Zadejte popis</string>
+    <string name="album_settings_category">Kategorie</string>
+    <string name="album_settings_category_default">Vyberte kategorii</string>
+    <string name="album_settings_comment">Nastavení komentářů</string>
+    <string name="album_settings_topic">Téma</string>
+    <string name="album_settings_topic_default">Vyberte téma</string>
+    <string name="album_settings_contest">Soutěž</string>
+    <string name="album_settings_contest_default">Vyberte soutěž</string>
+    <string name="album_settings_vote">Hlasování povoleno</string>
+    <string name="album_settings_password_hint">Zadejte heslo</string>
+    <string name="album_settings_save">Odeslat</string>
+    <string name="album_settings_save_success">Změny uloženy</string>
+    <string name="album_settings_submit">Odeslat ke schválení</string>
+    <string name="album_settings_submit_success">Změny byly odeslány ke schválení</string>
+    <string name="album_settings_missing_name">Prosím vyplňte název</string>
+    <string name="album_settings_missing_password">Prosím vyplňte heslo</string>
+    <string name="album_not_vip_main_button">Vypnout</string>
+    <string name="album_not_vip_other_button">Zrušit</string>
+
+    <string name="video_settings_title">Název</string>
+    <string name="video_settings_title_hint">Zadejte název</string>
+    <string name="video_settings_description">Popis</string>
+    <string name="video_settings_description_hint">Zadejte popis</string>
+    <string name="video_settings_category">Kategorie</string>
+    <string name="video_settings_category_default">Vyberte kategorii</string>
+    <string name="video_settings_comment">Nastavení komentářů</string>
+    <string name="video_settings_contest">Soutěž</string>
+    <string name="video_settings_contest_default">Vyberte soutěž</string>
+    <string name="video_settings_vote">Hlasování povoleno</string>
+    <string name="video_settings_password_hint">Zadejte heslo</string>
+    <string name="video_settings_save">Odeslat</string>
+    <string name="video_settings_save_success">Změny uloženy</string>
+    <string name="video_settings_submit">Odeslat ke schválení</string>
+    <string name="video_settings_submit_success">Změny byly odeslány ke schválení</string>
+    <string name="video_settings_missing_name">Prosím zadejte název</string>
+    <string name="video_settings_missing_password">Prosím zadejte heslo</string>
+    <string name="video_not_vip_main_button">Vypnout</string>
+    <string name="video_not_vip_other_button">Zrušit</string>
+
+    <string name="profile_album_settings_edit_error">Toto album nemůžete upravit</string>
+    <string name="profile_video_settings_edit_error">Toto video nemůžete upravit</string>
+    <string name="visibility">Zveřejněno</string>
+    <string name="no_album_title">Nemáte zatím žádná alba.</string>
+    <string name="no_album_text">Přidat album je snadné a můžete začít hned teď.</string>
+    <string name="add_album">Přidat nové album</string>
+
+    <string name="no_video_title">Nemáte zatím žádná videa.</string>
+    <string name="no_video_text">Přidat video je jednoduché a můžete začít hned teď.</string>
+    <string name="add_video">Přidat nové video</string>
+
+    <string name="notification_profile">Profil</string>
+    <string name="notification_message">Zpráva</string>
+    <string name="notification_album">Album</string>
+    <string name="notification_video">Video</string>
+    <string name="notification_update">Stáhnout</string>
+    <string name="notification_update_later">Později</string>
+    <string name="notification_friendship_accept">Přijmout</string>
+    <string name="notification_dating_respond">Odpovědět</string>
+    <string name="notification_more_info">Více informací</string>
+
+    <string name="notification_profile_view_title">Nová návštěva profilu</string>
+    <string name="notification_profile_view_text">%s zrovna navštívil váš profil.</string>
+
+    <string name="notification_message_add_title">Nová zpráva</string>
+
+    <string name="notification_dating_ad_title">Nová odpověd na inzerát v seznamce</string>
+
+    <string name="notification_friendship_request_title">Nová žádost o přátelství</string>
+    <string name="notification_friendship_approve_title">Žádost o přátelství přijmuta</string>
+    <string name="notification_friendship_approve_text">Gratulujeme, vy a %s jste nyní přátelé.</string>
+
+    <string name="notification_favourite_add_text">Uživatel %s si vás přidal ke svým oblíbeným.</string>
+
+    <string name="notification_album_comment_add_title">Nový komentář k albu</string>
+    <string name="notification_video_comment_add_title">Nový komentář k videu</string>
+    <string name="notification_album_approve_title">Schválené album</string>
+    <string name="notification_album_approve_text">Vaše album \"%s\" bylo schváleno.</string>
+
+    <string name="notification_video_approve_title">Schválené video</string>
+    <string name="notification_video_approve_text">Vaše video \"%s\" bylo schváleno.</string>
+
+    <string name="notification_update_title">Amateri</string>
+    <string name="notification_update_text">Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
+<string name="setup_notification_friend_request">Nová žádost o přátelství</string>
+    <string name="setup_notification_friend_request_reply">Žádost o přátelství byla přijata</string>
+    <string name="notification_album_comment_add_text">%1$s okomentoval vaše album \"%2$s\": %3$s</string>
+
+    <string name="notification_video_comment_add_text">%1$s okomentoval vaše video \"%2$s\": %3$s</string>
+
     </resources>
