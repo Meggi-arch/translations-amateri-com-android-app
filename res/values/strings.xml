@@ -341,7 +341,7 @@
     <string name="video_settings_submit_success">Changes have been sent for approval</string>
     <string name="video_settings_missing_name">Please enter the title</string>
     <string name="video_settings_missing_password">Please enter the password</string>
-    <string name="video_not_vip_title">VIP membership expired</string>
+    <string name="video_not_vip_title">VIP expired</string>
     <string name="video_not_vip_text">VIP expired. You won't be able to turn the password lock back on.</string>
     <string name="video_not_vip_confirm">Turn off password lock?</string>
     <string name="video_not_vip_main_button">Turn off</string>
