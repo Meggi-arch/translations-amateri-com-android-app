@@ -3,16 +3,23 @@
     <string name="general_error">Ouch!</string>
     <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
     <string name="general_loading">Please wait while we load the data</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
 
     <!--MainActivity-->
     <string name="title_album">Albums</string>
     <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
-    <string name="title_my_profile">My profile</string>
+    <string name="title_setup">Nastavení aplikace</string>
+    <!--<string name="title_my_profile">My profile</string>-->
     <string name="title_logout">Log out</string>
     <string name="title_version">Version %s</string>
     <string name="title_feedback">Send feedback</string>
     <string name="title_new_version">New version!</string>
+    <string name="title_album_settings">Album settings</string>
+    <string name="title_video_settings">Video settings</string>
+    <string name="title_profile_settings">Content settings</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Latest</string>
@@ -22,11 +29,13 @@
     <string name="title_comments">Comments</string>
     <string name="title_next_comments">More comments (%s)</string>
     <string name="title_next_albums">More albums (%s)</string>
+    <string name="album_comment_disallowed">You are not allowed to comment</string>
     <string name="album_comment_fail">Unable to send comment</string>
 
     <!--VideoDetailActivity-->
     <string name="title_next_videos">More videos (%s)</string>
     <string name="video_comment_fail">Unable to send comment</string>
+    <string name="video_comment_disallowed">You are not allowed to comment</string>
 
     <!-- Menu -->
     <string name="menu_notification">Notifications</string>
@@ -47,6 +56,8 @@
 
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
+    <string name="album_filter_show_all">Show albums</string>
+    <string name="video_filter_show_all">Show videos</string>
 
     <!--ProfileInfoFragment-->
     <string name="title_personal_info">Personal details</string>
@@ -114,7 +125,7 @@
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_category_all">All categories</string>
+    <string name="album_sex_all">Všechna pohlaví</string>
     <string name="album_verified_all">Verified and unverified</string>
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
@@ -122,12 +133,16 @@
     <string name="no_albums_found">No albums found</string>
 
     <!--FilterVideoFragment-->
-    <string name="video_category_all">All categories</string>
+<!--    <string name="video_category_all">All categories</string> -->
+    <string name="video_sex_all">All categories</string>
     <string name="video_verified_all">Verified and unverified</string>
     <string name="video_duration_all">All durations</string>
     <string name="video_contest_all">All contests</string>
     <string name="video_history_all">Viewed and not viewed</string>
     <string name="no_videos_found">No videos found</string>
+
+    <string name="album_comment_disallowed_dialog_text">Only verified users can write comments.</string>
+    <string name="video_comment_disallowed_dialog_text">Only verified users can write comments.</string>
 
     <!--AlbumInfoActivity-->
     <string name="author">Author</string>
@@ -146,6 +161,8 @@
 
     <!--VideoInfoActivity-->
     <string name="video_duration">Duration</string>
+    <string name="video_number">Video ID</string>
+    <string name="video_address">Video URL</string>
 
     <!--Notification menu-->
     <string name="notifications_title">Notification</string>
@@ -155,8 +172,8 @@
     <string name="notifications_dating_messages">Answers to your ads</string>
     <string name="notifications_requests">Friend requests</string>
     <string name="notifications_favourites">Added me to favourites</string>
-    <string name="notifications_profile_setup">Account settings</string>
-    <string name="notifications_profile_edit">Edit profile</string>
+    <!--<string name="notifications_profile_setup">Account settings</string>-->
+    <!--<string name="notifications_profile_edit">Edit profile</string>-->
 
     <!-- Update dialog -->
     <string name="update_dialog_title">New version</string>
@@ -195,7 +212,7 @@
     <!-- FilterAlbumActivity | FilterUserActivity -->
     <string name="title_filter_results">Search results</string>
 
-    <string name="button_verify">Verify profile</string>
+<!--    <string name="button_verify">Verify profile</string> -->
 
     <!-- Invalid login dialog -->
     <string name="invalid_login_dialog_title">Invalid login</string>
@@ -209,10 +226,10 @@
     <string name="feedback_dialog_ok">OK</string>
 
     <!-- Welcome dialog -->
-    <string name="welcome_dialog_title">Welcome</string>
+<!--    <string name="welcome_dialog_title">Welcome</string>
     <string name="welcome_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
     <string name="welcome_dialog_ok">OK</string>
-
+-->
     <!-- Comment not allowed dialog -->
     <string name="comment_disallowed_dialog_text">Only verified users can comment this album.</string>
     <string name="comment_disallowed_dialog_ok">OK</string>
@@ -230,12 +247,12 @@
     <string name="feedback_message">your message</string>
     <string name="feedback_send">Send</string>
     <string name="feedback_category_default">Choose a category</string>
-    <string name="feedback_ok">OK</string>
+<!--    <string name="feedback_ok">OK</string> -->
 
     <!-- Change profile photo -->
     <string name="profile_photo_camera">Take a photo</string>
     <string name="profile_photo_library">Select from library</string>
-    <string name="profile_photo_processing">Processing photo</string>
+    <string name="profile_photo_processing">Uploading photo</string>
     <string name="profile_photo_change">Change profile photo</string>
     <string name="profile_photo_fail">Unable to upload profile photo</string>
     <string name="profile_photo_camera_fail">Unable to find camera app</string>
@@ -250,4 +267,159 @@
     <string name="search_album_hint">Search in albums</string>
     <string name="search_video_hint">Search in videos</string>
     <string name="search_user_hint">Search in users</string>
+
+    <string name="setup_notifications">Notifications</string>
+    <string name="setup_notification_new_message">New message</string>
+    <string name="setup_notification_advert_reply">New dating ad response</string>
+    <string name="setup_notification_friend_request">New friendship request</string>
+    <string name="setup_notification_new_favourite">You were favourited</string>
+    <string name="setup_notification_new_visit">New profile visit</string>
+    <string name="setup_notification_friend_request_reply">Friendship request accepted</string>
+    <string name="setup_notification_new_album_comment">New album comment</string>
+    <string name="setup_notification_new_video_comment">New video comment</string>
+    <string name="setup_notification_album_approval">New album approval</string>
+    <string name="setup_notification_video_approval">New video approval</string>
+    <string name="setup_notification_advertisement">Newsletters</string>
+    <string name="setup_privacy">Security</string>
+    <string name="setup_auto_logout">PIN code lock</string>
+    <string name="change_pin">Change PIN code</string>
+    <string name="next">Next</string>
+    <string name="setup_about_app">About application</string>
+    <string name="setup_current_version">Current version</string>
+    <string name="setup_update_check">Check for updates</string>
+    <string name="setup_no_updates">No updates available</string>
+
+    <!-- LockedActivity -->
+    <string name="locked_unlock">Unlock</string>
+    <string name="locked_forgot_pin">Forgotten PIN code</string>
+    <string name="locked_pin_hint">PIN code</string>
+    <string name="locked_pin_missing">Enter PIN code</string>
+    <string name="locked_bad_pin_title">Invalid PIN code</string>
+    <string name="locked_bad_pin_retry">Try again</string>
+    <string name="locked_bad_pin_forgot">Forgotten PIN code</string>
+
+    <!-- ForgotPinActivity -->
+    <string name="forgot_pin_forgot_password">Forgotten password</string>
+    <string name="forgot_pin_title">Please log in again.</string>
+
+    <!-- Pin Dialogs -->
+    <string name="dialog_pin_title_new">Enter new PIN code</string>
+    <string name="dialog_pin_title_old">Enter current PIN code</string>
+    <string name="dialog_pin_text_setup">Enter 4-digit PIN code.</string>
+    <string name="dialog_pin_text_forgot">Enter new 4-digit PIN coder or remove it.</string>
+    <string name="dialog_pin_text_old">Enter current PIN code.</string>
+    <string name="dialog_pin_text_change_fail">Invalid PIN code</string>
+    <string name="dialog_pin_hint_1">Enter PIN code</string>
+    <string name="dialog_pin_hint_2">Re-enter PIN code</string>
+    <string name="dialog_pin_remove">Remove</string>
+    <string name="dialog_pin_create">Create</string>
+
+    <!-- AlbumSettingsActivity -->
+    <string name="album_settings_title">Title</string>
+    <string name="album_settings_title_hint">Enter title</string>
+    <string name="album_settings_description">Description</string>
+    <string name="album_settings_description_hint">Enter description</string>
+    <string name="album_settings_category">Category</string>
+    <string name="album_settings_category_default">Select category</string>
+    <string name="album_settings_comment">Comment settings</string>
+    <string name="album_settings_topic">Topic</string>
+    <string name="album_settings_topic_default">Select topic</string>
+    <string name="album_settings_contest">Contest</string>
+    <string name="album_settings_contest_default">Select contest</string>
+    <string name="album_settings_vote">Voting enabled</string>
+    <string name="album_settings_password_text">Password lock</string>
+    <string name="album_settings_password_hint">Enter password</string>
+    <string name="album_settings_save">Submit</string>
+    <string name="album_settings_save_success">Changes saved</string>
+    <string name="album_settings_submit">Submit for approval</string>
+    <string name="album_settings_submit_success">Changes have been sent for approval</string>
+    <string name="album_settings_missing_name">Please enter the title</string>
+    <string name="album_settings_missing_password">Please enter the password</string>
+    <string name="album_not_vip_title">VIP expired</string>
+    <string name="album_not_vip_text">VIP expired. You won't be able to turn the password lock back on.</string>
+    <string name="album_not_vip_confirm">Turn off password lock?</string>
+    <string name="album_not_vip_main_button">Turn off</string>
+    <string name="album_not_vip_other_button">Cancel</string>
+
+    <!-- VideoSettingsActivity -->
+    <string name="video_settings_title">Title</string>
+    <string name="video_settings_title_hint">Enter title</string>
+    <string name="video_settings_description">Description</string>
+    <string name="video_settings_description_hint">Enter description</string>
+    <string name="video_settings_category">Category</string>
+    <string name="video_settings_category_default">Select category</string>
+    <string name="video_settings_comment">Comment settings</string>
+    <string name="video_settings_contest">Contest</string>
+    <string name="video_settings_contest_default">Select contest</string>
+    <string name="video_settings_vote">Voting enabled</string>
+    <string name="video_settings_password_text">Password lock</string>
+    <string name="video_settings_password_hint">Enter password</string>
+    <string name="video_settings_save">Submit</string>
+    <string name="video_settings_save_success">Changes saved</string>
+    <string name="video_settings_submit">Submit for approval</string>
+    <string name="video_settings_submit_success">Changes have been sent for approval</string>
+    <string name="video_settings_comment_default">Comment settings</string>
+    <string name="video_settings_missing_name">Please enter the title</string>
+    <string name="video_settings_missing_password">Please enter the password</string>
+    <string name="video_not_vip_title">VIP membership expired</string>
+    <string name="video_not_vip_text">VIP expired. You won't be able to turn the password lock back on.</string>
+    <string name="video_not_vip_confirm">Turn off password lock?</string>
+    <string name="video_not_vip_main_button">Turn off</string>
+    <string name="video_not_vip_other_button">Cancel</string>
+
+    <!-- ProfileAlbumSettingsFragment -->
+    <string name="profile_album_settings_edit_error">You cannot edit this album</string>
+    <string name="profile_video_settings_edit_error">You cannot edit this video</string>
+    <string name="visibility">Published</string>
+    <string name="no_album_title">You have no albums yet.</string>
+    <string name="no_album_text">To add an album is easy and you can start right now.</string>
+    <string name="add_album">Add new album</string>
+
+    <!-- ProfileVideoSettingsFragment -->
+    <string name="no_video_title">You have no videos yet.</string>
+    <string name="no_video_text">To add a video is easy and you can start right now.</string>
+    <string name="add_video">Add new video</string>
+
+    <!-- Notification Actions -->
+    <string name="notification_profile">Profile</string>
+    <string name="notification_message">Message</string>
+    <string name="notification_album">Album</string>
+    <string name="notification_video">Video</string>
+    <string name="notification_update">Download</string>
+    <string name="notification_update_later">Later</string>
+    <string name="notification_friendship_accept">Accept</string>
+    <string name="notification_dating_respond">Reply</string>
+    <string name="notification_more_info">Learn more</string>
+
+    <!-- Notification Texts -->
+    <string name="notification_profile_view_title">New profile visit</string>
+    <string name="notification_profile_view_text">%s has just visited your profile.</string>
+
+    <string name="notification_message_add_title">New message</string>
+
+    <string name="notification_dating_ad_title">New dating ad response</string>
+
+    <string name="notification_friendship_request_title">New friendship request</string>
+    <string name="notification_friendship_request_text">User %s would like to be your friend!</string>
+
+    <string name="notification_friendship_approve_title">Friendship request accepted</string>
+    <string name="notification_friendship_approve_text">Congratulations, you and %s are now friends.</string>
+
+    <string name="notification_favourite_add_title">You were favourited</string>
+    <string name="notification_favourite_add_text">User %s has added you to his favourites.</string>
+
+    <string name="notification_album_comment_add_title">New album comment</string>
+    <string name="notification_album_comment_add_text">%1$s has added a comment to your album \"%2$s\": %3$s</string>
+
+    <string name="notification_video_comment_add_title">New video comment</string>
+    <string name="notification_video_comment_add_text">%1$s has added a comment to your video \"%2$s\": %3$s</string>
+
+    <string name="notification_album_approve_title">Album approved</string>
+    <string name="notification_album_approve_text">Your album \"%s\" has been approved.</string>
+
+    <string name="notification_video_approve_title">Video approved</string>
+    <string name="notification_video_approve_text">Your video \"%s\" has been approved.</string>
+
+    <string name="notification_update_title">Amateri</string>
+    <string name="notification_update_text">New enhanced and juicier version of the application is available. Do you want to download it?</string>
 </resources>
