@@ -11,8 +11,7 @@
     <string name="title_album">Albums</string>
     <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
-    <string name="title_setup">Nastavení aplikace</string>
-    <!--<string name="title_my_profile">My profile</string>-->
+    <string name="title_setup">Application settings</string>
     <string name="title_logout">Log out</string>
     <string name="title_version">Version %s</string>
     <string name="title_feedback">Send feedback</string>
@@ -125,7 +124,7 @@
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_sex_all">Všechna pohlaví</string>
+    <string name="album_sex_all">All categories</string>
     <string name="album_verified_all">Verified and unverified</string>
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
@@ -133,16 +132,12 @@
     <string name="no_albums_found">No albums found</string>
 
     <!--FilterVideoFragment-->
-<!--    <string name="video_category_all">All categories</string> -->
     <string name="video_sex_all">All categories</string>
     <string name="video_verified_all">Verified and unverified</string>
     <string name="video_duration_all">All durations</string>
     <string name="video_contest_all">All contests</string>
     <string name="video_history_all">Viewed and not viewed</string>
     <string name="no_videos_found">No videos found</string>
-
-    <string name="album_comment_disallowed_dialog_text">Only verified users can write comments.</string>
-    <string name="video_comment_disallowed_dialog_text">Only verified users can write comments.</string>
 
     <!--AlbumInfoActivity-->
     <string name="author">Author</string>
@@ -172,8 +167,6 @@
     <string name="notifications_dating_messages">Answers to your ads</string>
     <string name="notifications_requests">Friend requests</string>
     <string name="notifications_favourites">Added me to favourites</string>
-    <!--<string name="notifications_profile_setup">Account settings</string>-->
-    <!--<string name="notifications_profile_edit">Edit profile</string>-->
 
     <!-- Update dialog -->
     <string name="update_dialog_title">New version</string>
@@ -212,8 +205,6 @@
     <!-- FilterAlbumActivity | FilterUserActivity -->
     <string name="title_filter_results">Search results</string>
 
-<!--    <string name="button_verify">Verify profile</string> -->
-
     <!-- Invalid login dialog -->
     <string name="invalid_login_dialog_title">Invalid login</string>
     <string name="invalid_login_dialog_content">Incorrect login details entered.</string>
@@ -224,15 +215,6 @@
     <string name="feedback_dialog_title">Feedback</string>
     <string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
     <string name="feedback_dialog_ok">OK</string>
-
-    <!-- Welcome dialog -->
-<!--    <string name="welcome_dialog_title">Welcome</string>
-    <string name="welcome_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
-    <string name="welcome_dialog_ok">OK</string>
--->
-    <!-- Comment not allowed dialog -->
-    <string name="comment_disallowed_dialog_text">Only verified users can comment this album.</string>
-    <string name="comment_disallowed_dialog_ok">OK</string>
 
     <!-- Buy VIP dialog -->
     <string name="vip_dialog_title">We are sorry, but only VIP members can use this feature for free.</string>
@@ -247,7 +229,6 @@
     <string name="feedback_message">your message</string>
     <string name="feedback_send">Send</string>
     <string name="feedback_category_default">Choose a category</string>
-<!--    <string name="feedback_ok">OK</string> -->
 
     <!-- Change profile photo -->
     <string name="profile_photo_camera">Take a photo</string>
@@ -419,6 +400,5 @@
     <string name="notification_video_approve_title">Video approved</string>
     <string name="notification_video_approve_text">Your video \"%s\" has been approved.</string>
 
-    <string name="notification_update_title">Amateri</string>
     <string name="notification_update_text">New enhanced and juicier version of the application is available. Do you want to download it?</string>
 </resources>
