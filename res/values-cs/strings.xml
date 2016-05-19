@@ -251,7 +251,7 @@
     <string name="feedback_category_default">Vyberte si kategorii</string>
     <string name="profile_photo_camera">Pořiďte fotku</string>
     <string name="profile_photo_library">Vyberte z knihovny</string>
-    <string name="profile_photo_processing">Fotka se zpracovává</string>
+    <string name="profile_photo_processing">Fotka se nahrává</string>
     <string name="profile_photo_change">Změnit profilovku</string>
     <string name="profile_photo_fail">Nelze nahrát profilovku</string>
     <string name="profile_photo_camera_fail">Nelze najít fotoaplikaci</string>
@@ -407,4 +407,21 @@
 
     <string name="notification_video_comment_add_text">%1$s okomentoval vaše video \"%2$s\": %3$s</string>
 
+    <string name="title_setup">Nastavení aplikace</string>
+    <string name="album_sex_all">Všechny kategorie</string>
+    <string name="album_comment_disallowed">Nemůžete přidat komentář</string>
+    <string name="video_comment_disallowed">Nemůžete přidat komentář</string>
+
+    <string name="setup_notification_new_favourite">Přidání do oblíbených</string>
+    <string name="setup_auto_logout">Uzamčení PIN kódem</string>
+    <string name="album_settings_password_text">Uzamčení heslem</string>
+    <string name="album_not_vip_title">VIP vypršelo</string>
+    <string name="album_not_vip_text">VIP vypršelo. Nebudete moci znovu použit uzamčení heslem.</string>
+    <string name="album_not_vip_confirm">Vypnout uzamčení heslem?</string>
+    <string name="video_settings_password_text">Uzamčení heslem</string>
+    <string name="video_not_vip_text">VIP vypršelo. Nebudete moci znovu použit uzamčení heslem.</string>
+    <string name="video_not_vip_confirm">Vypnout uzamčení heslem?</string>
+    <string name="notification_friendship_request_text">Uživatel/ka %s by chtěl/a být váš přítel!</string>
+
+    <string name="notification_favourite_add_title">Přidání do oblíbených</string>
     </resources>
