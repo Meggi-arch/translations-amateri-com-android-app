@@ -231,7 +231,7 @@
 
     <string name="profile_photo_camera">Urobte fotku</string>
     <string name="profile_photo_library">Vyberte z knižnice</string>
-    <string name="profile_photo_processing">Fotografia sa spracuváva</string>
+    <string name="profile_photo_processing">Fotografia sa nahráva</string>
     <string name="profile_photo_change">Zmeniť profilovku</string>
     <string name="profile_photo_fail">Nie je možne nahrať profilovku</string>
     <string name="profile_photo_camera_fail">Nie je možné nájsť fotoaplikáciu</string>
@@ -244,4 +244,176 @@
     <string name="search_album_hint">Hľadať v albumoch</string>
     <string name="search_video_hint">Hľadať vo videách</string>
     <string name="search_user_hint">Hľadať v užívateľoch</string>
+<string name="ok">OK</string>
+    <string name="cancel">Zrušiť</string>
+
+    <string name="album_not_vip_other_button">Zrušiť</string>
+
+    <string name="video_not_vip_other_button">Zrušiť</string>
+
+    <string name="title_setup">Nastavenia aplikácie</string>
+    <string name="title_album_settings">Nastavenia Albumu</string>
+    <string name="title_video_settings">Nastavenia videa</string>
+    <string name="title_profile_settings">Nastavenia obsahu</string>
+
+    <string name="album_comment_disallowed">Nemôžete pridať komentár</string>
+
+    <string name="video_comment_disallowed">Nemôžete pridať komentár</string>
+
+    <string name="album_filter_show_all">Zobraziť albumy</string>
+    <string name="video_filter_show_all">Zobraziť videá</string>
+
+    <string name="album_sex_all">Všetky kategórie</string>
+    <string name="video_sex_all">Všetky kategórie</string>
+    <string name="video_number">VIdeo ID</string>
+    <string name="video_address">Video URL</string>
+
+    <string name="verify_button">Overiť profil</string>
+    <string name="verify_title">Získajte dôveryhodnejší overený profil hneď teraz</string>
+    <string name="verify_chooser_title">Vyberte fotku</string>
+    <string name="verify_text">Na papier napíšte svoj nick (prezývku), aktuálny dátum, názov amateri.com a s papierom v rukách sa odfoťte. Ak využívate profil ako pár, overovací fotku potrebujeme od oboch.</string>
+    <string name="verify_more_info">Viac informácií</string>
+    <string name="verify_send">Nahrať overovaciu fotku</string>
+    <string name="verify_done_text">Nový obrázok bol úspešne nahraný. Overovací fotka bude skontrolovaná správcom. Ďakujeme.</string>
+    <string name="done">Hotovo!</string>
+
+    <string name="setup_notifications">Push notifikácie</string>
+    <string name="setup_notification_new_message">Nová pošta</string>
+    <string name="setup_notification_advert_reply">Nová odpoveď na inzerát v zoznamke</string>
+    <string name="setup_notification_friend_request">Nová žiadosť o priateľstvo</string>
+    <string name="setup_notification_new_favourite">Pridanie do obľúbených</string>
+    <string name="setup_notification_new_visit">Nová návšteva profilu</string>
+    <string name="setup_notification_friend_request_reply">Žiadosť o priateľstvo bola prijatá</string>
+    <string name="setup_notification_new_album_comment">Nový komentár k albumu</string>
+    <string name="setup_notification_new_video_comment">Nový komentár k videu</string>
+    <string name="setup_notification_album_approval">Novo schválené album</string>
+    <string name="setup_notification_video_approval">Novo schválené video</string>
+    <string name="setup_notification_advertisement">Reklamné oznámenie</string>
+    <string name="setup_privacy">Zabezpečenie</string>
+    <string name="setup_auto_logout">Uzamknutie PIN kódom</string>
+    <string name="change_pin">Zmena PIN kódu</string>
+    <string name="next">Ďalej</string>
+    <string name="setup_about_app">O aplikácii</string>
+    <string name="setup_current_version">Aktuálna verzia</string>
+    <string name="setup_update_check">Skontrolovať aktualizácie</string>
+    <string name="setup_no_updates">Nie sú k dspozícii žiadne aktualizácie</string>
+
+    <string name="locked_unlock">Odomknúť</string>
+    <string name="locked_forgot_pin">Zabudnutý PIN kód</string>
+    <string name="locked_pin_hint">PIN kód</string>
+    <string name="locked_pin_missing">Zadajte PIN kód</string>
+    <string name="locked_bad_pin_title">Neplatný PIN kód</string>
+    <string name="locked_bad_pin_retry">Skúsiť znovu</string>
+    <string name="locked_bad_pin_forgot">Zabudnutý PIN kód</string>
+
+    <string name="forgot_pin_forgot_password">Zabudnuté heslo</string>
+    <string name="forgot_pin_title">Prihláste sa znovu prosím.</string>
+
+    <string name="dialog_pin_title_new">Zadajte nový PIN kód</string>
+    <string name="dialog_pin_title_old">Zadajte súčasný PIN kód</string>
+    <string name="dialog_pin_text_setup">Zadajte 4-miestny PIN kód.</string>
+    <string name="dialog_pin_text_forgot">Zadajte nový 4-miestny PIN kód alebo ho odstráňte.</string>
+    <string name="dialog_pin_text_old">Zadajte súčasný PIN kód.</string>
+    <string name="dialog_pin_text_change_fail">Neplatný PIN kód</string>
+    <string name="dialog_pin_hint_1">Zadajte PIN kód</string>
+    <string name="dialog_pin_hint_2">Zadajte znovu PIN kód</string>
+    <string name="dialog_pin_remove">Odstrániť</string>
+    <string name="dialog_pin_create">Vytvoriť</string>
+
+    <string name="album_settings_title">Názov</string>
+    <string name="album_settings_title_hint">Zadajte názov</string>
+    <string name="album_settings_description">Popis</string>
+    <string name="album_settings_description_hint">Zadajte popis</string>
+    <string name="album_settings_category">Kategória</string>
+    <string name="album_settings_category_default">Vyberte kategóriu</string>
+    <string name="album_settings_comment">Nastavenia komentárov</string>
+    <string name="album_settings_topic">Téma</string>
+    <string name="album_settings_topic_default">Vyberte tému</string>
+    <string name="album_settings_contest">Súťaž</string>
+    <string name="album_settings_contest_default">Vyberte súťaž</string>
+    <string name="album_settings_vote">Hlasovanie povolené</string>
+    <string name="album_settings_password_text">Uzamknutie heslom</string>
+    <string name="album_settings_password_hint">Zadajte heslo</string>
+    <string name="album_settings_save">Odoslať</string>
+    <string name="album_settings_save_success">Zmeny uložené</string>
+    <string name="album_settings_submit">Odoslať na schválenie</string>
+    <string name="album_settings_submit_success">Zmeny boli uložené a odoslané na schválenie</string>
+    <string name="album_settings_missing_name">Vyplňte názov prosím</string>
+    <string name="album_settings_missing_password">Vyplňte heslo prosím</string>
+    <string name="album_not_vip_title">VIP vypršalo</string>
+    <string name="album_not_vip_text">VIP vypršalo. Nebudete môcť znovu použiť uzamknutie heslom.</string>
+    <string name="album_not_vip_confirm">Vypnúť uzamknutie heslom?</string>
+    <string name="album_not_vip_main_button">Vypnúť</string>
+    <string name="video_settings_title">Názov</string>
+    <string name="video_settings_title_hint">Zadajte názov</string>
+    <string name="video_settings_description">Popis</string>
+    <string name="video_settings_description_hint">Zadajte popis</string>
+    <string name="video_settings_category">Kategória</string>
+    <string name="video_settings_category_default">Vyberte kategóriu</string>
+    <string name="video_settings_comment">Nastavenia komentárov</string>
+    <string name="video_settings_contest">Súťaž</string>
+    <string name="video_settings_contest_default">Vyberte súťaž</string>
+    <string name="video_settings_vote">Hlasovanie povolené</string>
+    <string name="video_settings_password_text">Uzamknutie heslom</string>
+    <string name="video_settings_password_hint">Zadajte heslo</string>
+    <string name="video_settings_save">Odoslať</string>
+    <string name="video_settings_save_success">Zmeny uložené</string>
+    <string name="video_settings_submit">Odoslať na schválenie</string>
+    <string name="video_settings_submit_success">Zmeny boli odoslané na schválenie</string>
+    <string name="video_settings_missing_name">Zadajte názov prosím</string>
+    <string name="video_settings_missing_password">Zadajte heslo prosím</string>
+    <string name="video_not_vip_title">VIP vypršalo</string>
+    <string name="video_not_vip_text">VIP vypršalo. Nebudete môcť znovu použiť uzamknutie heslom.</string>
+    <string name="video_not_vip_confirm">Vypnúť uzamknutie heslom?</string>
+    <string name="video_not_vip_main_button">Vypnúť</string>
+    <string name="profile_album_settings_edit_error">Tento album nemôžete upravovať</string>
+    <string name="visibility">Zverejnené</string>
+    <string name="no_album_title">Nemáte zatiaľ žiadne albumy.</string>
+    <string name="no_album_text">Pridať album je jednoduché a môžete začať hneď teraz.</string>
+    <string name="add_album">Pridať nový album</string>
+
+    <string name="profile_video_settings_edit_error">Toto video nemôžete upravovať</string>
+    <string name="no_video_title">Nemáte zatiaľ žiadne videá.</string>
+    <string name="no_video_text">Pridať video je jednoduché a môžete začať hneď teraz.</string>
+    <string name="add_video">Pridať nové video</string>
+
+    <string name="notification_profile">Profil</string>
+    <string name="notification_message">Správa</string>
+    <string name="notification_album">Album</string>
+    <string name="notification_video">Video</string>
+    <string name="notification_update">Stiahnuť</string>
+    <string name="notification_update_later">Neskôr</string>
+    <string name="notification_friendship_accept">Prijať</string>
+    <string name="notification_dating_respond">Odpovedať</string>
+    <string name="notification_more_info">Viac informácií</string>
+
+    <string name="notification_profile_view_title">Nová návšteva profilu</string>
+    <string name="notification_profile_view_text">%s práve navštívil Váš profil.</string>
+
+    <string name="notification_message_add_title">Nová správa</string>
+
+    <string name="notification_dating_ad_title">Nová odpoveď na inzerát v zoznamke</string>
+
+    <string name="notification_friendship_request_title">Nová žiadosť o priateľstvo</string>
+    <string name="notification_friendship_request_text">Užívateľ/ka %s by chcel/a byť Váš priateľ!</string>
+
+    <string name="notification_friendship_approve_title">Žiadosť o priateľstvo prijatá</string>
+    <string name="notification_friendship_approve_text">Gratulujeme, Vy a %s ste odteraz priateľmi.</string>
+
+    <string name="notification_favourite_add_title">Pridanie do obľúbených</string>
+    <string name="notification_favourite_add_text">Užívateľ/ka %s si vás pridal/a ku svojim obľúbeným.</string>
+
+    <string name="notification_album_comment_add_title">Nový komentár k albumu</string>
+    <string name="notification_album_comment_add_text">%1$s okomentoval váš album \"%2$s\": %3$s</string>
+
+    <string name="notification_video_comment_add_title">Nový komentár k videu</string>
+    <string name="notification_video_comment_add_text">%1$s okomentoval vaše video \"%2$s\": %3$s</string>
+
+    <string name="notification_album_approve_title">Schválený album</string>
+    <string name="notification_album_approve_text">Váš album \"%s\" bol schválený.</string>
+
+    <string name="notification_video_approve_title">Schválené video</string>
+    <string name="notification_video_approve_text">Vaše video \"%s\" bolo schválené.</string>
+
+    <string name="notification_update_text">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcete si ju stiahnuť?</string>
 </resources>
