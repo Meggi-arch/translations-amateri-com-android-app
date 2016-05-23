@@ -28,12 +28,12 @@
     <string name="title_next_comments">More comments (%s)</string>
     <string name="title_next_albums">More albums (%s)</string>
     <string name="album_comment_fail">Unable to send comment</string>
-    <string name="album_comment_disallowed">You are not allowed to comment</string>
+    <string name="album_comment_disallowed">You cannot add a comment to this album now.</string>
 
     <!--VideoDetailActivity-->
     <string name="title_next_videos">More videos (%s)</string>
     <string name="video_comment_fail">Unable to send comment</string>
-    <string name="video_comment_disallowed">You are not allowed to comment</string>
+    <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
 
     <!--Menu-->
     <string name="menu_notification">Notifications</string>
@@ -123,7 +123,7 @@
     <string name="no_users_found">No users found</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_sex_all">All categories</string>
+    <string name="album_sex_all">All sex categories</string>
     <string name="album_verified_all">Verified and unverified</string>
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">All contests</string>
@@ -131,7 +131,7 @@
     <string name="no_albums_found">No albums found</string>
 
     <!--FilterVideoFragment-->
-    <string name="video_sex_all">All categories</string>
+    <string name="video_sex_all">All sex categories</string>
     <string name="video_verified_all">Verified and unverified</string>
     <string name="video_duration_all">All durations</string>
     <string name="video_contest_all">All contests</string>
