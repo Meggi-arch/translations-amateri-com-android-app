@@ -291,7 +291,7 @@
     <string name="setup_about_app">O aplikaci</string>
     <string name="setup_current_version">Současná verze</string>
     <string name="setup_update_check">Zkontrolovat aktualizace</string>
-    <string name="setup_no_updates">Zádné aktualizace nejsou k dispozici</string>
+    <string name="setup_no_updates">Žádné aktualizace nejsou k dispozici</string>
 
     <string name="locked_unlock">Odemknout</string>
     <string name="locked_forgot_pin">Zapomenutý PIN kód</string>
@@ -379,7 +379,7 @@
     <string name="notification_more_info">Více informací</string>
 
     <string name="notification_profile_view_title">Nová návštěva profilu</string>
-    <string name="notification_profile_view_text">%s zrovna navštívil váš profil.</string>
+    <string name="notification_profile_view_text">%s zrovna navštívil/a váš profil.</string>
 
     <string name="notification_message_add_title">Nová zpráva</string>
 
