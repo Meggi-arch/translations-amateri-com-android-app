@@ -206,7 +206,7 @@
     <string name="profile_photo_camera_fail">Nie je možné nájsť fotoaplikáciu</string>
 
     <string name="comment_write_hint">Napísať komentár</string>
-    <string name="emoticon_dialog_close">zavrieť</string>
+    <string name="emoticon_dialog_close">Zavrieť</string>
     <string name="emoticon_no_emoticons">Žiadne emotikony</string>
 
     <string name="search_hint">Hľadať</string>
