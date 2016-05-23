@@ -272,7 +272,7 @@
     <string name="album_filter_show_all">Zobrazit alba</string>
     <string name="video_filter_show_all">Zobrazit videa</string>
 
-    <string name="video_sex_all">Všechny kategorie</string>
+    <string name="video_sex_all">Všechny kategorie pohlaví</string>
     <string name="video_number">Video ID</string>
     <string name="video_address">Video URL</string>
 
@@ -408,9 +408,9 @@
     <string name="notification_video_comment_add_text">%1$s okomentoval vaše video \"%2$s\": %3$s</string>
 
     <string name="title_setup">Nastavení aplikace</string>
-    <string name="album_sex_all">Všechny kategorie</string>
-    <string name="album_comment_disallowed">Nemůžete přidat komentář</string>
-    <string name="video_comment_disallowed">Nemůžete přidat komentář</string>
+    <string name="album_sex_all">Všechny kategorie pohlaví</string>
+    <string name="album_comment_disallowed">K tomuto albu nyní nemůžete přidat komentář.</string>
+    <string name="video_comment_disallowed">K tomuto videu nyní nemůžete přidat komentář.</string>
 
     <string name="setup_notification_new_favourite">Přidání do oblíbených</string>
     <string name="setup_auto_logout">Uzamčení PIN kódem</string>
