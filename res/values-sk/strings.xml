@@ -256,15 +256,15 @@
     <string name="title_video_settings">Nastavenia videa</string>
     <string name="title_profile_settings">Nastavenia obsahu</string>
 
-    <string name="album_comment_disallowed">Nemôžete pridať komentár</string>
+    <string name="album_comment_disallowed">K tomuto albumu nemôžete pridať komentár.</string>
 
-    <string name="video_comment_disallowed">Nemôžete pridať komentár</string>
+    <string name="video_comment_disallowed">K tomuto videu nemôžete pridať komentár.</string>
 
     <string name="album_filter_show_all">Zobraziť albumy</string>
     <string name="video_filter_show_all">Zobraziť videá</string>
 
-    <string name="album_sex_all">Všetky kategórie</string>
-    <string name="video_sex_all">Všetky kategórie</string>
+    <string name="album_sex_all">Všetky kategórie pohlaví</string>
+    <string name="video_sex_all">Všetky kategórie pohlaví</string>
     <string name="video_number">VIdeo ID</string>
     <string name="video_address">Video URL</string>
 
