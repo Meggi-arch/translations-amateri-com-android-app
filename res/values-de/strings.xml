@@ -245,15 +245,15 @@
     <string name="title_video_settings">Video-Einstellungen</string>
     <string name="title_profile_settings">Inhaltseinstellungen</string>
 
-    <string name="album_comment_disallowed">Sie sind nicht erlaubt zu kommentieren</string>
+    <string name="album_comment_disallowed">Sie können kein Kommentar zu diesem Album hinzufügen.</string>
 
-    <string name="video_comment_disallowed">Sie sind nicht erlaubt zu kommentieren</string>
+    <string name="video_comment_disallowed">Sie können kein Kommentar zu diesem Video hinzufügen.</string>
 
     <string name="album_filter_show_all">Alben anzeigen</string>
     <string name="video_filter_show_all">Videen anzeigen</string>
 
-    <string name="album_sex_all">Alle Kategorien</string>
-    <string name="video_sex_all">Alle Kategorien</string>
+    <string name="album_sex_all">Alle Sex-Kategorien</string>
+    <string name="video_sex_all">Alle Sex-Kategorien</string>
     <string name="video_number">Video ID</string>
     <string name="video_address">Video URL</string>
 
