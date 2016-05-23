@@ -249,7 +249,7 @@
 
     <!--Comment adding-->
     <string name="comment_write_hint">Write a comment</string>
-    <string name="emoticon_dialog_close">close</string>
+    <string name="emoticon_dialog_close">Close</string>
     <string name="emoticon_no_emoticons">No emoticons</string>
 
     <!--Search-->
@@ -359,7 +359,8 @@
 
     <!--ProfileAlbumSettingsFragment-->
     <string name="profile_album_settings_edit_error">You cannot edit this album</string>
-    <string name="visibility">Published</string>
+    <string name="visibility_on">Enabled</string>
+    <string name="visibility_off">Disabled</string>
     <string name="no_album_title">You have no albums yet.</string>
     <string name="no_album_text">To add an album is easy and you can start right now.</string>
     <string name="add_album">Add new album</string>
