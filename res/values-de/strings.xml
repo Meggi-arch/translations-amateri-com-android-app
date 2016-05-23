@@ -1,161 +1,137 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-	<string name="app_name">Amateri</string>
+    <string name="general_error">Autsch!</string>
+    <string name="general_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Bitte versuchen Sie es später noch einmal.</string>
+    <string name="general_loading">Bitte warten Sie, während wir die Daten laden</string>
 
-	<string name="general_error">Autsch!</string>
-	<string name="general_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Bitte versuchen Sie es später noch einmal.</string>
-	<string name="general_loading">Bitte warten Sie, während wir die Daten laden</string>
+    <string name="title_album">Fotoalben</string>
+    <string name="title_people">Leute</string>
+    <string name="title_logout">Ausloggen</string>
+    <string name="title_version">Version %s</string>
+    <string name="title_feedback">Feedback abschicken</string>
+    <string name="title_new_version">Neue Version!</string>
 
-	<string name="title_album">Fotoalben</string>
-	<string name="title_people">Leute</string>
-	<string name="title_my_profile">Mein Profil</string>
-	<string name="title_logout">Ausloggen</string>
-	<string name="title_version">Version %s</string>
-	<string name="title_feedback">Feedback abschicken</string>
-	<string name="title_new_version">Neue Version!</string>
+    <string name="tab_latest">Neueste</string>
+    <string name="tab_best">Beste</string>
 
-	<string name="tab_latest">Neueste</string>
-	<string name="tab_best">Beste</string>
+    <string name="title_comments">Kommentare</string>
+    <string name="title_next_comments">Weitere Kommentare (%s)</string>
+    <string name="title_next_albums">Weitere Fotoalben (%s)</string>
 
-	<string name="title_comments">Kommentare</string>
-	<string name="title_next_comments">Weitere Kommentare (%s)</string>
-	<string name="title_next_albums">Weitere Fotoalben (%s)</string>
+    <string name="menu_notification">Hinweis</string>
+    <string name="menu_badges">Tags</string>
+    <string name="menu_reset">Reset</string>
 
-	<string name="menu_notification">Hinweis</string>
-	<string name="menu_badges">Tags</string>
-	<string name="menu_reset">Reset</string>
+    <string name="action_try_again">Erneut versuchen</string>
 
-	<string name="action_try_again">Erneut versuchen</string>
+    <string name="hint_username">Benutzername</string>
+    <string name="hint_password">Passwort</string>
 
-	<string name="hint_username">Benutzername</string>
-	<string name="hint_password">Passwort</string>
+    <string name="tab_albums">Fotoalben</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_user">Benutzer</string>
+    <string name="tab_album">Fotoalbum</string>
 
-	<string name="tab_albums">Fotoalben</string>
-	<string name="tab_info">Info</string>
-	<string name="tab_user">Benutzer</string>
-	<string name="tab_album">Fotoalbum</string>
+    <string name="filter_advanced">Erweiterter Filter</string>
+    <string name="filter_sort_by">Geordnet nach</string>
 
-	<string name="empty_people">Keine Elemente</string>
+    <string name="title_personal_info">Persönliche Daten</string>
+    <string name="title_sex">Geschlecht</string>
+    <string name="title_age">Alter</string>
+    <string name="title_country">Land</string>
+    <string name="title_region">Region</string>
+    <string name="title_marital_status">Familienstand</string>
+    <string name="title_sexual_orientation">Sexuelle Orientation</string>
+    <string name="title_height">Größe</string>
+    <string name="title_weight">Gewicht</string>
+    <string name="title_eye_color">Augenfarbe</string>
+    <string name="title_hair_color">Haarfarbe</string>
+    <string name="title_statistics">Statistiken</string>
+    <string name="title_registration_date">Registrierungsdatum</string>
+    <string name="title_chat_time">Zeit im Chat</string>
+    <string name="title_attended_events">Besuchte Treffen</string>
+    <string name="title_views">Views</string>
+    <string name="title_hobbies">Sexuelle Vorlieben</string>
+    <string name="title_personal_descr">Persönliche Beschreibung</string>
+    <string name="title_profile_address">Profiladresse</string>
+    <string name="title_unknown">N/A</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">Adresse wurde in die Zwischenablage kopiert!</string>
+    <string name="title_share">Teilen</string>
 
-	<string name="filter_from">Filtern von</string>
-	<string name="filter_to">Filtern bis</string>
-	<string name="filter_advanced">Erweiterter Filter</string>
-	<string name="filter_sort_by">Geordnet nach</string>
+    <string name="title_filter">Suche</string>
 
-	<string name="title_personal_info">Persönliche Daten</string>
-	<string name="title_sex">Geschlecht</string>
-	<string name="title_age">Alter</string>
-	<string name="title_country">Land</string>
-	<string name="title_region">Region</string>
-	<string name="title_marital_status">Familienstand</string>
-	<string name="title_sexual_orientation">Sexuelle Orientation</string>
-	<string name="title_height">Größe</string>
-	<string name="title_weight">Gewicht</string>
-	<string name="title_eye_color">Augenfarbe</string>
-	<string name="title_hair_color">Haarfarbe</string>
-	<string name="title_statistics">Statistiken</string>
-	<string name="title_registration_date">Registrierungsdatum</string>
-	<string name="title_chat_time">Zeit im Chat</string>
-	<string name="title_attended_events">Besuchte Treffen</string>
-	<string name="title_views">Views</string>
-	<string name="title_hobbies">Sexuelle Vorlieben</string>
-	<string name="title_personal_descr">Persönliche Beschreibung</string>
-	<string name="title_profile_address">Profiladresse</string>
-	<string name="title_unknown">N/A</string>
-	<string name="title_centimeters">cm</string>
-	<string name="title_kilograms">kg</string>
-	<string name="toast_copied_text">Adresse wurde in die Zwischenablage kopiert!</string>
-	<string name="title_share">Teilen</string>
-	<string name="title_profile">Profil</string>
+    <string name="user_content_all">Alle Inhaltstypen</string>
+    <string name="user_sex_all">Alle Geschlechter</string>
+    <string name="user_age_all">Alle Altersgruppen</string>
+    <string name="user_country_all">Alle Länder</string>
+    <string name="user_region_all">Alle Regionen</string>
+    <string name="user_sexual_orientation_all">Alle sexuelle Orientationen</string>
+    <string name="user_marital_status_all">Alle Familienstände</string>
+    <string name="user_height_all">Alle Größen</string>
+    <string name="user_weight_all">Alle Gewichtsklassen</string>
+    <string name="no_users_found">Keine Benutzer gefunden</string>
 
-	<string name="title_filter">Suche</string>
+    <string name="album_verified_all">Verifiziert und nicht verifiziert</string>
+    <string name="album_theme_all">Alle Themen</string>
+    <string name="album_contest_all">Alle Wettbewerbe</string>
+    <string name="album_history_all">Angesehene und nicht-angesehene</string>
+    <string name="no_albums_found">Keine Fotoalben gefunden</string>
 
-	<string name="user_content_all">Alle Inhaltstypen</string>
-	<string name="user_sex_all">Alle Geschlechter</string>
-	<string name="user_age_all">Alle Altersgruppen</string>
-	<string name="user_country_all">Alle Länder</string>
-	<string name="user_region_all">Alle Regionen</string>
-	<string name="user_sexual_orientation_all">Alle sexuelle Orientationen</string>
-	<string name="user_marital_status_all">Alle Familienstände</string>
-	<string name="user_height_all">Alle Größen</string>
-	<string name="user_weight_all">Alle Gewichtsklassen</string>
-	<string name="no_users_found">Keine Benutzer gefunden</string>
+    <string name="author">Autor</string>
+    <string name="category">Kategorie</string>
+    <string name="photo_count">Anzahl der Fotos</string>
+    <string name="vip">VIP</string>
+    <string name="certificated">Zertifizierung</string>
+    <string name="views">Views</string>
+    <string name="rating">Bewertung</string>
+    <string name="comments">Kommentare</string>
+    <string name="added">Hinzugefügt</string>
+    <string name="album_number">Albumnummer</string>
+    <string name="album_address">URL-Adresse des Fotoalbums</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
 
-	<string name="album_category_all">Alle Inhaltstypen</string>
-	<string name="album_verified_all">Verifiziert und nicht verifiziert</string>
-	<string name="album_theme_all">Alle Themen</string>
-	<string name="album_contest_all">Alle Wettbewerbe</string>
-	<string name="album_history_all">Angesehene und nicht-angesehene</string>
-	<string name="no_albums_found">Keine Fotoalben gefunden</string>
+    <string name="notifications_title">Benachrichtigung</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Besuche</string>
+    <string name="notifications_messages">Nachrichten</string>
+    <string name="notifications_dating_messages">Antworten auf Anzeigen</string>
+    <string name="notifications_requests">Freundschaftsanfragen</string>
+    <string name="notifications_favourites">Gefallen mir</string>
 
-	<string name="author">Autor</string>
-	<string name="category">Kategorie</string>
-	<string name="photo_count">Anzahl der Fotos</string>
-	<string name="vip">VIP</string>
-	<string name="certificated">Zertifizierung</string>
-	<string name="views">Views</string>
-	<string name="rating">Bewertung</string>
-	<string name="comments">Kommentare</string>
-	<string name="added">Hinzugefügt</string>
-	<string name="album_number">Albumnummer</string>
-	<string name="album_address">URL-Adresse des Fotoalbums</string>
-	<string name="yes">Ja</string>
-	<string name="no">Nein</string>
+    <string name="update_dialog_title">Neue Version</string>
+    <string name="update_dialog_content">Wir haben eine bessere, brandneue Version. Wollen Sie sie herunterladen?</string>
+    <string name="update_dialog_later">Später</string>
+    <string name="update_dialog_download">Downloaden</string>
 
-	<string name="error_no_albums">Keine Fotoalben zum Ansehen.</string>
+    <string name="redirect_dialog_title">Sie werden weitergeleitet</string>
+    <string name="redirect_dialog_content">Dieser Teil der Anwendung ist nur über eine Weboberfläche erreichbar. Wollen Sie zur Webseite weitergeleitet werden?</string>
 
-	<string name="notifications_title">Benachrichtigung</string>
-	<string name="notifications_99_plus">99+</string>
-	<string name="notifications_visits">Besuche</string>
-	<string name="notifications_messages">Nachrichten</string>
-	<string name="notifications_dating_messages">Antworten auf Anzeigen</string>
-	<string name="notifications_requests">Freundschaftsanfragen</string>
-	<string name="notifications_favourites">Gefallen mir</string>
-	<string name="notifications_profile_setup">Kontoeinstellungen</string>
-	<string name="notifications_profile_edit">Profil anpassen</string>
+    <string name="unauthorized_dialog_title">Sie sind nicht angemeldet</string>
+    <string name="unauthorized_dialog_content">Um diese Funktion zu nutzen, müssen Sie sich anmelden.</string>
+    <string name="unauthorized_dialog_register">Registrieren</string>
 
-	<string name="update_dialog_title">Neue Version</string>
-	<string name="update_dialog_content">Wir haben eine bessere, brandneue Version. Wollen Sie sie herunterladen?</string>
-	<string name="update_dialog_later">Später</string>
-	<string name="update_dialog_download">Downloaden</string>
+    <string name="lists_error_dialog_title">Verbindungsfehler</string>
+    <string name="lists_error_dialog_content">Bitte überprüfen Sie Ihre Internetverbindung.</string>
+    <string name="lists_error_dialog_retry">Wiederholen</string>
 
-	<string name="invalid_token_dialog_title">Ungültige Anmeldung</string>
-	<string name="invalid_token_dialog_content">Um sicherzustellen, dass Sie es wirklich sind, melden Sie sich bitte erneut an.</string>
+    <string name="button_login">Anmelden</string>
+    <string name="button_registration">Registrierung</string>
+    <string name="button_entry">Zugang ohne Anmeldung</string>
 
-	<string name="redirect_dialog_title">Sie werden weitergeleitet</string>
-	<string name="redirect_dialog_content">Dieser Teil der Anwendung ist nur über eine Weboberfläche erreichbar. Wollen Sie zur Webseite weitergeleitet werden?</string>
+    <string name="title_filter_results">Suchergebnisse</string>
 
-	<string name="unauthorized_dialog_title">Sie sind nicht angemeldet</string>
-	<string name="unauthorized_dialog_content">Um diese Funktion zu nutzen, müssen Sie sich anmelden.</string>
-	<string name="unauthorized_dialog_register">Registrieren</string>
+    <string name="invalid_login_dialog_title">Ungültige Anmeldung</string>
+    <string name="invalid_login_dialog_content">Sie haben ungültige Anmeldeinformationen eingegeben.</string>
+    <string name="invalid_login_dialog_retry">Erneut versuchen</string>
+    <string name="invalid_login_dialog_forgot_password">Ich habe das Passwort vergessen</string>
 
-	<string name="lists_error_dialog_title">Verbindungsfehler</string>
-	<string name="lists_error_dialog_content">Bitte überprüfen Sie Ihre Internetverbindung.</string>
-	<string name="lists_error_dialog_retry">Wiederholen</string>
+    <string name="feedback_dialog_title">Feedback</string>
+    <string name="feedback_dialog_text">Danke, dass Sie uns helfen, unsere App zu verbessern. Wir freuen uns über jedes Feedback, einen Link zu Feedback finden Sie unten im Menü.</string>
+    <string name="feedback_dialog_ok">OK</string>
 
-	<string name="button_login">Anmelden</string>
-	<string name="button_registration">Registrierung</string>
-	<string name="button_entry">Zugang ohne Anmeldung</string>
-
-	<string name="title_filter_results">Suchergebnisse</string>
-
-	<string name="button_verify">Profil zertifizieren</string>
-
-	<string name="invalid_login_dialog_title">Ungültige Anmeldung</string>
-	<string name="invalid_login_dialog_content">Sie haben ungültige Anmeldeinformationen eingegeben.</string>
-	<string name="invalid_login_dialog_retry">Erneut versuchen</string>
-	<string name="invalid_login_dialog_forgot_password">Ich habe das Passwort vergessen</string>
-
-	<string name="feedback_dialog_title">Feedback</string>
-	<string name="feedback_dialog_text">Danke, dass Sie uns helfen, unsere App zu verbessern. Wir freuen uns über jedes Feedback, einen Link zu Feedback finden Sie unten im Menü.</string>
-	<string name="feedback_dialog_ok">OK</string>
-
-	<string name="welcome_dialog_title">Willkommen</string>
-	<string name="welcome_dialog_text">Danke, dass Sie uns helfen, unsere App zu verbessern. Wir freuen uns über jedes Feedback, einen Link zum Feedback finden Sie unten im Menü.</string>
-	<string name="welcome_dialog_ok">OK</string>
-
-	<string name="profile_he">Er</string>
-    <string name="profile_she">Sie</string>
     <string name="profile_male">Mann</string>
     <string name="profile_female">Frau</string>
     <string name="profile_group">Gruppe</string>
@@ -177,27 +153,26 @@
         <item quantity="other">Stunden</item>
     </plurals>
     <plurals name="user_filter_show">
-        <item quantity="one">%s Profil zeigen</item>
-        <item quantity="other">%s Profile zeigen</item>
+        <item quantity="one">%s Profil anzeigen</item>
+        <item quantity="other">%s Profile anzeigen</item>
     </plurals>
     <plurals name="album_filter_show">
-        <item quantity="one">%s Album zeigen</item>
+        <item quantity="one">%s Album anzeigen</item>
         <item quantity="other">%s Alben anzeigen</item>
     </plurals>
     <plurals name="video_filter_show">
         <item quantity="one">Show %s video</item>
         <item quantity="other">Show %s videos</item>
     </plurals>
-<string name="title_videos">Videos</string>
+    <string name="title_videos">Videos</string>
     <string name="album_comment_fail">Es ist nicht möglich, einen Kommentar abzusenden</string>
 
-    <string name="title_next_videos">Mehr Videos</string>
+    <string name="title_next_videos">Mehr Videos (%s)</string>
     <string name="video_comment_fail">Es lässt sich kein Kommentar absenden</string>
 
     <string name="tab_videos">Videos</string>
     <string name="tab_video">Videos</string>
 
-    <string name="video_category_all">Alle Kategorien</string>
     <string name="video_verified_all">Bestätigt und unbestätigt</string>
     <string name="video_duration_all">Alle Längen</string>
     <string name="video_contest_all">Alle Wettbewerbe</string>
@@ -205,9 +180,6 @@
     <string name="no_videos_found">Keine Videos gefunden</string>
 
     <string name="video_duration">Dauer</string>
-
-    <string name="comment_disallowed_dialog_text">Nur verifizierte Benutzer können dieses Album kommentieren.</string>
-    <string name="comment_disallowed_dialog_ok">OK</string>
 
     <string name="vip_dialog_title">Es tut uns leid, aber nur VIP-Benutzer können diese Funktion umsonst nutzen.</string>
     <string name="vip_dialog_activate">Ich möchte VIP-Mitglied werden</string>
@@ -220,7 +192,6 @@
     <string name="feedback_message">Ihre Nachricht</string>
     <string name="feedback_send">Absenden</string>
     <string name="feedback_category_default">Wählen Sie die Kategorie</string>
-    <string name="feedback_ok">OK</string>
 
     <string name="profile_photo_camera">Nehmen Sie ein Foto auf</string>
     <string name="profile_photo_library">Wählen Sie aus der Bibliothek aus</string>
@@ -237,7 +208,7 @@
     <string name="search_album_hint">In den Alben suchen</string>
     <string name="search_video_hint">In den Videos suchen</string>
     <string name="search_user_hint">In den Benutzern suchen</string>
-<string name="ok">OK</string>
+    <string name="ok">OK</string>
     <string name="cancel">Abbrechen</string>
 
     <string name="title_setup">Anwendungseinstellungen</string>
@@ -246,7 +217,6 @@
     <string name="title_profile_settings">Inhaltseinstellungen</string>
 
     <string name="album_comment_disallowed">Sie können kein Kommentar zu diesem Album hinzufügen.</string>
-
     <string name="video_comment_disallowed">Sie können kein Kommentar zu diesem Video hinzufügen.</string>
 
     <string name="album_filter_show_all">Alben anzeigen</string>
@@ -360,7 +330,6 @@
     <string name="video_not_vip_other_button">Abbrechen</string>
 
     <string name="profile_album_settings_edit_error">Dieses Album können Sie nicht bearbeiten</string>
-    <string name="visibility">Veröffentlicht</string>
     <string name="no_album_title">Sie haben keine Alben.</string>
     <string name="no_album_text">Ein Album hinzuzufügen ist einfach und Sie können sofort anfrangen.</string>
     <string name="add_album">Neues Album hinzufügen</string>

@@ -1,163 +1,137 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
+    <string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>
+    <string name="general_loading">Strpenie, načítam dáta</string>
 
-	<string name="app_name">Amateri</string>
+    <string name="title_album">Fotoalbumy</string>
+    <string name="title_people">Ľudia</string>
+    <string name="title_logout">Odhlásiť sa</string>
+    <string name="title_version">Verzia %s</string>
+    <string name="title_feedback">Odoslať feedback</string>
+    <string name="title_new_version">Nová verzia!</string>
 
-	<string name="general_error_no_connection">Vyzerá to, že nemáte pripojenie k inernetu. Skúste to prosím neskôr.</string>
-	<string name="general_loading">Strpenie, načítam dáta</string>
+    <string name="tab_latest">Najnovšie</string>
+    <string name="tab_best">Najlepšie</string>
 
-	<string name="title_album">Fotoalbumy</string>
-	<string name="title_people">Ľudia</string>
-	<string name="title_my_profile">Môj profil</string>
-	<string name="title_logout">Odhlásiť sa</string>
-	<string name="title_version">Verzia %s</string>
-	<string name="title_feedback">Odoslať feedback</string>
-	<string name="title_new_version">Nová verzia!</string>
+    <string name="title_comments">Komentáre</string>
+    <string name="title_next_comments">Dalšie kmentáre (%s)</string>
+    <string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
 
-	<string name="tab_latest">Najnovšie</string>
-	<string name="tab_best">Najlepšie</string>
+    <string name="menu_notification">Upozornenie</string>
+    <string name="menu_badges">Odznaky</string>
+    <string name="menu_reset">Reset</string>
 
-	<string name="title_comments">Komentáre</string>
-	<string name="title_next_comments">Dalšie kmentáre (%s)</string>
-	<string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
+    <string name="action_try_again">Skúsiť znovu</string>
 
-	<string name="menu_notification">Upozornenie</string>
-	<string name="menu_badges">Odznaky</string>
-	<string name="menu_reset">Reset</string>
-	<string name="menu_settings">Nastavenie</string>
+    <string name="hint_username">Užívateľské meno</string>
+    <string name="hint_password">Heslo</string>
 
-	<string name="action_try_again">Skúsiť znovu</string>
+    <string name="tab_albums">Fotoalbumy</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_user">Užívateľ</string>
+    <string name="tab_album">Fotoalbum</string>
 
-	<string name="hint_username">Užívateľské meno</string>
-	<string name="hint_password">Heslo</string>
+    <string name="filter_advanced">Pokročilý filter</string>
+    <string name="filter_sort_by">zoradiť podľa</string>
 
-	<string name="tab_albums">Fotoalbumy</string>
-	<string name="tab_info">Info</string>
-	<string name="tab_user">Užívateľ</string>
-	<string name="tab_album">Fotoalbum</string>
+    <string name="title_personal_info">Osobné údaje</string>
+    <string name="title_sex">Pohlavie</string>
+    <string name="title_age">Vek</string>
+    <string name="title_country">Krajina</string>
+    <string name="title_region">Región</string>
+    <string name="title_marital_status">Rodinný stav</string>
+    <string name="title_sexual_orientation">Sexuálna orientácia</string>
+    <string name="title_height">Výška</string>
+    <string name="title_weight">Váha</string>
+    <string name="title_eye_color">Oči</string>
+    <string name="title_hair_color">Vlasy</string>
+    <string name="title_statistics">Štatistiky</string>
+    <string name="title_registration_date">Dátum registrácie</string>
+    <string name="title_chat_time">Čas na chate</string>
+    <string name="title_attended_events">Navštívené akcie</string>
+    <string name="title_views">Zobrazení profilu</string>
+    <string name="title_hobbies">Sexuálne koníčky a záujmy</string>
+    <string name="title_personal_descr">Vlastný popis</string>
+    <string name="title_profile_address">Adresa profilu</string>
+    <string name="title_unknown">N/A</string>
+    <string name="title_centimeters">cm</string>
+    <string name="title_kilograms">kg</string>
+    <string name="toast_copied_text">Adresa bola skopírovná do schránky!</string>
+    <string name="title_share">Zdieľať adresu</string>
 
-	<string name="empty_people">Žiadne položky</string>
+    <string name="title_filter">Hľadanie</string>
 
-	<string name="filter_from">filtrovať od</string>
-	<string name="filter_to">filtrovať do</string>
-	<string name="filter_advanced">Pokročilý filter</string>
-	<string name="filter_sort_by">zoradiť podľa</string>
+    <string name="general_error">Ups!</string>
+    <string name="user_content_all">Všetky typy obsahu</string>
+    <string name="user_sex_all">Všetky pohlavia</string>
+    <string name="user_age_all">Všetky vekové kategórie</string>
+    <string name="user_country_all">Všetky krajiny</string>
+    <string name="user_region_all">Všetky regióny</string>
+    <string name="user_sexual_orientation_all">Všetky sexuálne orientácie</string>
+    <string name="user_marital_status_all">Všetky rodinné stavy</string>
+    <string name="user_height_all">Všetky výšky</string>
+    <string name="user_weight_all">Všetky váhy</string>
+    <string name="no_users_found">Nenájdení žiadni užívatelia</string>
 
-	<string name="title_personal_info">Osobné údaje</string>
-	<string name="title_sex">Pohlavie</string>
-	<string name="title_age">Vek</string>
-	<string name="title_country">Krajina</string>
-	<string name="title_region">Región</string>
-	<string name="title_marital_status">Rodinný stav</string>
-	<string name="title_sexual_orientation">Sexuálna orientácia</string>
-	<string name="title_height">Výška</string>
-	<string name="title_weight">Váha</string>
-	<string name="title_eye_color">Oči</string>
-	<string name="title_hair_color">Vlasy</string>
-	<string name="title_statistics">Štatistiky</string>
-	<string name="title_registration_date">Dátum registrácie</string>
-	<string name="title_chat_time">Čas na chate</string>
-	<string name="title_attended_events">Navštívené akcie</string>
-	<string name="title_views">Zobrazení profilu</string>
-	<string name="title_hobbies">Sexuálne koníčky a záujmy</string>
-	<string name="title_personal_descr">Vlastný popis</string>
-	<string name="title_profile_address">Adresa profilu</string>
-	<string name="title_unknown">N/A</string>
-	<string name="title_centimeters">cm</string>
-	<string name="title_kilograms">kg</string>
-	<string name="toast_copied_text">Adresa bola skopírovná do schránky!</string>
-	<string name="title_share">Zdieľať adresu</string>
-	<string name="title_profile">Profil</string>
+    <string name="album_verified_all">Overené aj neoverené</string>
+    <string name="album_theme_all">Všetky témy</string>
+    <string name="album_contest_all">Všetky súťaže</string>
+    <string name="album_history_all">Pozreté aj nepozreté</string>
+    <string name="no_albums_found">Nenájdené žiadne albumy</string>
 
-	<string name="title_filter">Hľadanie</string>
+    <string name="author">autor</string>
+    <string name="category">kategórie</string>
+    <string name="photo_count">počet fotiek</string>
+    <string name="vip">vip</string>
+    <string name="certificated">certifikácia</string>
+    <string name="views">zobrazení</string>
+    <string name="rating">hodnotení</string>
+    <string name="comments">komentáre</string>
+    <string name="added">pridané</string>
+    <string name="album_number">číslo albumu</string>
+    <string name="album_address">adresa fotoalbumu</string>
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
 
-	<string name="general_error">Ups!</string>
-	<string name="user_content_all">Všetky typy obsahu</string>
-	<string name="user_sex_all">Všetky pohlavia</string>
-	<string name="user_age_all">Všetky vekové kategórie</string>
-	<string name="user_country_all">Všetky krajiny</string>
-	<string name="user_region_all">Všetky regióny</string>
-	<string name="user_sexual_orientation_all">Všetky sexuálne orientácie</string>
-	<string name="user_marital_status_all">Všetky rodinné stavy</string>
-	<string name="user_height_all">Všetky výšky</string>
-	<string name="user_weight_all">Všetky váhy</string>
-	<string name="no_users_found">Nenájdení žiadni užívatelia</string>
+    <string name="notifications_title">Notifikácie</string>
+    <string name="notifications_99_plus">99+</string>
+    <string name="notifications_visits">Návštevy</string>
+    <string name="notifications_messages">Pošta</string>
+    <string name="notifications_dating_messages">Odpovede na inzeráty</string>
+    <string name="notifications_requests">Žiadosti o priateľstvo</string>
+    <string name="notifications_favourites">Obľúbili si ma</string>
 
-	<string name="album_category_all">Všetky typy obsahu</string>
-	<string name="album_verified_all">Overené aj neoverené</string>
-	<string name="album_theme_all">Všetky témy</string>
-	<string name="album_contest_all">Všetky súťaže</string>
-	<string name="album_history_all">Pozreté aj nepozreté</string>
-	<string name="no_albums_found">Nenájdené žiadne albumy</string>
+    <string name="update_dialog_title">Nová verzia</string>
+    <string name="update_dialog_content">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcte si ju stiahnuť?</string>
+    <string name="update_dialog_later">Neskôr</string>
+    <string name="update_dialog_download">Stiahnuť</string>
 
-	<string name="author">autor</string>
-	<string name="category">kategórie</string>
-	<string name="photo_count">počet fotiek</string>
-	<string name="vip">vip</string>
-	<string name="certificated">certifikácia</string>
-	<string name="views">zobrazení</string>
-	<string name="rating">hodnotení</string>
-	<string name="comments">komentáre</string>
-	<string name="added">pridané</string>
-	<string name="album_number">číslo albumu</string>
-	<string name="album_address">adresa fotoalbumu</string>
-	<string name="yes">Áno</string>
-	<string name="no">Nie</string>
+    <string name="redirect_dialog_title">Budete presmerovaní</string>
+    <string name="redirect_dialog_content">Táto časť aplikácie je prístupná iba cez webové rozhranie. Chcete byť presmerovaní na webové stránky?</string>
 
-	<string name="error_no_albums">Žiadne albumy na prezretie.</string>
+    <string name="unauthorized_dialog_title">Nie ste prihlásení</string>
+    <string name="unauthorized_dialog_content">Na použitie tejto funkcie sa musíte prihlásiť.</string>
+    <string name="unauthorized_dialog_register">Registrovať sa</string>
 
-	<string name="notifications_title">Notifikácie</string>
-	<string name="notifications_99_plus">99+</string>
-	<string name="notifications_visits">Návštevy</string>
-	<string name="notifications_messages">Pošta</string>
-	<string name="notifications_dating_messages">Odpovede na inzeráty</string>
-	<string name="notifications_requests">Žiadosti o priateľstvo</string>
-	<string name="notifications_favourites">Obľúbili si ma</string>
-	<string name="notifications_profile_setup">Nastavenie účtu</string>
-	<string name="notifications_profile_edit">Upraviť profil</string>
+    <string name="lists_error_dialog_title">Chyba pripojenia</string>
+    <string name="lists_error_dialog_content">Skontrolujte si prosím pripojenie k internetu.</string>
+    <string name="lists_error_dialog_retry">Opakovať</string>
 
-	<string name="update_dialog_title">Nová verzia</string>
-	<string name="update_dialog_content">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcte si ju stiahnuť?</string>
-	<string name="update_dialog_later">Neskôr</string>
-	<string name="update_dialog_download">Stiahnuť</string>
+    <string name="button_login">Prihlásiť sa</string>
+    <string name="button_registration">Registrácia</string>
+    <string name="button_entry">Vstup bez prihlásenia</string>
 
-	<string name="invalid_token_dialog_title">Neplatné prihlásenie</string>
-	<string name="invalid_token_dialog_content">Aby sme mali istotu, že ste to naozaj vy, prihláste sa znovu prosím.</string>
+    <string name="title_filter_results">Výsledky hľadania</string>
 
-	<string name="redirect_dialog_title">Budete presmerovaní</string>
-	<string name="redirect_dialog_content">Táto časť aplikácie je prístupná iba cez webové rozhranie. Chcete byť presmerovaní na webové stránky?</string>
+    <string name="invalid_login_dialog_title">Neplatné prihlásenie</string>
+    <string name="invalid_login_dialog_content">Zadali ste neplatné prihlasovacie údaje.</string>
+    <string name="invalid_login_dialog_retry">Skúsiť znovu</string>
+    <string name="invalid_login_dialog_forgot_password">Zabudol som heslo</string>
 
-	<string name="unauthorized_dialog_title">Nie ste prihlásení</string>
-	<string name="unauthorized_dialog_content">Na použitie tejto funkcie sa musíte prihlásiť.</string>
-	<string name="unauthorized_dialog_register">Registrovať sa</string>
+    <string name="feedback_dialog_title">Spätná väzba</string>
+    <string name="feedback_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
+    <string name="feedback_dialog_ok">OK</string>
 
-	<string name="lists_error_dialog_title">Chyba pripojenia</string>
-	<string name="lists_error_dialog_content">Skontrolujte si prosím pripojenie k internetu.</string>
-	<string name="lists_error_dialog_retry">Opakovať</string>
-
-	<string name="button_login">Prihlásiť sa</string>
-	<string name="button_registration">Registrácia</string>
-	<string name="button_entry">Vstup bez prihlásenia</string>
-
-	<string name="title_filter_results">Výsledky hľadania</string>
-
-	<string name="button_verify">Certifikovať profil</string>
-
-	<string name="invalid_login_dialog_title">Neplatné prihlásenie</string>
-	<string name="invalid_login_dialog_content">Zadali ste neplatné prihlasovacie údaje.</string>
-	<string name="invalid_login_dialog_retry">Skúsiť znovu</string>
-	<string name="invalid_login_dialog_forgot_password">Zabudol som heslo</string>
-
-	<string name="feedback_dialog_title">Spätná väzba</string>
-	<string name="feedback_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
-	<string name="feedback_dialog_ok">OK</string>
-
-	<string name="welcome_dialog_title">Vitajte</string>
-	<string name="welcome_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
-	<string name="welcome_dialog_ok">OK</string>
-
-	<string name="profile_he">ON</string>
-    <string name="profile_she">ONA</string>
     <string name="profile_male">Muž</string>
     <string name="profile_female">Žena</string>
     <string name="profile_group">Skupina</string>
@@ -195,7 +169,7 @@
         <item quantity="few">Zobraziť %s videa</item>
         <item quantity="other">Zobraziť %s videí</item>
     </plurals>
-<string name="title_videos">Videá</string>
+    <string name="title_videos">Videá</string>
     <string name="album_comment_fail">Nie je možné odoslať komentár</string>
 
     <string name="title_next_videos">Ďalšie videá (%s)</string>
@@ -204,7 +178,6 @@
     <string name="tab_videos">Videá</string>
     <string name="tab_video">Video</string>
 
-    <string name="video_category_all">Všetky kategórie</string>
     <string name="video_verified_all">Overené aj neoverené</string>
     <string name="video_duration_all">Všetky dĺžky</string>
     <string name="video_contest_all">Všetky súťaže</string>
@@ -212,9 +185,6 @@
     <string name="no_videos_found">Nenájdené žiadne videá</string>
 
     <string name="video_duration">Dĺžka</string>
-
-    <string name="comment_disallowed_dialog_text">Iba overení užívatelia môžu komentovať tento album.</string>
-    <string name="comment_disallowed_dialog_ok">OK</string>
 
     <string name="vip_dialog_title">Ľutujeme, ale iba VIP užívatelia môžu využívať túto funkciu zadarmo.</string>
     <string name="vip_dialog_activate">Chcem sa stať VIP členom</string>
@@ -227,7 +197,6 @@
     <string name="feedback_message">Vaša pošta</string>
     <string name="feedback_send">Odoslať</string>
     <string name="feedback_category_default">Vyberte si kategóriu</string>
-    <string name="feedback_ok">OK</string>
 
     <string name="profile_photo_camera">Urobte fotku</string>
     <string name="profile_photo_library">Vyberte z knižnice</string>
@@ -244,11 +213,10 @@
     <string name="search_album_hint">Hľadať v albumoch</string>
     <string name="search_video_hint">Hľadať vo videách</string>
     <string name="search_user_hint">Hľadať v užívateľoch</string>
-<string name="ok">OK</string>
+    <string name="ok">OK</string>
     <string name="cancel">Zrušiť</string>
 
     <string name="album_not_vip_other_button">Zrušiť</string>
-
     <string name="video_not_vip_other_button">Zrušiť</string>
 
     <string name="title_setup">Nastavenia aplikácie</string>
@@ -257,7 +225,6 @@
     <string name="title_profile_settings">Nastavenia obsahu</string>
 
     <string name="album_comment_disallowed">K tomuto albumu nemôžete pridať komentár.</string>
-
     <string name="video_comment_disallowed">K tomuto videu nemôžete pridať komentár.</string>
 
     <string name="album_filter_show_all">Zobraziť albumy</string>
@@ -367,7 +334,8 @@
     <string name="video_not_vip_confirm">Vypnúť uzamknutie heslom?</string>
     <string name="video_not_vip_main_button">Vypnúť</string>
     <string name="profile_album_settings_edit_error">Tento album nemôžete upravovať</string>
-    <string name="visibility">Zverejnené</string>
+    <string name="visibility_on">Zapnuté</string>
+    <string name="visibility_off">Vypnuté</string>
     <string name="no_album_title">Nemáte zatiaľ žiadne albumy.</string>
     <string name="no_album_text">Pridať album je jednoduché a môžete začať hneď teraz.</string>
     <string name="add_album">Pridať nový album</string>
