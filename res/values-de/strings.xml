@@ -201,7 +201,7 @@
     <string name="profile_photo_camera_fail">Es lässt sich keine Foto-App finden</string>
 
     <string name="comment_write_hint">Einen Kommentar schreiben</string>
-    <string name="emoticon_dialog_close">schließen</string>
+    <string name="emoticon_dialog_close">Schließen</string>
     <string name="emoticon_no_emoticons">Keine Emoticons</string>
 
     <string name="search_hint">Suchen</string>
