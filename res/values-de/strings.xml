@@ -378,4 +378,6 @@
     <string name="notification_video_approve_text">Ihr Video \"%s\" wurde genehmigt.</string>
 
     <string name="notification_update_text">"Wir haben eine bessere, saftigere Version der Applikation für Sie. Wollen Sie  es runterladen?"</string>
-</resources>
+<string name="visibility_on">Eingeschaltet</string>
+    <string name="visibility_off">Ausgeschaltet</string>
+    </resources>
