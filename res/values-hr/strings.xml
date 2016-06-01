@@ -230,17 +230,190 @@
 
     <string name="profile_photo_camera">Snimite fotografiju</string>
     <string name="profile_photo_library">Odaberite u biblioteci</string>
-    <string name="profile_photo_processing">Obrada fotografije</string>
+    <string name="profile_photo_processing">Prenošenje fotografije</string>
     <string name="profile_photo_change">Promjena fotografije profila</string>
     <string name="profile_photo_fail">Ne može se prenijeti fotografija profila</string>
     <string name="profile_photo_camera_fail">Ne može se naći aplikacija kamere</string>
 
     <string name="comment_write_hint">Napišite komentar</string>
-    <string name="emoticon_dialog_close">zatvori</string>
+    <string name="emoticon_dialog_close">Zatvori</string>
     <string name="emoticon_no_emoticons">Bez emotikona</string>
 
     <string name="search_hint">Traži</string>
     <string name="search_album_hint">Traži u albumima</string>
     <string name="search_video_hint">Traži u videozapisima</string>
     <string name="search_user_hint">Traži u korisnicima</string>
+<string name="ok">U redu</string>
+    <string name="cancel">Otkaži</string>
+
+    <string name="title_setup">Postavke aplikacije</string>
+    <string name="title_album_settings">Postavke albuma</string>
+    <string name="title_video_settings">Postavke videozapisa</string>
+    <string name="title_profile_settings">Postavke sadržaja</string>
+
+    <string name="album_comment_disallowed">Sada ne možete dodati komentar ovom albumu.</string>
+
+    <string name="video_comment_disallowed">Sada nemožete dodati komentar za ovaj videozapis.</string>
+
+    <string name="album_filter_show_all">Prikaži albume</string>
+    <string name="video_filter_show_all">Prikaži videozapise</string>
+
+    <string name="album_sex_all">Sve spolne kategorije</string>
+    <string name="video_sex_all">Sve spolne kategorije</string>
+    <string name="video_number">ID videozapisa</string>
+    <string name="video_address">URL videozapisa</string>
+
+    <string name="verify_button">Potvrdi profil</string>
+    <string name="verify_title">Osigurajte si odmah povjerljiv i verificirani profil</string>
+    <string name="verify_chooser_title">Odaberite fotografiju</string>
+    <string name="verify_text">Zapišite nadimak, trenutni datum, naziv za amateri.com na papiru i fotografirajte. Ako profil koristite kao par, trebat će nam fotografija za verifikaciju za vas oboje.</string>
+    <string name="verify_more_info">Više informacija</string>
+    <string name="verify_send">Prenesite fotografiju za verifikaciju</string>
+    <string name="verify_done_text">Poslana je nova slika. Administrator će provejriti fotografiju za verifikaciju. Hvala vam.</string>
+    <string name="done">Gotovo!</string>
+
+    <string name="setup_notifications">Obavijesti</string>
+    <string name="setup_notification_new_message">Nova poruka</string>
+    <string name="setup_notification_advert_reply">Odgovor na novi oglas za sastanak</string>
+    <string name="setup_notification_friend_request">Novi zahtjev za prijateljstvo</string>
+    <string name="setup_notification_new_favourite">Odabrani ste kao favorit</string>
+    <string name="setup_notification_new_visit">Novi posjet profilu</string>
+    <string name="setup_notification_friend_request_reply">Prihvaćen je zahtjev za prijateljstvo</string>
+    <string name="setup_notification_new_album_comment">Komentar za novi album</string>
+    <string name="setup_notification_new_video_comment">Komentar za novi videozapis</string>
+    <string name="setup_notification_album_approval">Odobrenje nvogo albuma</string>
+    <string name="setup_notification_video_approval">Odobrenje novog videozapisa</string>
+    <string name="setup_notification_advertisement">Reklamne obavijesti</string>
+    <string name="setup_privacy">Sigurnost</string>
+    <string name="setup_auto_logout">Zaključavanje PIN-a</string>
+    <string name="change_pin">Promjena PIN-a</string>
+    <string name="next">Sljedeće</string>
+    <string name="setup_about_app">Nešto o aplikaciji</string>
+    <string name="setup_current_version">Trenutna verzija</string>
+    <string name="setup_update_check">Potraži nova ažuriranja</string>
+    <string name="setup_no_updates">Nema dostupnih ažuriranja</string>
+
+    <string name="locked_unlock">Otključaj</string>
+    <string name="locked_forgot_pin">Zaboravljeni PIN</string>
+    <string name="locked_pin_hint">PIN</string>
+    <string name="locked_pin_missing">Unesite PIN</string>
+    <string name="locked_bad_pin_title">Neispravan PIN</string>
+    <string name="locked_bad_pin_retry">Pokušajte opet</string>
+    <string name="locked_bad_pin_forgot">Zaboravljeni PIN</string>
+
+    <string name="forgot_pin_forgot_password">Zaboravljena lozinka</string>
+    <string name="forgot_pin_title">Prijavite se opet.</string>
+
+    <string name="dialog_pin_title_new">Unesite novi PIN</string>
+    <string name="dialog_pin_title_old">Unesite trenutni PIN</string>
+    <string name="dialog_pin_text_setup">Unesite četveroznamenkasti PIN.</string>
+    <string name="dialog_pin_text_forgot">Unesite novi četveroznamenkasti PIN ili ga uklonite.</string>
+    <string name="dialog_pin_text_old">Unesite trenutni PIN.</string>
+    <string name="dialog_pin_text_change_fail">Neispravan PIN</string>
+    <string name="dialog_pin_hint_1">Unesite novi PIN</string>
+    <string name="dialog_pin_hint_2">Ponovno unesite PIN</string>
+    <string name="dialog_pin_remove">Ukloni</string>
+    <string name="dialog_pin_create">Izradi</string>
+
+    <string name="album_settings_title">Naslov</string>
+    <string name="album_settings_title_hint">Unesite naslov</string>
+    <string name="album_settings_description">Opis</string>
+    <string name="album_settings_description_hint">Unesite opis</string>
+    <string name="album_settings_category">Kategorija</string>
+    <string name="album_settings_category_default">Odaberite kategoriju</string>
+    <string name="album_settings_comment">Postavke komentara</string>
+    <string name="album_settings_topic">Tema</string>
+    <string name="album_settings_topic_default">Odaberite temu</string>
+    <string name="album_settings_contest">Natjecanje</string>
+    <string name="album_settings_contest_default">Odaberite natjecanje</string>
+    <string name="album_settings_vote">Glasovanje je omogućeno</string>
+    <string name="album_settings_password_text">Zaključavanje lozinke</string>
+    <string name="album_settings_password_hint">Unesite lozinku</string>
+    <string name="album_settings_save">Podnesi</string>
+    <string name="album_settings_save_success">Promjene su spremljene</string>
+    <string name="album_settings_submit">Pošalji na odobrenje</string>
+    <string name="album_settings_submit_success">Promjene su poslane na odobrenje</string>
+    <string name="album_settings_missing_name">Unesite naslov</string>
+    <string name="album_settings_missing_password">Unesite lozinku</string>
+    <string name="album_not_vip_title">VIP je istekao</string>
+    <string name="album_not_vip_text">VIP je istekao. Nećete biti u mogućnosti ponovno uključiti zaključavanje lozinkom.</string>
+    <string name="album_not_vip_confirm">Isključiti zaključavanje lozinkom?</string>
+    <string name="album_not_vip_main_button">Isključi</string>
+    <string name="album_not_vip_other_button">Otkaži</string>
+
+    <string name="video_settings_title">Naslov</string>
+    <string name="video_settings_title_hint">Unesite naslov</string>
+    <string name="video_settings_description">Opis</string>
+    <string name="video_settings_description_hint">Unesite opis</string>
+    <string name="video_settings_category">Kategorija</string>
+    <string name="video_settings_category_default">Odaberite kategoriju</string>
+    <string name="video_settings_comment">Postavke komentara</string>
+    <string name="video_settings_contest">Natjecanje</string>
+    <string name="video_settings_contest_default">Odaberite natjecanje</string>
+    <string name="video_settings_vote">Glasovanje je omogućeno</string>
+    <string name="video_settings_password_text">Zaključavanje lozinkom</string>
+    <string name="video_settings_password_hint">Unesite lozinku</string>
+    <string name="video_settings_save">Pošalji</string>
+    <string name="video_settings_save_success">Promjene su spremljene</string>
+    <string name="video_settings_submit">Pošalji na odobrenje</string>
+    <string name="video_settings_submit_success">Promjene su poslane na odobrenje</string>
+    <string name="video_settings_missing_name">Unesite naslov</string>
+    <string name="video_settings_missing_password">Unesite lozinku</string>
+    <string name="video_not_vip_title">VIP je istekao</string>
+    <string name="video_not_vip_text">VIP je istekao. Nećete biti u mogućnosti ponovno uključiti zaključavanje lozinkom.</string>
+    <string name="video_not_vip_confirm">Isključiti zaključavanje lozinkom?</string>
+    <string name="video_not_vip_main_button">Isključi</string>
+    <string name="video_not_vip_other_button">Otkaži</string>
+
+    <string name="profile_album_settings_edit_error">Ne možete uređivati ovaj album</string>
+    <string name="visibility_on">Omogućeno</string>
+    <string name="visibility_off">Onemogućeno</string>
+    <string name="no_album_title">Još nemate nijedan album.</string>
+    <string name="no_album_text">Dodavanje albuma je lako i možete odmah započeti.</string>
+    <string name="add_album">Dodaj novi album</string>
+
+    <string name="profile_video_settings_edit_error">Ne možete uređivati ovaj videozapis</string>
+    <string name="no_video_title">Još nemate nijedan videozapis.</string>
+    <string name="no_video_text">Dodavanje videozapisa je lako i možete započeti odmah.</string>
+    <string name="add_video">Dodaj novi videozapis</string>
+
+    <string name="notification_profile">Profil</string>
+    <string name="notification_message">Poruka</string>
+    <string name="notification_album">Album</string>
+    <string name="notification_video">Videozapis</string>
+    <string name="notification_update">Preuzimanje</string>
+    <string name="notification_update_later">Kasnije</string>
+    <string name="notification_friendship_accept">Prihvati</string>
+    <string name="notification_dating_respond">Odgovori</string>
+    <string name="notification_more_info">Saznajte više</string>
+
+    <string name="notification_profile_view_title">Novi posjet profilu</string>
+    <string name="notification_profile_view_text">%s je upravo posjetio/la vaš profil.</string>
+
+    <string name="notification_message_add_title">Nova poruka</string>
+
+    <string name="notification_dating_ad_title">Novi odgovor na oglas za sastanak</string>
+
+    <string name="notification_friendship_request_title">Novi zahtjev za prijateljstvo</string>
+    <string name="notification_friendship_request_text">Korisnik %s želi biti vaš prijatelj!</string>
+
+    <string name="notification_friendship_approve_title">Zahtjev za prijateljstvo je prihvaćen</string>
+    <string name="notification_friendship_approve_text">Čestitamo, vi i %s sada ste novi prijatelji.</string>
+
+    <string name="notification_favourite_add_title">Uvršteni ste u favorite</string>
+    <string name="notification_favourite_add_text">Korisnik %s dodao vas je u njegove favorite.</string>
+
+    <string name="notification_album_comment_add_title">Novi komentar za album</string>
+    <string name="notification_album_comment_add_text">%1$s dodao/la je komentar za vaš album \"%2$s\": %3$s</string>
+
+    <string name="notification_video_comment_add_title">Novi komentar za videozapis</string>
+    <string name="notification_video_comment_add_text">%1$s dodao/la je komentar za vaš videozapis \"%2$s\": %3$s</string>
+
+    <string name="notification_album_approve_title">Album je odobren</string>
+    <string name="notification_album_approve_text">Vaš album \"%s\" je odobren.</string>
+
+    <string name="notification_video_approve_title">VIdeozapis je odobren</string>
+    <string name="notification_video_approve_text">Vaš videouapis \"%s\" je odobren.</string>
+
+    <string name="notification_update_text">Dostupna je nova poboljšana i sočnija verzija aplikacije. Želite li ju preuzeti?</string>
 </resources>
