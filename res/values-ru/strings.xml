@@ -245,4 +245,177 @@
     <string name="search_album_hint">Поиск по альбомам</string>
     <string name="search_video_hint">Поиск по видео</string>
     <string name="search_user_hint">Поиск по пользователям</string>
+<string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="title_setup">Настройки приложения</string>
+    <string name="title_album_settings">Настройки альбома</string>
+    <string name="title_video_settings">Настройки видео</string>
+    <string name="title_profile_settings">Настройки содержимого</string>
+
+    <string name="album_comment_disallowed">Сейчас Вы не можете добавить комментарий к этому альбому.</string>
+
+    <string name="video_comment_disallowed">Сейчас Вы не можете добавить комментарий к этому видео.</string>
+
+    <string name="album_filter_show_all">Показать альбомы</string>
+    <string name="video_filter_show_all">Показать видео</string>
+
+    <string name="album_sex_all">Все категории секса</string>
+    <string name="video_sex_all">Все категории секса</string>
+    <string name="video_number">ID видео</string>
+    <string name="video_address">URL видео</string>
+
+    <string name="verify_button">Проверить профиль</string>
+    <string name="verify_title">Получить более надежный профиль прямо сейчас</string>
+    <string name="verify_chooser_title">Выбрать фотографию</string>
+    <string name="verify_text">Напишите Ваш ник, текущую дату и название amateri.com на листе бумаги и сфотографируйтесь с ним. Если Вы пользуетесь аккаунтом как пара, нам нужна фотография Вас обоих.</string>
+    <string name="verify_more_info">Больше информации</string>
+    <string name="verify_send">Загрузить фотографию для проверки</string>
+    <string name="verify_done_text">Новая фотография была загружена. Фотография будет проверена администратором. Спасибо.</string>
+    <string name="done">Готово!</string>
+
+    <string name="setup_notifications">Уведомления</string>
+    <string name="setup_notification_new_message">Новое сообщение</string>
+    <string name="setup_notification_advert_reply">Новый ответ на объявление о знакомстве</string>
+    <string name="setup_notification_friend_request">Новый запрос на добавление в друзья</string>
+    <string name="setup_notification_new_favourite">Вы были добавлены в избранное</string>
+    <string name="setup_notification_new_visit">Новое посещение профиля</string>
+    <string name="setup_notification_friend_request_reply">Запрос на добавление в друзья был принят</string>
+    <string name="setup_notification_new_album_comment">Новый комментарий к альбому</string>
+    <string name="setup_notification_new_video_comment">Новый комментарий к видео</string>
+    <string name="setup_notification_album_approval">Новый альбом утвержден</string>
+    <string name="setup_notification_video_approval">Новое видео утверждено</string>
+    <string name="setup_notification_advertisement">Новостная рассылка</string>
+    <string name="setup_privacy">Безопасность</string>
+    <string name="setup_auto_logout">Блокировка PIN-кода</string>
+    <string name="change_pin">Смена PIN-кода</string>
+    <string name="next">Далее</string>
+    <string name="setup_about_app">О приложении</string>
+    <string name="setup_current_version">Текущая версия</string>
+    <string name="setup_update_check">Проверить обновления</string>
+    <string name="setup_no_updates">Нет доступных обновлений</string>
+
+    <string name="locked_unlock">Снять блокировку</string>
+    <string name="locked_forgot_pin">Вспомнить PIN-код</string>
+    <string name="locked_pin_hint">PIN-код</string>
+    <string name="locked_pin_missing">Введите PIN-код</string>
+    <string name="locked_bad_pin_title">Неверный PIN-код</string>
+    <string name="locked_bad_pin_retry">Попробуйте снова</string>
+    <string name="locked_bad_pin_forgot">Вспомнить PIN-код</string>
+
+    <string name="forgot_pin_forgot_password">Вспомнить пароль</string>
+    <string name="forgot_pin_title">Пожалуйста, войдите снова.</string>
+
+    <string name="dialog_pin_title_new">Введите новый PIN-код</string>
+    <string name="dialog_pin_title_old">Введите текущий PIN-код</string>
+    <string name="dialog_pin_text_setup">Введите 4-значный PIN-код.</string>
+    <string name="dialog_pin_text_forgot">Введите новый 4-значный PIN-код или удалите его.</string>
+    <string name="dialog_pin_text_old">Введите текущий PIN-код.</string>
+    <string name="dialog_pin_text_change_fail">Неверный PIN-код</string>
+    <string name="dialog_pin_hint_1">Введите PIN-код</string>
+    <string name="dialog_pin_hint_2">Введите PIN-код снова</string>
+    <string name="dialog_pin_remove">Удалить</string>
+    <string name="dialog_pin_create">Создать</string>
+
+    <string name="album_settings_title">Название</string>
+    <string name="album_settings_title_hint">Введите название</string>
+    <string name="album_settings_description">Описание</string>
+    <string name="album_settings_description_hint">Введите описание</string>
+    <string name="album_settings_category">Категория</string>
+    <string name="album_settings_category_default">Выберите категорию</string>
+    <string name="album_settings_comment">Настройки комментариев</string>
+    <string name="album_settings_topic">Тема</string>
+    <string name="album_settings_topic_default">Выберите тему</string>
+    <string name="album_settings_contest">Конкурс</string>
+    <string name="album_settings_contest_default">Выберите конкурс</string>
+    <string name="album_settings_vote">Голосование разрешено</string>
+    <string name="album_settings_password_text">Пароль блокировки</string>
+    <string name="album_settings_password_hint">Введите пароль</string>
+    <string name="album_settings_save">Отправить</string>
+    <string name="album_settings_save_success">Изменения сохранены</string>
+    <string name="album_settings_submit">Отправить на утверждение</string>
+    <string name="album_settings_submit_success">Изменения были отправлены на утверждение</string>
+    <string name="album_settings_missing_name">Пожалуйста, введите название</string>
+    <string name="album_settings_missing_password">Пожалуйста, введите пароль</string>
+    <string name="album_not_vip_title">Членство VIP истекло</string>
+    <string name="album_not_vip_text">Членство VIP истекло. Вы не сможете включить пароль блокировки.</string>
+    <string name="album_not_vip_confirm">Выключить пароль блокировки?</string>
+    <string name="album_not_vip_main_button">Выключить</string>
+    <string name="album_not_vip_other_button">Отмена</string>
+
+    <string name="video_settings_title">Название</string>
+    <string name="video_settings_title_hint">Введите название</string>
+    <string name="video_settings_description">Описание</string>
+    <string name="video_settings_description_hint">Введите описание</string>
+    <string name="video_settings_category">Категория</string>
+    <string name="video_settings_category_default">Выберите категорию</string>
+    <string name="video_settings_comment">Настройки комментариев</string>
+    <string name="video_settings_contest">Конкурс</string>
+    <string name="video_settings_contest_default">Выберите конкурс</string>
+    <string name="video_settings_vote">Голосование разрешено</string>
+    <string name="video_settings_password_text">Пароль блокировки</string>
+    <string name="video_settings_password_hint">Введите пароль</string>
+    <string name="video_settings_save">Отправить</string>
+    <string name="video_settings_save_success">Изменения сохранены</string>
+    <string name="video_settings_submit">Отправить на утверждение</string>
+    <string name="video_settings_submit_success">Изменения были отправлены на утверждение</string>
+    <string name="video_settings_missing_name">Пожалуйста, введите название</string>
+    <string name="video_settings_missing_password">Пожалуйста, введите пароль</string>
+    <string name="video_not_vip_title">Членство VIP истекло</string>
+    <string name="video_not_vip_text">Членство VIP истекло. Вы не сможете включить пароль блокировки.</string>
+    <string name="video_not_vip_confirm">Выключить пароль блокировки?</string>
+    <string name="video_not_vip_main_button">Выключить</string>
+    <string name="video_not_vip_other_button">Отмена</string>
+
+    <string name="profile_album_settings_edit_error">Вы не можете редактировать этот альбом</string>
+    <string name="visibility_on">Включено</string>
+    <string name="visibility_off">Отключено</string>
+    <string name="no_album_title">У Вас еще нет альбомов.</string>
+    <string name="no_album_text">Добавить альбом легко, Вы можете начать прямо сейчас.</string>
+    <string name="add_album">Добавить новый альбом</string>
+
+    <string name="profile_video_settings_edit_error">Вы не можете редактировать это видео</string>
+    <string name="no_video_title">У Вас еще нет видео.</string>
+    <string name="no_video_text">Добавить видео легко, Вы можете начать прямо сейчас.</string>
+    <string name="add_video">Добавить новое видео</string>
+
+    <string name="notification_profile">Профиль</string>
+    <string name="notification_message">Сообщение</string>
+    <string name="notification_album">Альбом</string>
+    <string name="notification_video">Видео</string>
+    <string name="notification_update">Скачать</string>
+    <string name="notification_update_later">Позже</string>
+    <string name="notification_friendship_accept">Принять</string>
+    <string name="notification_dating_respond">Ответить</string>
+    <string name="notification_more_info">Узнать больше</string>
+
+    <string name="notification_profile_view_title">Новое посещение профиля</string>
+    <string name="notification_profile_view_text">%s только что посетил Ваш профиль.</string>
+
+    <string name="notification_message_add_title">Новое сообщение</string>
+
+    <string name="notification_dating_ad_title">Новый ответ на объявление о знакомстве</string>
+
+    <string name="notification_friendship_request_title">Новый запрос на добавление в друзья</string>
+    <string name="notification_friendship_request_text">Пользователь %s хочет быть Вашим другом!</string>
+
+    <string name="notification_friendship_approve_title">Запрос на добавление в друзья принят</string>
+    <string name="notification_friendship_approve_text">Поздравляем, Вы и %s теперь друзья.</string>
+
+    <string name="notification_favourite_add_title">Вы были добавлены в избранное</string>
+    <string name="notification_favourite_add_text">Пользователь %s добавил Вас в избранное.</string>
+
+    <string name="notification_album_comment_add_title">Новый комментарий к альбому</string>
+    <string name="notification_album_comment_add_text">%1$s добавил комментарий к Вашему альбому \"%2$s\": %3$s</string>
+
+    <string name="notification_video_comment_add_title">Новый комментарий к видео</string>
+    <string name="notification_video_comment_add_text">%1$s добавил комментарий к Вашему видео \"%2$s\": %3$s</string>
+
+    <string name="notification_album_approve_title">Альбом утвержден</string>
+    <string name="notification_album_approve_text">Ваш альбом \"%s\" был утвержден.</string>
+
+    <string name="notification_video_approve_title">Видео утверждено</string>
+    <string name="notification_video_approve_text">Ваше видео \"%s\" было утверждено.</string>
+
+    <string name="notification_update_text">Доступна новая усовершенствованная и более интересная версия приложения. Вы хотите скачать ее?</string>
 </resources>
