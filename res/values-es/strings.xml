@@ -226,11 +226,184 @@
     <string name="profile_photo_camera_fail">No se pudo encontrar la aplicación de la cámara</string>
 
     <string name="comment_write_hint">Escribir un comentario</string>
-    <string name="emoticon_dialog_close">cerrar</string>
+    <string name="emoticon_dialog_close">Cerrar</string>
     <string name="emoticon_no_emoticons">Ningún emoticono</string>
 
     <string name="search_hint">Buscar</string>
     <string name="search_album_hint">Buscar álbumes</string>
     <string name="search_video_hint">Buscar vídeos</string>
     <string name="search_user_hint">Buscar usuarios</string>
+<string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="title_setup">Configuración de la aplicación</string>
+    <string name="title_album_settings">Configuración del álbum</string>
+    <string name="title_video_settings">Configuración de vídeo</string>
+    <string name="title_profile_settings">Configuración de contenido</string>
+
+    <string name="album_comment_disallowed">No puede añadir un comentario a este álbum ahora.</string>
+
+    <string name="video_comment_disallowed">No puede añadir un comentario a este vídeo ahora.</string>
+
+    <string name="album_filter_show_all">Mostrar álbumes</string>
+    <string name="video_filter_show_all">Mostrar vídeos</string>
+
+    <string name="album_sex_all">Todas las categorías de sexo</string>
+    <string name="video_sex_all">Todas las categorías de sexo</string>
+    <string name="video_number">ID de vídeo</string>
+    <string name="video_address">URL de vídeo</string>
+
+    <string name="verify_button">Verificar perfil</string>
+    <string name="verify_title">Obtener un perfil verificado más fiable ahora</string>
+    <string name="verify_chooser_title">Elegir una foto</string>
+    <string name="verify_text">Escriba su apodo, fecha actual, nombre de amateri.com en el papel y tome una foto. Si está utilizando el perfil como pareja, necesitamos una foto de verificación de ambos.</string>
+    <string name="verify_more_info">Más información</string>
+    <string name="verify_send">Cargar foto de verificación</string>
+    <string name="verify_done_text">Se ha enviado una nueva imagen. La foto de verificación será comprobada por el administrador. Gracias.</string>
+    <string name="done">¡Hecho!</string>
+
+    <string name="setup_notifications">Notificaciones</string>
+    <string name="setup_notification_new_message">Nuevo mensaje</string>
+    <string name="setup_notification_advert_reply">Nueva repuesta de anuncio de cita</string>
+    <string name="setup_notification_friend_request">Nueva solicitud de amistad</string>
+    <string name="setup_notification_new_favourite">Ha sido marcado como favorito</string>
+    <string name="setup_notification_new_visit">Nueva visita de perfil</string>
+    <string name="setup_notification_friend_request_reply">Solicitud de amistad aceptada</string>
+    <string name="setup_notification_new_album_comment">Nuevo comentario de álbum</string>
+    <string name="setup_notification_new_video_comment">Nuevo comentario de vídeo</string>
+    <string name="setup_notification_album_approval">Nueva aprobación de álbum</string>
+    <string name="setup_notification_video_approval">Nueva aprobación de vídeo</string>
+    <string name="setup_notification_advertisement">Boletines</string>
+    <string name="setup_privacy">Seguridad</string>
+    <string name="setup_auto_logout">Bloqueo del código PIN</string>
+    <string name="change_pin">Cambiar código PIN</string>
+    <string name="next">Siguiente</string>
+    <string name="setup_about_app">Sobre la aplicación</string>
+    <string name="setup_current_version">Versión actual</string>
+    <string name="setup_update_check">Comprobar actualizaciones</string>
+    <string name="setup_no_updates">Ninguna actualización disponible</string>
+
+    <string name="locked_unlock">Desbloquear</string>
+    <string name="locked_forgot_pin">Código PIN olvidado</string>
+    <string name="locked_pin_hint">Código PIN</string>
+    <string name="locked_pin_missing">Introducir código PIN</string>
+    <string name="locked_bad_pin_title">Código PIN inválido</string>
+    <string name="locked_bad_pin_retry">Intentar de nuevo</string>
+    <string name="locked_bad_pin_forgot">Código PIN olvidado</string>
+
+    <string name="forgot_pin_forgot_password">Contraseña olvidada</string>
+    <string name="forgot_pin_title">Inicie sesión de nuevo.</string>
+
+    <string name="dialog_pin_title_new">Introducir el nuevo código PIN</string>
+    <string name="dialog_pin_title_old">Introducir el código PIN actual</string>
+    <string name="dialog_pin_text_setup">Introducir código PIN de 4 dígitos.</string>
+    <string name="dialog_pin_text_forgot">Introducir nuevo código PIN de 4 dígitos o eliminarlo.</string>
+    <string name="dialog_pin_text_old">Introducir código PIN actual.</string>
+    <string name="dialog_pin_text_change_fail">Código PIN inválido</string>
+    <string name="dialog_pin_hint_1">Introducir código PIN</string>
+    <string name="dialog_pin_hint_2">Reintroducir código PIN</string>
+    <string name="dialog_pin_remove">Eliminar</string>
+    <string name="dialog_pin_create">Crear</string>
+
+    <string name="album_settings_title">Título</string>
+    <string name="album_settings_title_hint">Introducir título</string>
+    <string name="album_settings_description">Descripción</string>
+    <string name="album_settings_description_hint">Introducir descripción</string>
+    <string name="album_settings_category">Categoría</string>
+    <string name="album_settings_category_default">Seleccionar categoría</string>
+    <string name="album_settings_comment">Configurar comentarios</string>
+    <string name="album_settings_topic">Asunto</string>
+    <string name="album_settings_topic_default">Seleccionar asunto</string>
+    <string name="album_settings_contest">Concurso</string>
+    <string name="album_settings_contest_default">Seleccionar concurso</string>
+    <string name="album_settings_vote">Votación activada</string>
+    <string name="album_settings_password_text">Bloqueo de contraseña</string>
+    <string name="album_settings_password_hint">Introducir contraseña</string>
+    <string name="album_settings_save">Enviar</string>
+    <string name="album_settings_save_success">Cambios guardados</string>
+    <string name="album_settings_submit">Enviar para aprobación</string>
+    <string name="album_settings_submit_success">Los cambios han sido enviados para su aprobación</string>
+    <string name="album_settings_missing_name">Introduzca el título</string>
+    <string name="album_settings_missing_password">Introduzca la contraseña</string>
+    <string name="album_not_vip_title">VIP expiró</string>
+    <string name="album_not_vip_text">VIP expiró. No podrá volver a activar el bloqueo de la contraseña.</string>
+    <string name="album_not_vip_confirm">¿Se desactivó el bloqueo de la contraseña?</string>
+    <string name="album_not_vip_main_button">Desactivar</string>
+    <string name="album_not_vip_other_button">Cancelar</string>
+
+    <string name="video_settings_title">Título</string>
+    <string name="video_settings_title_hint">Introducir título</string>
+    <string name="video_settings_description">Descripción</string>
+    <string name="video_settings_description_hint">Introducir descripción</string>
+    <string name="video_settings_category">Categoría</string>
+    <string name="video_settings_category_default">Seleccionar categoría</string>
+    <string name="video_settings_comment">Configuración de comentarios</string>
+    <string name="video_settings_contest">Concurso</string>
+    <string name="video_settings_contest_default">Seleccionar concurso</string>
+    <string name="video_settings_vote">Votación activada</string>
+    <string name="video_settings_password_text">Bloqueo de contraseña</string>
+    <string name="video_settings_password_hint">Introducir contraseña</string>
+    <string name="video_settings_save">Enviar</string>
+    <string name="video_settings_save_success">Cambios guardados</string>
+    <string name="video_settings_submit">Enviar para aprobación</string>
+    <string name="video_settings_submit_success">Los cambios se han enviado para su aprobación</string>
+    <string name="video_settings_missing_name">Introduzca el título</string>
+    <string name="video_settings_missing_password">Introduzca la contraseña</string>
+    <string name="video_not_vip_title">VIP expirado</string>
+    <string name="video_not_vip_text">VIP expirado. No podrá activar el bloqueo de contraseña de nuevo.</string>
+    <string name="video_not_vip_confirm">¿Se desactivó el bloqueo de la contraseña?</string>
+    <string name="video_not_vip_main_button">Desactivar</string>
+    <string name="video_not_vip_other_button">Cancelar</string>
+
+    <string name="profile_album_settings_edit_error">No puede editar este álbum</string>
+    <string name="visibility_on">Habilitado</string>
+    <string name="visibility_off">Deshabilitado</string>
+    <string name="no_album_title">Aún no tiene álbumes.</string>
+    <string name="no_album_text">Es fácil añadir un álbum y puede comenzar ahora.</string>
+    <string name="add_album">Añadir un álbum nuevo</string>
+
+    <string name="profile_video_settings_edit_error">No puede editar este vídeo</string>
+    <string name="no_video_title">Aún no tienes vídeos.</string>
+    <string name="no_video_text">Es fácil añadir un vídeo y puede empezar ahora.</string>
+    <string name="add_video">Añadir vídeo nuevo</string>
+
+    <string name="notification_profile">Perfil</string>
+    <string name="notification_message">Mensaje</string>
+    <string name="notification_album">Álbum</string>
+    <string name="notification_video">Vídeo</string>
+    <string name="notification_update">Descargar</string>
+    <string name="notification_update_later">Después</string>
+    <string name="notification_friendship_accept">Aceptar</string>
+    <string name="notification_dating_respond">Contestar</string>
+    <string name="notification_more_info">Saber más</string>
+
+    <string name="notification_profile_view_title">Nueva visita del perfil</string>
+    <string name="notification_profile_view_text">%s acaba de visitar su perfil.</string>
+
+    <string name="notification_message_add_title">Nuevo mensaje</string>
+
+    <string name="notification_dating_ad_title">Nueva respuesta de anuncio de citas</string>
+
+    <string name="notification_friendship_request_title">Nueva solicitud de amistad</string>
+    <string name="notification_friendship_request_text">¡Al usuario %s le gustaría ser su amigo!</string>
+
+    <string name="notification_friendship_approve_title">Solicitud de amistad aceptada</string>
+    <string name="notification_friendship_approve_text">Felicidades, usted y %s son ahora amigos.</string>
+
+    <string name="notification_favourite_add_title">Has sido elegido como favorito</string>
+    <string name="notification_favourite_add_text">El usuario %s le ha añadido a sus favoritos.</string>
+
+    <string name="notification_album_comment_add_title">Nuevo comentario de álbum</string>
+    <string name="notification_album_comment_add_text">%1$s ha añadido un comentario a su álbum \"%2$s\": %3$s</string>
+
+    <string name="notification_video_comment_add_title">Nuevo comentario de vídeo</string>
+    <string name="notification_video_comment_add_text">%1$s ha añadido unnuevo comentario a su vídeo \"%2$s\": %3$s</string>
+
+    <string name="notification_album_approve_title">Álbum aprobado</string>
+    <string name="notification_album_approve_text">Su álbum \"%s\" ha sido aprobado.</string>
+
+    <string name="notification_video_approve_title">Vídeo aprobado</string>
+    <string name="notification_video_approve_text">Su vídeo \"%s\" ha sido aprobado.</string>
+
+    <string name="notification_update_text">Está disponible una versión mejorada y más jugosa de la aplicación. ¿Desea descargarla?</string>
 </resources>
