@@ -220,13 +220,13 @@
 
     <string name="profile_photo_camera">Prenez une photo</string>
     <string name="profile_photo_library">Choisissez dans la bibliothèque</string>
-    <string name="profile_photo_processing">La photo est en cours de traitement</string>
+    <string name="profile_photo_processing">La photo se charge</string>
     <string name="profile_photo_change">Changer la photo de profil</string>
     <string name="profile_photo_fail">La photo de profil ne peut pas être téléchargée</string>
     <string name="profile_photo_camera_fail">L\'application photo ne peut pas être trouvée</string>
 
     <string name="comment_write_hint">Ecrire un commentaire</string>
-    <string name="emoticon_dialog_close">fermer</string>
+    <string name="emoticon_dialog_close">Fermer</string>
     <string name="emoticon_no_emoticons">Aucun émoticon</string>
 
     <string name="search_hint">Chercher</string>
@@ -241,9 +241,9 @@
     <string name="title_video_settings">Configuration de la vidéo</string>
     <string name="title_profile_settings">Configuration du contenu</string>
 
-    <string name="album_comment_disallowed">Vous ne pouvez pas rajouter de commentaire à cet album maintenant</string>
+    <string name="album_comment_disallowed">Vous ne pouvez pas rajouter de commentaire à cet album maintenant.</string>
 
-    <string name="video_comment_disallowed">Vous ne pouvez pas rajouter de commentaire à cette vidéo maintenant</string>
+    <string name="video_comment_disallowed">Vous ne pouvez pas rajouter de commentaire à cette vidéo maintenant.</string>
 
     <string name="album_filter_show_all">Afficher les albums</string>
     <string name="video_filter_show_all">Afficher les vidéos</string>
@@ -256,13 +256,13 @@
     <string name="verify_button">Vérifier le profil</string>
     <string name="verify_title">Obtenez un profil mieux vérifié dès maintenant</string>
     <string name="verify_chooser_title">Choisissez une photo</string>
-    <string name="verify_text">Ecrivez sur un papier votre alias (surnom), la date actuelle, le nom amateri.com et photographiez-vous avec le papier en main. Si vous utilisez le profil en tant que couple, nous avons besoin d\'une photo de vérification de tous les deux</string>
+    <string name="verify_text">Ecrivez sur un papier votre alias (surnom), la date actuelle, le nom amateri.com et photographiez-vous avec le papier en main. Si vous utilisez le profil en tant que couple, nous avons besoin d\'une photo de vérification de tous les deux.</string>
     <string name="verify_more_info">Plus d\'informations</string>
     <string name="verify_send">Enregistrer la photo de vérification</string>
     <string name="verify_done_text">La nouvelle photo a été enregistrée avec succès. La photo de vérification sera contrôlée par l\'administrateur. Nous vous remercions.</string>
     <string name="done">Prêt !</string>
 
-    <string name="setup_notifications">Mettre une notification</string>
+    <string name="setup_notifications">Pose de notifications</string>
     <string name="setup_notification_new_message">Nouveau message</string>
     <string name="setup_notification_advert_reply">Nouvelle réponse à une annonce dans le site de rencontre</string>
     <string name="setup_notification_friend_request">Nouvelle demande d\'amitié</string>
@@ -292,13 +292,13 @@
     <string name="locked_bad_pin_forgot">Code PIN oublié</string>
 
     <string name="forgot_pin_forgot_password">Mot de passe oublié</string>
-    <string name="forgot_pin_title">Veuillez vous reconnecter</string>
+    <string name="forgot_pin_title">Veuillez vous reconnecter.</string>
 
     <string name="dialog_pin_title_new">Rentrez le nouveau code PIN</string>
     <string name="dialog_pin_title_old">Rentrez le code PIN actuel</string>
-    <string name="dialog_pin_text_setup">Rentrez un code PIN à 4 caractères</string>
-    <string name="dialog_pin_text_forgot">Rentrez le nouveau code PIN à 4 caractères ou supprimez-le</string>
-    <string name="dialog_pin_text_old">Rentrez le code PIN actuel</string>
+    <string name="dialog_pin_text_setup">Rentrez un code PIN à 4 caractères.</string>
+    <string name="dialog_pin_text_forgot">Rentrez le nouveau code PIN à 4 caractères ou supprimez-le.</string>
+    <string name="dialog_pin_text_old">Rentrez le code PIN actuel.</string>
     <string name="dialog_pin_text_change_fail">Code PIN invalide</string>
     <string name="dialog_pin_hint_1">Rentrez le code PIN</string>
     <string name="dialog_pin_hint_2">Rentrez encore une fois le code PIN</string>
@@ -326,7 +326,7 @@
     <string name="album_settings_missing_name">Veuillez remplir le nom</string>
     <string name="album_settings_missing_password">Veuillez remplir le mot de passe</string>
     <string name="album_not_vip_title">VIP expiré</string>
-    <string name="album_not_vip_text">VIP expiré. Vous ne pourrez plus utiliser la fermeture par mot de passe</string>
+    <string name="album_not_vip_text">VIP expiré. Vous ne pourrez plus utiliser la fermeture par mot de passe.</string>
     <string name="album_not_vip_confirm">Eteindre la fermeture par mot de passe ?</string>
     <string name="album_not_vip_main_button">Eteindre</string>
     <string name="album_not_vip_other_button">Supprimer</string>
@@ -350,7 +350,7 @@
     <string name="video_settings_missing_name">Veuillez rentrer le nom</string>
     <string name="video_settings_missing_password">Veuillez rentrer le mot de passe</string>
     <string name="video_not_vip_title">VIP expiré</string>
-    <string name="video_not_vip_text">VIP expiré. Vous ne pourrez plus utiliser la fermeture par mot de passe</string>
+    <string name="video_not_vip_text">VIP expiré. Vous ne pourrez plus utiliser la fermeture par mot de passe.</string>
     <string name="video_not_vip_confirm">Eteindre la fermeture par mot de passe ?</string>
     <string name="video_not_vip_main_button">Eteindre</string>
     <string name="video_not_vip_other_button">Supprimer</string>
@@ -358,8 +358,8 @@
     <string name="profile_album_settings_edit_error">Vous ne pouvez pas modifier cet album</string>
     <string name="visibility_on">Allumé</string>
     <string name="visibility_off">Eteint</string>
-    <string name="no_album_title">Vous n\'avez aucun album pour le moment</string>
-    <string name="no_album_text">Rajouter un album est facile et vous pouvez commencer tout de suite</string>
+    <string name="no_album_title">Vous n\'avez aucun album pour le moment.</string>
+    <string name="no_album_text">Rajouter un album est facile et vous pouvez commencer tout de suite.</string>
     <string name="add_album">Rajouter un nouvel album</string>
 
     <string name="profile_video_settings_edit_error">Vous ne pouvez pas modifier cette vidéo</string>
@@ -378,7 +378,7 @@
     <string name="notification_more_info">Plus d\'informations</string>
 
     <string name="notification_profile_view_title">Nouvelle visite du profil</string>
-    <string name="notification_profile_view_text">%s vient juste de visiter votre profil</string>
+    <string name="notification_profile_view_text">%s vient juste de visiter votre profil.</string>
 
     <string name="notification_message_add_title">Nouveau message</string>
 
@@ -388,10 +388,10 @@
     <string name="notification_friendship_request_text">L\'utilisateur/utilisatrice %s voudrait être votre ami/e !</string>
 
     <string name="notification_friendship_approve_title">Demande d\'amitié acceptée</string>
-    <string name="notification_friendship_approve_text">Félicitations, vous et %s êtes désormais amis</string>
+    <string name="notification_friendship_approve_text">Félicitations, vous et %s êtes désormais amis.</string>
 
     <string name="notification_favourite_add_title">Rajouter aux favoris</string>
-    <string name="notification_favourite_add_text">L\'utilisateur/utilisatrice %s vous a rajouté/e à ses favoris</string>
+    <string name="notification_favourite_add_text">L\'utilisateur/utilisatrice %s vous a rajouté/e à ses favoris.</string>
 
     <string name="notification_album_comment_add_title">Nouveau commentaire sur un album</string>
     <string name="notification_album_comment_add_text">%1$s a commenté votre album \"%2$s\": %3$s</string>
@@ -400,10 +400,10 @@
     <string name="notification_video_comment_add_text">%1$s a commenté votre vidéo \"%2$s\": %3$s</string>
 
     <string name="notification_album_approve_title">Album approuvé</string>
-    <string name="notification_album_approve_text">Votre album \"%s\" a été approuvé</string>
+    <string name="notification_album_approve_text">Votre album \"%s\" a été approuvé.</string>
 
     <string name="notification_video_approve_title">Vidéo approuvée</string>
-    <string name="notification_video_approve_text">Votre vidéo \"%s\" a été approuvée</string>
+    <string name="notification_video_approve_text">Votre vidéo \"%s\" a été approuvée.</string>
 
     <string name="notification_update_text">Nous avons pour vous une meilleure version, plus juteuse de l\'application. Voulez-vous la télécharger ?</string>
 </resources>
