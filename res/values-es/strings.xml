@@ -220,7 +220,7 @@
 
     <string name="profile_photo_camera">Tomar una foto</string>
     <string name="profile_photo_library">Seleccionar de la biblioteca</string>
-    <string name="profile_photo_processing">Procesando la foto</string>
+    <string name="profile_photo_processing">Cargando foto</string>
     <string name="profile_photo_change">Cambiar la foto de perfil</string>
     <string name="profile_photo_fail">No se pudo cargar la foto de perfil</string>
     <string name="profile_photo_camera_fail">No se pudo encontrar la aplicación de la cámara</string>
