@@ -92,14 +92,14 @@
     <string name="album_history_all">Obejrzane i nieobejrzane</string>
     <string name="no_albums_found">Nie znaleziono żadnych albumów</string>
 
-    <string name="author">autor</string>
+    <string name="author">Autor</string>
     <string name="category">kategorie</string>
     <string name="photo_count">liczba zdjęć</string>
     <string name="vip">vip</string>
     <string name="certificated">weryfikacja</string>
-    <string name="views">wyświetlenia</string>
+    <string name="views">Wyświetlenia</string>
     <string name="rating">ocena</string>
-    <string name="comments">komentarze</string>
+    <string name="comments">Komentarze</string>
     <string name="added">dodano</string>
     <string name="album_number">numer albumu</string>
     <string name="album_address">adres albumu</string>
@@ -285,7 +285,7 @@
     <string name="setup_notification_new_video_comment">Nowy komentarz do widea</string>
     <string name="setup_notification_album_approval">Nowy zatwierdzony album</string>
     <string name="setup_notification_video_approval">Nowe zatwierdzone wideo</string>
-    <string name="setup_notification_advertisement">Biuletyn</string>
+    <string name="setup_notification_advertisement">Biuletyny</string>
     <string name="setup_privacy">Bezpieczeństwo</string>
     <string name="setup_auto_logout">Zamknięcie kodem PIN</string>
     <string name="change_pin">Zmiana kodu PIN</string>
@@ -304,7 +304,7 @@
     <string name="locked_bad_pin_forgot">Zapomniałem kodu PIN</string>
 
     <string name="forgot_pin_forgot_password">Zapomniałem hasła</string>
-    <string name="forgot_pin_title">Prosimy zalogować się ponownie</string>
+    <string name="forgot_pin_title">Prosimy zalogować się ponownie.</string>
 
     <string name="dialog_pin_title_new">Prosimy wpisać nowy kod PIN</string>
     <string name="dialog_pin_title_old">Wpisz obecny kod PIN</string>
@@ -338,7 +338,7 @@
     <string name="album_settings_missing_name">Prosimy wpisać nazwę</string>
     <string name="album_settings_missing_password">Prosimy wpisać hasło</string>
     <string name="album_not_vip_title">VIP wygasnął</string>
-    <string name="album_not_vip_text">VIP wygasnął. Nie będziesz mógł ponownie wykorzystać zamknięcia hasłem.</string>
+    <string name="album_not_vip_text">VIP stracił ważność. Nie będziesz mógł ponownie wykorzystać zamknięcia hasłem.</string>
     <string name="album_not_vip_confirm">Wyłączyć zamknięcie hasłem?</string>
     <string name="album_not_vip_main_button">Wyłącz</string>
     <string name="album_not_vip_other_button">Anuluj</string>
@@ -364,14 +364,14 @@
     <string name="video_not_vip_title">VIP straciło ważność</string>
     <string name="video_not_vip_text">VIP straciło wazność. Nie będziesz mógł używać ponownie zamknięcia hasłem.</string>
     <string name="video_not_vip_confirm">Czy chcesz wyłączyć zamknięcie hasłem?</string>
-    <string name="video_not_vip_main_button">Wyłączyć</string>
+    <string name="video_not_vip_main_button">Wyłącz</string>
     <string name="video_not_vip_other_button">Anuluj</string>
 
     <string name="profile_album_settings_edit_error">Nie można edytować tego albumu</string>
     <string name="visibility_on">Włączone</string>
     <string name="visibility_off">Wyłączone</string>
     <string name="no_album_title">Na razie nie masz żadnych albumów.</string>
-    <string name="no_album_text">Dodawanie albumów jest proste i możesz zacząć natychmiast.</string>
+    <string name="no_album_text">Dodawanie albumów jest łatwe i możesz zacząć natychmiast.</string>
     <string name="add_album">Dodaj nowy album</string>
 
     <string name="profile_video_settings_edit_error">Nie możesz zmieniać tego wideo</string>
@@ -385,7 +385,7 @@
     <string name="notification_video">Wideo</string>
     <string name="notification_update">Pobierz</string>
     <string name="notification_update_later">Później</string>
-    <string name="notification_friendship_accept">Akceptuh</string>
+    <string name="notification_friendship_accept">Akceptuj</string>
     <string name="notification_dating_respond">Odpowiedź</string>
     <string name="notification_more_info">Więcej informacji</string>
 
