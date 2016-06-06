@@ -221,13 +221,13 @@
 
     <string name="profile_photo_camera">Obter uma foto</string>
     <string name="profile_photo_library">Selecionar da biblioteca</string>
-    <string name="profile_photo_processing">Processando uma foto</string>
+    <string name="profile_photo_processing">Enviando uma foto</string>
     <string name="profile_photo_change">Alterar foto do perfil</string>
     <string name="profile_photo_fail">Não é possível carregar foto do perfil</string>
     <string name="profile_photo_camera_fail">Não é possível localizar um aplicativo de câmera</string>
 
     <string name="comment_write_hint">Escreva um comentário</string>
-    <string name="emoticon_dialog_close">fechar</string>
+    <string name="emoticon_dialog_close">Fechar</string>
     <string name="emoticon_no_emoticons">Nenhum emoticon</string>
 
     <string name="search_hint">Pesquisar</string>
