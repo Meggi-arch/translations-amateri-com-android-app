@@ -238,7 +238,7 @@
     <string name="profile_photo_camera_fail">Nie można znaleźć aplikacji fotograficznej</string>
 
     <string name="comment_write_hint">Napisać komentarz</string>
-    <string name="emoticon_dialog_close">zamknąć</string>
+    <string name="emoticon_dialog_close">Zamknąć</string>
     <string name="emoticon_no_emoticons">Bez emotikonów</string>
 
     <string name="search_hint">Szukać</string>
