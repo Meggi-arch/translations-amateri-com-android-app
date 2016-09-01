@@ -417,4 +417,32 @@
     <string name="dialog_guidelines_1">Sie können %1$s – %2$s Fotos hochladen.</string>
     <string name="dialog_guidelines_2">Die Reihenfolge der Fotos ändern Sie mit Drag &amp; Drop.</string>
     <string name="guidelines_1">Sie können %1$s – %2$s Fotos hochladen.</string>
-    </resources>
+    <string name="guidelines_2">Die Reihenfolge der Fotos ändern Sie mit Drag &amp; Drop.</string>
+    <string name="toast_add_more_photos">Bitte fügen Sie mindestens %d Fotos</string>
+    <string name="toast_too_much_photos">Limit des Albums ist %d Fotos</string>
+    <string name="toast_cant_send_uploading">Kann nicht zur Genehmigung schicken während des Hochladens</string>
+    <string name="toast_photo_already_exists">Foto existiert schon</string>
+    <string name="toast_cant_load_photo">Foto konnte nicht geladen werden</string>
+    <string name="toast_photo_too_large">Fotos größer als %s MB können nicht hochgeladen werden</string>
+    <string name="toast_photo_too_small">Fotos kleiner als %s px können nicht hochgeladen werden</string>
+    <string name="upload_failed">Hochladen fehlgeschlagen</string>
+    <string name="tap_try_again">Antippen um wieder zu versuchen</string>
+    <string name="dialog_connection_data_title">Mobile Daten</string>
+    <string name="dialog_connection_data_content">Sie sind dabei, Inhalte über mobile Datenverbindung zu laden. Je nach Betreiber können zusätzliche Gebühren anfallen. Möchten Sie fortfahren?</string>
+    <string name="dialog_continue">Fortsetzen</string>
+    <string name="processing_photos">Bearbeitung der Fotos: %1$s/%2$s</string>
+    <string name="processing_photos_text">Wir bearbeiten Ihre Fotos …</string>
+    <string name="photos_uploaded">Hochgeladene Fotos: %s</string>
+    <string name="photos_to_upload">Fotos noch hochzuladen: %s</string>
+    <string name="photos_limit_reached">Limit überschritten, löschen Sie bitte %s Fotos</string>
+    <string name="album_no_description">Album ohne Beschreibung</string>
+
+    <string name="upload_notification_title">Hochladen von Fotos</string>
+    <string name="upload_notification_progress">Upload läuft: %1$d/%2$d</string>
+
+    <string name="album_delete_dialog_title">Album löschen?</string>
+    <string name="album_delete_dialog">Wollen Sie wirklich diese Album löschen?</string>
+    <string name="delete">Löschen</string>
+    <string name="filter_all">Alles</string>
+
+</resources>
