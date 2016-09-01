@@ -380,4 +380,41 @@
     <string name="notification_update_text">"Wir haben eine bessere, saftigere Version der Applikation für Sie. Wollen Sie  es runterladen?"</string>
 <string name="visibility_on">Eingeschaltet</string>
     <string name="visibility_off">Ausgeschaltet</string>
+    <string name="title_settings">Einstellungen</string>
+    <string name="title_application_settings">Anwendungs-Einstellungen</string>
+    <string name="title_new_album">Neues Album hinzufügen</string>
+    <string name="title_new_video">Neues Video hinzufügen</string>
+    <string name="title_my_account">Mein Konto</string>
+
+    <string name="notifications_my_account_content_settings">Konto und Inhalts-einstellungen</string>
+    <string name="notifications_my_account">Mein Konto</string>
+    <string name="notifications_albums">Fotoalben</string>
+    <string name="notifications_videos">Videen</string>
+
+    <string name="fab_add_album">Album hinzufügen</string>
+    <string name="fab_add_video">Video hinzufügen</string>
+
+    <string name="my_account_content_settings">Inhaltsquelle</string>
+    <string name="my_account_other_settings">Weitere Einstellungen</string>
+    <string name="my_account_content_source_max">Es sind maximal %d Länder erlaubt</string>
+    <string name="all_countries">Alle Länder</string>
+
+    <string name="new_album_save">Speichern und weiter</string>
+    <string name="warning">Warnung</string>
+    <string name="dialog_new_album_back_press">Album wird nur mit hochgeladenen Bilder als Vollständig betrachtet. Alle Änderungen, die Sie vorgenommen haben, werden verworfen.</string>
+
+    <string name="dialog_album_settings_back_press">Alle Änderungen, die Sie vorgenommen haben, werden verworfen.</string>
+
+
+    <string name="new_video_save">Speichern und weiter</string>
+
+    <string name="album_upload_choose_photo">Bilder hochladen</string>
+    <string name="album_upload_send_to_review">Zur Genehmigung absenden</string>
+    <string name="photo_delete_dialog_title">Foto löschen?</string>
+    <string name="photo_delete_dialog">Wollen Sie wirklich diese Foto löschen?</string>
+    <string name="toast_thumbnail_photo_changed">Sie haben erfolgreich das Ansichtsfoto geändert</string>
+    <string name="dialog_guidelines_title">Hilfe</string>
+    <string name="dialog_guidelines_1">Sie können %1$s – %2$s Fotos hochladen.</string>
+    <string name="dialog_guidelines_2">Die Reihenfolge der Fotos ändern Sie mit Drag &amp; Drop.</string>
+    <string name="guidelines_1">Sie können %1$s – %2$s Fotos hochladen.</string>
     </resources>
