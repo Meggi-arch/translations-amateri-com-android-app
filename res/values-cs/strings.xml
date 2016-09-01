@@ -86,7 +86,7 @@
     <string name="album_verified_all">Ověřené i neověřené</string>
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Všechny soutěže</string>
-    <string name="album_history_all">Shlédnuté i neshlédnuté</string>
+    <string name="album_history_all">Zhlédnuté i nezhlédnuté</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
 
     <!--AlbumInfoActivity-->
@@ -112,6 +112,10 @@
     <string name="notifications_dating_messages">Odpovědi na inzeráty</string>
     <string name="notifications_requests">Žádosti o přátelství</string>
     <string name="notifications_favourites">Oblíbili si mě</string>
+    <string name="notifications_my_account_content_settings">Nastavení účtu a obsahu</string>
+    <string name="notifications_my_account">Můj účet</string>
+    <string name="notifications_albums">Fotoalba</string>
+    <string name="notifications_videos">Videa</string>
 
     <!--Update dialog-->
     <string name="update_dialog_title">Nová verze</string>
@@ -169,7 +173,6 @@
     <!--Feedback dialog-->
     <string name="feedback_dialog_title">Zpětná vazba</string>
     <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na ni najdete dole v levém menu.</string>
-    <string name="feedback_dialog_ok">OK</string>
 
     <!--plurals-->
     <plurals name="people">
@@ -203,7 +206,7 @@
 
     <string name="video_verified_all">Ověřené i neověřené</string>
     <string name="video_contest_all">Všechny soutěže</string>
-    <string name="video_history_all">Shlédnuté i neshlédnuté</string>
+    <string name="video_history_all">Zhlédnuté i nezhlédnuté</string>
     <string name="no_videos_found">Žádná videa nenalezena</string>
 
     <string name="video_duration">Délka</string>
@@ -246,7 +249,10 @@
 
     <string name="title_album_settings">Nastavení alba</string>
     <string name="title_video_settings">Nastavení videa</string>
+    <string name="title_new_album">Přidat nové album</string>
+    <string name="title_new_video">Přidat nové video</string>
     <string name="title_profile_settings">Nastavení obsahu</string>
+    <string name="title_my_account">Můj účet</string>
 
     <string name="album_filter_show_all">Zobrazit alba</string>
     <string name="video_filter_show_all">Zobrazit videa</string>
@@ -345,7 +351,7 @@
     <string name="add_album">Přidat nové album</string>
 
     <string name="no_video_title">Nemáte zatím žádná videa.</string>
-    <string name="no_video_text">Přidat video je jednoduché a můžete začít hned teď.</string>
+    <string name="no_video_text">Přidat video je snadné a můžete začít hned.</string>
     <string name="add_video">Přidat nové video</string>
 
     <string name="notification_profile">Profil</string>
@@ -386,7 +392,8 @@
 
     <string name="notification_video_comment_add_text">%1$s okomentoval vaše video \"%2$s\": %3$s</string>
 
-    <string name="title_setup">Nastavení aplikace</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="title_application_settings">Nastavení aplikace</string>
     <string name="album_sex_all">Všechny kategorie pohlaví</string>
     <string name="album_comment_disallowed">K tomuto albu nyní nemůžete přidat komentář.</string>
     <string name="video_comment_disallowed">K tomuto videu nyní nemůžete přidat komentář.</string>
@@ -395,13 +402,75 @@
     <string name="setup_auto_logout">Uzamčení PIN kódem</string>
     <string name="album_settings_password_text">Uzamčení heslem</string>
     <string name="album_not_vip_title">VIP vypršelo</string>
-    <string name="album_not_vip_text">VIP vypršelo. Nebudete moci znovu použit uzamčení heslem.</string>
+    <string name="album_not_vip_text">VIP vypršelo. Nebudete moci znovu použít uzamčení heslem.</string>
     <string name="album_not_vip_confirm">Vypnout uzamčení heslem?</string>
     <string name="video_settings_password_text">Uzamčení heslem</string>
-    <string name="video_not_vip_text">VIP vypršelo. Nebudete moci znovu použit uzamčení heslem.</string>
+    <string name="video_not_vip_text">VIP vypršelo. Nebudete moci znovu použít uzamčení heslem.</string>
     <string name="video_not_vip_confirm">Vypnout uzamčení heslem?</string>
     <string name="notification_friendship_request_text">Uživatel/ka %s by chtěl/a být váš přítel!</string>
 
     <string name="notification_favourite_add_title">Přidání do oblíbených</string>
     <string name="video_not_vip_title">VIP vypršelo</string>
+
+    <!--Floating action button-->
+    <string name="fab_add_album">Přidat album</string>
+    <string name="fab_add_video">Přidat video</string>
+
+    <!--MyAccountSettingsFragment-->
+    <string name="my_account_content_settings">Zdroj obsahu</string>
+    <string name="my_account_other_settings">Další nastavení</string>
+    <string name="my_account_content_source_max">Jsou povoleny nejvýše %d země</string>
+    <string name="all_countries">Všechny země</string>
+
+    <!--NewAlbumActivity-->
+    <string name="new_album_save">Uložit a pokračovat</string>
+    <string name="warning">Upozornění</string>
+    <string name="dialog_new_album_back_press">Album je považováno za kompletní jen s nahranými fotkami a doposud provedené změny nebudou uloženy.</string>
+
+    <!--AlbumSettingsActivity-->
+    <string name="dialog_album_settings_back_press">Doposud provedené změny nebudou uloženy.</string>
+
+    <!--NewVideoActivity-->
+    <string name="new_video_save">Uložit a pokračovat</string>
+
+    <!--AlbumUploadActivity-->
+    <string name="album_upload_choose_photo">Nahrát fotky</string>
+    <string name="album_upload_send_to_review">Odeslat ke schválení</string>
+    <string name="photo_delete_dialog_title">Smazat fotku?</string>
+    <string name="photo_delete_dialog">Opravdu chcete smazat tuto fotku?</string>
+    <string name="toast_thumbnail_photo_changed">Úspěšně jste změnili náhledovou fotku</string>
+    <string name="dialog_guidelines_title">Nápověda</string>
+    <string name="dialog_guidelines_1">Můžete nahrát  %1$s – %2$s fotek.</string>
+    <string name="dialog_guidelines_2">Pořadí fotek změníte přidržením a přetažením.</string>
+    <string name="guidelines_1">Můžete nahrát  %1$s – %2$s fotek.</string>
+    <string name="guidelines_2">Pořadí fotek změníte přidržením a přetažením.</string>
+    <string name="toast_add_more_photos">Přidejte prosím aspoň %d fotek</string>
+    <string name="toast_too_much_photos">Limit alba je %d fotek</string>
+    <string name="toast_cant_send_uploading">Nelze odeslat ke schválení během nahrávání</string>
+    <string name="toast_photo_already_exists">Fotka už existuje</string>
+    <string name="toast_cant_load_photo">Nepodařilo se načíst fotku</string>
+    <string name="toast_photo_too_large">Nelze nahrát fotku větší než %s MB</string>
+    <string name="toast_photo_too_small">Nelze nahrát fotku menší než %s px</string>
+    <string name="upload_failed">Nahrávání se nezdařilo</string>
+    <string name="tap_try_again">Tapnutím zkuste znovu</string>
+    <string name="dialog_connection_data_title">Mobilní data</string>
+    <string name="dialog_connection_data_content">Chystáte se nahrávat obsah přes mobilní data, která mohou být Vaším operátorem zpoplatněna. Chcete pokračovat?</string>
+    <string name="dialog_continue">Pokračovat</string>
+    <string name="processing_photos">Zpracovávání fotek: %1$s/%2$s</string>
+    <string name="processing_photos_text">Zpracováváme vaše fotky…</string>
+    <string name="photos_uploaded">Nahrané fotky: %s</string>
+    <string name="photos_to_upload">Nutno přidat ještě: %s</string>
+    <string name="photos_limit_reached">Limit překročen, prosím smažte %s fotek</string>
+    <string name="album_no_description">Album bez popisku</string>
+
+    <!--PhotoIntentService-->
+    <string name="upload_notification_title">Nahrávání fotek</string>
+    <string name="upload_notification_progress">Probíhá nahrávání fotky: %1$d/%2$d</string>
+
+    <!-- ProfileAlbumSettingsFragment -->
+    <string name="album_delete_dialog_title">Smazat album?</string>
+    <string name="album_delete_dialog">Opravdu chcete smazat toto album?</string>
+    <string name="delete">Smazat</string>
+    <string name="filter_all">Vše</string>
+
 </resources>
