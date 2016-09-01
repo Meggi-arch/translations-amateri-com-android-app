@@ -384,4 +384,69 @@
     <string name="notification_video_approve_text">Vaše video \"%s\" bolo schválené.</string>
 
     <string name="notification_update_text">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcete si ju stiahnuť?</string>
+<string name="title_settings">Nastavenia</string>
+    <string name="title_application_settings">Nastavenia aplikácie</string>
+    <string name="title_new_album">Pridať nový album</string>
+    <string name="title_new_video">Pridať nové video</string>
+    <string name="title_my_account">Môj účet</string>
+
+    <string name="notifications_my_account_content_settings">Nastavenia účtu a obsahu</string>
+    <string name="notifications_my_account">Môj účet</string>
+    <string name="notifications_albums">Fotoalbumy</string>
+    <string name="notifications_videos">Videá</string>
+
+    <string name="fab_add_album">Pridať album</string>
+    <string name="fab_add_video">Pridať video</string>
+
+    <string name="my_account_content_settings">Zdroj obsahu</string>
+    <string name="my_account_other_settings">Ďalšie nastavenia</string>
+    <string name="my_account_content_source_max">Povolených najviac %s krajín</string>
+    <string name="all_countries">Všetky krajiny</string>
+
+    <string name="new_album_save">Uložiť a pokračovať</string>
+    <string name="warning">Upozornenie</string>
+    <string name="dialog_new_album_back_press">Album je považovaný za kompletný iba s nahratými fotkami a dosiaľ urobené zmeny nebudú uložené.</string>
+
+    <string name="dialog_album_settings_back_press">Dosiaľ urobené zmeny nebudú uložené.</string>
+
+
+    <string name="new_video_save">Uložiť a pokračovať</string>
+
+    <string name="album_upload_choose_photo">Nahrať fotky</string>
+    <string name="album_upload_send_to_review">Odoslať na schválenie</string>
+    <string name="photo_delete_dialog_title">Zmazať fotku?</string>
+    <string name="photo_delete_dialog">Naozaj chcete zmazať túto fotku?</string>
+    <string name="toast_thumbnail_photo_changed">Úspešne ste zmenili náhľadovú fotku</string>
+    <string name="dialog_guidelines_title">Nápoveda</string>
+    <string name="dialog_guidelines_1">Môžete nahrať %1$s – %2$s fotiek.</string>
+    <string name="dialog_guidelines_2">Poradie fotiek zmeníte pridržaním a pretiahnutím.</string>
+    <string name="guidelines_1">Môžete nahrať %1$s – %2$s fotiek.</string>
+    <string name="guidelines_2">Poradie fotiek zmeníte pridržaním a pretiahnutím.</string>
+    <string name="toast_add_more_photos">Pridajte aspoň %d fotiek</string>
+    <string name="toast_too_much_photos">Limit albumu je %d fotiek</string>
+    <string name="toast_cant_send_uploading">Nie je možné odoslať na schválenie počas nahrávania</string>
+    <string name="toast_photo_already_exists">Fotka už existuje</string>
+    <string name="toast_cant_load_photo">Nepodarilo sa nahrať fotku</string>
+    <string name="toast_photo_too_large">Nie je možné nahrať fotku väčšiu než %s MB</string>
+    <string name="toast_photo_too_small">Nie je možné nahrať fotku menšiu než %s px</string>
+    <string name="upload_failed">Nahrávanie zlyhalo</string>
+    <string name="tap_try_again">Tapnutím skúste znovu</string>
+    <string name="dialog_connection_data_title">Mobilné dáta</string>
+    <string name="dialog_connection_data_content">Chystáte sa nahrávať obsah cez mobilné dáta, ktoré môžu byť Vaším operátorom spoplatnené. Chcete pokračovať?</string>
+    <string name="dialog_continue">Pokračovať</string>
+    <string name="processing_photos">Spracovávanie fotiek: %1$s/%2$s</string>
+    <string name="processing_photos_text">Spracovávame vaše fotky …</string>
+    <string name="photos_uploaded">Nahraté fotky: %s</string>
+    <string name="photos_to_upload">Nutné pridať ešte: %s</string>
+    <string name="photos_limit_reached">Limit prekročený, prosím zmažte %s fotiek</string>
+    <string name="album_no_description">Album bez popisku</string>
+
+    <string name="upload_notification_title">Nahrávanie fotiek</string>
+    <string name="upload_notification_progress">Prebieha nahrávanie fotky: %1$d/%2$d</string>
+
+    <string name="album_delete_dialog_title">Zmazať album?</string>
+    <string name="album_delete_dialog">Naozaj chcete zmazať tento album?</string>
+    <string name="delete">Zmazať</string>
+    <string name="filter_all">Všetko</string>
+
 </resources>
