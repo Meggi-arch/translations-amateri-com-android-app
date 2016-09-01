@@ -448,7 +448,7 @@
     <string name="photo_delete_dialog_title">Delete this photo?</string>
     <string name="photo_delete_dialog">Are you sure you want to delete this photo?</string>
     <string name="toast_thumbnail_photo_changed">You successfully changed the cover photo</string>
-    <string name="dialog_guidelines_title">Guidelines</string>
+    <string name="dialog_guidelines_title">Help</string>
     <string name="dialog_guidelines_1">You can upload %1$s – %2$s photos.</string>
     <string name="dialog_guidelines_2">Change the order of your photos using drag and drop.</string>
     <string name="guidelines_1">You can upload %1$s – %2$s photos.</string>
