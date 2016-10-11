@@ -344,6 +344,8 @@
 
     <string name="profile_album_settings_edit_error">Toto album nemůžete upravit</string>
     <string name="profile_video_settings_edit_error">Toto video nemůžete upravit</string>
+    <string name="profile_video_converting_edit_error">Toto video nemůžete upravovat během konverze. Počkejte, prosím.</string>
+    <string name="profile_video_disabled_edit_error">Toto video již nemůžete upravit</string>
     <string name="visibility_on">Zapnuto</string>
     <string name="visibility_off">Vypnuto</string>
     <string name="no_album_title">Nemáte zatím žádná alba.</string>
@@ -440,10 +442,8 @@
     <string name="photo_delete_dialog">Opravdu chcete smazat tuto fotku?</string>
     <string name="toast_thumbnail_photo_changed">Úspěšně jste změnili náhledovou fotku</string>
     <string name="dialog_guidelines_title">Nápověda</string>
-    <string name="dialog_guidelines_1">Můžete nahrát  %1$s – %2$s fotek.</string>
-    <string name="dialog_guidelines_2">Pořadí fotek změníte přidržením a přetažením.</string>
-    <string name="guidelines_1">Můžete nahrát  %1$s – %2$s fotek.</string>
-    <string name="guidelines_2">Pořadí fotek změníte přidržením a přetažením.</string>
+    <string name="photo_guidelines_1">Můžete nahrát %1$s – %2$s fotek.</string>
+    <string name="photo_guidelines_2">Pořadí fotek změníte přidržením a přetažením.</string>
     <string name="toast_add_more_photos">Přidejte prosím aspoň %d fotek</string>
     <string name="toast_too_much_photos">Limit alba je %d fotek</string>
     <string name="toast_cant_send_uploading">Nelze odeslat ke schválení během nahrávání</string>
@@ -462,6 +462,35 @@
     <string name="photos_to_upload">Nutno přidat ještě: %s</string>
     <string name="photos_limit_reached">Limit překročen, prosím smažte %s fotek</string>
     <string name="album_no_description">Album bez popisku</string>
+    <string name="cant_leave_uploading">Nelze odejít během nahrávání</string>
+
+    <!--NewVideoActivity-->
+    <string name="dialog_new_video_back_press">Video nebude vytvořeno. Doposud provedené změny nebudou uloženy.</string>
+
+    <!--VideoUploadActivity-->
+    <string name="video_upload_choose_video">Nahrát video</string>
+    <string name="delete_video">Smazat video</string>
+    <string name="cancel_upload">Zrušit nahrávání</string>
+    <string name="toast_thumbnail_error">Nepodařilo se načíst náhled videa</string>
+    <string name="video_guidelines_1">Můžete nahrát jen jedno video najednou.</string>
+    <string name="video_guidelines_2">Minimální délka videa: %s sekund.</string>
+    <string name="toast_video_too_short">Minimální délka videa je %s sekund. Nahrajte prosím delší video.</string>
+    <string name="toast_video_too_big">Video je moc velké. Maximální povolená velikost je %s MB. Nahrajte prosím menší soubor.</string>
+    <string name="video_upload_progress">%1$s %% z %2$s MB</string>
+    <string name="dialog_upload_cancel_title">Zrušit nahrávání?</string>
+    <string name="dialog_upload_cancel_content">Opravdu chcete zrušit nahrávání tohoto videa?</string>
+    <string name="upload_complete">Nahrávání dokončeno</string>
+    <string name="upload_complete_text">Tapněte pro kontrolu nahraného videa.</string>
+    <string name="toast_cant_send_no_video">Nejdříve prosím nahrajte video</string>
+    <string name="cant_upload_in_progress">Můžete nahrát jen jedno video najednou. Prosím počkejte, až nahrávání skončí.</string>
+    <string name="upload_in_progress">Nahrávání…</string>
+    <string name="video_no_description">Video bez popisku</string>
+    <string name="video_not_found">Vaše video bylo nahráno, ale nyní jej nelze přehrat. Soubor s videem nebyl nalezen na tomto zařízení.</string>
+
+    <!--VideoUploadService-->
+    <string name="tap_to_retry">Tapnutím začnete znovu</string>
+    <string name="uploading">Nahrávaní videa</string>
+    <string name="uploaded_percentage">Průběh nahrávání: %s %%</string>
 
     <!--PhotoIntentService-->
     <string name="upload_notification_title">Nahrávání fotek</string>
@@ -473,4 +502,8 @@
     <string name="delete">Smazat</string>
     <string name="filter_all">Vše</string>
 
+    <!-- ProfileVideoSettingsFragment -->
+    <string name="video_delete_dialog_title">Smazat video?</string>
+    <string name="video_delete_dialog">Opravdu chcete smazat toto video?</string>
+    <string name="video_delete_dialog_uploading">Video se právě nahrává. Opravdu chcete smazat toto video?</string>
 </resources>
