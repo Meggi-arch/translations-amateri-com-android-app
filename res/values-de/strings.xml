@@ -479,4 +479,6 @@
     <string name="video_delete_dialog">Möchten Sie dieses Video wirklich löschen?</string>
     <string name="video_delete_dialog_uploading">Das Video wird gerade hochgeladen. Möchten Sie dieses Video wirklich löschen?</string>
 
-</resources>
+<string name="cant_leave_uploading">Verlassen nich möglich Während des Hochladens</string>
+
+    </resources>
