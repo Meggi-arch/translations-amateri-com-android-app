@@ -516,7 +516,6 @@
     <string name="video_not_found">Vaše video bylo nahráno, ale nyní jej nelze přehrat. Soubor s videem nebyl nalezen na tomto zařízení.</string>
 
     <!--VideoUploadService-->
-    <string name="uploading_video">Nahrávaní videa</string>
     <string name="tap_to_retry">Tapnutím začnete znovu</string>
     <string name="uploading">Nahrávaní videa</string>
     <string name="uploaded_percentage">Průběh nahrávání: %s %%</string>
