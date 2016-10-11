@@ -449,4 +449,8 @@
     <string name="delete">Zmazať</string>
     <string name="filter_all">Všetko</string>
 
-</resources>
+<string name="profile_video_converting_edit_error">Nemôžete upravovať toto video v priebehu procesu kódovania. Prosím čakajte.</string>
+    <string name="profile_video_disabled_edit_error">Toto video už nemôžete upravovať</string>
+    <string name="photo_guidelines_1">Môžete nahrať %1$s - %2$s fotiek.</string>
+    <string name="photo_guidelines_2">Poradie fotiek zmeníte pridržaním a pretiahnutím.</string>
+    </resources>
