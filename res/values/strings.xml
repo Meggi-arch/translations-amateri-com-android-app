@@ -471,6 +471,35 @@
     <string name="photos_to_upload">Photos to upload: %s</string>
     <string name="photos_limit_reached">Limit exceeded, please delete %s photos</string>
     <string name="album_no_description">Album without description</string>
+    <string name="cant_leave_uploading">Cannot leave while uploading</string>
+
+    <!--NewVideoActivity-->
+    <string name="dialog_new_video_back_press">Video will not be created. All changes you\'ve made will be discarded.</string>
+
+    <!--VideoUploadActivity-->
+    <string name="video_upload_choose_video">Upload a video</string>
+    <string name="delete_video">Delete video</string>
+    <string name="cancel_upload">Cancel the upload</string>
+    <string name="toast_thumbnail_error">Failed to set the video thumbnail</string>
+    <string name="video_guidelines_1">You can upload only one video at once.</string>
+    <string name="video_guidelines_2">Minimum video length: %s seconds.</string>
+    <string name="toast_video_too_short">Minimum video length is %s seconds. Please upload longer video.</string>
+    <string name="toast_video_too_big">Video is too big. Maximum size allowed is %s MB. Please upload a smaller file.</string>
+    <string name="video_upload_progress">%1$s %% of %2$s MB</string>
+    <string name="dialog_upload_cancel_title">Cancel upload?</string>
+    <string name="dialog_upload_cancel_content">Do you really want to cancel the video upload?</string>
+    <string name="upload_complete">Upload completed</string>
+    <string name="upload_complete_text">Tap to check your video.</string>
+    <string name="toast_cant_send_no_video">Please, upload a video first</string>
+    <string name="cant_upload_in_progress">You can upload only one video at once. Please wait until the upload is complete.</string>
+    <string name="upload_in_progress">Uploading…</string>
+    <string name="video_no_description">Video without description</string>
+    <string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
+
+    <!--VideoUploadService -->
+    <string name="uploading">Uploading video</string>
+    <string name="uploaded_percentage">Uploading progress: %s %%</string>
+    <string name="tap_to_retry">Tap to try again</string>
 
     <!--NewVideoActivity-->
     <string name="dialog_new_video_back_press">Video will not be created. All changes you\'ve made will be discarded.</string>
