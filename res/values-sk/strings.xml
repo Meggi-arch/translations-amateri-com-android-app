@@ -28,8 +28,8 @@
 
     <string name="tab_albums">Fotoalbumy</string>
     <string name="tab_info">Info</string>
-    <string name="tab_user">Užívateľ</string>
-    <string name="tab_album">Fotoalbum</string>
+    <string name="tab_user">Užívatelia</string>
+    <string name="tab_album">Fotoalbumy</string>
 
     <string name="filter_advanced">Pokročilý filter</string>
     <string name="filter_sort_by">zoradiť podľa</string>
@@ -41,8 +41,8 @@
     <string name="title_region">Región</string>
     <string name="title_marital_status">Rodinný stav</string>
     <string name="title_sexual_orientation">Sexuálna orientácia</string>
-    <string name="title_height">Výška</string>
-    <string name="title_weight">Váha</string>
+    <string name="title_height">Výška [cm]</string>
+    <string name="title_weight">Váha [kg]</string>
     <string name="title_eye_color">Oči</string>
     <string name="title_hair_color">Vlasy</string>
     <string name="title_statistics">Štatistiky</string>
@@ -75,7 +75,7 @@
 
     <string name="album_verified_all">Overené aj neoverené</string>
     <string name="album_theme_all">Všetky témy</string>
-    <string name="album_contest_all">Všetky súťaže</string>
+    <string name="album_contest_all">Súťaž nezvolená</string>
     <string name="album_history_all">Pozreté aj nepozreté</string>
     <string name="no_albums_found">Nenájdené žiadne albumy</string>
 
@@ -176,11 +176,11 @@
     <string name="video_comment_fail">Nie je možné odoslať komentár</string>
 
     <string name="tab_videos">Videá</string>
-    <string name="tab_video">Video</string>
+    <string name="tab_video">Videá</string>
 
     <string name="video_verified_all">Overené aj neoverené</string>
     <string name="video_duration_all">Všetky dĺžky</string>
-    <string name="video_contest_all">Všetky súťaže</string>
+    <string name="video_contest_all">Súťaž nezvolená</string>
     <string name="video_history_all">Pozreté aj nepozreté</string>
     <string name="no_videos_found">Nenájdené žiadne videá</string>
 
@@ -485,4 +485,41 @@
 
 <string name="cant_leave_uploading">Nie je možné odísť v priebehu nahrávania</string>
 
-    </resources>
+    <string name="user_with_albums">S albumami</string>
+    <string name="user_with_videos">S videami</string>
+    <string name="user_with_photo">S foto</string>
+    <string name="user_sex_search_all">Všetky vyhľadávania</string>
+    <string name="user_sex_search_purpose_all">Všetky účely hľadania</string>
+    <string name="user_sexual_hobbies_all">Všetky sexuálne záľuby</string>
+    <string name="user_zodiac_sign_all">Všetky znamenia zverokruhu</string>
+    <string name="user_hair_color_all">Všetky farby vlasov</string>
+    <string name="user_eye_color_all">Všetky farby očí</string>
+    <string name="button_filter_connection_error">Chyba pripojenia</string>
+    <string name="filter_show_only">Zobraziť iba</string>
+    <string name="filter_user_online">Online</string>
+    <string name="filter_user_verified">Overené</string>
+
+    <string name="date_less_than_1_day">24h</string>
+    <string name="date_less_than_7_days">7 dní</string>
+    <string name="date_less_than_1_month">1 mesiac</string>
+    <string name="date_less_than_3_months">3 mesiace</string>
+    <string name="date_start">Počiatočný dátum</string>
+    <string name="date_end">Koncový dátum</string>
+
+    <string name="filter_album_not_viewed">Nepozreté</string>
+
+    <string name="no_album_for_state_title">Nemáte žiadne albumy v stave \"%s\".</string>
+    <string name="no_video_for_state_title">Nemáte žiadne videá v stave \"%s\".</string>
+    <string name="cant_leave_while_uploading">Nie je možné odísť v priebehu nahrávania</string>
+
+    <string name="dialog_video_upload_cancel_title">Zrušiť nahrávanie?</string>
+    <string name="dialog_video_upload_cancel_content">Naozaj chcete zrušiť nahrávanie tohoto videa?</string>
+    <string name="video_upload_complete_text">Tapnite pre kontrolu nahratého videa.</string>
+    <string name="toast_one_video_at_once">Môžete nahrávať iba jedno video naraz. Počkajte prosím kým sa nahrávanie dokončí.</string>
+    <string name="video_uploaded_percentage">Priebeh nahrávania: %s %%</string>
+    <string name="photo_upload_notification_title">Nahrávanie fotiek</string>
+    <string name="photo_upload_notification_progress">Prebieha nahrávanie fotky: %1$d/%2$d</string>
+
+    <string name="logout_during_uploading_dialog_title">Naozaj sa chcete odhlásiť?</string>
+    <string name="logout_during_uploading_dialog_content">Všetok nahraný obsah bude stratený.</string>
+</resources>
