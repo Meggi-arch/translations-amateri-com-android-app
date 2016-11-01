@@ -52,9 +52,9 @@
     <string name="tab_albums">Albums</string>
     <string name="tab_videos">Videos</string>
     <string name="tab_info">Info</string>
-    <string name="tab_user">User</string>
-    <string name="tab_album">Album</string>
-    <string name="tab_video">Video</string>
+    <string name="tab_user">Users</string>
+    <string name="tab_album">Albums</string>
+    <string name="tab_video">Videos</string>
 
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
@@ -69,8 +69,8 @@
     <string name="title_region">Region</string>
     <string name="title_marital_status">Marital status</string>
     <string name="title_sexual_orientation">Sexual orientation</string>
-    <string name="title_height">Height</string>
-    <string name="title_weight">Weight</string>
+    <string name="title_height">Height [cm]</string>
+    <string name="title_weight">Weight [kg]</string>
     <string name="title_eye_color">Eye colour</string>
     <string name="title_hair_color">Hair colour</string>
     <string name="title_statistics">Statistics</string>
@@ -115,32 +115,40 @@
     </plurals>
 
     <!--FilterUserFragment-->
-    <string name="user_content_all">All content type</string>
-    <string name="user_sex_all">All sex</string>
-    <string name="user_age_all">All age categories</string>
     <string name="user_country_all">All countries</string>
     <string name="user_region_all">All regions</string>
+    <string name="user_with_albums">With albums</string>
+    <string name="user_with_videos">With videos</string>
+    <string name="user_with_photo">With photo</string>
     <string name="user_sexual_orientation_all">All sexual orientations</string>
     <string name="user_marital_status_all">All family statuses</string>
-    <string name="user_height_all">All heights</string>
-    <string name="user_weight_all">All weights</string>
+    <string name="user_sex_search_all">All sex searches</string>
+    <string name="user_sex_search_purpose_all">All sex search purposes</string>
+    <string name="user_sexual_hobbies_all">All sexual hobbies</string>
+    <string name="user_zodiac_sign_all">All zodiac signs</string>
+    <string name="user_hair_color_all">All hair colors</string>
+    <string name="user_eye_color_all">All eye colors</string>
     <string name="no_users_found">No users found</string>
+    <string name="button_filter_connection_error">Connection error</string>
+    <string name="filter_show_only">Show only</string>
+    <string name="filter_user_online">Online</string>
+    <string name="filter_user_verified">Verified</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_sex_all">All sex categories</string>
-    <string name="album_verified_all">Verified and unverified</string>
     <string name="album_theme_all">All topics</string>
-    <string name="album_contest_all">All contests</string>
-    <string name="album_history_all">Viewed and not viewed</string>
+    <string name="album_contest_all">Contest not selected</string>
     <string name="no_albums_found">No albums found</string>
+    <string name="date_less_than_1_day">24h</string>
+    <string name="date_less_than_7_days">7 days</string>
+    <string name="date_less_than_1_month">1 month</string>
+    <string name="date_less_than_3_months">3 months</string>
+    <string name="date_start">Start date</string>
+    <string name="date_end">End date</string>
 
     <!--FilterVideoFragment-->
-    <string name="video_sex_all">All sex categories</string>
-    <string name="video_verified_all">Verified and unverified</string>
-    <string name="video_duration_all">All durations</string>
-    <string name="video_contest_all">All contests</string>
-    <string name="video_history_all">Viewed and not viewed</string>
+    <string name="video_contest_all">Contest not selected</string>
     <string name="no_videos_found">No videos found</string>
+    <string name="filter_album_not_viewed">Unseen</string>
 
     <!--AlbumInfoActivity-->
     <string name="author">Author</string>
@@ -368,6 +376,7 @@
     <string name="profile_album_settings_edit_error">You cannot edit this album</string>
     <string name="visibility_on">Enabled</string>
     <string name="visibility_off">Disabled</string>
+    <string name="no_album_for_state_title">You have no albums in state \"%s\".</string>
     <string name="no_album_title">You have no albums yet.</string>
     <string name="no_album_text">To add an album is easy and you can start right now.</string>
     <string name="add_album">Add new album</string>
@@ -376,6 +385,7 @@
     <string name="profile_video_settings_edit_error">You cannot edit this video</string>
     <string name="profile_video_converting_edit_error">You cannot edit this video during the encoding process. Please wait.</string>
     <string name="profile_video_disabled_edit_error">You cannot edit this video anymore</string>
+    <string name="no_video_for_state_title">You have no videos in state \"%s\".</string>
     <string name="no_video_title">You have no videos yet.</string>
     <string name="no_video_text">To add a video is easy and you can start right now.</string>
     <string name="add_video">Add new video</string>
@@ -471,7 +481,7 @@
     <string name="photos_to_upload">Photos to upload: %s</string>
     <string name="photos_limit_reached">Limit exceeded, please delete %s photos</string>
     <string name="album_no_description">Album without description</string>
-    <string name="cant_leave_uploading">Cannot leave while uploading</string>
+    <string name="cant_leave_while_uploading">Cannot leave while uploading</string>
 
     <!--NewVideoActivity-->
     <string name="dialog_new_video_back_press">Video will not be created. All changes you\'ve made will be discarded.</string>
@@ -486,52 +496,24 @@
     <string name="toast_video_too_short">Minimum video length is %s seconds. Please upload longer video.</string>
     <string name="toast_video_too_big">Video is too big. Maximum size allowed is %s MB. Please upload a smaller file.</string>
     <string name="video_upload_progress">%1$s %% of %2$s MB</string>
-    <string name="dialog_upload_cancel_title">Cancel upload?</string>
-    <string name="dialog_upload_cancel_content">Do you really want to cancel the video upload?</string>
+    <string name="dialog_video_upload_cancel_title">Cancel upload?</string>
+    <string name="dialog_video_upload_cancel_content">Do you really want to cancel the video upload?</string>
     <string name="upload_complete">Upload completed</string>
-    <string name="upload_complete_text">Tap to check your video.</string>
+    <string name="video_upload_complete_text">Tap to check your video.</string>
     <string name="toast_cant_send_no_video">Please, upload a video first</string>
-    <string name="cant_upload_in_progress">You can upload only one video at once. Please wait until the upload is complete.</string>
+    <string name="toast_one_video_at_once">You can upload only one video at once. Please wait until the upload is complete.</string>
     <string name="upload_in_progress">Uploading…</string>
     <string name="video_no_description">Video without description</string>
     <string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
 
     <!--VideoUploadService -->
-    <string name="uploading">Uploading video</string>
-    <string name="uploaded_percentage">Uploading progress: %s %%</string>
-    <string name="tap_to_retry">Tap to try again</string>
-
-    <!--NewVideoActivity-->
-    <string name="dialog_new_video_back_press">Video will not be created. All changes you\'ve made will be discarded.</string>
-
-    <!--VideoUploadActivity-->
-    <string name="video_upload_choose_video">Upload a video</string>
-    <string name="delete_video">Delete video</string>
-    <string name="cancel_upload">Cancel the upload</string>
-    <string name="toast_thumbnail_error">Failed to set the video thumbnail</string>
-    <string name="video_guidelines_1">You can upload only one video at once.</string>
-    <string name="video_guidelines_2">Minimum video length: %s seconds.</string>
-    <string name="toast_video_too_short">Minimum video length is %s seconds. Please upload longer video.</string>
-    <string name="toast_video_too_big">Video is too big. Maximum size allowed is %s MB. Please upload a smaller file.</string>
-    <string name="video_upload_progress">%1$s %% of %2$s MB</string>
-    <string name="dialog_upload_cancel_title">Cancel upload?</string>
-    <string name="dialog_upload_cancel_content">Do you really want to cancel the video upload?</string>
-    <string name="upload_complete">Upload completed</string>
-    <string name="upload_complete_text">Tap to check your video.</string>
-    <string name="toast_cant_send_no_video">Please, upload a video first</string>
-    <string name="cant_upload_in_progress">You can upload only one video at once. Please wait until the upload is complete.</string>
-    <string name="upload_in_progress">Uploading…</string>
-    <string name="video_no_description">Video without description</string>
-    <string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
-
-    <!--VideoUploadService -->
-    <string name="uploading">Uploading video</string>
-    <string name="uploaded_percentage">Uploading progress: %s %%</string>
+    <string name="uploading_video">Uploading video</string>
+    <string name="video_uploaded_percentage">Uploading progress: %s %%</string>
     <string name="tap_to_retry">Tap to try again</string>
 
     <!--PhotoIntentService-->
-    <string name="upload_notification_title">Photo upload</string>
-    <string name="upload_notification_progress">Upload in progress: %1$d/%2$d</string>
+    <string name="photo_upload_notification_title">Photo upload</string>
+    <string name="photo_upload_notification_progress">Upload in progress: %1$d/%2$d</string>
 
     <!-- ProfileAlbumSettingsFragment -->
     <string name="album_delete_dialog_title">Delete album?</string>
@@ -544,4 +526,7 @@
     <string name="video_delete_dialog">Are you sure you want to delete this video?</string>
     <string name="video_delete_dialog_uploading">The video is currently being uploaded. Are you sure you want to delete this video?</string>
 
+    <!-- Logout while uploading dialog -->
+    <string name="logout_during_uploading_dialog_title">Do you want to logout?</string>
+    <string name="logout_during_uploading_dialog_content">All of your unuploaded files will be lost.</string>
 </resources>

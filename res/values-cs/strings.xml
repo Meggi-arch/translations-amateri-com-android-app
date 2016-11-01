@@ -33,8 +33,8 @@
 
     <string name="tab_albums">Fotoalba</string>
     <string name="tab_info">Info</string>
-    <string name="tab_user">Uživatel</string>
-    <string name="tab_album">Fotoalbum</string>
+    <string name="tab_user">Uživatelé</string>
+    <string name="tab_album">Fotoalba</string>
 
     <string name="filter_advanced">Pokročilý filtr</string>
     <string name="filter_sort_by">Seřadit podle</string>
@@ -71,30 +71,43 @@
     <string name="title_filter">Hledat</string>
 
     <!--FilterUserFragment-->
-    <string name="user_content_all">Všechny typy obsahu</string>
-    <string name="user_sex_all">Všechna pohlaví</string>
-    <string name="user_age_all">Všechny věkové kategorie</string>
     <string name="user_country_all">Všechny země</string>
     <string name="user_region_all">Všechny regiony</string>
+    <string name="user_with_albums">S alby</string>
+    <string name="user_with_videos">S videi</string>
+    <string name="user_with_photo">S foto</string>
     <string name="user_sexual_orientation_all">Všechny sexuální orientace</string>
     <string name="user_marital_status_all">Všechny rodinné stavy</string>
-    <string name="user_height_all">Všechny výšky</string>
-    <string name="user_weight_all">Všechny váhy</string>
+    <string name="user_sex_search_all">Všechny hledání</string>
+    <string name="user_sex_search_purpose_all">Všechny účely hledání</string>
+    <string name="user_sexual_hobbies_all">Všechny sexuální záliby</string>
+    <string name="user_zodiac_sign_all">Všechny znamení zvěrokruhu</string>
+    <string name="user_hair_color_all">Všechny barvy vlasů</string>
+    <string name="user_eye_color_all">Všechny barvy očí</string>
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
+    <string name="button_filter_connection_error">Chyba připojení</string>
+    <string name="filter_show_only">Zobrazit pouze</string>
+    <string name="filter_user_online">Online</string>
+    <string name="filter_user_verified">Ověřeno</string>
 
     <!--FilterAlbumFragment-->
-    <string name="album_verified_all">Ověřené i neověřené</string>
     <string name="album_theme_all">Všechna témata</string>
-    <string name="album_contest_all">Všechny soutěže</string>
-    <string name="album_history_all">Zhlédnuté i nezhlédnuté</string>
+    <string name="album_contest_all">Soutěž nezvolena</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
+    <string name="filter_album_not_viewed">Nezhlédnuto</string>
+    <string name="date_less_than_1_day">24h</string>
+    <string name="date_less_than_7_days">7 dní</string>
+    <string name="date_less_than_1_month">1 měsíc</string>
+    <string name="date_less_than_3_months">3 měsíce</string>
+    <string name="date_start">Počáteční datum</string>
+    <string name="date_end">Koncové datum</string>
 
     <!--AlbumInfoActivity-->
     <string name="author">Autor</string>
     <string name="category">Kategorie</string>
     <string name="photo_count">Počet fotek</string>
     <string name="vip">VIP</string>
-    <string name="certificated">Certifikace</string>
+    <string name="certificated">Ověřeno</string>
     <string name="views">Zobrazení</string>
     <string name="rating">Hodnocení</string>
     <string name="comments">Komentáře</string>
@@ -202,10 +215,10 @@
     </plurals>
     <string name="title_videos">Videa</string>
     <string name="tab_videos">Videa</string>
-    <string name="tab_video">Video</string>
+    <string name="tab_video">Videa</string>
 
     <string name="video_verified_all">Ověřené i neověřené</string>
-    <string name="video_contest_all">Všechny soutěže</string>
+    <string name="video_contest_all">Soutěž nezvolena</string>
     <string name="video_history_all">Zhlédnuté i nezhlédnuté</string>
     <string name="no_videos_found">Žádná videa nenalezena</string>
 
@@ -348,10 +361,12 @@
     <string name="profile_video_disabled_edit_error">Toto video již nemůžete upravit</string>
     <string name="visibility_on">Zapnuto</string>
     <string name="visibility_off">Vypnuto</string>
+    <string name="no_album_for_state_title">Nemáte žádná alba ve stavu \"%s\".</string>
     <string name="no_album_title">Nemáte zatím žádná alba.</string>
     <string name="no_album_text">Přidat album je snadné a můžete začít hned teď.</string>
     <string name="add_album">Přidat nové album</string>
 
+    <string name="no_video_for_state_title">Nemáte žádná videa ve stavu \"%s\".</string>
     <string name="no_video_title">Nemáte zatím žádná videa.</string>
     <string name="no_video_text">Přidat video je snadné a můžete začít hned.</string>
     <string name="add_video">Přidat nové video</string>
@@ -462,7 +477,7 @@
     <string name="photos_to_upload">Nutno přidat ještě: %s</string>
     <string name="photos_limit_reached">Limit překročen, prosím smažte %s fotek</string>
     <string name="album_no_description">Album bez popisku</string>
-    <string name="cant_leave_uploading">Nelze odejít během nahrávání</string>
+    <string name="cant_leave_while_uploading">Nelze odejít během nahrávání</string>
 
     <!--NewVideoActivity-->
     <string name="dialog_new_video_back_press">Video nebude vytvořeno. Doposud provedené změny nebudou uloženy.</string>
@@ -477,52 +492,24 @@
     <string name="toast_video_too_short">Minimální délka videa je %s sekund. Nahrajte prosím delší video.</string>
     <string name="toast_video_too_big">Video je moc velké. Maximální povolená velikost je %s MB. Nahrajte prosím menší soubor.</string>
     <string name="video_upload_progress">%1$s %% z %2$s MB</string>
-    <string name="dialog_upload_cancel_title">Zrušit nahrávání?</string>
-    <string name="dialog_upload_cancel_content">Opravdu chcete zrušit nahrávání tohoto videa?</string>
+    <string name="dialog_video_upload_cancel_title">Zrušit nahrávání?</string>
+    <string name="dialog_video_upload_cancel_content">Opravdu chcete zrušit nahrávání tohoto videa?</string>
     <string name="upload_complete">Nahrávání dokončeno</string>
-    <string name="upload_complete_text">Tapněte pro kontrolu nahraného videa.</string>
+    <string name="video_upload_complete_text">Tapněte pro kontrolu nahraného videa.</string>
     <string name="toast_cant_send_no_video">Nejdříve prosím nahrajte video</string>
-    <string name="cant_upload_in_progress">Můžete nahrát jen jedno video najednou. Prosím počkejte, až nahrávání skončí.</string>
+    <string name="toast_one_video_at_once">Můžete nahrát jen jedno video najednou. Prosím počkejte, až nahrávání skončí.</string>
     <string name="upload_in_progress">Nahrávání…</string>
     <string name="video_no_description">Video bez popisku</string>
     <string name="video_not_found">Vaše video bylo nahráno, ale nyní jej nelze přehrat. Soubor s videem nebyl nalezen na tomto zařízení.</string>
 
     <!--VideoUploadService-->
+    <string name="uploading_video">Nahrávaní videa</string>
+    <string name="video_uploaded_percentage">Průběh nahrávání: %s %%</string>
     <string name="tap_to_retry">Tapnutím začnete znovu</string>
-    <string name="uploading">Nahrávaní videa</string>
-    <string name="uploaded_percentage">Průběh nahrávání: %s %%</string>
-
-    <!--NewVideoActivity-->
-    <string name="dialog_new_video_back_press">Video nebude vytvořeno. Doposud provedené změny nebudou uloženy.</string>
-
-    <!--VideoUploadActivity-->
-    <string name="video_upload_choose_video">Nahrát video</string>
-    <string name="delete_video">Smazat video</string>
-    <string name="cancel_upload">Zrušit nahrávání</string>
-    <string name="toast_thumbnail_error">Nepodařilo se načíst náhled videa</string>
-    <string name="video_guidelines_1">Můžete nahrát jen jedno video najednou.</string>
-    <string name="video_guidelines_2">Minimální délka videa: %s sekund.</string>
-    <string name="toast_video_too_short">Minimální délka videa je %s sekund. Nahrajte prosím delší video.</string>
-    <string name="toast_video_too_big">Video je moc velké. Maximální povolená velikost je %s MB. Nahrajte prosím menší soubor.</string>
-    <string name="video_upload_progress">%1$s %% z %2$s MB</string>
-    <string name="dialog_upload_cancel_title">Zrušit nahrávání?</string>
-    <string name="dialog_upload_cancel_content">Opravdu chcete zrušit nahrávání tohoto videa?</string>
-    <string name="upload_complete">Nahrávání dokončeno</string>
-    <string name="upload_complete_text">Tapněte pro kontrolu nahraného videa.</string>
-    <string name="toast_cant_send_no_video">Nejdříve prosím nahrajte video</string>
-    <string name="cant_upload_in_progress">Můžete nahrát jen jedno video najednou. Prosím počkejte, až nahrávání skončí.</string>
-    <string name="upload_in_progress">Nahrávání…</string>
-    <string name="video_no_description">Video bez popisku</string>
-    <string name="video_not_found">Vaše video bylo nahráno, ale nyní jej nelze přehrat. Soubor s videem nebyl nalezen na tomto zařízení.</string>
-
-    <!--VideoUploadService-->
-    <string name="tap_to_retry">Tapnutím začnete znovu</string>
-    <string name="uploading">Nahrávaní videa</string>
-    <string name="uploaded_percentage">Průběh nahrávání: %s %%</string>
 
     <!--PhotoIntentService-->
-    <string name="upload_notification_title">Nahrávání fotek</string>
-    <string name="upload_notification_progress">Probíhá nahrávání fotky: %1$d/%2$d</string>
+    <string name="photo_upload_notification_title">Nahrávání fotek</string>
+    <string name="photo_upload_notification_progress">Probíhá nahrávání fotky: %1$d/%2$d</string>
 
     <!-- ProfileAlbumSettingsFragment -->
     <string name="album_delete_dialog_title">Smazat album?</string>
@@ -534,4 +521,8 @@
     <string name="video_delete_dialog_title">Smazat video?</string>
     <string name="video_delete_dialog">Opravdu chcete smazat toto video?</string>
     <string name="video_delete_dialog_uploading">Video se právě nahrává. Opravdu chcete smazat toto video?</string>
+
+    <!-- Logout while uploading dialog -->
+    <string name="logout_during_uploading_dialog_title">Opravdu se chcete odhlásit?</string>
+    <string name="logout_during_uploading_dialog_content">Veškerý nenahraný obsah bude ztracen.</string>
 </resources>
