@@ -521,5 +521,5 @@
     <string name="photo_upload_notification_progress">Prebieha nahrávanie fotky: %1$d/%2$d</string>
 
     <string name="logout_during_uploading_dialog_title">Naozaj sa chcete odhlásiť?</string>
-    <string name="logout_during_uploading_dialog_content">Všetok nahraný obsah bude stratený.</string>
+    <string name="logout_during_uploading_dialog_content">Všetky nahrané súbory budú stratené.</string>
 </resources>
