@@ -30,7 +30,7 @@
     <string name="tab_albums">Fotoalben</string>
     <string name="tab_info">Info</string>
     <string name="tab_user">Benutzer</string>
-    <string name="tab_album">Fotoalbum</string>
+    <string name="tab_album">Fotoalben</string>
 
     <string name="filter_advanced">Erweiterter Filter</string>
     <string name="filter_sort_by">Geordnet nach</string>
@@ -42,8 +42,8 @@
     <string name="title_region">Region</string>
     <string name="title_marital_status">Familienstand</string>
     <string name="title_sexual_orientation">Sexuelle Orientation</string>
-    <string name="title_height">Größe</string>
-    <string name="title_weight">Gewicht</string>
+    <string name="title_height">Höhe [cm]</string>
+    <string name="title_weight">Gewicht [kg]</string>
     <string name="title_eye_color">Augenfarbe</string>
     <string name="title_hair_color">Haarfarbe</string>
     <string name="title_statistics">Statistiken</string>
@@ -75,7 +75,7 @@
 
     <string name="album_verified_all">Verifiziert und nicht verifiziert</string>
     <string name="album_theme_all">Alle Themen</string>
-    <string name="album_contest_all">Alle Wettbewerbe</string>
+    <string name="album_contest_all">Wettbewerb nicht ausgewählt</string>
     <string name="album_history_all">Angesehene und nicht-angesehene</string>
     <string name="no_albums_found">Keine Fotoalben gefunden</string>
 
@@ -171,11 +171,11 @@
     <string name="video_comment_fail">Es lässt sich kein Kommentar absenden</string>
 
     <string name="tab_videos">Videos</string>
-    <string name="tab_video">Videos</string>
+    <string name="tab_video">Videen</string>
 
     <string name="video_verified_all">Bestätigt und unbestätigt</string>
     <string name="video_duration_all">Alle Längen</string>
-    <string name="video_contest_all">Alle Wettbewerbe</string>
+    <string name="video_contest_all">Wettbewerb nicht ausgewählt</string>
     <string name="video_history_all">Betrachtete und Nicht-Betrachtete</string>
     <string name="no_videos_found">Keine Videos gefunden</string>
 
@@ -481,4 +481,41 @@
 
 <string name="cant_leave_uploading">Verlassen nicht möglich Während des Hochladens</string>
 
-    </resources>
+    <string name="user_with_albums">Mit Alben</string>
+    <string name="user_with_videos">Mit Videen</string>
+    <string name="user_with_photo">Mit Fotos</string>
+    <string name="user_sex_search_all">Alle Suchen</string>
+    <string name="user_sex_search_purpose_all">Alle Such-Zwecke</string>
+    <string name="user_sexual_hobbies_all">Alle sexuellen Vorlieben</string>
+    <string name="user_zodiac_sign_all">Alle Sternzeichen</string>
+    <string name="user_hair_color_all">Alle Haarfarben</string>
+    <string name="user_eye_color_all">Alle Augenfarben</string>
+    <string name="button_filter_connection_error">Verbindungsfehler</string>
+    <string name="filter_show_only">Zeige nur</string>
+    <string name="filter_user_online">Online</string>
+    <string name="filter_user_verified">Verifizierte</string>
+
+    <string name="date_less_than_1_day">24st</string>
+    <string name="date_less_than_7_days">7 Tage</string>
+    <string name="date_less_than_1_month">1 Monat</string>
+    <string name="date_less_than_3_months">3 Monate</string>
+    <string name="date_start">Startdatum</string>
+    <string name="date_end">Enddatum</string>
+
+    <string name="filter_album_not_viewed">Nicht gesehen</string>
+
+    <string name="no_album_for_state_title">Sie haben keine Alben im Status \"%s\".</string>
+    <string name="no_video_for_state_title">Sie haben keine Videen im Status \"%s\".</string>
+    <string name="cant_leave_while_uploading">Verlassen nicht möglich während des Hochladens</string>
+
+    <string name="dialog_video_upload_cancel_title">Hochladen abbrechen?</string>
+    <string name="dialog_video_upload_cancel_content">Wollen Sie wiklich das hochladen dieses Videos abbrechen?</string>
+    <string name="video_upload_complete_text">Tap um das hochgeladene Video zu überprüfen.</string>
+    <string name="toast_one_video_at_once">Sie können nur ein Video zu einem Zeitpunkt hochladen. Bitte warten Sie, bis hochladen beendet ist.</string>
+    <string name="video_uploaded_percentage">Upload-Fortschritt:% s %%</string>
+    <string name="photo_upload_notification_title">Hochladen von Fotos</string>
+    <string name="photo_upload_notification_progress">Upload des Fotos läuft:% 1 $ d /% 2 $ d</string>
+
+    <string name="logout_during_uploading_dialog_title">Wollen Sie sich wirklich abmelden?</string>
+    <string name="logout_during_uploading_dialog_content">Alle hochgeladene Inhalte gehen verloren.</string>
+</resources>
