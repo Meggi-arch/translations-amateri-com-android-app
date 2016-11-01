@@ -517,5 +517,5 @@
     <string name="photo_upload_notification_progress">Upload des Fotos läuft:% 1 $ d /% 2 $ d</string>
 
     <string name="logout_during_uploading_dialog_title">Wollen Sie sich wirklich abmelden?</string>
-    <string name="logout_during_uploading_dialog_content">Alle hochgeladene Inhalte gehen verloren.</string>
+    <string name="logout_during_uploading_dialog_content">"Alle  nicht hochgeladene Dateien gehen verloren."</string>
 </resources>
