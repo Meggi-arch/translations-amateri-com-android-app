@@ -47,8 +47,8 @@
     <string name="title_region">Region</string>
     <string name="title_marital_status">Rodinný stav</string>
     <string name="title_sexual_orientation">Sexuální orientace</string>
-    <string name="title_height">Výška</string>
-    <string name="title_weight">Váha</string>
+    <string name="title_height">Výška [cm]</string>
+    <string name="title_weight">Váha [kg]</string>
     <string name="title_eye_color">Barva očí</string>
     <string name="title_hair_color">Barva vlasů</string>
     <string name="title_statistics">Statistiky</string>
@@ -81,7 +81,7 @@
     <string name="user_sex_search_all">Všechny hledání</string>
     <string name="user_sex_search_purpose_all">Všechny účely hledání</string>
     <string name="user_sexual_hobbies_all">Všechny sexuální záliby</string>
-    <string name="user_zodiac_sign_all">Všechny znamení zvěrokruhu</string>
+    <string name="user_zodiac_sign_all">Všechna znamení zvěrokruhu</string>
     <string name="user_hair_color_all">Všechny barvy vlasů</string>
     <string name="user_eye_color_all">Všechny barvy očí</string>
     <string name="no_users_found">Žádní uživatelé nenalezeni</string>
