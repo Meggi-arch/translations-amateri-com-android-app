@@ -36,7 +36,7 @@
 
     <string name="tab_albums">Fotoalba</string>
     <string name="tab_info">Info</string>
-    <string name="tab_blogs">Blogy</string>
+    <string name="tab_blogs">Blog</string>
     <string name="tab_stories">Povídky</string>
     <string name="tab_user">Uživatelé</string>
     <string name="tab_album">Fotoalba</string>
@@ -546,4 +546,10 @@
     <string name="text_size_small">Malý</string>
     <string name="text_size_medium">Střední</string>
     <string name="text_size_big">Velký</string>
+    <string name="blog_comment_disallowed">K tomuto článku nyní nemůžete přidat komentář.</string>
+
+    <string name="color_theme_dark">Tmavá</string>
+    <string name="color_theme_light">Bílá</string>
+
+    <string name="title_next_blogs">Další články (%s)</string>
     </resources>
