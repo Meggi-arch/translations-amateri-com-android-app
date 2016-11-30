@@ -2,6 +2,7 @@
 <resources>
     <string name="general_error">Ouch!</string>
     <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
+    <string name="infinity_error_no_connection">It looks like there is no internet connection. Tap to try again.</string>
     <string name="general_loading">Please wait while we load the data</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
@@ -10,6 +11,8 @@
     <string name="title_album">Albums</string>
     <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
+    <string name="title_blogs">Blogs</string>
+    <string name="title_stories">Stories</string>
     <string name="title_settings">Settings</string>
     <string name="title_application_settings">Application settings</string>
     <string name="title_logout">Log out</string>
@@ -39,6 +42,14 @@
     <string name="video_comment_fail">Unable to send comment</string>
     <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
 
+    <!--BlogDetailActivity-->
+    <string name="title_next_blogs">More blogs (%s)</string>
+    <string name="blog_comment_disallowed">You cannot add a comment to this blog now.</string>
+
+    <!--StoryDetailActivity-->
+    <string name="title_next_story">More stories (%s)</string>
+    <string name="story_comment_disallowed">You cannot add a comment to this story now.</string>
+
     <!--Menu-->
     <string name="menu_notification">Notifications</string>
     <string name="menu_badges">Tags</string>
@@ -51,6 +62,8 @@
 
     <string name="tab_albums">Albums</string>
     <string name="tab_videos">Videos</string>
+    <string name="tab_blogs">Blogs</string>
+    <string name="tab_stories">Stories</string>
     <string name="tab_info">Info</string>
     <string name="tab_user">Users</string>
     <string name="tab_album">Albums</string>
@@ -69,8 +82,10 @@
     <string name="title_region">Region</string>
     <string name="title_marital_status">Marital status</string>
     <string name="title_sexual_orientation">Sexual orientation</string>
-    <string name="title_height">Height [cm]</string>
-    <string name="title_weight">Weight [kg]</string>
+    <string name="title_height">Height</string>
+    <string name="title_weight">Weight</string>
+    <string name="title_filter_height">Height [cm]</string>
+    <string name="title_filter_weight">Weight [kg]</string>
     <string name="title_eye_color">Eye colour</string>
     <string name="title_hair_color">Hair colour</string>
     <string name="title_statistics">Statistics</string>
@@ -137,6 +152,7 @@
     <!--FilterAlbumFragment-->
     <string name="album_theme_all">All topics</string>
     <string name="album_contest_all">Contest not selected</string>
+    <string name="album_contest_unavailable">No contests available</string>
     <string name="no_albums_found">No albums found</string>
     <string name="date_less_than_1_day">24h</string>
     <string name="date_less_than_7_days">7 days</string>
@@ -147,6 +163,7 @@
 
     <!--FilterVideoFragment-->
     <string name="video_contest_all">Contest not selected</string>
+    <string name="video_contest_unavailable">No contests available</string>
     <string name="no_videos_found">No videos found</string>
     <string name="filter_album_not_viewed">Unseen</string>
 
@@ -230,6 +247,13 @@
     <string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
     <string name="done">Done!</string>
 
+    <!-- ArticleInfoActivity -->
+    <string name="article_info_share">Share with friends</string>
+    <string name="blog_number">Blog number</string>
+    <string name="blog_url">Blog URL</string>
+    <string name="story_number">Story number</string>
+    <string name="story_url">Story URL</string>
+
     <!--Invalid login dialog-->
     <string name="invalid_login_dialog_title">Invalid login</string>
     <string name="invalid_login_dialog_content">Incorrect login details entered.</string>
@@ -294,6 +318,14 @@
     <string name="setup_current_version">Current version</string>
     <string name="setup_update_check">Check for updates</string>
     <string name="setup_no_updates">No updates available</string>
+    <string name="setup_stories_and_blogs_title">Stories and blogs</string>
+    <string name="setup_text_size">Text size</string>
+    <string name="setup_background_color">Background color</string>
+    <string name="text_size_small">Small</string>
+    <string name="text_size_medium">Medium</string>
+    <string name="text_size_big">Big</string>
+    <string name="color_theme_dark">Gray</string>
+    <string name="color_theme_light">White</string>
 
     <!--LockedActivity-->
     <string name="locked_unlock">Unlock</string>
@@ -505,6 +537,7 @@
     <string name="upload_in_progress">Uploading…</string>
     <string name="video_no_description">Video without description</string>
     <string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
+    <string name="admin_message">Administrator message</string>
 
     <!--VideoUploadService -->
     <string name="uploading_video">Uploading video</string>

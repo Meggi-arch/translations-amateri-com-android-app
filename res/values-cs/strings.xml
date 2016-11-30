@@ -2,11 +2,14 @@
 <resources>
     <string name="general_error">Ouvej!</string>
     <string name="general_error_no_connection">Zdá se, že nemáte připojení k internetu. Zkuste to prosím později.</string>
+    <string name="infinity_error_no_connection">Zdá se, že nemáte připojení k internetu. Tapnutím zkuste znovu.</string>
     <string name="general_loading">Prosím strpení, načítáme data</string>
 
     <!--MainActivity-->
     <string name="title_album">Fotoalba</string>
     <string name="title_people">Lidé</string>
+    <string name="title_blogs">Blogy</string>
+    <string name="title_stories">Povídky</string>
     <string name="title_logout">Odhlásit se</string>
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Odeslat feedback</string>
@@ -33,6 +36,8 @@
 
     <string name="tab_albums">Fotoalba</string>
     <string name="tab_info">Info</string>
+    <string name="tab_blogs">Blogy</string>
+    <string name="tab_stories">Povídky</string>
     <string name="tab_user">Uživatelé</string>
     <string name="tab_album">Fotoalba</string>
 
@@ -47,8 +52,10 @@
     <string name="title_region">Region</string>
     <string name="title_marital_status">Rodinný stav</string>
     <string name="title_sexual_orientation">Sexuální orientace</string>
-    <string name="title_height">Výška [cm]</string>
-    <string name="title_weight">Váha [kg]</string>
+    <string name="title_height">Výška</string>
+    <string name="title_weight">Váha</string>
+    <string name="title_filter_height">Výška [cm]</string>
+    <string name="title_filter_weight">Váha [kg]</string>
     <string name="title_eye_color">Barva očí</string>
     <string name="title_hair_color">Barva vlasů</string>
     <string name="title_statistics">Statistiky</string>
@@ -93,6 +100,7 @@
     <!--FilterAlbumFragment-->
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Soutěž nezvolena</string>
+    <string name="album_contest_unavailable">Soutěže nejsou dostupné</string>
     <string name="no_albums_found">Žádná fotoalba nenalezena</string>
     <string name="filter_album_not_viewed">Nezhlédnuto</string>
     <string name="date_less_than_1_day">24h</string>
@@ -177,6 +185,13 @@
     <string name="verify_done_text">Nový obrázek byl úspěšně nahrán. Ověrovací fotka bude zkontrolována správcem. Děkujeme vám.</string>
     <string name="done">Hotovo!</string>
 
+    <!-- ArticleInfoActivity -->
+    <string name="article_info_share">Sdílejte s přáteli</string>
+    <string name="blog_number">Číslo blogu</string>
+    <string name="blog_url">URL Blogu</string>
+    <string name="story_number">Číslo povídky</string>
+    <string name="story_url">URL povídky</string>
+
     <!--Invalid login dialog-->
     <string name="invalid_login_dialog_title">Neplatné přihlášení</string>
     <string name="invalid_login_dialog_content">Zadali jste neplatné přihlašovací údaje.</string>
@@ -217,9 +232,8 @@
     <string name="tab_videos">Videa</string>
     <string name="tab_video">Videa</string>
 
-    <string name="video_verified_all">Ověřené i neověřené</string>
     <string name="video_contest_all">Soutěž nezvolena</string>
-    <string name="video_history_all">Zhlédnuté i nezhlédnuté</string>
+    <string name="video_contest_unavailable">Soutěže nejsou dostupné</string>
     <string name="no_videos_found">Žádná videa nenalezena</string>
 
     <string name="video_duration">Délka</string>
@@ -236,7 +250,6 @@
     <string name="title_next_videos">Další videa (%s)</string>
     <string name="video_comment_fail">Nelze odeslat komentář</string>
 
-    <string name="video_duration_all">Všechny délky</string>
     <string name="vip_dialog_title">Je nám líto, ale jen VIP uživatelé mohou zdarma využívat tuto funkci.</string>
     <string name="vip_dialog_activate">Chci se stát VIP členem</string>
     <string name="vip_dialog_login">Přihlásit se</string>
@@ -270,7 +283,6 @@
     <string name="album_filter_show_all">Zobrazit alba</string>
     <string name="video_filter_show_all">Zobrazit videa</string>
 
-    <string name="video_sex_all">Všechny kategorie pohlaví</string>
     <string name="video_number">Video ID</string>
     <string name="video_address">Video URL</string>
 
@@ -411,7 +423,6 @@
 
     <string name="title_settings">Nastavení</string>
     <string name="title_application_settings">Nastavení aplikace</string>
-    <string name="album_sex_all">Všechny kategorie pohlaví</string>
     <string name="album_comment_disallowed">K tomuto albu nyní nemůžete přidat komentář.</string>
     <string name="video_comment_disallowed">K tomuto videu nyní nemůžete přidat komentář.</string>
 
@@ -501,6 +512,7 @@
     <string name="upload_in_progress">Nahrávání…</string>
     <string name="video_no_description">Video bez popisku</string>
     <string name="video_not_found">Vaše video bylo nahráno, ale nyní jej nelze přehrat. Soubor s videem nebyl nalezen na tomto zařízení.</string>
+    <string name="admin_message">Zpráva administrátora</string>
 
     <!--VideoUploadService-->
     <string name="uploading_video">Nahrávaní videa</string>
