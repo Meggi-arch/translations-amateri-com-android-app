@@ -43,8 +43,8 @@
     <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
 
     <!--BlogDetailActivity-->
-    <string name="title_next_blogs">More blogs (%s)</string>
-    <string name="blog_comment_disallowed">You cannot add a comment to this blog now.</string>
+    <string name="title_next_blogs">More posts (%s)</string>
+    <string name="blog_comment_disallowed">You cannot add a comment to this blog post now.</string>
 
     <!--StoryDetailActivity-->
     <string name="title_next_story">More stories (%s)</string>
@@ -62,7 +62,7 @@
 
     <string name="tab_albums">Albums</string>
     <string name="tab_videos">Videos</string>
-    <string name="tab_blogs">Blogs</string>
+    <string name="tab_blogs">Blog</string>
     <string name="tab_stories">Stories</string>
     <string name="tab_info">Info</string>
     <string name="tab_user">Users</string>
@@ -324,7 +324,7 @@
     <string name="text_size_small">Small</string>
     <string name="text_size_medium">Medium</string>
     <string name="text_size_big">Big</string>
-    <string name="color_theme_dark">Gray</string>
+    <string name="color_theme_dark">Dark</string>
     <string name="color_theme_light">White</string>
 
     <!--LockedActivity-->
