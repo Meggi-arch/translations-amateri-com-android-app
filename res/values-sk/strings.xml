@@ -522,4 +522,36 @@
 
     <string name="logout_during_uploading_dialog_title">Naozaj sa chcete odhlásiť?</string>
     <string name="logout_during_uploading_dialog_content">Všetky nahrané súbory budú stratené.</string>
-</resources>
+<string name="infinity_error_no_connection">Zdá se, že nemáte pripojenie k internetu. Tapnutím skúste znovu.</string>
+    <string name="title_blogs">Blogy</string>
+    <string name="title_stories">Poviedky</string>
+    <string name="title_next_blogs">Ďalšie články (%s)</string>
+    <string name="blog_comment_disallowed">K tomuto článku teraz nemôžete pridať komentár.</string>
+
+    <string name="title_next_story">Ďalšie poviedky (%s)</string>
+    <string name="story_comment_disallowed">K tejto poviedke teraz nemôžete pridať komentár.</string>
+
+    <string name="tab_blogs">Blog</string>
+    <string name="tab_stories">Poviedky</string>
+    <string name="title_filter_height">Výška [cm]</string>
+    <string name="title_filter_weight">Váha [kg]</string>
+    <string name="album_contest_unavailable">Súťaže nie sú dostupné</string>
+    <string name="video_contest_unavailable">Súťaže nie sú dostupné</string>
+    <string name="article_info_share">Zdielajte s priateľmi</string>
+    <string name="blog_number">Číslo blogu</string>
+    <string name="blog_url">URL Blogu</string>
+    <string name="story_number">Číslo poviedky</string>
+    <string name="story_url">URL poviedky</string>
+
+    <string name="setup_stories_and_blogs_title">Poviedky a blogy</string>
+    <string name="setup_text_size">Veľkosť textu</string>
+    <string name="setup_background_color">Farba pozadia</string>
+    <string name="text_size_small">Malý</string>
+    <string name="text_size_medium">Stredný</string>
+    <string name="text_size_big">Veľký</string>
+    <string name="color_theme_dark">Tmavá</string>
+    <string name="color_theme_light">Biela</string>
+
+    <string name="admin_message">Správa administrátora</string>
+
+    </resources>
