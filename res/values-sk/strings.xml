@@ -41,8 +41,8 @@
     <string name="title_region">Región</string>
     <string name="title_marital_status">Rodinný stav</string>
     <string name="title_sexual_orientation">Sexuálna orientácia</string>
-    <string name="title_height">Výška [cm]</string>
-    <string name="title_weight">Váha [kg]</string>
+    <string name="title_height">Výška</string>
+    <string name="title_weight">Váha</string>
     <string name="title_eye_color">Oči</string>
     <string name="title_hair_color">Vlasy</string>
     <string name="title_statistics">Štatistiky</string>
