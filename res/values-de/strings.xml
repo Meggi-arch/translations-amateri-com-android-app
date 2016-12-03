@@ -42,8 +42,8 @@
     <string name="title_region">Region</string>
     <string name="title_marital_status">Familienstand</string>
     <string name="title_sexual_orientation">Sexuelle Orientation</string>
-    <string name="title_height">Höhe [cm]</string>
-    <string name="title_weight">Gewicht [kg]</string>
+    <string name="title_height">Höhe</string>
+    <string name="title_weight">Gewicht</string>
     <string name="title_eye_color">Augenfarbe</string>
     <string name="title_hair_color">Haarfarbe</string>
     <string name="title_statistics">Statistiken</string>
