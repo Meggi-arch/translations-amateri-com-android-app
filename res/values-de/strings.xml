@@ -518,4 +518,36 @@
 
     <string name="logout_during_uploading_dialog_title">Wollen Sie sich wirklich abmelden?</string>
     <string name="logout_during_uploading_dialog_content">"Alle  nicht hochgeladene Dateien gehen verloren."</string>
-</resources>
+<string name="infinity_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Tappen Sie um erneut zu versuchen.</string>
+    <string name="title_blogs">Blogs</string>
+    <string name="title_stories">Geschichten</string>
+    <string name="title_next_blogs">Weitere Artikeln (%s)</string>
+    <string name="blog_comment_disallowed">Diesen Artikel können sie jetzt nicht kommentieren.</string>
+
+    <string name="title_next_story">Weitere Geschichten (%s)</string>
+    <string name="story_comment_disallowed">Diese Geschichte können sie jetzt nicht kommentieren.</string>
+
+    <string name="tab_blogs">Blog</string>
+    <string name="tab_stories">Geschichten</string>
+    <string name="title_filter_height">Höhe [cm]</string>
+    <string name="title_filter_weight">Gewicht [kg]</string>
+    <string name="album_contest_unavailable">Wettbewerbe sind nicht verfügbar</string>
+    <string name="video_contest_unavailable">Wettbewerbe sind nicht verfügbar</string>
+    <string name="article_info_share">Teilen Sie mit Freunden</string>
+    <string name="blog_number">Blognummer</string>
+    <string name="blog_url">Blog URL</string>
+    <string name="story_number">Geschichtennummer</string>
+    <string name="story_url">Geschichten URL</string>
+
+    <string name="setup_stories_and_blogs_title">Geschichten und Blogs</string>
+    <string name="setup_text_size">Textgröße</string>
+    <string name="setup_background_color">Hintergrundfarbe</string>
+    <string name="text_size_small">Klein</string>
+    <string name="text_size_medium">Mittel</string>
+    <string name="text_size_big">Gross</string>
+    <string name="color_theme_dark">Dunkel</string>
+    <string name="color_theme_light">Weiss</string>
+
+    <string name="admin_message">Nachricht vom Administrator</string>
+
+    </resources>
