@@ -554,4 +554,22 @@
 
     <string name="admin_message">Správa administrátora</string>
 
+    <string name="dating_buy_top_dialog_country_picker_title">Krajina</string>
+    <string name="dating_buy_top_dialog_send_sms">Poslať predvyplnenú SMS</string>
+    <string name="title_dating">Zoznamka</string>
+
+    <string name="report_ad_send">Odoslať</string>
+    <string name="report_ad_toast_sent">Hlásenie bolo odoslané. Ďakujeme vám.</string>
+
+    <string name="tab_dating">Zoznamka</string>
+
+    <string name="dating_reply">Odpovedať</string>
+    <string name="dating_highlight">Topuj inzerát</string>
+    <string name="dating_buy_top_dialog_title">Topuj inzerát</string>
+    <string name="dating_buy_top_dialog_main_text_first">Topovaním posuniete inzerát na 1. miesto hneď teraz.</string>
+    <string name="dating_buy_top_dialog_main_text_second">Topovanie zvýrazní váš inzerát a udrží ho vo svojej kategórii na prednej pozícii %d dni.</string>
+    <string name="dating_buy_top_dialog_main_text_third">Dni sa pri viacnasobnom topovaní sčítavajú, kto ich má viac, bude na lepšej pozícii.</string>
+    <string name="dating_buy_top_dialog_info_text_1">Cena jednej prijatej správy je %s s DPH.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Technicky zaisťuje %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
     </resources>
