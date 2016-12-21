@@ -25,6 +25,7 @@
     <string name="title_new_video">Add new video</string>
     <string name="title_profile_settings">Content settings</string>
     <string name="title_my_account">My account</string>
+    <string name="title_dating">Dating</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Latest</string>
@@ -50,6 +51,25 @@
     <string name="title_next_story">More stories (%s)</string>
     <string name="story_comment_disallowed">You cannot add a comment to this story now.</string>
 
+    <!--FilterDatingActivity-->
+    <string name="no_dating_ads_title">No dating ads found</string>
+    <string name="no_dating_ads_text">No dating ads found for selected filter.</string>
+
+    <!--DatingReplyActivity-->
+    <string name="dating_reply_button_send">Send reply</string>
+    <string name="dating_reply_hint">Your reply</string>
+    <string name="toast_dating_reply_sent">Reply has been sent</string>
+    <string name="dating_reply_picture_attached">Photo attached</string>
+    <string name="dialog_delete_attachment_title">Delete attachment</string>
+    <string name="dialog_delete_attachment_text">Do you realy want to delete the attachment?</string>
+
+    <!--ReportDatingAdDialog-->
+    <string name="report_ad_title">Report dating ad</string>
+    <string name="report_ad_text">Choose a reason</string>
+    <string name="report_ad_send">Send</string>
+    <string name="report_ad_toast_no_reason">Choose a reason first</string>
+    <string name="report_ad_toast_sent">The report has been sent. Thank you.</string>
+
     <!--Menu-->
     <string name="menu_notification">Notifications</string>
     <string name="menu_badges">Tags</string>
@@ -68,6 +88,7 @@
     <string name="tab_user">Users</string>
     <string name="tab_album">Albums</string>
     <string name="tab_video">Videos</string>
+    <string name="tab_dating">Dating</string>
 
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
@@ -253,6 +274,23 @@
     <string name="blog_url">Blog URL</string>
     <string name="story_number">Story number</string>
     <string name="story_url">Story URL</string>
+
+    <!-- FilterDatingActivity -->
+    <string name="dating_reply">Reply</string>
+    <string name="dating_highlight">Top ad</string>
+    <string name="dating_top">Top</string>
+    <string name="dating_buy_top_dialog_title">Top ad</string>
+    <string name="dating_buy_top_dialog_main_text_first">You can Top the ad to the 1st place right now.</string>
+    <string name="dating_buy_top_dialog_main_text_second">Using the Top feature makes the dating ad more visible and it will maintain a top position in its category for %d days.</string>
+    <string name="dating_buy_top_dialog_main_text_third">Repeated use of the Top feature adds up the days, dating ads with more cumulated days will gain higher position in the list.</string>
+    <string name="dating_buy_top_dialog_info_text_1">The price of one single message received is %s including VAT.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Technically provided by %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_title">County</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Select country</string>
+    <string name="dating_buy_top_dialog_send_sms">Send autofilled SMS</string>
+    <string name="dating_buy_top_dialog_no_sms_data">Not available in this country</string>
+    <string name="dating_buy_top_dialog_network_error">Connection error</string>
 
     <!--Invalid login dialog-->
     <string name="invalid_login_dialog_title">Invalid login</string>
@@ -538,6 +576,8 @@
     <string name="video_no_description">Video without description</string>
     <string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
     <string name="admin_message">Administrator message</string>
+    <string name="toast_cant_load_video">Failed to load video</string>
+    <string name="video_loading">Please wait while we load the video…</string>
 
     <!--VideoUploadService -->
     <string name="uploading_video">Uploading video</string>
