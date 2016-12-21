@@ -550,4 +550,23 @@
 
     <string name="admin_message">Nachricht vom Administrator</string>
 
+    <string name="title_dating">Dating</string>
+
+    <string name="report_ad_toast_sent">Die Nachricht wurde gesendet. Danke.</string>
+
+    <string name="tab_dating">Dating</string>
+
+    <string name="dating_reply">Beantworten</string>
+    <string name="dating_highlight">Anzeige Toppen</string>
+    <string name="dating_buy_top_dialog_title">Anzeige Toppen</string>
+    <string name="dating_buy_top_dialog_main_text_first">Sie können die Anzeige mit dem Toppen sofort auf den 1. Platz schieben.</string>
+    <string name="dating_buy_top_dialog_main_text_second">Toppen macht Ihre Anzeige besser sichtbar und hält es in der Kategorie auf vorderem Platz für %d Tage.</string>
+    <string name="dating_buy_top_dialog_main_text_third">Bei mehrmaligem Toppen werden die Tage zussamengerechnet, wer mehr Tage hat, wird auf besserem Platz sein.</string>
+    <string name="dating_buy_top_dialog_info_text_1">Preis einer erhaltenen Nachricht ist %s inkl. MwSt.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Technisch bereitgestellt von %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_title">Land</string>
+    <string name="dating_buy_top_dialog_send_sms">Auto-ausgefüllte SMS schicken</string>
+    <string name="dating_buy_top_dialog_network_error">Verbindungsfehler</string>
+
     </resources>
