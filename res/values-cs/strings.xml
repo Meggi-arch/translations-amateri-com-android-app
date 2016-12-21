@@ -552,4 +552,41 @@
     <string name="color_theme_light">Bílá</string>
 
     <string name="title_next_blogs">Další články (%s)</string>
+    <string name="title_dating">Seznamka</string>
+
+    <string name="no_dating_ads_title">Inzeráty nenalezeny</string>
+    <string name="no_dating_ads_text">Nebyly nalezeny žádné inzeráty pro zvolený filtr.</string>
+
+    <string name="dating_reply_button_send">Odeslat odpověď</string>
+    <string name="dating_reply_hint">Vaše odpověď</string>
+    <string name="toast_dating_reply_sent">Odpověd byla odeslána</string>
+    <string name="dating_reply_picture_attached">Fotka připojena</string>
+    <string name="dialog_delete_attachment_title">Smazat přilohu</string>
+    <string name="dialog_delete_attachment_text">Opravdu chcete smazat přílohu?</string>
+
+    <string name="report_ad_title">Nahlásit inzerát</string>
+    <string name="report_ad_text">Zvolte důvod</string>
+    <string name="report_ad_send">Odeslat</string>
+    <string name="report_ad_toast_no_reason">Nejprve zvolte důvod</string>
+    <string name="report_ad_toast_sent">Hlášení bylo odesláno. Děkujeme vám.</string>
+
+    <string name="tab_dating">Seznamka</string>
+
+    <string name="dating_reply">Odpovědět</string>
+    <string name="dating_highlight">Topuj inzerát</string>
+    <string name="dating_buy_top_dialog_title">Topuj inzerát</string>
+    <string name="dating_buy_top_dialog_main_text_first">Topnutím posunete inzerát na 1. místo hned teď.</string>
+    <string name="dating_buy_top_dialog_main_text_second">Topování zvýrazní váš inzerát a udrží ho ve své kategorii na přední pozici %d dny.</string>
+    <string name="dating_buy_top_dialog_main_text_third">Dny se při vícenásobném topování sčítají, kdo jich má více, bude na lepší pozici.</string>
+    <string name="dating_buy_top_dialog_info_text_1">Cena jedné přijaté zprávy je %s vč. DPH.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Technicky zajišťuje %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Vyberte zemi</string>
+    <string name="dating_buy_top_dialog_send_sms">Poslat předvyplněnou SMS</string>
+    <string name="dating_buy_top_dialog_no_sms_data">V této zemi nedostupné</string>
+    <string name="dating_buy_top_dialog_network_error">Chyba připojení</string>
+
+    <string name="toast_cant_load_video">Nepodařilo se načíst video</string>
+    <string name="video_loading">Prosím strpení, načítáme vaše video…</string>
+
     </resources>
