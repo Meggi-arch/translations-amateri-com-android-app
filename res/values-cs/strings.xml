@@ -589,4 +589,5 @@
     <string name="toast_cant_load_video">Nepodařilo se načíst video</string>
     <string name="video_loading">Prosím strpení, načítáme vaše video…</string>
 
+    <string name="dating_buy_top_dialog_country_picker_title">Země</string>
     </resources>
