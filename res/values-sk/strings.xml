@@ -572,4 +572,24 @@
     <string name="dating_buy_top_dialog_info_text_1">Cena jednej prijatej správy je %s s DPH.</string>
     <string name="dating_buy_top_dialog_info_text_2">Technicky zaisťuje %s.</string>
     <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
+    <string name="no_dating_ads_title">Neboli nájdené inzeráty</string>
+    <string name="no_dating_ads_text">Neboli nájdené žiadne inzeráty pre zvolený filter.</string>
+
+    <string name="dating_reply_button_send">Poslať odpoveď</string>
+    <string name="dating_reply_hint">Vaša odpoveď</string>
+    <string name="toast_dating_reply_sent">Odpoveď bola odoslaná</string>
+    <string name="dating_reply_picture_attached">Fotografia priložená</string>
+    <string name="dialog_delete_attachment_title">Vymazať prílohu</string>
+    <string name="dialog_delete_attachment_text">Naozaj chcete vymazať prílohu?</string>
+
+    <string name="report_ad_title">Nahlásiť inzerát</string>
+    <string name="report_ad_text">Zvoľte dôvod</string>
+    <string name="report_ad_toast_no_reason">Najprv zvoľte dôvod</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Zvoľte krajinu</string>
+    <string name="dating_buy_top_dialog_no_sms_data">Pre zvolenú krajinu nedostupné</string>
+    <string name="dating_buy_top_dialog_network_error">Chyba pripojenia</string>
+
+    <string name="toast_cant_load_video">Nepodarilo sa načítať video</string>
+    <string name="video_loading">Prosím počkajte kým načítame video…</string>
+
     </resources>
