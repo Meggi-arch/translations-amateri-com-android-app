@@ -278,7 +278,6 @@
     <!-- FilterDatingActivity -->
     <string name="dating_reply">Reply</string>
     <string name="dating_highlight">Top ad</string>
-    <string name="dating_top">Top</string>
     <string name="dating_buy_top_dialog_title">Top ad</string>
     <string name="dating_buy_top_dialog_main_text_first">You can Top the ad to the 1st place right now.</string>
     <string name="dating_buy_top_dialog_main_text_second">Using the Top feature makes the dating ad more visible and it will maintain a top position in its category for %d days.</string>
@@ -286,7 +285,7 @@
     <string name="dating_buy_top_dialog_info_text_1">The price of one single message received is %s including VAT.</string>
     <string name="dating_buy_top_dialog_info_text_2">Technically provided by %s.</string>
     <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
-    <string name="dating_buy_top_dialog_country_picker_title">County</string>
+    <string name="dating_buy_top_dialog_country_picker_title">Country</string>
     <string name="dating_buy_top_dialog_country_picker_placeholder">Select country</string>
     <string name="dating_buy_top_dialog_send_sms">Send autofilled SMS</string>
     <string name="dating_buy_top_dialog_no_sms_data">Not available in this country</string>
