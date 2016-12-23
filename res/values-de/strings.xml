@@ -569,4 +569,23 @@
     <string name="dating_buy_top_dialog_send_sms">Auto-ausgefüllte SMS schicken</string>
     <string name="dating_buy_top_dialog_network_error">Verbindungsfehler</string>
 
+    <string name="no_dating_ads_title">Keine Anzeigen gefunden</string>
+    <string name="no_dating_ads_text">Keine Anzeigen für ausgewählte Filter gefunden.</string>
+
+    <string name="dating_reply_button_send">Antwort abschicken</string>
+    <string name="dating_reply_hint">Ihre Antwort</string>
+    <string name="toast_dating_reply_sent">Antwort wurde verschickt</string>
+    <string name="dating_reply_picture_attached">Foto beigefügt</string>
+    <string name="dialog_delete_attachment_title">Anhang entfernen</string>
+    <string name="dialog_delete_attachment_text">Wollen Sie wirklich den Anhang entfernen?</string>
+
+    <string name="report_ad_title">Anzeigen melden</string>
+    <string name="report_ad_text">Wählen Sie einen Grund</string>
+    <string name="report_ad_send">Abschicken</string>
+    <string name="report_ad_toast_no_reason">Wählen Sie einen Grund zuerst</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Land wählen</string>
+    <string name="dating_buy_top_dialog_no_sms_data">In diesem Land nicht verfügbar</string>
+    <string name="toast_cant_load_video">Video konnte nicht geladen werden</string>
+    <string name="video_loading">Bitte warten, Video wird geladen …</string>
+
     </resources>
