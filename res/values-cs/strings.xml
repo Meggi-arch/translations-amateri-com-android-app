@@ -609,4 +609,6 @@
     <string name="message_seen">Přečteno</string>
     <string name="message_unseen">Nepřečteno</string>
     <string name="message_write_hint">Napsat zprávu</string>
-</resources>
+<string name="new_message_info">Máte novou zprávu</string>
+    <string name="message_send_failure">Je nám líto, zdá se, že nastal problém s připojením a zprávu se nepodařilo odeslat.</string>
+    </resources>
