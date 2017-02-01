@@ -592,4 +592,28 @@
     <string name="toast_cant_load_video">Nepodarilo sa načítať video</string>
     <string name="video_loading">Prosím počkajte kým načítame video…</string>
 
-    </resources>
+    <string name="dialog_report_ad_title">Nahlásiť inzerát</string>
+
+    <string name="video_theme_all">Všetky témy</string>
+    <string name="video_settings_topic">Téma</string>
+    <string name="video_settings_topic_default">Vyberte tému</string>
+    <string name="report_dialog_text">Vyberte dôvod</string>
+    <string name="report_dialog_send">Odoslať</string>
+    <string name="report_dialog_toast_no_reason">Najprv vyberte dôvod</string>
+    <string name="report_dialog_toast_sent">Hlásenie bolo odoslané. Ďakujeme Vám.</string>
+
+    <string name="message_popup_copy">Kopírovať text</string>
+    <string name="message_popup_delete">Zmazať správu</string>
+    <string name="message_popup_report">Nahlásiť</string>
+    <string name="message_popup_received">Prijaté %s</string>
+    <string name="dialog_report_message_title">Nahlásiť správu</string>
+    <string name="toast_message_deleted">Správa bola vymazaná</string>
+    <string name="toast_copied_message_text">Správa bola skopírovaná do schránky!</string>
+    <string name="message_date_today">Dnes</string>
+    <string name="message_date_yesterday">Včera</string>
+    <string name="message_seen">Prečítané</string>
+    <string name="message_unseen">Neprečítané</string>
+    <string name="message_send_failure">Prepáčte, zdá sa že nastal problém s pripojením a vaša správa nebola odoslaná.</string>
+    <string name="new_message_info">Máte novú správu</string>
+    <string name="message_write_hint">Napísať správu</string>
+</resources>
