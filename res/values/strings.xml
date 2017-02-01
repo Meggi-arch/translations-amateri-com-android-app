@@ -61,14 +61,10 @@
     <string name="toast_dating_reply_sent">Reply has been sent</string>
     <string name="dating_reply_picture_attached">Photo attached</string>
     <string name="dialog_delete_attachment_title">Delete attachment</string>
-    <string name="dialog_delete_attachment_text">Do you realy want to delete the attachment?</string>
+    <string name="dialog_delete_attachment_text">Do you really want to delete the attachment?</string>
 
     <!--ReportDatingAdDialog-->
-    <string name="report_ad_title">Report dating ad</string>
-    <string name="report_ad_text">Choose a reason</string>
-    <string name="report_ad_send">Send</string>
-    <string name="report_ad_toast_no_reason">Choose a reason first</string>
-    <string name="report_ad_toast_sent">The report has been sent. Thank you.</string>
+    <string name="dialog_report_ad_title">Report dating ad</string>
 
     <!--Menu-->
     <string name="menu_notification">Notifications</string>
@@ -183,6 +179,7 @@
     <string name="date_end">End date</string>
 
     <!--FilterVideoFragment-->
+    <string name="video_theme_all">All topics</string>
     <string name="video_contest_all">Contest not selected</string>
     <string name="video_contest_unavailable">No contests available</string>
     <string name="no_videos_found">No videos found</string>
@@ -424,6 +421,8 @@
     <string name="video_settings_category">Category</string>
     <string name="video_settings_category_default">Select category</string>
     <string name="video_settings_comment">Comment settings</string>
+    <string name="video_settings_topic">Topic</string>
+    <string name="video_settings_topic_default">Select topic</string>
     <string name="video_settings_contest">Contest</string>
     <string name="video_settings_contest_default">Select contest</string>
     <string name="video_settings_vote">Voting enabled</string>
@@ -601,4 +600,26 @@
     <!-- Logout while uploading dialog -->
     <string name="logout_during_uploading_dialog_title">Do you want to logout?</string>
     <string name="logout_during_uploading_dialog_content">All of your unuploaded files will be lost.</string>
+
+    <!--ReportDatingAdDialog-->
+    <string name="report_dialog_text">Choose a reason</string>
+    <string name="report_dialog_send">Send</string>
+    <string name="report_dialog_toast_no_reason">Choose a reason first</string>
+    <string name="report_dialog_toast_sent">The report has been sent. Thank you.</string>
+
+    <!-- Messaging -->
+    <string name="message_popup_copy">Copy to clipboard</string>
+    <string name="message_popup_delete">Delete message</string>
+    <string name="message_popup_report">Report</string>
+    <string name="message_popup_received">Received %s</string>
+    <string name="dialog_report_message_title">Report message</string>
+    <string name="toast_message_deleted">Message deleted</string>
+    <string name="toast_copied_message_text">The message has been copied to your clipboard!</string>
+    <string name="message_date_today">Today</string>
+    <string name="message_date_yesterday">Yesterday</string>
+    <string name="message_seen">Read</string>
+    <string name="message_unseen">Unread</string>
+    <string name="message_send_failure">Sorry, it seems there has been a network problem and your message was not sent.</string>
+    <string name="new_message_info">You have a new message</string>
+    <string name="message_write_hint">Write a message</string>
 </resources>
