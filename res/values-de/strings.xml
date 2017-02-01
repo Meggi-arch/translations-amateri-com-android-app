@@ -588,4 +588,28 @@
     <string name="toast_cant_load_video">Video konnte nicht geladen werden</string>
     <string name="video_loading">Bitte warten, Video wird geladen …</string>
 
-    </resources>
+    <string name="dialog_report_ad_title">Anzeige melden</string>
+
+    <string name="video_theme_all">Alle Themen</string>
+    <string name="video_settings_topic">Theme</string>
+    <string name="video_settings_topic_default">Thema wählen</string>
+    <string name="report_dialog_text">Grund wählen</string>
+    <string name="report_dialog_send">Abschicken</string>
+    <string name="report_dialog_toast_no_reason">Wählen Sie den Grund zuerst</string>
+    <string name="report_dialog_toast_sent">Bericht wurde gesendet, danke.</string>
+
+    <string name="message_popup_copy">Text kopieren</string>
+    <string name="message_popup_delete">Nachricht löschen</string>
+    <string name="message_popup_report">Melden</string>
+    <string name="message_popup_received">Empfangen %s</string>
+    <string name="dialog_report_message_title">Nachricht melden</string>
+    <string name="toast_message_deleted">Nachricht wurde gelöscht</string>
+    <string name="toast_copied_message_text">Nachricht wurde in den Zwischenspeicher kopiert!</string>
+    <string name="message_date_today">Heute</string>
+    <string name="message_date_yesterday">Gestern</string>
+    <string name="message_seen">Gelesen</string>
+    <string name="message_unseen">Nicht gelesen</string>
+    <string name="message_send_failure">Es scheint, dass ein Netzwerkproblem aufgetreten ist und Ihre Nachricht nicht gesendet wurde.</string>
+    <string name="new_message_info">Sie haben neue Nachricht</string>
+    <string name="message_write_hint">Nachricht schreiben</string>
+</resources>
