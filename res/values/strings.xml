@@ -473,7 +473,10 @@
     <string name="notification_profile_view_title">New profile visit</string>
     <string name="notification_profile_view_text">%s has just visited your profile.</string>
 
-    <string name="notification_message_add_title">New message</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">New message</item>
+        <item quantity="other">%s new messages</item>
+    </plurals>
 
     <string name="notification_dating_ad_title">New dating ad response</string>
 

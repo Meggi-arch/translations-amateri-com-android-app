@@ -14,7 +14,7 @@
     <string name="tab_best">Najlepšie</string>
 
     <string name="title_comments">Komentáre</string>
-    <string name="title_next_comments">Dalšie kmentáre (%s)</string>
+    <string name="title_next_comments">Ďalšie komentáre (%s)</string>
     <string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
 
     <string name="menu_notification">Upozornenie</string>
@@ -62,21 +62,14 @@
     <string name="title_filter">Hľadanie</string>
 
     <string name="general_error">Ups!</string>
-    <string name="user_content_all">Všetky typy obsahu</string>
-    <string name="user_sex_all">Všetky pohlavia</string>
-    <string name="user_age_all">Všetky vekové kategórie</string>
     <string name="user_country_all">Všetky krajiny</string>
     <string name="user_region_all">Všetky regióny</string>
     <string name="user_sexual_orientation_all">Všetky sexuálne orientácie</string>
     <string name="user_marital_status_all">Všetky rodinné stavy</string>
-    <string name="user_height_all">Všetky výšky</string>
-    <string name="user_weight_all">Všetky váhy</string>
     <string name="no_users_found">Nenájdení žiadni užívatelia</string>
 
-    <string name="album_verified_all">Overené aj neoverené</string>
     <string name="album_theme_all">Všetky témy</string>
     <string name="album_contest_all">Súťaž nezvolená</string>
-    <string name="album_history_all">Pozreté aj nepozreté</string>
     <string name="no_albums_found">Nenájdené žiadne albumy</string>
 
     <string name="author">autor</string>
@@ -130,7 +123,6 @@
 
     <string name="feedback_dialog_title">Spätná väzba</string>
     <string name="feedback_dialog_text">Ďakujeme, že nám pomáhate vyvíjať našu appku. Budeme moc radi za spätnú väzbu, odkaz na ňu nájdete dole v menu.</string>
-    <string name="feedback_dialog_ok">OK</string>
 
     <string name="profile_male">Muž</string>
     <string name="profile_female">Žena</string>
@@ -145,7 +137,7 @@
 
     <!-- plurals -->
     <plurals name="people">
-        <item quantity="one">%s člověku sa páči</item>
+        <item quantity="one">%s človeku sa páči</item>
         <item quantity="few">%s ľuďom sa páči</item>
         <item quantity="other">%s ľuďom sa páči</item>
     </plurals>
@@ -178,10 +170,7 @@
     <string name="tab_videos">Videá</string>
     <string name="tab_video">Videá</string>
 
-    <string name="video_verified_all">Overené aj neoverené</string>
-    <string name="video_duration_all">Všetky dĺžky</string>
     <string name="video_contest_all">Súťaž nezvolená</string>
-    <string name="video_history_all">Pozreté aj nepozreté</string>
     <string name="no_videos_found">Nenájdené žiadne videá</string>
 
     <string name="video_duration">Dĺžka</string>
@@ -219,7 +208,6 @@
     <string name="album_not_vip_other_button">Zrušiť</string>
     <string name="video_not_vip_other_button">Zrušiť</string>
 
-    <string name="title_setup">Nastavenia aplikácie</string>
     <string name="title_album_settings">Nastavenia Albumu</string>
     <string name="title_video_settings">Nastavenia videa</string>
     <string name="title_profile_settings">Nastavenia obsahu</string>
@@ -230,8 +218,6 @@
     <string name="album_filter_show_all">Zobraziť albumy</string>
     <string name="video_filter_show_all">Zobraziť videá</string>
 
-    <string name="album_sex_all">Všetky kategórie pohlaví</string>
-    <string name="video_sex_all">Všetky kategórie pohlaví</string>
     <string name="video_number">VIdeo ID</string>
     <string name="video_address">Video URL</string>
 
@@ -241,7 +227,7 @@
     <string name="verify_text">Na papier napíšte svoj nick (prezývku), aktuálny dátum, názov amateri.com a s papierom v rukách sa odfoťte. Ak využívate profil ako pár, overovací fotku potrebujeme od oboch.</string>
     <string name="verify_more_info">Viac informácií</string>
     <string name="verify_send">Nahrať overovaciu fotku</string>
-    <string name="verify_done_text">Nový obrázok bol úspešne nahraný. Overovací fotka bude skontrolovaná správcom. Ďakujeme.</string>
+    <string name="verify_done_text">Nový obrázok bol úspešne nahraný. Overovacia fotka bude skontrolovaná správcom. Ďakujeme.</string>
     <string name="done">Hotovo!</string>
 
     <string name="setup_notifications">Push notifikácie</string>
@@ -358,7 +344,11 @@
     <string name="notification_profile_view_title">Nová návšteva profilu</string>
     <string name="notification_profile_view_text">%s práve navštívil Váš profil.</string>
 
-    <string name="notification_message_add_title">Nová správa</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">Nová správa</item>
+        <item quantity="few">%s nové správy</item>
+        <item quantity="other">%s nových správ</item>
+    </plurals>
 
     <string name="notification_dating_ad_title">Nová odpoveď na inzerát v zoznamke</string>
 
@@ -384,7 +374,7 @@
     <string name="notification_video_approve_text">Vaše video \"%s\" bolo schválené.</string>
 
     <string name="notification_update_text">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcete si ju stiahnuť?</string>
-<string name="title_settings">Nastavenia</string>
+    <string name="title_settings">Nastavenia</string>
     <string name="title_application_settings">Nastavenia aplikácie</string>
     <string name="title_new_album">Pridať nový album</string>
     <string name="title_new_video">Pridať nové video</string>
@@ -400,7 +390,7 @@
 
     <string name="my_account_content_settings">Zdroj obsahu</string>
     <string name="my_account_other_settings">Ďalšie nastavenia</string>
-    <string name="my_account_content_source_max">Povolených najviac %s krajín</string>
+    <string name="my_account_content_source_max">Povolených najviac %d krajín</string>
     <string name="all_countries">Všetky krajiny</string>
 
     <string name="new_album_save">Uložiť a pokračovať</string>
@@ -418,10 +408,6 @@
     <string name="photo_delete_dialog">Naozaj chcete zmazať túto fotku?</string>
     <string name="toast_thumbnail_photo_changed">Úspešne ste zmenili náhľadovú fotku</string>
     <string name="dialog_guidelines_title">Nápoveda</string>
-    <string name="dialog_guidelines_1">Môžete nahrať %1$s – %2$s fotiek.</string>
-    <string name="dialog_guidelines_2">Poradie fotiek zmeníte pridržaním a pretiahnutím.</string>
-    <string name="guidelines_1">Môžete nahrať %1$s – %2$s fotiek.</string>
-    <string name="guidelines_2">Poradie fotiek zmeníte pridržaním a pretiahnutím.</string>
     <string name="toast_add_more_photos">Pridajte aspoň %d fotiek</string>
     <string name="toast_too_much_photos">Limit albumu je %d fotiek</string>
     <string name="toast_cant_send_uploading">Nie je možné odoslať na schválenie počas nahrávania</string>
@@ -441,15 +427,13 @@
     <string name="photos_limit_reached">Limit prekročený, prosím zmažte %s fotiek</string>
     <string name="album_no_description">Album bez popisku</string>
 
-    <string name="upload_notification_title">Nahrávanie fotiek</string>
-    <string name="upload_notification_progress">Prebieha nahrávanie fotky: %1$d/%2$d</string>
 
     <string name="album_delete_dialog_title">Zmazať album?</string>
     <string name="album_delete_dialog">Naozaj chcete zmazať tento album?</string>
     <string name="delete">Zmazať</string>
     <string name="filter_all">Všetko</string>
 
-<string name="profile_video_converting_edit_error">Nemôžete upravovať toto video v priebehu procesu kódovania. Prosím čakajte.</string>
+    <string name="profile_video_converting_edit_error">Nemôžete upravovať toto video v priebehu procesu kódovania. Prosím čakajte.</string>
     <string name="profile_video_disabled_edit_error">Toto video už nemôžete upravovať</string>
     <string name="photo_guidelines_1">Môžete nahrať %1$s - %2$s fotiek.</string>
     <string name="photo_guidelines_2">Poradie fotiek zmeníte pridržaním a pretiahnutím.</string>
@@ -464,26 +448,19 @@
     <string name="toast_video_too_short">Minimálna dĺžka videa je %s sekúnd. Nahrajte prosím dlhšie video.</string>
     <string name="toast_video_too_big">Video je príliš veľké. Maximálna povolená dĺžka videa je %s MB. Nahrajte prosím menší súbor.</string>
     <string name="video_upload_progress">%1$s %% z %2$s MB</string>
-    <string name="dialog_upload_cancel_title">Zrušiť nahrávanie?</string>
-    <string name="dialog_upload_cancel_content">Naozaj chcete zrušiť nahrávanie tohoto videa?</string>
     <string name="upload_complete">Nahrávanie dokončené</string>
-    <string name="upload_complete_text">Tapnite pre kontrolu nahratého videa.</string>
     <string name="toast_cant_send_no_video">Najskôr prosím nahrajte video</string>
-    <string name="cant_upload_in_progress">Môžete nahrať iba jedno video naraz. Prosím počkajte než sa nahrávanie dokončí.</string>
     <string name="upload_in_progress">Nahrávanie…</string>
     <string name="video_no_description">Video bez popisku</string>
     <string name="video_not_found">Vaše video bolo nahraté, ale nie je možné ho prehrať. Súbor s videom nebol v tomto zariadení nájdený.</string>
 
     <string name="uploading_video">Nahrávanie videa</string>
-    <string name="uploading">Nahrávanie videa</string>
-    <string name="uploaded_percentage">Priebeh nahrávania: %s %%</string>
     <string name="tap_to_retry">Tapnutím začnite znovu</string>
 
     <string name="video_delete_dialog_title">Zmazať video?</string>
     <string name="video_delete_dialog">Naozaj chcete zmazať toto video?</string>
     <string name="video_delete_dialog_uploading">Toto video a práve nahráva. Naozaj chcete zmazať toto video?</string>
 
-<string name="cant_leave_uploading">Nie je možné odísť v priebehu nahrávania</string>
 
     <string name="user_with_albums">S albumami</string>
     <string name="user_with_videos">S videami</string>
@@ -522,7 +499,7 @@
 
     <string name="logout_during_uploading_dialog_title">Naozaj sa chcete odhlásiť?</string>
     <string name="logout_during_uploading_dialog_content">Všetky nahrané súbory budú stratené.</string>
-<string name="infinity_error_no_connection">Zdá se, že nemáte pripojenie k internetu. Tapnutím skúste znovu.</string>
+    <string name="infinity_error_no_connection">Zdá se, že nemáte pripojenie k internetu. Tapnutím skúste znovu.</string>
     <string name="title_blogs">Blogy</string>
     <string name="title_stories">Poviedky</string>
     <string name="title_next_blogs">Ďalšie články (%s)</string>
@@ -558,9 +535,6 @@
     <string name="dating_buy_top_dialog_send_sms">Poslať predvyplnenú SMS</string>
     <string name="title_dating">Zoznamka</string>
 
-    <string name="report_ad_send">Odoslať</string>
-    <string name="report_ad_toast_sent">Hlásenie bolo odoslané. Ďakujeme vám.</string>
-
     <string name="tab_dating">Zoznamka</string>
 
     <string name="dating_reply">Odpovedať</string>
@@ -582,9 +556,6 @@
     <string name="dialog_delete_attachment_title">Vymazať prílohu</string>
     <string name="dialog_delete_attachment_text">Naozaj chcete vymazať prílohu?</string>
 
-    <string name="report_ad_title">Nahlásiť inzerát</string>
-    <string name="report_ad_text">Zvoľte dôvod</string>
-    <string name="report_ad_toast_no_reason">Najprv zvoľte dôvod</string>
     <string name="dating_buy_top_dialog_country_picker_placeholder">Zvoľte krajinu</string>
     <string name="dating_buy_top_dialog_no_sms_data">Pre zvolenú krajinu nedostupné</string>
     <string name="dating_buy_top_dialog_network_error">Chyba pripojenia</string>

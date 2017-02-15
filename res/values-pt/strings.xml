@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources><string name="yes">Sim</string>
+<resources>
+    <string name="yes">Sim</string>
     <string name="no">Não</string>
-
-    <string name="app_name">Amateri</string>
 
     <string name="general_error">Ai!</string>
     <string name="general_error_no_connection">Parece que não há nenhuma conexão com a Internet. Tente novamente mais tarde.</string>
@@ -10,7 +9,6 @@
 
     <string name="title_album">Álbuns</string>
     <string name="title_people">Pessoas</string>
-    <string name="title_my_profile">Meu perfil</string>
     <string name="title_logout">Sair</string>
     <string name="title_version">Versão %s</string>
     <string name="title_feedback">Enviar comentários</string>
@@ -35,8 +33,6 @@
     <string name="tab_info">Informações</string>
     <string name="tab_user">Usuário</string>
     <string name="tab_album">Álbum</string>
-
-    <string name="empty_people">Nenhum item</string>
 
     <string name="filter_advanced">Filtro avançado</string>
     <string name="filter_sort_by">Lista classificada por</string>
@@ -65,31 +61,20 @@
     <string name="title_kilograms">kg</string>
     <string name="toast_copied_text">A url foi copiada para a área de transferência!</string>
     <string name="title_share">Compartilhar</string>
-    <string name="title_profile">Perfil</string>
-    <string name="profile_he">Ele</string>
-    <string name="profile_she">Ela</string>
     <string name="profile_male">Homem</string>
     <string name="profile_female">Mulher</string>
     <string name="profile_group">Grupo</string>
 
     <string name="title_filter">Pesquisar</string>
 
-    <string name="user_content_all">Todos os tipos de conteúdo</string>
-    <string name="user_sex_all">Todos os gêneros</string>
-    <string name="user_age_all">Todas as faixas etárias</string>
     <string name="user_country_all">Todos os países</string>
     <string name="user_region_all">Todos as regiões</string>
     <string name="user_sexual_orientation_all">Todas as orientações sexuais</string>
     <string name="user_marital_status_all">Todos os estados civis</string>
-    <string name="user_height_all">Todas as alturas</string>
-    <string name="user_weight_all">Todos os pesos</string>
     <string name="no_users_found">Nenhum usuário encontrado</string>
 
-    <string name="album_category_all">Todas as categorias</string>
-    <string name="album_verified_all">Verificados e não verificados</string>
     <string name="album_theme_all">Todos os tópicos</string>
     <string name="album_contest_all">Todos os concursos</string>
-    <string name="album_history_all">Visualizados e não visualizados</string>
     <string name="no_albums_found">Nenhum álbum encontrado</string>
 
     <string name="author">Autor</string>
@@ -103,7 +88,6 @@
     <string name="added">Adicionado</string>
     <string name="album_number">ID do álbum</string>
     <string name="album_address">URL do álbum</string>
-    <string name="error_no_albums">Nenhum álbum a ser visualizado.</string>
 
     <string name="notifications_title">Notificação</string>
     <string name="notifications_99_plus">Mais de 99</string>
@@ -112,8 +96,6 @@
     <string name="notifications_dating_messages">Respostas aos seus anúncios</string>
     <string name="notifications_requests">Solicitações de amizade</string>
     <string name="notifications_favourites">Fui adicionado aos favoritos</string>
-    <string name="notifications_profile_setup">Configurações da conta</string>
-    <string name="notifications_profile_edit">Editar perfil</string>
 
     <string name="update_dialog_title">Nova versão</string>
     <string name="update_dialog_content">Uma nova versão melhorada e mais atrativa do aplicativo está disponível. Você deseja baixá-la?</string>
@@ -125,9 +107,6 @@
 
     <string name="old_dialog_content">Infelizmente, você está usando uma versão que não é mais suportada. Uma nova versão aprimorada do aplicativo está disponível. Você deseja baixá-la?</string>
     <string name="old_dialog_exit">Sair</string>
-
-    <string name="invalid_token_dialog_title">Logon inválido</string>
-    <string name="invalid_token_dialog_content">Certifique-se de que realmente é você, efetue logon novamente.</string>
 
     <string name="timeout_dialog_title">Sessão expirada</string>
     <string name="timeout_dialog_content">Efetue logon novamente.</string>
@@ -149,8 +128,6 @@
 
     <string name="title_filter_results">Resultados da pesquisa</string>
 
-    <string name="button_verify">Verificar perfil</string>
-
     <string name="invalid_login_dialog_title">Logon inválido</string>
     <string name="invalid_login_dialog_content">Detalhes de logon incorretos inseridos.</string>
     <string name="invalid_login_dialog_retry">Tente novamente</string>
@@ -158,11 +135,6 @@
 
     <string name="feedback_dialog_title">Comentários</string>
     <string name="feedback_dialog_text">Obrigado por nos ajudar a desenvolver este aplicativo. Nós ficamos felizes em receber sua opinião, clique no link no menu à esquerda.</string>
-    <string name="feedback_dialog_ok">OK</string>
-
-    <string name="welcome_dialog_title">Seja bem-vindo</string>
-    <string name="welcome_dialog_text">Obrigado por nos ajudar a desenvolver este aplicativo. Nós ficamos felizes em receber sua opinião, clique no link no menu à esquerda.</string>
-    <string name="welcome_dialog_ok">OK</string>
 
     <!-- plurals -->
     <plurals name="people">
@@ -182,10 +154,10 @@
         <item quantity="other">Mostrar %s álbun</item>
     </plurals>
     <plurals name="video_filter_show">
-        <item quantity="one">Show %s video</item>
-        <item quantity="other">Show %s videos</item>
+        <item quantity="one">Mostrar %s vídeo</item>
+        <item quantity="other">Mostrar %s vídeos</item>
     </plurals>
-<string name="title_videos">Vídeos</string>
+    <string name="title_videos">Vídeos</string>
     <string name="album_comment_fail">Não é possível enviar um comentário</string>
 
     <string name="title_next_videos">Mais vídeos (%s)</string>
@@ -194,17 +166,10 @@
     <string name="tab_videos">Vídeos</string>
     <string name="tab_video">Vídeo</string>
 
-    <string name="video_category_all">Todas as categoriais</string>
-    <string name="video_verified_all">Verificado não verificado</string>
-    <string name="video_duration_all">Todas as durações</string>
     <string name="video_contest_all">Todos os concursos</string>
-    <string name="video_history_all">Visto e não visto</string>
     <string name="no_videos_found">Nenhum vídeo encontrado</string>
 
     <string name="video_duration">Duração</string>
-
-    <string name="comment_disallowed_dialog_text">Apenas usuários verificados podem comentar este álbum.</string>
-    <string name="comment_disallowed_dialog_ok">OK</string>
 
     <string name="vip_dialog_title">Lamentamos, mas apenas os membros VIP podem usar este recurso gratuitamente.</string>
     <string name="vip_dialog_activate">Desejo me tornar um membro VIP</string>
@@ -217,7 +182,6 @@
     <string name="feedback_message">sua mensagem</string>
     <string name="feedback_send">Enviar</string>
     <string name="feedback_category_default">Escolher um categoria</string>
-    <string name="feedback_ok">OK</string>
 
     <string name="profile_photo_camera">Obter uma foto</string>
     <string name="profile_photo_library">Selecionar da biblioteca</string>
@@ -234,10 +198,10 @@
     <string name="search_album_hint">Pesquisar nos álbuns</string>
     <string name="search_video_hint">Pesquisar em vídeos</string>
     <string name="search_user_hint">Pesquisar em usuários</string>
-<string name="ok">OK</string>
+    <string name="ok">OK</string>
     <string name="cancel">Cancelar</string>
 
-    <string name="title_setup">Configurações do aplicativo</string>
+    <string name="title_settings">Configurações do aplicativo</string>
     <string name="title_album_settings">Configurações do álbum</string>
     <string name="title_video_settings">Configurações de vídeo</string>
     <string name="title_profile_settings">Configurações de conteúdo</string>
@@ -249,8 +213,6 @@
     <string name="album_filter_show_all">Mostrar albuns</string>
     <string name="video_filter_show_all">Mostrar vídeos</string>
 
-    <string name="album_sex_all">Todas as categorias de sexo</string>
-    <string name="video_sex_all">Todas as categorias de sexo</string>
     <string name="video_number">ID do vídeo</string>
     <string name="video_address">URL do vídeo</string>
 
@@ -380,8 +342,6 @@
 
     <string name="notification_profile_view_title">Nova visita de perfil</string>
     <string name="notification_profile_view_text">%s acabou de visitar seu perfil.</string>
-
-    <string name="notification_message_add_title">Nova mensagem</string>
 
     <string name="notification_dating_ad_title">Nova resposta ao anúncio do encontro</string>
 

@@ -400,7 +400,11 @@
     <string name="notification_profile_view_title">Nová návštěva profilu</string>
     <string name="notification_profile_view_text">%s zrovna navštívil/a váš profil.</string>
 
-    <string name="notification_message_add_title">Nová zpráva</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">Nová zpráva</item>
+        <item quantity="few">%s nové zprávy</item>
+        <item quantity="other">%s nových zpráv</item>
+    </plurals>
 
     <string name="notification_dating_ad_title">Nová odpověd na inzerát v seznamce</string>
 
@@ -609,6 +613,6 @@
     <string name="message_seen">Přečteno</string>
     <string name="message_unseen">Nepřečteno</string>
     <string name="message_write_hint">Napsat zprávu</string>
-<string name="new_message_info">Máte novou zprávu</string>
+    <string name="new_message_info">Máte novou zprávu</string>
     <string name="message_send_failure">Je nám líto, zdá se, že nastal problém s připojením a zprávu se nepodařilo odeslat.</string>
-    </resources>
+</resources>

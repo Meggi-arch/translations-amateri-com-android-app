@@ -62,21 +62,14 @@
 
     <string name="title_filter">Suche</string>
 
-    <string name="user_content_all">Alle Inhaltstypen</string>
-    <string name="user_sex_all">Alle Geschlechter</string>
-    <string name="user_age_all">Alle Altersgruppen</string>
     <string name="user_country_all">Alle Länder</string>
     <string name="user_region_all">Alle Regionen</string>
     <string name="user_sexual_orientation_all">Alle sexuelle Orientationen</string>
     <string name="user_marital_status_all">Alle Familienstände</string>
-    <string name="user_height_all">Alle Größen</string>
-    <string name="user_weight_all">Alle Gewichtsklassen</string>
     <string name="no_users_found">Keine Benutzer gefunden</string>
 
-    <string name="album_verified_all">Verifiziert und nicht verifiziert</string>
     <string name="album_theme_all">Alle Themen</string>
     <string name="album_contest_all">Wettbewerb nicht ausgewählt</string>
-    <string name="album_history_all">Angesehene und nicht-angesehene</string>
     <string name="no_albums_found">Keine Fotoalben gefunden</string>
 
     <string name="author">Autor</string>
@@ -130,7 +123,6 @@
 
     <string name="feedback_dialog_title">Feedback</string>
     <string name="feedback_dialog_text">Danke, dass Sie uns helfen, unsere App zu verbessern. Wir freuen uns über jedes Feedback, einen Link zu Feedback finden Sie unten im Menü.</string>
-    <string name="feedback_dialog_ok">OK</string>
 
     <string name="profile_male">Mann</string>
     <string name="profile_female">Frau</string>
@@ -173,10 +165,7 @@
     <string name="tab_videos">Videos</string>
     <string name="tab_video">Videen</string>
 
-    <string name="video_verified_all">Bestätigt und unbestätigt</string>
-    <string name="video_duration_all">Alle Längen</string>
     <string name="video_contest_all">Wettbewerb nicht ausgewählt</string>
-    <string name="video_history_all">Betrachtete und Nicht-Betrachtete</string>
     <string name="no_videos_found">Keine Videos gefunden</string>
 
     <string name="video_duration">Dauer</string>
@@ -211,7 +200,6 @@
     <string name="ok">OK</string>
     <string name="cancel">Abbrechen</string>
 
-    <string name="title_setup">Anwendungseinstellungen</string>
     <string name="title_album_settings">Album-Einstellungen</string>
     <string name="title_video_settings">Video-Einstellungen</string>
     <string name="title_profile_settings">Inhaltseinstellungen</string>
@@ -222,8 +210,6 @@
     <string name="album_filter_show_all">Alben anzeigen</string>
     <string name="video_filter_show_all">Videen anzeigen</string>
 
-    <string name="album_sex_all">Alle Sex-Kategorien</string>
-    <string name="video_sex_all">Alle Sex-Kategorien</string>
     <string name="video_number">Video ID</string>
     <string name="video_address">Video URL</string>
 
@@ -352,8 +338,6 @@
     <string name="notification_profile_view_title">Neuer Profil-Besuch</string>
     <string name="notification_profile_view_text">%s hat soeben Ihr Profil besucht.</string>
 
-    <string name="notification_message_add_title">Neue Nachricht</string>
-
     <string name="notification_dating_ad_title">Neue Antwort auf Datinganzeige</string>
 
     <string name="notification_friendship_request_title">Neue Freundschaftsanfrage</string>
@@ -377,8 +361,8 @@
     <string name="notification_video_approve_title">Video genehmigt</string>
     <string name="notification_video_approve_text">Ihr Video \"%s\" wurde genehmigt.</string>
 
-    <string name="notification_update_text">"Wir haben eine bessere, saftigere Version der Applikation für Sie. Wollen Sie  es runterladen?"</string>
-<string name="visibility_on">Eingeschaltet</string>
+    <string name="notification_update_text">"Wir haben eine bessere, saftigere Version der Applikation für Sie. Wollen Sie es runterladen?"</string>
+    <string name="visibility_on">Eingeschaltet</string>
     <string name="visibility_off">Ausgeschaltet</string>
     <string name="title_settings">Einstellungen</string>
     <string name="title_application_settings">Anwendungs-Einstellungen</string>
@@ -414,10 +398,6 @@
     <string name="photo_delete_dialog">Wollen Sie wirklich diese Foto löschen?</string>
     <string name="toast_thumbnail_photo_changed">Sie haben erfolgreich das Ansichtsfoto geändert</string>
     <string name="dialog_guidelines_title">Hilfe</string>
-    <string name="dialog_guidelines_1">Sie können %1$s – %2$s Fotos hochladen.</string>
-    <string name="dialog_guidelines_2">Die Reihenfolge der Fotos ändern Sie mit Drag &amp; Drop.</string>
-    <string name="guidelines_1">Sie können %1$s – %2$s Fotos hochladen.</string>
-    <string name="guidelines_2">Die Reihenfolge der Fotos ändern Sie mit Drag &amp; Drop.</string>
     <string name="toast_add_more_photos">Bitte fügen Sie mindestens %d Fotos</string>
     <string name="toast_too_much_photos">Limit des Albums ist %d Fotos</string>
     <string name="toast_cant_send_uploading">Kann nicht zur Genehmigung schicken während des Hochladens</string>
@@ -437,15 +417,13 @@
     <string name="photos_limit_reached">Limit überschritten, löschen Sie bitte %s Fotos</string>
     <string name="album_no_description">Album ohne Beschreibung</string>
 
-    <string name="upload_notification_title">Hochladen von Fotos</string>
-    <string name="upload_notification_progress">Upload läuft: %1$d/%2$d</string>
 
     <string name="album_delete_dialog_title">Album löschen?</string>
     <string name="album_delete_dialog">Wollen Sie wirklich diese Album löschen?</string>
     <string name="delete">Löschen</string>
     <string name="filter_all">Alles</string>
 
-<string name="profile_video_converting_edit_error">Dieses Video kann bei der Konvertierung nicht bearbeiten werden. Warten Sie, bitte.</string>
+    <string name="profile_video_converting_edit_error">Dieses Video kann bei der Konvertierung nicht bearbeiten werden. Warten Sie, bitte.</string>
     <string name="profile_video_disabled_edit_error">Sie können dieses Video nicht mehr bearbeiten</string>
     <string name="photo_guidelines_1">Sie können %1$s - %2$s Fotos hochladen.</string>
     <string name="photo_guidelines_2">Ändern Sie die Reihenfolge Ihrer Fotos per Drag &amp; Drop.</string>
@@ -460,26 +438,19 @@
     <string name="toast_video_too_short">Die minimale Videolänge beträgt %s Sekunden. Bitte laden Sie längeres Video hoch.</string>
     <string name="toast_video_too_big">Video ist zu groß. Maximale Größe ist %s MB. Bitte laden Sie eine kleinere Datei hoch.</string>
     <string name="video_upload_progress">%1$s %% von %2$s MB</string>
-    <string name="dialog_upload_cancel_title">Hochladen abbrechen?</string>
-    <string name="dialog_upload_cancel_content">Möchten Sie den Video-Upload wirklich abbrechen?</string>
     <string name="upload_complete">Upload abgeschlossen</string>
-    <string name="upload_complete_text">Tippen Sie auf, um Ihr Video zu überprüfen.</string>
     <string name="toast_cant_send_no_video">Bitte zuerst ein Video hochladen</string>
-    <string name="cant_upload_in_progress">Sie können nur ein Video auf einmal hochladen. Bitte warten Sie, bis der Upload abgeschlossen ist.</string>
     <string name="upload_in_progress">Wird geladen …</string>
     <string name="video_no_description">Video ohne Beschreibung</string>
     <string name="video_not_found">Ihr Video wurde hochgeladen, kann aber nicht abgespielt werden. Die Videodatei wurde auf diesem Gerät nicht gefunden.</string>
 
     <string name="uploading_video">Video wird geladen</string>
-    <string name="uploading">Video wird geladen</string>
-    <string name="uploaded_percentage">Hochladen-Fortschritt:%s %%</string>
     <string name="tap_to_retry">Tippen, um es erneut zu versuchen</string>
 
     <string name="video_delete_dialog_title">Video löschen?</string>
     <string name="video_delete_dialog">Möchten Sie dieses Video wirklich löschen?</string>
     <string name="video_delete_dialog_uploading">Das Video wird gerade hochgeladen. Möchten Sie dieses Video wirklich löschen?</string>
 
-<string name="cant_leave_uploading">Verlassen nicht möglich Während des Hochladens</string>
 
     <string name="user_with_albums">Mit Alben</string>
     <string name="user_with_videos">Mit Videen</string>
@@ -512,13 +483,13 @@
     <string name="dialog_video_upload_cancel_content">Wollen Sie wiklich das hochladen dieses Videos abbrechen?</string>
     <string name="video_upload_complete_text">Tap um das hochgeladene Video zu überprüfen.</string>
     <string name="toast_one_video_at_once">Sie können nur ein Video zu einem Zeitpunkt hochladen. Bitte warten Sie, bis hochladen beendet ist.</string>
-    <string name="video_uploaded_percentage">Upload-Fortschritt:% s %%</string>
+    <string name="video_uploaded_percentage">Upload-Fortschritt: %s %%</string>
     <string name="photo_upload_notification_title">Hochladen von Fotos</string>
-    <string name="photo_upload_notification_progress">Upload des Fotos läuft:% 1 $ d /% 2 $ d</string>
+    <string name="photo_upload_notification_progress">Upload des Fotos läuft: %1$d/%2$d</string>
 
     <string name="logout_during_uploading_dialog_title">Wollen Sie sich wirklich abmelden?</string>
-    <string name="logout_during_uploading_dialog_content">"Alle  nicht hochgeladene Dateien gehen verloren."</string>
-<string name="infinity_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Tappen Sie um erneut zu versuchen.</string>
+    <string name="logout_during_uploading_dialog_content">"Alle nicht hochgeladene Dateien gehen verloren."</string>
+    <string name="infinity_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Tappen Sie um erneut zu versuchen.</string>
     <string name="title_blogs">Blogs</string>
     <string name="title_stories">Geschichten</string>
     <string name="title_next_blogs">Weitere Artikeln (%s)</string>
@@ -552,7 +523,6 @@
 
     <string name="title_dating">Dating</string>
 
-    <string name="report_ad_toast_sent">Die Nachricht wurde gesendet. Danke.</string>
 
     <string name="tab_dating">Dating</string>
 
@@ -579,10 +549,6 @@
     <string name="dialog_delete_attachment_title">Anhang entfernen</string>
     <string name="dialog_delete_attachment_text">Wollen Sie wirklich den Anhang entfernen?</string>
 
-    <string name="report_ad_title">Anzeigen melden</string>
-    <string name="report_ad_text">Wählen Sie einen Grund</string>
-    <string name="report_ad_send">Abschicken</string>
-    <string name="report_ad_toast_no_reason">Wählen Sie einen Grund zuerst</string>
     <string name="dating_buy_top_dialog_country_picker_placeholder">Land wählen</string>
     <string name="dating_buy_top_dialog_no_sms_data">In diesem Land nicht verfügbar</string>
     <string name="toast_cant_load_video">Video konnte nicht geladen werden</string>
