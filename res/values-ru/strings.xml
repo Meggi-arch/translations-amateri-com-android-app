@@ -583,4 +583,28 @@
     <string name="new_message_info">У вас новое непрочитанное сообщение</string>
     <string name="message_write_hint">Написать сообщение</string>
 <string name="user_sexual_hobbies_all">Все сексуальные хобби</string>
-    </resources>
+    <string name="buy_vip_title">Стать VIP членом</string>
+    <string name="vip_promo_title">Специальное предложение</string>
+    <string name="vip_promo_title_ends_today">Специальное предложение (заканчивается сегодня)</string>
+    <string name="vip_promo_subtitle">Дарим 1 месяц бесплатного VIP-членства</string>
+    <string name="buy">Купить</string>
+    <string name="vip_sms_only">(Только СМС)</string>
+    <string name="vip_discount_text">скидка %d %%</string>
+    <string name="vip_choose_paymethod">Выберите метод оплаты</string>
+    <string name="vip_most_popular_offer">Самое популярное предложение</string>
+    <string name="vip_membership_advantages">Преимущества для VIP участников</string>
+    <string name="vip_successful_payment_title">Успешная оплата</string>
+    <string name="vip_unsuccessful_payment_title">Оплата отменена</string>
+    <string name="thank_you">Благодарим Вас.</string>
+    <string name="notification_vip_payment">К вашему аккаунту было добавлено %d дней VIP членства.</string>
+
+    <string name="sms_price">Цена одного принятого сообщения - %s включая НДС.</string>
+    <string name="vip_send_sms_instructions">Отправьте смс в формате %1$s на номер %2$s</string>
+
+    <string name="vip_get_one_day_for_free">Получите 1 день VIP членства бесплатно</string>
+    <string name="vip_recurring_paymenthod_question">Предпочитаете тарифный план со скидкой или единоразовый платёж?</string>
+    <string name="vip_recurring_payment_button_title">Автоматическое продление</string>
+    <string name="vip_plus_one_day_free">+ 1 день бесплатно</string>
+    <string name="vip_normal_payment_button_title">Единоразовый платёж</string>
+    <string name="vip_recurring_payment_advantages">Подписка на VIP-членство удобней тем, что Вам нет необходимости каждый раз заново создавать платёж и осуществлять оплату. Каждый раз при обновлении платежа вы получите информацию и подтверждение оплаты.</string>
+</resources>
