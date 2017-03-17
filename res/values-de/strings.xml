@@ -601,5 +601,5 @@
     <string name="vip_recurring_paymenthod_question">Haben Sie billigeres Abonnement oder Einmalzahlung?</string>
     <string name="vip_recurring_payment_button_title">Automatisch verlängern</string>
     <string name="vip_plus_one_day_free">+ 1 Tag Kostenlos</string>
-    <string name="vip_normal_payment_button_title">Einmalig kaufen</string>
+    <string name="vip_normal_payment_button_title">Einmalige Zahlung</string>
     </resources>
