@@ -32,8 +32,8 @@
 
     <string name="tab_albums">Альбомы</string>
     <string name="tab_info">Информация</string>
-    <string name="tab_user">Пользователь</string>
-    <string name="tab_album">Альбом</string>
+    <string name="tab_user">Пользователи</string>
+    <string name="tab_album">Альбомы</string>
 
     <string name="filter_advanced">Расширенный фильтр</string>
     <string name="filter_sort_by">Сортировать по</string>
@@ -75,7 +75,7 @@
     <string name="no_users_found">Пользователи не найдены</string>
 
     <string name="album_theme_all">Все темы</string>
-    <string name="album_contest_all">Все конкурсы</string>
+    <string name="album_contest_all">Конкурс не был выбран</string>
     <string name="no_albums_found">Альбомы не найдены</string>
 
     <string name="author">Автор</string>
@@ -90,7 +90,7 @@
     <string name="album_number">ID альбома</string>
     <string name="album_address">URL-адрес альбома</string>
 
-    <string name="notifications_title">Оповещение</string>
+    <string name="notifications_title">Нотификация</string>
     <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Просмотры профиля</string>
     <string name="notifications_messages">Сообщения</string>
@@ -99,22 +99,22 @@
     <string name="notifications_favourites">Добавили меня в избранное</string>
 
     <string name="update_dialog_title">Новая версия</string>
-    <string name="update_dialog_content">У нас есть новая, более интересная версия приложения. Хотите скачать ее?</string>
+    <string name="update_dialog_content">У нас есть новая, более интересная версия приложения. Хотите скачать её?</string>
     <string name="update_dialog_later">Позже</string>
     <string name="update_dialog_download">Скачать</string>
 
     <string name="old_dialog_title">Старая версия</string>
-    <string name="old_dialog_content">К сожалению, вы используете версию приложения, которая больше не поддерживается. Мы приготовили для вас новую, более интересную и улучшенную версию. Хотите скачать ее?</string>
+    <string name="old_dialog_content">К сожалению, вы используете версию приложения, которая больше не поддерживается. Мы сделали для вас новую, более интересную и улучшенную версию. Хотите скачать?</string>
     <string name="old_dialog_exit">Уйти</string>
 
-    <string name="timeout_dialog_title">Сессия истекла</string>
+    <string name="timeout_dialog_title">Сессия устарела</string>
     <string name="timeout_dialog_content">Пожалуйста, войдите снова.</string>
 
     <string name="redirect_dialog_title">Вы будете перенаправлены</string>
     <string name="redirect_dialog_content">Эта часть приложения доступна только через веб-интерфейс. Вы хотите перейти на веб-сайт?</string>
 
     <string name="unauthorized_dialog_title">Вы не вошли</string>
-    <string name="unauthorized_dialog_content">Вам нужно войти, чтобы использовать эту функцию.</string>
+    <string name="unauthorized_dialog_content">Вам нужно авторизоваться, чтобы использовать эту функцию.</string>
     <string name="unauthorized_dialog_register">Зарегистрироваться</string>
 
     <string name="lists_error_dialog_title">Ошибка соединения</string>
@@ -175,7 +175,7 @@
     <string name="tab_videos">Видео</string>
     <string name="tab_video">Видео</string>
 
-    <string name="video_contest_all">Все конкурсы</string>
+    <string name="video_contest_all">Конкурс не был выбран</string>
     <string name="no_videos_found">Видео не найдено</string>
 
     <string name="video_duration">Продолжительность</string>
@@ -188,7 +188,7 @@
     <string name="title_activity_feedback">Отправить отзыв</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">категория</string>
-    <string name="feedback_message">Ваше сообщение</string>
+    <string name="feedback_message">ваше сообщение</string>
     <string name="feedback_send">Отправить</string>
     <string name="feedback_category_default">Выберите категорию</string>
 
@@ -223,9 +223,9 @@
     <string name="video_filter_show_all">Показать видео</string>
 
     <string name="video_number">ID видео</string>
-    <string name="video_address">URL видео</string>
+    <string name="video_address">URL-адрес видео</string>
 
-    <string name="verify_button">Проверить профиль</string>
+    <string name="verify_button">Подтвердить профиль</string>
     <string name="verify_title">Получить более надежный профиль прямо сейчас</string>
     <string name="verify_chooser_title">Выберите фотографию</string>
     <string name="verify_text">Напишите Ваш псевдоним, текущую дату и название amateri.com на листе бумаги и сфотографируйтесь с ним. Если Вы пользуетесь аккаунтом как пара, нам нужна фотография Вас обоих.</string>
@@ -234,7 +234,7 @@
     <string name="verify_done_text">Новая фотография была загружена. Фотография будет проверена администратором. Спасибо.</string>
     <string name="done">Готово!</string>
 
-    <string name="setup_notifications">Оповещения</string>
+    <string name="setup_notifications">Нотификации</string>
     <string name="setup_notification_new_message">Новое сообщение</string>
     <string name="setup_notification_advert_reply">Новый ответ на объявление о знакомстве</string>
     <string name="setup_notification_friend_request">Новый запрос на добавление в друзья</string>
@@ -255,7 +255,7 @@
     <string name="setup_update_check">Проверить обновления</string>
     <string name="setup_no_updates">Нет доступных обновлений</string>
 
-    <string name="locked_unlock">Снять блокировку</string>
+    <string name="locked_unlock">Разблокировать</string>
     <string name="locked_forgot_pin">Вспомнить PIN-код</string>
     <string name="locked_pin_hint">PIN-код</string>
     <string name="locked_pin_missing">Введите PIN-код</string>
@@ -297,8 +297,8 @@
     <string name="album_settings_submit_success">Изменения были отправлены на утверждение</string>
     <string name="album_settings_missing_name">Пожалуйста, введите название</string>
     <string name="album_settings_missing_password">Пожалуйста, введите пароль</string>
-    <string name="album_not_vip_title">Членство VIP истекло</string>
-    <string name="album_not_vip_text">Членство VIP истекло. Вы не сможете включить пароль блокировки.</string>
+    <string name="album_not_vip_title">VIP членство истекло</string>
+    <string name="album_not_vip_text">VIP членство истекло. Вы не сможете включить пароль блокировки.</string>
     <string name="album_not_vip_confirm">Выключить пароль блокировки?</string>
     <string name="album_not_vip_main_button">Выключить</string>
     <string name="album_not_vip_other_button">Отмена</string>
@@ -321,8 +321,8 @@
     <string name="video_settings_submit_success">Изменения были отправлены на утверждение</string>
     <string name="video_settings_missing_name">Пожалуйста, введите название</string>
     <string name="video_settings_missing_password">Пожалуйста, введите пароль</string>
-    <string name="video_not_vip_title">Членство VIP истекло</string>
-    <string name="video_not_vip_text">Членство VIP истекло. Вы не сможете включить пароль блокировки.</string>
+    <string name="video_not_vip_title">VIP членство истекло</string>
+    <string name="video_not_vip_text">VIP членство истекло. Вы не сможете включить пароль блокировки.</string>
     <string name="video_not_vip_confirm">Выключить пароль блокировки?</string>
     <string name="video_not_vip_main_button">Выключить</string>
     <string name="video_not_vip_other_button">Отмена</string>
@@ -350,7 +350,7 @@
     <string name="notification_more_info">Узнать больше</string>
 
     <string name="notification_profile_view_title">Новое посещение профиля</string>
-    <string name="notification_profile_view_text">%s только что посетил Ваш профиль.</string>
+    <string name="notification_profile_view_text">%s только что посетил(-а) Ваш профиль.</string>
 
     <string name="notification_dating_ad_title">Новый ответ на объявление о знакомстве</string>
 
@@ -376,4 +376,211 @@
     <string name="notification_video_approve_text">Ваше видео \"%s\" было утверждено.</string>
 
     <string name="notification_update_text">У нас есть новая, более интересная версия приложения. Хотите скачать ее?</string>
-</resources>
+<string name="infinity_error_no_connection">Скорее всего отсутствует интернет-соединение. Нажмите для перезагрузки.</string>
+    <string name="title_blogs">Блоги</string>
+    <string name="title_stories">Истории</string>
+    <string name="title_application_settings">Настройки приложения</string>
+    <string name="title_new_album">Добавить альбом</string>
+    <string name="title_new_video">Добавить видео</string>
+    <string name="title_my_account">Мой профиль</string>
+    <string name="title_dating">Знакомства</string>
+
+    <string name="title_next_blogs">Читать далее (%s)</string>
+    <string name="blog_comment_disallowed">К данному материалу невозможно добавить комментарий в данный момент.</string>
+
+    <string name="title_next_story">Больше историй (%s)</string>
+    <string name="story_comment_disallowed">Вы не можете в данный момент добавить комментарий к этой истории.</string>
+
+    <string name="no_dating_ads_title">Объявления не найдены</string>
+    <string name="no_dating_ads_text">Не было найдено объявлений в соответствии с фильтром.</string>
+
+    <string name="dating_reply_button_send">Ответить</string>
+    <string name="dating_reply_hint">Ваш ответ</string>
+    <string name="toast_dating_reply_sent">Ответ был отправлен</string>
+    <string name="dating_reply_picture_attached">Фото добавлено</string>
+    <string name="dialog_delete_attachment_title">Удалить вложение</string>
+    <string name="dialog_delete_attachment_text">Вы действительно хотите удалить вложение?</string>
+
+    <string name="dialog_report_ad_title">Пожаловаться</string>
+
+    <string name="tab_blogs">Блог</string>
+    <string name="tab_stories">Истории</string>
+    <string name="tab_dating">Знакомства</string>
+
+    <string name="title_filter_height">Рост [см]</string>
+    <string name="title_filter_weight">Вес [кг]</string>
+    <string name="user_with_albums">С альбомами</string>
+    <string name="user_with_videos">С видео</string>
+    <string name="user_with_photo">С фото</string>
+    <string name="user_sex_search_all">Любые поиски</string>
+    <string name="user_sex_search_purpose_all">Любая цель знакомства</string>
+    <string name="user_zodiac_sign_all">Все знаки зодиака</string>
+    <string name="user_hair_color_all">Любой цвет волос</string>
+    <string name="user_eye_color_all">Любой цвет глаз</string>
+    <string name="button_filter_connection_error">Ошибка соединения</string>
+    <string name="filter_show_only">Показывать только</string>
+    <string name="filter_user_online">Онлайн</string>
+    <string name="filter_user_verified">Проверенные</string>
+
+    <string name="album_contest_unavailable">Нет конкурсов</string>
+    <string name="date_less_than_1_day">24ч</string>
+    <string name="date_less_than_7_days">7 дней</string>
+    <string name="date_less_than_1_month">1 месяц</string>
+    <string name="date_less_than_3_months">3 месяца</string>
+    <string name="date_start">Дата старта</string>
+    <string name="date_end">Дата окончания</string>
+
+    <string name="video_theme_all">Все темы</string>
+    <string name="video_contest_unavailable">Конкурсы не найдены</string>
+    <string name="filter_album_not_viewed">Не просмотрено</string>
+
+    <string name="notifications_my_account_content_settings">Настройки профиля и содержимого</string>
+    <string name="notifications_my_account">Мой профиль</string>
+    <string name="notifications_albums">Альбомы</string>
+    <string name="notifications_videos">Видео</string>
+
+    <string name="article_info_share">Расскажите друзьям</string>
+    <string name="blog_number">Номер блога</string>
+    <string name="blog_url">URL-адрес блога</string>
+    <string name="story_number">Номер истории</string>
+    <string name="story_url">URL-адрес истории</string>
+
+    <string name="dating_reply">Ответить</string>
+    <string name="dating_highlight">Подними объявление наверх</string>
+    <string name="dating_buy_top_dialog_title">Подними объявление наверх</string>
+    <string name="dating_buy_top_dialog_main_text_first">Поднятием - вы поместите объявление на первое место в списке.</string>
+    <string name="dating_buy_top_dialog_main_text_second">"Использую функцию \"поднятие\" ваше объявление будет на первой позиции  в категории в течении %d дней."</string>
+    <string name="dating_buy_top_dialog_main_text_third">При одинаковых условиях выше будет объявление, у которого больше оплаченный срок дней.</string>
+    <string name="dating_buy_top_dialog_info_text_1">Цена сообщения - %s, включая НДС.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Технически обеспечено %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">Горячая линия SMS: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_title">Страна</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Выберите страну</string>
+    <string name="dating_buy_top_dialog_send_sms">Отправить подготовленную смс</string>
+    <string name="dating_buy_top_dialog_no_sms_data">Недоступно в данной стране</string>
+    <string name="dating_buy_top_dialog_network_error">Ошибка соединения</string>
+
+    <string name="setup_stories_and_blogs_title">Блоги и истории</string>
+    <string name="setup_text_size">Размер текста</string>
+    <string name="setup_background_color">Цвет фона</string>
+    <string name="text_size_small">Маленький</string>
+    <string name="text_size_medium">Средний</string>
+    <string name="text_size_big">Большой</string>
+    <string name="color_theme_dark">Темный</string>
+    <string name="color_theme_light">Белый</string>
+
+    <string name="video_settings_topic">Тема</string>
+    <string name="video_settings_topic_default">Выберите тему</string>
+    <string name="no_album_for_state_title">У вас нет альбомов в статусе \"%s\".</string>
+    <string name="profile_video_converting_edit_error">Вы не можете редактировать видео, пока оно конвертируется. Пожалуйста подождите.</string>
+    <string name="profile_video_disabled_edit_error">Данное видео уже невозможно отредактировать</string>
+    <string name="no_video_for_state_title">У вас нет видео в статусе \"%s\".</string>
+    <string name="fab_add_album">Добавить альбом</string>
+    <string name="fab_add_video">Добавить видео</string>
+
+    <string name="my_account_content_settings">Содержимое</string>
+    <string name="my_account_other_settings">Больше настроек</string>
+    <string name="my_account_content_source_max">Максимальное количество - %d стран</string>
+    <string name="all_countries">Все страны</string>
+
+    <string name="new_album_save">Сохранить и продолжить</string>
+    <string name="warning">Внимание</string>
+    <string name="dialog_new_album_back_press">Пока в альбом не будут добавлены фотографии - все изменения не будут сохранены.</string>
+
+    <string name="dialog_album_settings_back_press">Все изменение не будут сохранены.</string>
+
+
+    <string name="new_video_save">Сохранить и продолжить</string>
+
+    <string name="album_upload_choose_photo">Закачать фотографии</string>
+    <string name="album_upload_send_to_review">Отправить на рассмотрение</string>
+    <string name="photo_delete_dialog_title">Удалить фото?</string>
+    <string name="photo_delete_dialog">Вы действительно хотите удалить фото?</string>
+    <string name="toast_thumbnail_photo_changed">Обложка была успешно изменена</string>
+    <string name="dialog_guidelines_title">Помощь</string>
+    <string name="photo_guidelines_1">Вы можете закачать %1$s – %2$s фото.</string>
+    <string name="photo_guidelines_2">Измените порядок следования фотографий перетаскивая их.</string>
+    <string name="toast_add_more_photos">Пожалуйста, добавьте как минимум 1 фото</string>
+    <string name="toast_too_much_photos">Разрешенный лимит - %d фото</string>
+    <string name="toast_cant_send_uploading">Невозможно отправить на утверждение, пока идёт закачка</string>
+    <string name="toast_photo_already_exists">Фото уже существует</string>
+    <string name="toast_cant_load_photo">Невозможно загрузить фото</string>
+    <string name="toast_photo_too_large">Невозможно закачать фото больше чем %s Мб</string>
+    <string name="toast_photo_too_small">Невозможно закачать фото меньше чем %s пикселей</string>
+    <string name="upload_failed">Закачивание закончилось ошибкой</string>
+    <string name="tap_try_again">Нажмите, чтобы попробовать снова</string>
+    <string name="dialog_connection_data_title">Мобильный интернет</string>
+    <string name="dialog_connection_data_content">Вы пытаетесь использовать интернет через вашего мобильного оператора. Это может стоит денег, в зависимости от вашего тарифа. Продолжить?</string>
+    <string name="dialog_continue">Продолжить</string>
+    <string name="processing_photos">Обработка фото: %1$s/%2$s</string>
+    <string name="processing_photos_text">Мы обрабатываем ваши фото…</string>
+    <string name="photos_uploaded">Закачано фотографий: %s</string>
+    <string name="photos_to_upload">Необходимо добавит еще: %s</string>
+    <string name="photos_limit_reached">Превышен лимит. Пожалуйста, удалите %s фото</string>
+    <string name="album_no_description">Альбом без описания</string>
+    <string name="cant_leave_while_uploading">В течении закачивания нельзя выйти</string>
+
+    <string name="dialog_new_video_back_press">Видео не было создано. Все изменения не будут сохранены.</string>
+
+    <string name="video_upload_choose_video">Закачать видео</string>
+    <string name="delete_video">Удалить видео</string>
+    <string name="cancel_upload">Отменить загрузку</string>
+    <string name="toast_thumbnail_error">Не удалось сделать обложку для видео</string>
+    <string name="video_guidelines_1">Вы можете закачивать одновременно только 1 видео.</string>
+    <string name="video_guidelines_2">Минимальная длина видео: %s сек.</string>
+    <string name="toast_video_too_short">Минимальная длина видео: %s сек. Пожалуйста, закачайте видео с большей продолжительностью.</string>
+    <string name="toast_video_too_big">Видео слишком большое. Максимальный размер - %s Мб. Пожалуйста, закачайте более мелкий файл.</string>
+    <string name="video_upload_progress">%1$s %% из %2$s Мб</string>
+    <string name="dialog_video_upload_cancel_title">Отменить загрузку?</string>
+    <string name="dialog_video_upload_cancel_content">Вы действительно хотите отменить загрузку видео?</string>
+    <string name="upload_complete">Закачивание успешно закончено</string>
+    <string name="video_upload_complete_text">Нажмите для проверки вашего видео.</string>
+    <string name="toast_cant_send_no_video">Пожалуйста, сначала загрузите видео</string>
+    <string name="toast_one_video_at_once">Вы можете одновременно закачивать всего 1 видео. Подождите, пожалуйста, когда завершится закачка.</string>
+    <string name="upload_in_progress">Закачивание…</string>
+    <string name="video_no_description">Видео без описания</string>
+    <string name="video_not_found">Ваше видео успешно закачано, но его невозможно воспроизвести. Файл с видео не был найден на устройстве.</string>
+    <string name="admin_message">Сообщение от администратора</string>
+    <string name="toast_cant_load_video">Ошибка при скачивании видео</string>
+    <string name="video_loading">Пожалуйста подождите, пока идёт скачивание видео…</string>
+
+    <string name="uploading_video">Закачивание видео</string>
+    <string name="video_uploaded_percentage">Процесс загрузки: %s %%</string>
+    <string name="tap_to_retry">Нажмите, чтобы повторить</string>
+
+    <string name="photo_upload_notification_title">Закачивание фото</string>
+    <string name="photo_upload_notification_progress">Процесс закачки: %1$d/%2$d</string>
+
+    <string name="album_delete_dialog_title">Удалить альбом?</string>
+    <string name="album_delete_dialog">Вы действительно хотите удалить альбом?</string>
+    <string name="delete">Удалить</string>
+    <string name="filter_all">Все</string>
+
+    <string name="video_delete_dialog_title">Удалить видео?</string>
+    <string name="video_delete_dialog">Вы действительно хотите удалить видео?</string>
+    <string name="video_delete_dialog_uploading">Видео в данный момент закачивается. Вы действительно хотите удалить видео?</string>
+
+    <string name="logout_during_uploading_dialog_title">Вы действительно хотите выйти?</string>
+    <string name="logout_during_uploading_dialog_content">Все файлы которые не были закачаны будут потеряны.</string>
+
+    <string name="report_dialog_text">Выберите причину</string>
+    <string name="report_dialog_send">Отправить</string>
+    <string name="report_dialog_toast_no_reason">Сначала выберите причину</string>
+    <string name="report_dialog_toast_sent">Отчёт отправлен. Благодарим Вас.</string>
+
+    <string name="message_popup_copy">Копировать текст</string>
+    <string name="message_popup_delete">Удалить сообщение</string>
+    <string name="message_popup_report">Жалоба</string>
+    <string name="message_popup_received">Принято %s</string>
+    <string name="dialog_report_message_title">Жалоба на сообщение</string>
+    <string name="toast_message_deleted">Сообщение удалено</string>
+    <string name="toast_copied_message_text">Сообщение было скопировано в буфер!</string>
+    <string name="message_date_today">Сегодня</string>
+    <string name="message_date_yesterday">Вчера</string>
+    <string name="message_seen">Прочитано</string>
+    <string name="message_unseen">Непрочитано</string>
+    <string name="message_send_failure">Извините, но возникли проблемы с соединением и не удалось отправить сообщение.</string>
+    <string name="new_message_info">У вас новое непрочитанное сообщение</string>
+    <string name="message_write_hint">Написать сообщение</string>
+<string name="user_sexual_hobbies_all">Все сексуальные хобби</string>
+    </resources>
