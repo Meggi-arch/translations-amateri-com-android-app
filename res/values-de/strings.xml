@@ -578,4 +578,28 @@
     <string name="message_send_failure">Es scheint, dass ein Netzwerkproblem aufgetreten ist und Ihre Nachricht nicht gesendet wurde.</string>
     <string name="new_message_info">Sie haben neue Nachricht</string>
     <string name="message_write_hint">Nachricht schreiben</string>
-</resources>
+<string name="vip_recurring_payment_advantages">Der Vorteil der automatischen Verlängerung der VIP-Mitgliedschaft ist, dass man nicht immer neu die Zahlung definieren und bestätigen muss. Zu Beginn der nächsten Periode werden Sie Informationen über die Erweiterung informiert.</string>
+<string name="buy_vip_title">Werden Sie VIP Mitglied</string>
+    <string name="vip_promo_title">Spezialangebot</string>
+    <string name="vip_promo_title_ends_today">Spezialangebot (endet Heute)</string>
+    <string name="vip_promo_subtitle">Wir vergeben bis zu 1 Monat VIP-Mitgliedschaft kostenlos</string>
+    <string name="buy">Kaufen</string>
+    <string name="vip_sms_only">(nur SMS)</string>
+    <string name="vip_discount_text">%d %% Rabatt</string>
+    <string name="vip_choose_paymethod">Wählen Sie eine Zahlungsmethode</string>
+    <string name="vip_most_popular_offer">Populärstes Angebot</string>
+    <string name="vip_membership_advantages">Vorteile für VIP-Mitglieder</string>
+    <string name="vip_successful_payment_title">Zahlung erfolgreich</string>
+    <string name="vip_unsuccessful_payment_title">Zahlung storniert</string>
+    <string name="thank_you">Danke.</string>
+    <string name="notification_vip_payment">Es wurden ihnen %d Tagen VIP Mitgliedschaft gutgeschrieben.</string>
+
+    <string name="sms_price">Eine empfangene Nachricht kostet %s, inkl. MwSt.</string>
+    <string name="vip_send_sms_instructions">Senden Sie eine SMS im Format %1$s an die Nummer %2$s</string>
+
+    <string name="vip_get_one_day_for_free">Holen Sie sich 1 Tag VIP Mitgliedschaft kostenlos</string>
+    <string name="vip_recurring_paymenthod_question">Haben Sie billigeres Abonnement oder Einmalzahlung?</string>
+    <string name="vip_recurring_payment_button_title">Automatisch verlängern</string>
+    <string name="vip_plus_one_day_free">+ 1 Tag Kostenlos</string>
+    <string name="vip_normal_payment_button_title">Einmalig kaufen</string>
+    </resources>
