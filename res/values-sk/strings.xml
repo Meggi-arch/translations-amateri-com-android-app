@@ -587,4 +587,28 @@
     <string name="message_send_failure">Prepáčte, zdá sa že nastal problém s pripojením a vaša správa nebola odoslaná.</string>
     <string name="new_message_info">Máte novú správu</string>
     <string name="message_write_hint">Napísať správu</string>
+<string name="buy_vip_title">Staň sa VIP členom</string>
+    <string name="vip_promo_title">Špeciálna ponuka</string>
+    <string name="vip_promo_title_ends_today">Špeciálna ponuka (končí dnes)</string>
+    <string name="vip_promo_subtitle">Rozdávame až 1 mesiac VIP členstva zadarmo</string>
+    <string name="buy">Kúpiť</string>
+    <string name="vip_sms_only">(Iba SMS)</string>
+    <string name="vip_discount_text">zľava %d %%</string>
+    <string name="vip_choose_paymethod">Vyberte platobnú metódu</string>
+    <string name="vip_most_popular_offer">Najpopulárnejšia ponuka</string>
+    <string name="vip_membership_advantages">Výhody pre VIP členov</string>
+    <string name="vip_successful_payment_title">Úspešná platba</string>
+    <string name="vip_unsuccessful_payment_title">Zrušená platba</string>
+    <string name="thank_you">Ďakujeme Vám.</string>
+    <string name="notification_vip_payment">Bolo vám pripísaných %d dní VIP členstva.</string>
+
+    <string name="sms_price">Cena jednej prijatej správy je %s vr. DPH.</string>
+    <string name="vip_send_sms_instructions">Pošlite SMS v tvare %1$s na číslo %2$s</string>
+
+    <string name="vip_get_one_day_for_free">Získajte 1 deň VIP členstva zadarmo</string>
+    <string name="vip_recurring_paymenthod_question">Prajete si zvýhodnené predplatné alebo jednorazovú platbu?</string>
+    <string name="vip_recurring_payment_button_title">Automaticky predlžovať</string>
+    <string name="vip_plus_one_day_free">+ 1 deň zadarmo</string>
+    <string name="vip_normal_payment_button_title">Kúpiť jednorázovo</string>
+    <string name="vip_recurring_payment_advantages">Výhodou automatického predlžovania VIP členstva je, že nemusíte zakaždým znovu definovať a potvrdzovať ďalšiu platbu. Vždy na začiatku nasledujúceho obdobia obdržíte informácií o predĺžení.</string>
 </resources>
