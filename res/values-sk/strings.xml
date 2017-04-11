@@ -611,4 +611,42 @@
     <string name="vip_plus_one_day_free">+ 1 deň zadarmo</string>
     <string name="vip_normal_payment_button_title">Kúpiť jednorázovo</string>
     <string name="vip_recurring_payment_advantages">Výhodou automatického predlžovania VIP členstva je, že nemusíte zakaždým znovu definovať a potvrdzovať ďalšiu platbu. Vždy na začiatku nasledujúceho obdobia obdržíte informácií o predĺžení.</string>
+<string name="no_users_title_general">Žiadni užívatelia</string>
+    <string name="no_users_message_general">Neboli nájdení žiadni užívatelia</string>
+
+    <string name="title_friends">Priatelia</string>
+    <string name="tab_friends_list">Priatelia</string>
+    <string name="tab_friends_requests">Nové žiadosti</string>
+    <string name="online_users_only">Iba online užívatelia</string>
+    <string name="no_friends_title">Žiadni priatelia</string>
+    <string name="no_friends_message">Ešte nemáte žiadnych priateľov</string>
+    <string name="no_friends_online_message">Nemáte žiadnych priateľov online</string>
+    <string name="dialog_remove_friend_title">Odobrať z priateľov</string>
+    <string name="dialog_remove_friend_content">Naozaj chcete odobrať užívateľa %s z priateľov?</string>
+    <string name="dialog_remove_friend_confirm">Odobrať</string>
+    <string name="toast_friend_removed">Užívateľ %s bol odobraný z priateľov</string>
+    <string name="button_friend_request_accept">Prijať</string>
+    <string name="button_friend_request_reject">Odmietnuť</string>
+    <string name="toast_friend_request_accepted">Teraz ste s %s priatelia</string>
+    <string name="no_friend_requests_title">Žiadne žiadosti</string>
+    <string name="no_friend_requests_message">Nemáte žiadne nové žiadosti o priateľstvo</string>
+    <string name="dialog_reject_friend_request_title">Odmietnuť žiadosť</string>
+    <string name="dialog_reject_friend_request_content">Naozaj chcete odmietnuť túto žiadosť o priateľstvo?</string>
+
+    <string name="title_favourites">Obľúbení</string>
+    <string name="tab_favourites_my_favourites">Moji obľúbení</string>
+    <string name="tab_favourites_favourited_me">Obľúbili si ma</string>
+    <string name="dialog_remove_favourite_title">Odobrať z obľúbených</string>
+    <string name="dialog_remove_favourite_content">Naozaj chcete odobrať užívateľa %s z obľúbených?</string>
+    <string name="dialog_remove_favourite_confirm">Odobrať</string>
+    <string name="toast_favourite_removed">Užívateľ %s bol odobraný z obľúbených</string>
+
+    <string name="no_favourited_users_title">Žiadni obľúbení</string>
+    <string name="no_favourited_users_message">Nemáte žiadnych obľúbených užívateľov</string>
+    <string name="no_favourited_me_users_message">Ešte si vás nikto nepridal do obľúbených</string>
+
+    <string name="title_visits">Návštevy</string>
+    <string name="close">Zavrieť</string>
+    <string name="no_visits_title">Žiadne návštevy</string>
+    <string name="no_visits_message">Váš profil ešte nikto nenavštívil</string>
 </resources>
