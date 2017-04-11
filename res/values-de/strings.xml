@@ -602,4 +602,42 @@
     <string name="vip_recurring_payment_button_title">Automatisch verlängern</string>
     <string name="vip_plus_one_day_free">+ 1 Tag Kostenlos</string>
     <string name="vip_normal_payment_button_title">Einmalige Zahlung</string>
-    </resources>
+    <string name="no_users_title_general">Keine Benutzer</string>
+    <string name="no_users_message_general">Es wurden keine Benutzer gefunden</string>
+
+    <string name="title_friends">Freunde</string>
+    <string name="tab_friends_list">Freunde</string>
+    <string name="tab_friends_requests">Neue Anforderungen</string>
+    <string name="online_users_only">Nur online Freunde</string>
+    <string name="no_friends_title">Keine Freunde</string>
+    <string name="no_friends_message">Sie haben bislang keine Freunde</string>
+    <string name="no_friends_online_message">Sie haben keine Freunde online</string>
+    <string name="dialog_remove_friend_title">Entfernen von Freunden</string>
+    <string name="dialog_remove_friend_content">Wollen Sie wirklich %s von Ihren Freunden entfernen?</string>
+    <string name="dialog_remove_friend_confirm">Entfernen</string>
+    <string name="toast_friend_removed">Benutzer %s wurde von den Freunden entfernt</string>
+    <string name="button_friend_request_accept">Akzeptieren</string>
+    <string name="button_friend_request_reject">Ablehnen</string>
+    <string name="toast_friend_request_accepted">Jetzt sins Sie und %s Freunde</string>
+    <string name="no_friend_requests_title">Keine Anforderungen</string>
+    <string name="no_friend_requests_message">Keine neuen Freundschaftsanfragen</string>
+    <string name="dialog_reject_friend_request_title">Anfrage ablehnen</string>
+    <string name="dialog_reject_friend_request_content">Wollen Sie wirklich diese Freundschaftanfrage ablehnen?</string>
+
+    <string name="title_favourites">Favoriten</string>
+    <string name="tab_favourites_my_favourites">Meine Favoriten</string>
+    <string name="tab_favourites_favourited_me">Haben mich Favorisiert</string>
+    <string name="dialog_remove_favourite_title">Aus den Favoriten entfernen</string>
+    <string name="dialog_remove_favourite_content">Wollen Sie wirklich Benutzer %s aus den Favoriten entfernen?</string>
+    <string name="dialog_remove_favourite_confirm">Entfernen</string>
+    <string name="toast_favourite_removed">Benutzer %s wurde aus den Favoriten entfernt</string>
+
+    <string name="no_favourited_users_title">Keine Favoriten</string>
+    <string name="no_favourited_users_message">Sie haben keine Favoriten</string>
+    <string name="no_favourited_me_users_message">Niemand hat Sie bislang zu den Favforiten hinzugefügt</string>
+
+    <string name="title_visits">Besuche</string>
+    <string name="close">Schliessen</string>
+    <string name="no_visits_title">Keine Besuche</string>
+    <string name="no_visits_message">Niemand hat bislang Ihr Profil besucht</string>
+</resources>
