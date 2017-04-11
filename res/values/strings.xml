@@ -161,11 +161,6 @@
         <item quantity="one">Show %s video</item>
         <item quantity="other">Show %s videos</item>
     </plurals>
-    <plurals name="remains_days">
-        <item quantity="zero">%s day remaining</item>
-        <item quantity="one">%s day remaining</item>
-        <item quantity="other">%s days remaining</item>
-    </plurals>
 
     <!--FilterUserFragment-->
     <string name="user_country_all">All countries</string>
@@ -679,4 +674,47 @@
     <string name="vip_plus_one_day_free">+ 1 day free</string>
     <string name="vip_normal_payment_button_title">One-time payment</string>
     <string name="vip_recurring_payment_advantages">The advantage of a recurring VIP membership is that you do not have to create and confirm every single payment. You will receive a renewal confirmation each time a new period starts.</string>
+
+    <!-- UserGridFragment -->
+    <string name="no_users_title_general">No users</string>
+    <string name="no_users_message_general">No users were found</string>
+
+    <!-- FriendsActivity -->
+    <string name="title_friends">Friends</string>
+    <string name="tab_friends_list">Friends</string>
+    <string name="tab_friends_requests">New requests</string>
+    <string name="online_users_only">Online users only</string>
+    <string name="no_friends_title">No friends</string>
+    <string name="no_friends_message">You have no friends yet</string>
+    <string name="no_friends_online_message">You have no friends online</string>
+    <string name="dialog_remove_friend_title">Remove from friends</string>
+    <string name="dialog_remove_friend_content">Do you really want to remove %s from your friends?</string>
+    <string name="dialog_remove_friend_confirm">Remove</string>
+    <string name="toast_friend_removed">User %s was removed from your friends</string>
+    <string name="button_friend_request_accept">Accept</string>
+    <string name="button_friend_request_reject">Reject</string>
+    <string name="toast_friend_request_accepted">You are now friends with %s</string>
+    <string name="no_friend_requests_title">No friend requests</string>
+    <string name="no_friend_requests_message">You have no new friend requests</string>
+    <string name="dialog_reject_friend_request_title">Reject friend request</string>
+    <string name="dialog_reject_friend_request_content">Do you really want to reject this friend request?</string>
+
+    <!-- FavouritesActivity -->
+    <string name="title_favourites">Favourites</string>
+    <string name="tab_favourites_my_favourites">My favourites</string>
+    <string name="tab_favourites_favourited_me">Favourited me</string>
+    <string name="dialog_remove_favourite_title">Remove from favourites</string>
+    <string name="dialog_remove_favourite_content">Do you really want to remove %s from favourites?</string>
+    <string name="dialog_remove_favourite_confirm">Remove</string>
+    <string name="toast_favourite_removed">User %s was removed from your favourites</string>
+
+    <string name="no_favourited_users_title">No favourites</string>
+    <string name="no_favourited_users_message">You have no favourite users</string>
+    <string name="no_favourited_me_users_message">No one has favourited you yet</string>
+
+    <!-- VisitsActivity -->
+    <string name="title_visits">Visits</string>
+    <string name="close">Close</string>
+    <string name="no_visits_title">No visits</string>
+    <string name="no_visits_message">Nobody has visited your profile yet</string>
 </resources>
