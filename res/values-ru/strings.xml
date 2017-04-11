@@ -618,4 +618,31 @@
     <string name="dialog_remove_friend_content">Вы действительно хотите удалить %s из друзей?</string>
     <string name="dialog_remove_friend_confirm">Удалить</string>
     <string name="toast_friend_removed">Пользователь %s был удален из друзей</string>
-    </resources>
+    <string name="no_users_title_general">Нет пользователей</string>
+    <string name="tab_friends_requests">Новые запросы</string>
+    <string name="no_friends_title">Нет друзей</string>
+    <string name="button_friend_request_accept">Принять</string>
+    <string name="button_friend_request_reject">Отклонить</string>
+    <string name="toast_friend_request_accepted">Теперь вы друзья с %s</string>
+    <string name="no_friend_requests_title">Нет заявок в друзья</string>
+    <string name="no_friend_requests_message">У вас нет запросов на дружбу</string>
+    <string name="dialog_reject_friend_request_title">Отклонить запрос</string>
+    <string name="dialog_reject_friend_request_content">Вы действительно хотите отклонить запрос дружбы?</string>
+
+    <string name="title_favourites">Избранное</string>
+    <string name="tab_favourites_my_favourites">Мое избранное</string>
+    <string name="tab_favourites_favourited_me">Добавили меня в избранное</string>
+    <string name="dialog_remove_favourite_title">Убрать из избранных</string>
+    <string name="dialog_remove_favourite_content">Вы действительно хотите удалить %s из избранных?</string>
+    <string name="dialog_remove_favourite_confirm">Удалить</string>
+    <string name="toast_favourite_removed">Пользователь %s удалил вас из избранных</string>
+
+    <string name="no_favourited_users_title">Избранное не найдено</string>
+    <string name="no_favourited_users_message">У вас нет избранных пользователей</string>
+    <string name="no_favourited_me_users_message">Вас еще никто не добавил в избранное</string>
+
+    <string name="title_visits">Посетители</string>
+    <string name="close">Закрыть</string>
+    <string name="no_visits_title">Нет посетителей</string>
+    <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
+</resources>
