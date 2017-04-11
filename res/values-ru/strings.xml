@@ -607,4 +607,15 @@
     <string name="vip_plus_one_day_free">+ 1 день бесплатно</string>
     <string name="vip_normal_payment_button_title">Единоразовый платёж</string>
     <string name="vip_recurring_payment_advantages">Подписка на VIP-членство удобней тем, что Вам нет необходимости каждый раз заново создавать платёж и осуществлять оплату. Каждый раз при обновлении платежа вы получите информацию и подтверждение оплаты.</string>
-</resources>
+<string name="no_users_message_general">Пользователи не найдены</string>
+
+    <string name="title_friends">Друзья</string>
+    <string name="tab_friends_list">Друзья</string>
+    <string name="online_users_only">Только онлайн</string>
+    <string name="no_friends_message">У вас еще нет друзей</string>
+    <string name="no_friends_online_message">У вас нет друзей онлайн</string>
+    <string name="dialog_remove_friend_title">Удалить из друзей</string>
+    <string name="dialog_remove_friend_content">Вы действительно хотите удалить %s из друзей?</string>
+    <string name="dialog_remove_friend_confirm">Удалить</string>
+    <string name="toast_friend_removed">Пользователь %s был удален из друзей</string>
+    </resources>
