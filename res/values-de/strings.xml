@@ -607,7 +607,7 @@
 
     <string name="title_friends">Freunde</string>
     <string name="tab_friends_list">Freunde</string>
-    <string name="tab_friends_requests">Neue Anforderungen</string>
+    <string name="tab_friends_requests">Neue Anfragen</string>
     <string name="online_users_only">Nur online Freunde</string>
     <string name="no_friends_title">Keine Freunde</string>
     <string name="no_friends_message">Sie haben bislang keine Freunde</string>
@@ -619,7 +619,7 @@
     <string name="button_friend_request_accept">Akzeptieren</string>
     <string name="button_friend_request_reject">Ablehnen</string>
     <string name="toast_friend_request_accepted">Jetzt sins Sie und %s Freunde</string>
-    <string name="no_friend_requests_title">Keine Anforderungen</string>
+    <string name="no_friend_requests_title">Keine Anfragen</string>
     <string name="no_friend_requests_message">Keine neuen Freundschaftsanfragen</string>
     <string name="dialog_reject_friend_request_title">Anfrage ablehnen</string>
     <string name="dialog_reject_friend_request_content">Wollen Sie wirklich diese Freundschaftanfrage ablehnen?</string>
