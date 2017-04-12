@@ -717,4 +717,13 @@
     <string name="close">Close</string>
     <string name="no_visits_title">No visits</string>
     <string name="no_visits_message">Nobody has visited your profile yet</string>
+
+    <!-- Update news dialog -->
+    <string name="update_news_dialog_title">New in this version</string>
+
+    <string-array name="update_news_dialog_items">
+        <item>List of friends</item>
+        <item>List of favourites</item>
+        <item>List of profile visits</item>
+    </string-array>
 </resources>

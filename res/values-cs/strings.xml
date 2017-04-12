@@ -712,4 +712,13 @@
     <string name="close">Zavřít</string>
     <string name="no_visits_title">Žádné návštěvy</string>
     <string name="no_visits_message">Váš profil ješte nikdo nenavštívil</string>
+
+    <!-- Update news dialog -->
+    <string name="update_news_dialog_title">Novinky v této verzi</string>
+
+    <string-array name="update_news_dialog_items">
+        <item>Seznam přátel</item>
+        <item>Seznam oblíbených</item>
+        <item>Seznam návštěv profilu</item>
+    </string-array>
 </resources>
