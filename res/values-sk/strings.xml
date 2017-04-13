@@ -649,4 +649,6 @@
     <string name="close">Zavrieť</string>
     <string name="no_visits_title">Žiadne návštevy</string>
     <string name="no_visits_message">Váš profil ešte nikto nenavštívil</string>
-</resources>
+<string name="update_news_dialog_title">Novinky v tejto verzii</string>
+
+    </resources>
