@@ -645,4 +645,6 @@
     <string name="close">Закрыть</string>
     <string name="no_visits_title">Нет посетителей</string>
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
-</resources>
+<string name="update_news_dialog_title">Новое в этой версии</string>
+
+    </resources>
