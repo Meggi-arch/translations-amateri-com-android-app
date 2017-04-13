@@ -640,4 +640,6 @@
     <string name="close">Schliessen</string>
     <string name="no_visits_title">Keine Besuche</string>
     <string name="no_visits_message">Niemand hat bislang Ihr Profil besucht</string>
-</resources>
+<string name="update_news_dialog_title">Neu in dieser Version</string>
+
+    </resources>
