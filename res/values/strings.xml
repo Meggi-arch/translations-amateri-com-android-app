@@ -726,4 +726,18 @@
         <item>List of favourites</item>
         <item>List of profile visits</item>
     </string-array>
+
+    <!-- ConversationListActivity -->
+    <string name="all_conversations">All conversations</string>
+    <string name="me">Me</string>
+    <string name="popup_conversation_mark_read">Mark as read</string>
+    <string name="popup_conversation_delete">Delete conversation</string>
+    <string name="dialog_conversation_delete_title">Delete conversation</string>
+    <string name="dialog_conversation_delete_content">Do you really want to delete your conversation with %s?</string>
+    <string name="dialog_conversation_delete_confirm">Delete</string>
+    <string name="toast_conversation_deleted">Conversation with %s was deleted</string>
+    <string name="no_conversations_title">No conversations</string>
+    <string name="no_conversations_message">You have no conversations yet</string>
+    <string name="no_users_found_title">No users</string>
+    <string name="no_users_found_message">No users found for selected query</string>
 </resources>

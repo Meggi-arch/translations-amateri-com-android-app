@@ -721,4 +721,18 @@
         <item>Seznam oblíbených</item>
         <item>Seznam návštěv profilu</item>
     </string-array>
+
+    <!-- ConversationListActivity -->
+    <string name="all_conversations">Všechny konverzace</string>
+    <string name="me">Já</string>
+    <string name="popup_conversation_mark_read">Označit za přečtenou</string>
+    <string name="popup_conversation_delete">Smazat konverzaci</string>
+    <string name="dialog_conversation_delete_title">Smazat konverzaci</string>
+    <string name="dialog_conversation_delete_content">Opravdu chcete smazat celou vaši konverzaci s %s?</string>
+    <string name="dialog_conversation_delete_confirm">Smazat</string>
+    <string name="toast_conversation_deleted">Konverzace s uživatelem %s byla smazána</string>
+    <string name="no_conversations_title">Žádné konverzace</string>
+    <string name="no_conversations_message">Zatím nemáte žádné konverzace</string>
+    <string name="no_users_found_title">Žádní uživatelé</string>
+    <string name="no_users_found_message">Nebyli nalezeni žádní uživatelé</string>
 </resources>
