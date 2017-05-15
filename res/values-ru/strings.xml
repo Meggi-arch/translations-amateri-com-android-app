@@ -647,7 +647,7 @@
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
 <string name="update_news_dialog_title">Новое в этой версии</string>
 
-    <string name="all_conversations">Все сообщения</string>
+    <string name="all_conversations">Все переписки</string>
     <string name="me">Я</string>
     <string name="popup_conversation_mark_read">Отметить как прочитанное</string>
     <string name="popup_conversation_delete">Удалить переписку</string>
