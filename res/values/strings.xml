@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="general_error">Ouch!</string>
     <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
@@ -739,5 +739,5 @@
     <string name="no_conversations_title">No conversations</string>
     <string name="no_conversations_message">You have no conversations yet</string>
     <string name="no_users_found_title">No users</string>
-    <string name="no_users_found_message">No users found for selected query</string>
+    <string name="no_users_found_message">No users found</string>
 </resources>
