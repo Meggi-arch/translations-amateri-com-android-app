@@ -647,4 +647,16 @@
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
 <string name="update_news_dialog_title">Новое в этой версии</string>
 
-    </resources>
+    <string name="all_conversations">Все сообщения</string>
+    <string name="me">Я</string>
+    <string name="popup_conversation_mark_read">Отметить как прочитанное</string>
+    <string name="popup_conversation_delete">Удалить переписку</string>
+    <string name="dialog_conversation_delete_title">Удалить переписку</string>
+    <string name="dialog_conversation_delete_content">Вы действительно хотите удалить переписку с %s?</string>
+    <string name="dialog_conversation_delete_confirm">Удалить</string>
+    <string name="toast_conversation_deleted">Переписка с пользователем %s удалена</string>
+    <string name="no_conversations_title">Нет переписок</string>
+    <string name="no_conversations_message">У вас пока нет переписок</string>
+    <string name="no_users_found_title">Нет пользователей</string>
+    <string name="no_users_found_message">Пользователи не найдены</string>
+</resources>
