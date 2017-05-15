@@ -651,4 +651,16 @@
     <string name="no_visits_message">Váš profil ešte nikto nenavštívil</string>
 <string name="update_news_dialog_title">Novinky v tejto verzii</string>
 
-    </resources>
+    <string name="all_conversations">Všetky konverzácie</string>
+    <string name="me">Ja</string>
+    <string name="popup_conversation_mark_read">Označiť za prečítané</string>
+    <string name="popup_conversation_delete">Vymazať konverzáciu</string>
+    <string name="dialog_conversation_delete_title">Vymazať konverzáciu</string>
+    <string name="dialog_conversation_delete_content">Naozaj chcete vymazať celú vašu konverzáciu s %s?</string>
+    <string name="dialog_conversation_delete_confirm">Vymazať</string>
+    <string name="toast_conversation_deleted">Konverzácia s užívateľom %s bola zmazaná</string>
+    <string name="no_conversations_title">Žiadne konverzácie</string>
+    <string name="no_conversations_message">Zatiaľ nemáte žiadne konverzácie</string>
+    <string name="no_users_found_title">Žiadni užívatelia</string>
+    <string name="no_users_found_message">Neboli nájdení žiadni užívatelia</string>
+</resources>
