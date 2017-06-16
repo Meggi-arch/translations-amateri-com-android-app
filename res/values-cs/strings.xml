@@ -635,6 +635,11 @@
     <string name="message_write_hint">Napsat zprávu</string>
     <string name="new_message_info">Máte novou zprávu</string>
     <string name="message_send_failure">Je nám líto, zdá se, že nastal problém s připojením a zprávu se nepodařilo odeslat.</string>
+    <string name="take_a_picture">Pořídit fotku</string>
+    <string name="pick_from_gallery">Vybrat z galerie</string>
+    <string name="toast_no_camera_app">Nebyla nalezena aplikace pro fotoaparát</string>
+    <string name="add_attachment">Přidat fotku</string>
+    <string name="notification_message_received">Máte novou zprávu</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
@@ -717,9 +722,6 @@
     <string name="update_news_dialog_title">Novinky v této verzi</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Seznam přátel</item>
-        <item>Seznam oblíbených</item>
-        <item>Seznam návštěv profilu</item>
     </string-array>
 
     <!-- ConversationListActivity -->
@@ -735,4 +737,6 @@
     <string name="no_conversations_message">Zatím nemáte žádné konverzace</string>
     <string name="no_users_found_title">Žádní uživatelé</string>
     <string name="no_users_found_message">Nebyli nalezeni žádní uživatelé</string>
+    <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
+    <string name="i_sent_a_photo">Poslal(a) jste fotku</string>
 </resources>

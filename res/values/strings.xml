@@ -641,6 +641,11 @@
     <string name="message_send_failure">Sorry, it seems there has been a network problem and your message was not sent.</string>
     <string name="new_message_info">You have a new message</string>
     <string name="message_write_hint">Write a message</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="pick_from_gallery">Pick from gallery</string>
+    <string name="toast_no_camera_app">No camera app found</string>
+    <string name="add_attachment">Add a photo</string>
+    <string name="notification_message_received">You\'ve got a new message</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
@@ -722,9 +727,6 @@
     <string name="update_news_dialog_title">New in this version</string>
 
     <string-array name="update_news_dialog_items">
-        <item>List of friends</item>
-        <item>List of favourites</item>
-        <item>List of profile visits</item>
     </string-array>
 
     <!-- ConversationListActivity -->
@@ -740,4 +742,6 @@
     <string name="no_conversations_message">You have no conversations yet</string>
     <string name="no_users_found_title">No users</string>
     <string name="no_users_found_message">No users found</string>
+    <string name="user_sent_a_photo">%s sent you a photo</string>
+    <string name="i_sent_a_photo">You sent a photo</string>
 </resources>
