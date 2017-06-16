@@ -663,4 +663,12 @@
     <string name="no_conversations_message">Zatiaľ nemáte žiadne konverzácie</string>
     <string name="no_users_found_title">Žiadni užívatelia</string>
     <string name="no_users_found_message">Neboli nájdení žiadni užívatelia</string>
+<string name="take_a_picture">Urobiť fotku</string>
+    <string name="pick_from_gallery">Vybrať z galérie</string>
+    <string name="toast_no_camera_app">Nebola nájdená aplikácia pre fotoaparát</string>
+    <string name="add_attachment">Pridať fotku</string>
+    <string name="notification_message_received">Máte novú správu</string>
+
+    <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
+    <string name="i_sent_a_photo">Poslali ste fotku</string>
 </resources>
