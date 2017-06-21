@@ -659,4 +659,12 @@
     <string name="no_conversations_message">У вас пока нет переписок</string>
     <string name="no_users_found_title">Нет пользователей</string>
     <string name="no_users_found_message">Пользователи не найдены</string>
+<string name="take_a_picture">Сделать фото</string>
+    <string name="pick_from_gallery">Выбрать из галереи</string>
+    <string name="toast_no_camera_app">Не было найдено приложение для фото</string>
+    <string name="add_attachment">Добавить фото</string>
+    <string name="notification_message_received">У вас новое сообщение</string>
+
+    <string name="user_sent_a_photo">%s отправил(-а) фото</string>
+    <string name="i_sent_a_photo">Фото отправлено</string>
 </resources>
