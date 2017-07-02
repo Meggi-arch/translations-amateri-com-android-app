@@ -642,4 +642,24 @@
     <string name="no_visits_message">Niemand hat bislang Ihr Profil besucht</string>
 <string name="update_news_dialog_title">Neu in dieser Version</string>
 
-    </resources>
+    <string name="take_a_picture">Foto aufnehmen</string>
+    <string name="pick_from_gallery">Aus der Galerie wählen</string>
+    <string name="toast_no_camera_app">Keine Anwendung für die Kamera gefunden</string>
+    <string name="add_attachment">Foto hinzufügen</string>
+    <string name="notification_message_received">Sie haben neue Nachricht</string>
+
+    <string name="all_conversations">Alle Gespräche</string>
+    <string name="me">Ich</string>
+    <string name="popup_conversation_mark_read">Als gelesen markieren</string>
+    <string name="popup_conversation_delete">Gespräch löschen</string>
+    <string name="dialog_conversation_delete_title">Gespräch löschen</string>
+    <string name="dialog_conversation_delete_content">Wollen Sie wirklich Ihr gesamtes Gespräch mit %s löschen?</string>
+    <string name="dialog_conversation_delete_confirm">Löschen</string>
+    <string name="toast_conversation_deleted">Gespräch mit %s wurde gelöscht</string>
+    <string name="no_conversations_title">Keine Gespräche</string>
+    <string name="no_conversations_message">Sie haben bislang keine Gespräche</string>
+    <string name="no_users_found_title">Keine Anwender</string>
+    <string name="no_users_found_message">Keine Anwender gefunden</string>
+    <string name="user_sent_a_photo">%s hat Ihnen ein Foto geschickt</string>
+    <string name="i_sent_a_photo">Sie haben ein Foto geschickt</string>
+</resources>
