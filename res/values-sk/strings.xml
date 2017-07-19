@@ -671,4 +671,15 @@
 
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslali ste fotku</string>
+<string name="stories_offline_mode">Prezerate si poviedky v offline móde.</string>
+    <string name="blogs_offline_mode">Prezerate si blogy v offline móde.</string>
+    <string name="go_online_to_load_content">Pripojte sa na internet pre načítanie najnovšieho obsahu.</string>
+    <string name="refresh_to_load_content">Potiahnite dole pre načítanie najnovšieho obsahu.</string>
+    <string name="no_stories_title">Žiadne poviedky</string>
+    <string name="no_stories_text_online">Neboli nájdené žiadne poviedky</string>
+    <string name="no_stories_text_offline">Nemáte uložené žiadne offline poviedky. Pripojte sa na internet pre načítanie poviedok.</string>
+    <string name="no_blogs_title">Žiadne blogy</string>
+    <string name="no_blogs_text_online">Neboli nájdené žiadne blogy</string>
+    <string name="no_blogs_text_offline">Nemáte uložené žiadne offline blogy. Pripojte sa na internet pre načítanie blogov.</string>
+
 </resources>
