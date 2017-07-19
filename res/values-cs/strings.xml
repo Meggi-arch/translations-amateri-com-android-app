@@ -266,7 +266,7 @@
 
     <string name="emoticon_dialog_close">Zavřít</string>
     <string name="search_hint">Hledat</string>
-    <string name="search_user_hint">Hledat v uživatelých</string>
+    <string name="search_user_hint">Hledat v uživatelích</string>
     <string name="album_comment_fail">Nelze odeslat komentář</string>
 
     <string name="title_next_videos">Další videa (%s)</string>
@@ -722,6 +722,8 @@
     <string name="update_news_dialog_title">Novinky v této verzi</string>
 
     <string-array name="update_news_dialog_items">
+        <item>Offline blogy a povídky</item>
+        <item>Stahování a sdílení fotek ve zprávách</item>
     </string-array>
 
     <!-- ConversationListActivity -->
@@ -739,4 +741,17 @@
     <string name="no_users_found_message">Nebyli nalezeni žádní uživatelé</string>
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslal(a) jste fotku</string>
+
+    <!-- Stories / Blogs fragment -->
+    <string name="stories_offline_mode">Prohlížite si povídky v offline módu.</string>
+    <string name="blogs_offline_mode">Prohlížite si blogy v offline módu.</string>
+    <string name="go_online_to_load_content">Připojte se k internetu pro načtení nejnovějšího obsahu.</string>
+    <string name="refresh_to_load_content">Potáhněte dolů pro načtení nejnovějšího obsahu.</string>
+    <string name="no_stories_title">Žádné povídky</string>
+    <string name="no_stories_text_online">Nebyly nalezeny žádné povídky</string>
+    <string name="no_stories_text_offline">Nemáte uložené žádné offline povídky. Připojte se na internet pro načtení povídek.</string>
+    <string name="no_blogs_title">Žádné blogy</string>
+    <string name="no_blogs_text_online">Nebyly nalezeny žádné blogy</string>
+    <string name="no_blogs_text_offline">Nemáte uložené žádné offline blogy. Připojte se na internet pro načtení blogů.</string>
+
 </resources>

@@ -727,6 +727,8 @@
     <string name="update_news_dialog_title">New in this version</string>
 
     <string-array name="update_news_dialog_items">
+        <item>Offline blogs and stories</item>
+        <item>Downloading and sharing of photos in messages</item>
     </string-array>
 
     <!-- ConversationListActivity -->
@@ -744,4 +746,17 @@
     <string name="no_users_found_message">No users found</string>
     <string name="user_sent_a_photo">%s sent you a photo</string>
     <string name="i_sent_a_photo">You sent a photo</string>
+
+    <!-- Stories / Blogs fragment -->
+    <string name="stories_offline_mode">You are viewing stories in offline mode.</string>
+    <string name="blogs_offline_mode">You are viewing blogs in offline mode.</string>
+    <string name="go_online_to_load_content">Go online to load the latest content.</string>
+    <string name="refresh_to_load_content">Pull down to refresh content.</string>
+    <string name="no_stories_title">No stories found</string>
+    <string name="no_stories_text_online">There are no stories</string>
+    <string name="no_stories_text_offline">There are no offline stories. Go online to load new stories.</string>
+    <string name="no_blogs_title">No blogs found</string>
+    <string name="no_blogs_text_online">There are no blogs</string>
+    <string name="no_blogs_text_offline">There are no offline blogs. Go online to load new blogs.</string>
+
 </resources>
