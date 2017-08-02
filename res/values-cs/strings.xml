@@ -802,8 +802,8 @@
         <item quantity="other">%d lidí</item>
     </plurals>
 
-    <string name="toast_event_signed_in">Byli jste úspěšně přihlášeni</string>
-    <string name="toast_event_signed_out">Byli jste úspěšně odhlášeni</string>
+    <string name="toast_event_signed_in">Byli jste úspěšně přihlášeni.</string>
+    <string name="toast_event_signed_out">Byli jste úspěšně odhlášeni.</string>
     <string name="event_comment_disallowed">K tomuto srazu nyní nemůžete přidat komentář.</string>
 
     <string name="event_button_man">Muž</string>
