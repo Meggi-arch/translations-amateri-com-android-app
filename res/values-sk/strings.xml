@@ -713,8 +713,8 @@
     <string name="event_description">Popis akcie</string>
     <string name="event_participants">Účastníci</string>
 
-    <string name="toast_event_signed_in">Boli ste úspešne prihlásení</string>
-    <string name="toast_event_signed_out">Boli ste úspešne odhlásení</string>
+    <string name="toast_event_signed_in">Boli ste úspešne prihlásení.</string>
+    <string name="toast_event_signed_out">Boli ste úspešne odhlásení.</string>
     <string name="event_comment_disallowed">K tejto stretávke momentálne nemôžete pridať komentár.</string>
 
     <string name="event_button_man">Muž</string>
