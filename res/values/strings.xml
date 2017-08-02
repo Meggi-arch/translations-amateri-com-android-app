@@ -13,6 +13,7 @@
     <string name="title_people">People</string>
     <string name="title_blogs">Blogs</string>
     <string name="title_stories">Stories</string>
+    <string name="title_events">Events</string>
     <string name="title_settings">Settings</string>
     <string name="title_application_settings">Application settings</string>
     <string name="title_logout">Log out</string>
@@ -85,6 +86,7 @@
     <string name="tab_album">Albums</string>
     <string name="tab_video">Videos</string>
     <string name="tab_dating">Dating</string>
+    <string name="tab_friends">Friends</string>
 
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
@@ -223,7 +225,6 @@
 
     <!--Notification menu-->
     <string name="notifications_title">Notification</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Visits</string>
     <string name="notifications_messages">Messages</string>
     <string name="notifications_dating_messages">Answers to your ads</string>
@@ -484,6 +485,8 @@
     <string name="notification_friendship_accept">Accept</string>
     <string name="notification_dating_respond">Reply</string>
     <string name="notification_more_info">Learn more</string>
+    <string name="notification_add_to_calendar">Add to calendar</string>
+    <string name="notification_event_detail">Event detail</string>
 
     <!--Notification Texts-->
     <string name="notification_profile_view_title">New profile visit</string>
@@ -758,5 +761,102 @@
     <string name="no_blogs_title">No blogs found</string>
     <string name="no_blogs_text_online">There are no blogs</string>
     <string name="no_blogs_text_offline">There are no offline blogs. Go online to load new blogs.</string>
+
+    <!-- EventsActivity -->
+    <string name="tab_events_upcoming">Plan</string>
+    <string name="tab_events_past">History</string>
+    <string name="no_events_title">No events</string>
+    <string name="no_events_upcoming_message">There are no upcoming events</string>
+    <string name="no_events_passed_message">There are no past events</string>
+    <string name="no_events_attended_message">You haven\'t attended any event yet</string>
+    <string name="events_attended">Events I attended only</string>
+    <string name="tab_event_info">Info</string>
+    <string name="tab_event_people">People</string>
+    <string name="tab_event_content">Albums and videos</string>
+
+    <!-- EventInfoFragment -->
+    <string name="event_i_will_attend_as">Select who do you sign in</string>
+    <string name="event_i_attended">I was there</string>
+    <string name="event_organizer">Organizer</string>
+    <string name="event_type">Event type</string>
+    <string name="event_date">Date</string>
+    <string name="event_time">Time</string>
+    <string name="event_capacity">Capacity</string>
+
+    <plurals name="event_capacity_people_number">
+        <item quantity="one">%d person</item>
+        <item quantity="other">%d people</item>
+    </plurals>
+
+    <string name="event_attendee_count">Attendees</string>
+    <string name="event_entry">Entry</string>
+    <string name="event_address">Address</string>
+    <string name="event_description">Event description</string>
+    <string name="event_participants">Participants</string>
+
+    <plurals name="event_participants_total">
+        <item quantity="one">%d person</item>
+        <item quantity="other">%d people</item>
+    </plurals>
+
+    <string name="toast_event_signed_in">You\'ve been signed in successfully.</string>
+    <string name="toast_event_signed_out">You\'ve been signed out successfully.</string>
+    <string name="event_comment_disallowed">You cannot comment this event now.</string>
+
+    <string name="event_button_man">Man</string>
+    <string name="event_button_woman">Woman</string>
+    <string name="event_button_couple">Couple</string>
+
+    <!-- EventUsersFragment -->
+    <plurals name="event_signed_in_people">
+        <item quantity="one">%d person has signed in</item>
+        <item quantity="other">%d people have signed in</item>
+    </plurals>
+
+    <plurals name="event_attended_people">
+        <item quantity="one">%d person attended</item>
+        <item quantity="other">%d people attended</item>
+    </plurals>
+
+    <string name="event_no_people_title">No participants</string>
+    <string name="event_no_people_text">No one has signed in yet</string>
+
+    <!-- EventTypeTranslator -->
+    <string name="event_availability_everyone">Event is open for everyone</string>
+    <string name="event_availability_users_with_content">For users with content only</string>
+    <string name="event_availability_verified_users">For verified users only</string>
+    <string name="event_type_chat_room">%s chat room event</string>
+    <string name="event_type_users">Users event</string>
+    <string name="event_type_official">Official event</string>
+
+    <!-- Event notificaion -->
+    <string name="title_event">Event</string>
+    <string name="notification_upcoming_event_start">Event start: %s.</string>
+    <string name="notification_upcoming_event_looking_forward">Don\'t forget to stop by, we are looking forward to see you!</string>
+
+    <plurals name="notification_upcoming_event_signed_users">
+        <item quantity="one">There is %d person signed up.</item>
+        <item quantity="other">There are %d people signed up.</item>
+    </plurals>
+
+
+    <!-- Fingerprint -->
+    <string name="dialog_fingerprint_setup__title">Fingerprint</string>
+    <string name="dialog_fingerprint_setup_description">Touch the sensor to authenticate with your fingerprint</string>
+    <string name="setup_fingerprint">Fingerprint lock</string>
+    <string name="toast_fingerprint_not_supported">Your device does not support fingerprint authentication</string>
+    <string name="toast_not_pin_protected">You need to enable PIN code lock to use this feature</string>
+    <string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings</string>
+    <string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings</string>
+    <string name="error_fingerprints_invalidated">Fingerprint unavailable. It looks like you have recently enrolled a new fingerprint. You can re-enable fingerprint lock in settings.</string>
+    <string name="success">Success</string>
+    <string name="fingerprint_authentication_failed">Fingerprint not recognized</string>
+    <string name="dialog_fingerprint_unavailable_title">Fingerprint unavailable</string>
+    <string name="dialog_fingerprint_unavailable_button">Go to settings</string>
+
+    <!-- LockedActivity - fingerprint -->
+    <string name="title_fingerprint_unlock">Fingerprint unlock</string>
+    <string name="subtitle_fingerprint_unlock">Use your finger to unlock</string>
+    <string name="use_pin_instead">Use PIN</string>
 
 </resources>
