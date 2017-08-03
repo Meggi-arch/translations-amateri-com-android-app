@@ -821,7 +821,7 @@
     <string name="event_no_people_text">Na tento sraz se ješte nikdo nepřihlásil</string>
 
     <!-- EventTypeTranslator -->
-    <string name="event_availability_everyone">Sraz je prístupný pro všechny</string>
+    <string name="event_availability_everyone">Sraz je přístupný pro všechny</string>
     <string name="event_availability_users_with_content">Pouze pro uživatele s obsahem</string>
     <string name="event_availability_verified_users">Pouze pro ověřené uživatele</string>
     <string name="event_type_chat_room">Sraz místnosti %s</string>
