@@ -846,8 +846,8 @@
     <string name="setup_fingerprint">Fingerprint lock</string>
     <string name="toast_fingerprint_not_supported">Your device does not support fingerprint authentication</string>
     <string name="toast_not_pin_protected">You need to enable PIN code lock to use this feature</string>
-    <string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings</string>
-    <string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings</string>
+    <string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings.</string>
+    <string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings.</string>
     <string name="error_fingerprints_invalidated">Fingerprint unavailable. It looks like you have recently enrolled a new fingerprint. You can re-enable fingerprint lock in settings.</string>
     <string name="success">Success</string>
     <string name="fingerprint_authentication_failed">Fingerprint not recognized</string>

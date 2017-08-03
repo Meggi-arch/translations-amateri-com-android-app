@@ -75,7 +75,7 @@
     <string name="author">autor</string>
     <string name="category">kategórie</string>
     <string name="photo_count">počet fotiek</string>
-    <string name="vip">vip</string>
+    <string name="vip">VIP</string>
     <string name="certificated">certifikácia</string>
     <string name="views">zobrazení</string>
     <string name="rating">hodnotení</string>
@@ -587,7 +587,7 @@
     <string name="message_send_failure">Prepáčte, zdá sa že nastal problém s pripojením a vaša správa nebola odoslaná.</string>
     <string name="new_message_info">Máte novú správu</string>
     <string name="message_write_hint">Napísať správu</string>
-<string name="buy_vip_title">Staň sa VIP členom</string>
+    <string name="buy_vip_title">Staň sa VIP členom</string>
     <string name="vip_promo_title">Špeciálna ponuka</string>
     <string name="vip_promo_title_ends_today">Špeciálna ponuka (končí dnes)</string>
     <string name="vip_promo_subtitle">Rozdávame až 1 mesiac VIP členstva zadarmo</string>
@@ -611,7 +611,7 @@
     <string name="vip_plus_one_day_free">+ 1 deň zadarmo</string>
     <string name="vip_normal_payment_button_title">Kúpiť jednorázovo</string>
     <string name="vip_recurring_payment_advantages">Výhodou automatického predlžovania VIP členstva je, že nemusíte zakaždým znovu definovať a potvrdzovať ďalšiu platbu. Vždy na začiatku nasledujúceho obdobia obdržíte informácií o predĺžení.</string>
-<string name="no_users_title_general">Žiadni užívatelia</string>
+    <string name="no_users_title_general">Žiadni užívatelia</string>
     <string name="no_users_message_general">Neboli nájdení žiadni užívatelia</string>
 
     <string name="title_friends">Priatelia</string>
@@ -649,7 +649,14 @@
     <string name="close">Zavrieť</string>
     <string name="no_visits_title">Žiadne návštevy</string>
     <string name="no_visits_message">Váš profil ešte nikto nenavštívil</string>
-<string name="update_news_dialog_title">Novinky v tejto verzii</string>
+    <string name="update_news_dialog_title">Novinky v tejto verzii</string>
+
+
+    <plurals name="vip_days_remaining">
+        <item quantity="one">zostáva %d deň</item>
+        <item quantity="few">zostávajú %d dni</item>
+        <item quantity="other">zostáva %d dní</item>
+    </plurals>
 
     <string name="all_conversations">Všetky konverzácie</string>
     <string name="me">Ja</string>
@@ -663,7 +670,7 @@
     <string name="no_conversations_message">Zatiaľ nemáte žiadne konverzácie</string>
     <string name="no_users_found_title">Žiadni užívatelia</string>
     <string name="no_users_found_message">Neboli nájdení žiadni užívatelia</string>
-<string name="take_a_picture">Urobiť fotku</string>
+    <string name="take_a_picture">Urobiť fotku</string>
     <string name="pick_from_gallery">Vybrať z galérie</string>
     <string name="toast_no_camera_app">Nebola nájdená aplikácia pre fotoaparát</string>
     <string name="add_attachment">Pridať fotku</string>
@@ -671,7 +678,7 @@
 
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslali ste fotku</string>
-<string name="stories_offline_mode">Prezerate si poviedky v offline móde.</string>
+    <string name="stories_offline_mode">Prezerate si poviedky v offline móde.</string>
     <string name="blogs_offline_mode">Prezerate si blogy v offline móde.</string>
     <string name="go_online_to_load_content">Pripojte sa na internet pre načítanie najnovšieho obsahu.</string>
     <string name="refresh_to_load_content">Potiahnite dole pre načítanie najnovšieho obsahu.</string>
@@ -682,7 +689,7 @@
     <string name="no_blogs_text_online">Neboli nájdené žiadne blogy</string>
     <string name="no_blogs_text_offline">Nemáte uložené žiadne offline blogy. Pripojte sa na internet pre načítanie blogov.</string>
 
-<string name="title_events">Stretávky</string>
+    <string name="title_events">Stretávky</string>
     <string name="tab_friends">Priatelia</string>
 
     <string name="notification_add_to_calendar">Pridať do kalendára</string>
@@ -713,8 +720,8 @@
     <string name="event_description">Popis akcie</string>
     <string name="event_participants">Účastníci</string>
 
-    <string name="toast_event_signed_in">Boli ste úspešne prihlásení.</string>
-    <string name="toast_event_signed_out">Boli ste úspešne odhlásení.</string>
+    <string name="toast_event_signed_in">Boli ste úspešne prihlásení</string>
+    <string name="toast_event_signed_out">Boli ste úspešne odhlásení</string>
     <string name="event_comment_disallowed">K tejto stretávke momentálne nemôžete pridať komentár.</string>
 
     <string name="event_button_man">Muž</string>
@@ -740,8 +747,8 @@
     <string name="setup_fingerprint">Odomknutie odtlačkom prsta</string>
     <string name="toast_fingerprint_not_supported">Vaše zariadenie nepodporuje odomknutie odtlačkom prsta</string>
     <string name="toast_not_pin_protected">Pre použitie tejto funkcie musíte najprv zapnúť uzamknutie PIN kódom</string>
-    <string name="toast_fingerprint_not_enrolled">Odomknutie odtlačkom prsta nie je aktívne. Povoľte odtlačok prsta v nastaveniach vášho zariadenia</string>
-    <string name="toast_lockscreen_disabled">Povoľte zámok obrazovky v nastaveniach vášho zariadenia</string>
+    <string name="toast_fingerprint_not_enrolled">Odomknutie odtlačkom prsta nie je aktívne. Povoľte odtlačok prsta v nastaveniach vášho zariadenia.</string>
+    <string name="toast_lockscreen_disabled">Povoľte zámok obrazovky v nastaveniach vášho zariadenia.</string>
     <string name="error_fingerprints_invalidated">Odomknutie odtlačkom prsta je nedostupné. Vyzerá to tak, že ste nedávno zmenili nastavenie odtlačku prsta vo vašom zariadení. Odomknutie odtlačkom prsta môžte znova aktivovať v nastaveniach aplikácie.</string>
     <string name="success">Hotovo</string>
     <string name="fingerprint_authentication_failed">Odtlačok prsta nebol rozoznaný</string>
@@ -751,5 +758,35 @@
     <string name="title_fingerprint_unlock">Odomknutie odtlačkom prsta</string>
     <string name="subtitle_fingerprint_unlock">Použite váš prst na odomknutie</string>
     <string name="use_pin_instead">Použiť PIN kód</string>
+
+    <plurals name="event_capacity_people_number">
+        <item quantity="one">%d človek</item>
+        <item quantity="few">%d ľudia</item>
+        <item quantity="other">%d ľudí</item>
+    </plurals>
+
+    <plurals name="event_participants_total">
+        <item quantity="one">%d človek</item>
+        <item quantity="few">%d ľudia</item>
+        <item quantity="other">%d ľudí</item>
+    </plurals>
+
+    <plurals name="event_signed_in_people">
+        <item quantity="one">Prihlásený %d človek</item>
+        <item quantity="few">Prihlásení %d ľudia</item>
+        <item quantity="other">Prihlásených %d ľudí</item>
+    </plurals>
+
+    <plurals name="event_attended_people">
+        <item quantity="one">Zúčastnil sa %d človek</item>
+        <item quantity="few">Zúčastnili sa %d ľudia</item>
+        <item quantity="other">Zúčastnilo sa %d ľudí</item>
+    </plurals>
+
+    <plurals name="notification_upcoming_event_signed_users">
+        <item quantity="one">Prihlásil sa už %d človek.</item>
+        <item quantity="few">Prihlásili sa už %d ľudia.</item>
+        <item quantity="other">Prihlásilo sa už %d ľudí.</item>
+    </plurals>
 
 </resources>
