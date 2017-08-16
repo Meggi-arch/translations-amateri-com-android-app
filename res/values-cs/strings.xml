@@ -134,7 +134,7 @@
     <string name="notifications_messages">Vzkazy</string>
     <string name="notifications_dating_messages">Odpovědi na inzeráty</string>
     <string name="notifications_requests">Žádosti o přátelství</string>
-    <string name="notifications_favourites">Oblíbili si mě</string>
+    <string name="notifications_favourites">Oblíbení</string>
     <string name="notifications_my_account_content_settings">Nastavení účtu a obsahu</string>
     <string name="notifications_my_account">Můj účet</string>
     <string name="notifications_albums">Fotoalba</string>
@@ -643,6 +643,7 @@
     <string name="toast_no_camera_app">Nebyla nalezena aplikace pro fotoaparát</string>
     <string name="add_attachment">Přidat fotku</string>
     <string name="notification_message_received">Máte novou zprávu</string>
+    <string name="conversation_empty">Napište zprávu, pošlete fotku, anebo jen smajlíka :)</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
@@ -724,11 +725,6 @@
     <!-- Update news dialog -->
     <string name="update_news_dialog_title">Novinky v této verzi</string>
 
-    <string-array name="update_news_dialog_items">
-        <item>Offline blogy a povídky</item>
-        <item>Stahování a sdílení fotek ve zprávách</item>
-    </string-array>
-
     <!-- ConversationListActivity -->
     <string name="all_conversations">Všechny konverzace</string>
     <string name="me">Já</string>
@@ -802,8 +798,8 @@
         <item quantity="other">%d lidí</item>
     </plurals>
 
-    <string name="toast_event_signed_in">Byli jste úspěšně přihlášeni.</string>
-    <string name="toast_event_signed_out">Byli jste úspěšně odhlášeni.</string>
+    <string name="toast_event_signed_in">Byli jste úspěšně přihlášeni</string>
+    <string name="toast_event_signed_out">Byli jste úspěšně odhlášeni</string>
     <string name="event_comment_disallowed">K tomuto srazu nyní nemůžete přidat komentář.</string>
 
     <string name="event_button_man">Muž</string>
@@ -857,4 +853,8 @@
     <string name="title_fingerprint_unlock">Odemknutí otiskem prstu</string>
     <string name="subtitle_fingerprint_unlock">Použijte váš prst pro odemčení</string>
     <string name="use_pin_instead">Použít PIN kód</string>
+
+    <string-array name="update_news_dialog_items">
+        <item>Vylepšení vzkazníku</item>
+    </string-array>
 </resources>

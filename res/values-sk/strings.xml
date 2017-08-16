@@ -87,12 +87,11 @@
     <string name="no">Nie</string>
 
     <string name="notifications_title">Notifikácie</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Návštevy</string>
     <string name="notifications_messages">Pošta</string>
     <string name="notifications_dating_messages">Odpovede na inzeráty</string>
     <string name="notifications_requests">Žiadosti o priateľstvo</string>
-    <string name="notifications_favourites">Obľúbili si ma</string>
+    <string name="notifications_favourites">Obľúbení</string>
 
     <string name="update_dialog_title">Nová verzia</string>
     <string name="update_dialog_content">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcte si ju stiahnuť?</string>
@@ -651,7 +650,6 @@
     <string name="no_visits_message">Váš profil ešte nikto nenavštívil</string>
     <string name="update_news_dialog_title">Novinky v tejto verzii</string>
 
-
     <plurals name="vip_days_remaining">
         <item quantity="one">zostáva %d deň</item>
         <item quantity="few">zostávajú %d dni</item>
@@ -675,6 +673,7 @@
     <string name="toast_no_camera_app">Nebola nájdená aplikácia pre fotoaparát</string>
     <string name="add_attachment">Pridať fotku</string>
     <string name="notification_message_received">Máte novú správu</string>
+    <string name="conversation_empty">Napíšte správu, pošlite fotku, alebo len smajlíka :)</string>
 
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslali ste fotku</string>
@@ -720,8 +719,8 @@
     <string name="event_description">Popis akcie</string>
     <string name="event_participants">Účastníci</string>
 
-    <string name="toast_event_signed_in">Boli ste úspešne prihlásení.</string>
-    <string name="toast_event_signed_out">Boli ste úspešne odhlásení.</string>
+    <string name="toast_event_signed_in">Boli ste úspešne prihlásení</string>
+    <string name="toast_event_signed_out">Boli ste úspešne odhlásení</string>
     <string name="event_comment_disallowed">K tejto stretávke momentálne nemôžete pridať komentár.</string>
 
     <string name="event_button_man">Muž</string>
@@ -788,5 +787,9 @@
         <item quantity="few">Prihlásili sa už %d ľudia.</item>
         <item quantity="other">Prihlásilo sa už %d ľudí.</item>
     </plurals>
+
+    <string-array name="update_news_dialog_items">
+        <item>Vylepšenie pošty</item>
+    </string-array>
 
 </resources>

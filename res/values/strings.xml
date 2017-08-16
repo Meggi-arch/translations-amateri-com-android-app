@@ -229,7 +229,7 @@
     <string name="notifications_messages">Messages</string>
     <string name="notifications_dating_messages">Answers to your ads</string>
     <string name="notifications_requests">Friend requests</string>
-    <string name="notifications_favourites">Added me to favourites</string>
+    <string name="notifications_favourites">Favourites</string>
     <string name="notifications_my_account_content_settings">Account and content settings</string>
     <string name="notifications_my_account">My account</string>
     <string name="notifications_albums">Albums</string>
@@ -649,6 +649,7 @@
     <string name="toast_no_camera_app">No camera app found</string>
     <string name="add_attachment">Add a photo</string>
     <string name="notification_message_received">You\'ve got a new message</string>
+    <string name="conversation_empty">Write a message, send a photo, or just a smiley :)</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
@@ -729,11 +730,6 @@
     <!-- Update news dialog -->
     <string name="update_news_dialog_title">New in this version</string>
 
-    <string-array name="update_news_dialog_items">
-        <item>Offline blogs and stories</item>
-        <item>Downloading and sharing of photos in messages</item>
-    </string-array>
-
     <!-- ConversationListActivity -->
     <string name="all_conversations">All conversations</string>
     <string name="me">Me</string>
@@ -799,8 +795,8 @@
         <item quantity="other">%d people</item>
     </plurals>
 
-    <string name="toast_event_signed_in">You\'ve been signed in successfully.</string>
-    <string name="toast_event_signed_out">You\'ve been signed out successfully.</string>
+    <string name="toast_event_signed_in">You\'ve been signed in successfully</string>
+    <string name="toast_event_signed_out">You\'ve been signed out successfully</string>
     <string name="event_comment_disallowed">You cannot comment this event now.</string>
 
     <string name="event_button_man">Man</string>
@@ -839,7 +835,6 @@
         <item quantity="other">There are %d people signed up.</item>
     </plurals>
 
-
     <!-- Fingerprint -->
     <string name="dialog_fingerprint_setup__title">Fingerprint</string>
     <string name="dialog_fingerprint_setup_description">Touch the sensor to authenticate with your fingerprint</string>
@@ -858,5 +853,9 @@
     <string name="title_fingerprint_unlock">Fingerprint unlock</string>
     <string name="subtitle_fingerprint_unlock">Use your finger to unlock</string>
     <string name="use_pin_instead">Use PIN</string>
+
+    <string-array name="update_news_dialog_items">
+        <item>Messaging improvement</item>
+    </string-array>
 
 </resources>
