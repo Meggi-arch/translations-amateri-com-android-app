@@ -677,6 +677,7 @@
 
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslali ste fotku</string>
+    <string name="toolbar_share">Zdieľať…</string>
     <string name="stories_offline_mode">Prezerate si poviedky v offline móde.</string>
     <string name="blogs_offline_mode">Prezerate si blogy v offline móde.</string>
     <string name="go_online_to_load_content">Pripojte sa na internet pre načítanie najnovšieho obsahu.</string>
@@ -790,6 +791,7 @@
 
     <string-array name="update_news_dialog_items">
         <item>Vylepšenie pošty</item>
+        <item>Vylepšenie zdieľanie</item>
     </string-array>
 
 </resources>

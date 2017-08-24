@@ -745,6 +745,7 @@
     <string name="no_users_found_message">No users found</string>
     <string name="user_sent_a_photo">%s sent you a photo</string>
     <string name="i_sent_a_photo">You sent a photo</string>
+    <string name="toolbar_share">Share…</string>
 
     <!-- Stories / Blogs fragment -->
     <string name="stories_offline_mode">You are viewing stories in offline mode.</string>
@@ -856,6 +857,7 @@
 
     <string-array name="update_news_dialog_items">
         <item>Messaging improvement</item>
+        <item>Sharing improvement</item>
     </string-array>
 
 </resources>

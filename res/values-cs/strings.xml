@@ -740,6 +740,7 @@
     <string name="no_users_found_message">Nebyli nalezeni žádní uživatelé</string>
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslal(a) jste fotku</string>
+    <string name="toolbar_share">Sdílet…</string>
 
     <!-- Stories / Blogs fragment -->
     <string name="stories_offline_mode">Prohlížite si povídky v offline módu.</string>
@@ -856,5 +857,6 @@
 
     <string-array name="update_news_dialog_items">
         <item>Vylepšení vzkazníku</item>
+        <item>Vylepšení sdílení</item>
     </string-array>
 </resources>
