@@ -12,6 +12,7 @@
     <string name="title_stories">Povídky</string>
     <string name="title_dating">Seznamka</string>
     <string name="title_events">Srazy</string>
+    <string name="title_chat">Chat</string>
     <string name="title_logout">Odhlásit se</string>
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Odeslat feedback</string>
@@ -644,6 +645,7 @@
     <string name="add_attachment">Přidat fotku</string>
     <string name="notification_message_received">Máte novou zprávu</string>
     <string name="conversation_empty">Napište zprávu, pošlete fotku, anebo jen smajlíka :)</string>
+    <string name="conversation_dating_reply">Odpověď na inzerát</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
@@ -855,8 +857,50 @@
     <string name="subtitle_fingerprint_unlock">Použijte váš prst pro odemčení</string>
     <string name="use_pin_instead">Použít PIN kód</string>
 
+    <!-- ChatActivity -->
+    <string name="tab_chat_board">Rozcestník</string>
+    <string name="tab_chat_rooms">Místnosti</string>
+
+    <string name="chat_dashboard_online_friends">Přátelé na chatu</string>
+    <string name="chat_dashboard_online_friends_empty">Nemáte nyní žádné přátele na chatu.</string>
+    <string name="chat_dashboard_most_popular_webcams">Nejpopulárnější webkamery</string>
+    <string name="chat_dashboard_favourite_chatrooms">Vaše oblíbené místnosti</string>
+    <string name="chat_dashboard_favourite_chatrooms_empty">Zatím nemáte žádné oblíbené místnosti.</string>
+    <string name="chat_dashboard_newest_chatrooms">Nejnovější místnosti</string>
+
+    <string name="chat_room_access_not_allowed_default">Do této místnosti nemáte přístup.</string>
+    <string name="chat_room_access_not_allowed_locked">Tato místnost je zamčená.</string>
+    <string name="chat_room_access_not_allowed_verified_only">Tato místnost je jen pro ověřené uživatele.</string>
+    <string name="chat_room_access_not_allowed_with_content_only">Tato místnost je jen pro užívatele s obsahem.</string>
+
+    <string name="chat_room_empty">Tato místnost je prázdná.</string>
+    <string name="chat_room_category_all">Všechny kategorie</string>
+    <string name="toast_chat_room_favourited">Místnost %s byla přidaná mezi vaše oblíbené.</string>
+    <string name="toast_chat_room_unfavourited">Místnost %s byla odebrána z vašich oblíbených.</string>
+
+    <string name="chat_avatar_popup_button_chat">Chatovat</string>
+    <string name="chat_avatar_popup_button_profile">Profil</string>
+    <string name="chat_room_filter_show_empty">Zobrazit prázdné místnosti</string>
+    <string name="chat_room_filter_show_locked">Zobrazit zamčené místnosti</string>
+    <string name="no_chat_rooms_text">Pro zadaný výběr nejsou žádné místnosti.</string>
+
+    <string name="chat_online_friends_title">Přátelé na chatu</string>
+    <string name="chat_most_popular_webcams_title">Nejpopulárnější webky</string>
+
+    <!-- ChatRoomInfoActivity -->
+    <string name="tab_chat_room_info">Detail místnosti</string>
+    <string name="tab_chat_room_people">Lidé v místnosti</string>
+
+    <string name="chat_room_info_category">Kategorie</string>
+    <string name="chat_room_info_access">Přístup</string>
+    <string name="chat_room_info_temp_admin">Dočasný správce</string>
+    <string name="chat_room_info_permanent_admins">Stálí správci</string>
+    <string name="chat_room_info_enter_button">Vstoupit do místnosti</string>
+
+    <string name="chat_room_people_empty">V této místnosti nikdo není.</string>
+
     <string-array name="update_news_dialog_items">
+        <item>Chat - rozcestník</item>
         <item>Vylepšení vzkazníku</item>
-        <item>Vylepšení sdílení</item>
     </string-array>
 </resources>
