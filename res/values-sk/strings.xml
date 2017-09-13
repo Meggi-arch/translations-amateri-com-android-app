@@ -794,4 +794,48 @@
         <item>Vylepšenie zdieľanie</item>
     </string-array>
 
-</resources>
+<string name="title_chat">Chat</string>
+    <string name="conversation_dating_reply">Odpoveď na inzerát</string>
+
+    <string name="tab_chat_board">Rozcestník</string>
+    <string name="tab_chat_rooms">Miestnosti</string>
+
+    <string name="chat_dashboard_online_friends">Priatelia na chate</string>
+    <string name="chat_dashboard_online_friends_empty">Teraz nemáte žiadnych priateľov na chate.</string>
+    <string name="chat_dashboard_most_popular_webcams">Najpopulárnejšie webkamery</string>
+    <string name="chat_dashboard_favourite_chatrooms">Vaše obľúbené miestnosti</string>
+    <string name="chat_dashboard_favourite_chatrooms_empty">Zatiaľ nemáte žiadne obľúbené miestnosti.</string>
+    <string name="chat_dashboard_newest_chatrooms">Najnovšie miestnosti</string>
+
+    <string name="chat_room_access_not_allowed_default">Do tejto miestnosti nemáte prístup.</string>
+    <string name="chat_room_access_not_allowed_locked">Táto miestnosť je zamknutá.</string>
+    <string name="chat_room_access_not_allowed_verified_only">Táto miestnosť je iba pre overených užívateľov.</string>
+    <string name="chat_room_access_not_allowed_with_content_only">Táto miestnosť je iba pre užívateľov s obsahom.</string>
+    <string name="chat_room_empty">Táto miestnosť je prázdna.</string>
+    <string name="chat_room_category_all">Všetky kategórie</string>
+    <string name="toast_chat_room_favourited">Miestnosť %s bola pridaná medzi vaše obľúbené.</string>
+    <string name="toast_chat_room_unfavourited">Miestnosť %s bola odobraná z vašich obľúbených.</string>
+    <string name="chat_room_list_permanent">Stále miestnosti</string>
+    <string name="chat_room_list_temporary">Dočasné miestnosti</string>
+
+    <string name="chat_avatar_popup_button_chat">Chatovať</string>
+    <string name="chat_avatar_popup_button_profile">Profil</string>
+    <string name="chat_room_filter_show_empty">Zobraziť prázdne miestnosti</string>
+    <string name="chat_room_filter_show_locked">Zobraziť zamknuté miestnosti</string>
+    <string name="no_chat_rooms_text">Pre zadaný výber nie sú žiadne miestnosti.</string>
+
+    <string name="chat_online_friends_title">Priatelia na chate</string>
+    <string name="chat_most_popular_webcams_title">Najpopulárnejšie webky</string>
+
+    <string name="tab_chat_room_info">Detail miestnosti</string>
+    <string name="tab_chat_room_people">Ľudia v miestnosti</string>
+
+    <string name="chat_room_info_category">Kategória</string>
+    <string name="chat_room_info_access">Prístup</string>
+    <string name="chat_room_info_temp_admin">Dočasný správca</string>
+    <string name="chat_room_info_permanent_admins">Stáli správcovia</string>
+    <string name="chat_room_info_enter_button">Vstúpiť do miestnosti</string>
+
+    <string name="chat_room_people_empty">V tejto miestnosti nikto nie je.</string>
+
+    </resources>
