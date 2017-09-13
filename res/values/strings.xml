@@ -876,6 +876,8 @@
     <string name="chat_room_category_all">All categories</string>
     <string name="toast_chat_room_favourited">Room %s was added to your favourites.</string>
     <string name="toast_chat_room_unfavourited">Room %s was removed from your favourites.</string>
+    <string name="chat_room_list_permanent">Permanent chat rooms</string>
+    <string name="chat_room_list_temporary">Temporary chat rooms</string>
 
     <string name="chat_avatar_popup_button_chat">Chat</string>
     <string name="chat_avatar_popup_button_profile">Profile</string>

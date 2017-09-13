@@ -877,6 +877,8 @@
     <string name="chat_room_category_all">Všechny kategorie</string>
     <string name="toast_chat_room_favourited">Místnost %s byla přidaná mezi vaše oblíbené.</string>
     <string name="toast_chat_room_unfavourited">Místnost %s byla odebrána z vašich oblíbených.</string>
+    <string name="chat_room_list_permanent">Stálé místnosti</string>
+    <string name="chat_room_list_temporary">Dočasné místnosti</string>
 
     <string name="chat_avatar_popup_button_chat">Chatovat</string>
     <string name="chat_avatar_popup_button_profile">Profil</string>
