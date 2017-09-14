@@ -35,22 +35,22 @@
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Comments</string>
-    <string name="title_next_comments">More comments (%s)</string>
-    <string name="title_next_albums">More albums (%s)</string>
+    <string name="title_next_comments">More comments</string>
+    <string name="title_next_albums">More albums</string>
     <string name="album_comment_fail">Unable to send comment</string>
     <string name="album_comment_disallowed">You cannot add a comment to this album now.</string>
 
     <!--VideoDetailActivity-->
-    <string name="title_next_videos">More videos (%s)</string>
+    <string name="title_next_videos">More videos</string>
     <string name="video_comment_fail">Unable to send comment</string>
     <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
 
     <!--BlogDetailActivity-->
-    <string name="title_next_blogs">More posts (%s)</string>
+    <string name="title_next_blogs">More posts</string>
     <string name="blog_comment_disallowed">You cannot add a comment to this blog post now.</string>
 
     <!--StoryDetailActivity-->
-    <string name="title_next_story">More stories (%s)</string>
+    <string name="title_next_story">More stories</string>
     <string name="story_comment_disallowed">You cannot add a comment to this story now.</string>
 
     <!--FilterDatingActivity-->
@@ -892,6 +892,7 @@
     <string name="tab_chat_room_info">Room details</string>
     <string name="tab_chat_room_people">People in room</string>
 
+    <string name="chat_room_info_description">Room description</string>
     <string name="chat_room_info_category">Category</string>
     <string name="chat_room_info_access">Access</string>
     <string name="chat_room_info_temp_admin">Temporary admin</string>

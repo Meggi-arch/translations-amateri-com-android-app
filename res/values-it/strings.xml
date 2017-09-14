@@ -22,8 +22,8 @@
     <string name="tab_best">Migliori</string>
 
     <string name="title_comments">Commenti</string>
-    <string name="title_next_comments">Più commenti (%s)</string>
-    <string name="title_next_albums">Più album (%s)</string>
+    <string name="title_next_comments">Più commenti</string>
+    <string name="title_next_albums">Più album</string>
 
     <string name="menu_notification">Notifiche</string>
     <string name="menu_badges">Tag</string>
@@ -92,7 +92,6 @@
     <string name="album_address">URL album</string>
 
     <string name="notifications_title">Notifica</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Visite</string>
     <string name="notifications_messages">Messaggi</string>
     <string name="notifications_dating_messages">Risposte ai tuoi annunci</string>
@@ -160,7 +159,7 @@
     <string name="title_videos">Video</string>
     <string name="album_comment_fail">Impossibile inviare il commento</string>
 
-    <string name="title_next_videos">Più video (%s)</string>
+    <string name="title_next_videos">Più video</string>
     <string name="video_comment_fail">Impossibile inviare il commento</string>
 
     <string name="tab_videos">Video</string>

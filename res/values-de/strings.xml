@@ -15,8 +15,8 @@
     <string name="tab_best">Beste</string>
 
     <string name="title_comments">Kommentare</string>
-    <string name="title_next_comments">Weitere Kommentare (%s)</string>
-    <string name="title_next_albums">Weitere Fotoalben (%s)</string>
+    <string name="title_next_comments">Weitere Kommentare</string>
+    <string name="title_next_albums">Weitere Fotoalben</string>
 
     <string name="menu_notification">Hinweis</string>
     <string name="menu_badges">Tags</string>
@@ -87,7 +87,6 @@
     <string name="no">Nein</string>
 
     <string name="notifications_title">Benachrichtigung</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Besuche</string>
     <string name="notifications_messages">Nachrichten</string>
     <string name="notifications_dating_messages">Antworten auf Anzeigen</string>
@@ -159,7 +158,7 @@
     <string name="title_videos">Videos</string>
     <string name="album_comment_fail">Es ist nicht möglich, einen Kommentar abzusenden</string>
 
-    <string name="title_next_videos">Mehr Videos (%s)</string>
+    <string name="title_next_videos">Mehr Videos</string>
     <string name="video_comment_fail">Es lässt sich kein Kommentar absenden</string>
 
     <string name="tab_videos">Videos</string>
@@ -492,10 +491,10 @@
     <string name="infinity_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Tappen Sie um erneut zu versuchen.</string>
     <string name="title_blogs">Blogs</string>
     <string name="title_stories">Geschichten</string>
-    <string name="title_next_blogs">Weitere Artikeln (%s)</string>
+    <string name="title_next_blogs">Weitere Artikeln</string>
     <string name="blog_comment_disallowed">Diesen Artikel können sie jetzt nicht kommentieren.</string>
 
-    <string name="title_next_story">Weitere Geschichten (%s)</string>
+    <string name="title_next_story">Weitere Geschichten</string>
     <string name="story_comment_disallowed">Diese Geschichte können sie jetzt nicht kommentieren.</string>
 
     <string name="tab_blogs">Blog</string>
@@ -578,8 +577,8 @@
     <string name="message_send_failure">Es scheint, dass ein Netzwerkproblem aufgetreten ist und Ihre Nachricht nicht gesendet wurde.</string>
     <string name="new_message_info">Sie haben neue Nachricht</string>
     <string name="message_write_hint">Nachricht schreiben</string>
-<string name="vip_recurring_payment_advantages">Der Vorteil der automatischen Verlängerung der VIP-Mitgliedschaft ist, dass man nicht immer neu die Zahlung definieren und bestätigen muss. Zu Beginn der nächsten Periode werden Sie Informationen über die Erweiterung informiert.</string>
-<string name="buy_vip_title">Werden Sie VIP Mitglied</string>
+    <string name="vip_recurring_payment_advantages">Der Vorteil der automatischen Verlängerung der VIP-Mitgliedschaft ist, dass man nicht immer neu die Zahlung definieren und bestätigen muss. Zu Beginn der nächsten Periode werden Sie Informationen über die Erweiterung informiert.</string>
+    <string name="buy_vip_title">Werden Sie VIP Mitglied</string>
     <string name="vip_promo_title">Spezialangebot</string>
     <string name="vip_promo_title_ends_today">Spezialangebot (endet Heute)</string>
     <string name="vip_promo_subtitle">Wir vergeben bis zu 1 Monat VIP-Mitgliedschaft kostenlos</string>
@@ -640,7 +639,7 @@
     <string name="close">Schliessen</string>
     <string name="no_visits_title">Keine Besuche</string>
     <string name="no_visits_message">Niemand hat bislang Ihr Profil besucht</string>
-<string name="update_news_dialog_title">Neu in dieser Version</string>
+    <string name="update_news_dialog_title">Neu in dieser Version</string>
 
     <string name="take_a_picture">Foto aufnehmen</string>
     <string name="pick_from_gallery">Aus der Galerie wählen</string>

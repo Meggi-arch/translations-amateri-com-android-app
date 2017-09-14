@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="yes">да</string>
     <string name="no">Нет</string>
 
@@ -18,8 +18,8 @@
     <string name="tab_best">Лучшее</string>
 
     <string name="title_comments">Комментарии</string>
-    <string name="title_next_comments">Другие комментарии (%s)</string>
-    <string name="title_next_albums">Другие альбомы (%s)</string>
+    <string name="title_next_comments">Другие комментарии</string>
+    <string name="title_next_albums">Другие альбомы</string>
 
     <string name="menu_notification">Оповещения</string>
     <string name="menu_badges">Теги</string>
@@ -91,7 +91,6 @@
     <string name="album_address">URL-адрес альбома</string>
 
     <string name="notifications_title">Нотификация</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Просмотры профиля</string>
     <string name="notifications_messages">Сообщения</string>
     <string name="notifications_dating_messages">Ответы на объявления</string>
@@ -143,7 +142,7 @@
         <item quantity="other">%s людям понравилось</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="one">час</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">час</item>
         <item quantity="few">часа</item>
         <item quantity="many">часов</item>
         <item quantity="other">часов</item>
@@ -169,7 +168,7 @@
     <string name="title_videos">Видео</string>
     <string name="album_comment_fail">Невозможно отправить комментарий</string>
 
-    <string name="title_next_videos">Больше видео (%s)</string>
+    <string name="title_next_videos">Больше видео</string>
     <string name="video_comment_fail">Невозможно отправить комментарий</string>
 
     <string name="tab_videos">Видео</string>
@@ -376,7 +375,7 @@
     <string name="notification_video_approve_text">Ваше видео \"%s\" было утверждено.</string>
 
     <string name="notification_update_text">У нас есть новая, более интересная версия приложения. Хотите скачать ее?</string>
-<string name="infinity_error_no_connection">Скорее всего отсутствует интернет-соединение. Нажмите для перезагрузки.</string>
+    <string name="infinity_error_no_connection">Скорее всего отсутствует интернет-соединение. Нажмите для перезагрузки.</string>
     <string name="title_blogs">Блоги</string>
     <string name="title_stories">Истории</string>
     <string name="title_application_settings">Настройки приложения</string>
@@ -385,10 +384,10 @@
     <string name="title_my_account">Мой профиль</string>
     <string name="title_dating">Знакомства</string>
 
-    <string name="title_next_blogs">Читать далее (%s)</string>
+    <string name="title_next_blogs">Читать далее</string>
     <string name="blog_comment_disallowed">К данному материалу невозможно добавить комментарий в данный момент.</string>
 
-    <string name="title_next_story">Больше историй (%s)</string>
+    <string name="title_next_story">Больше историй</string>
     <string name="story_comment_disallowed">Вы не можете в данный момент добавить комментарий к этой истории.</string>
 
     <string name="no_dating_ads_title">Объявления не найдены</string>
@@ -582,7 +581,7 @@
     <string name="message_send_failure">Извините, но возникли проблемы с соединением и не удалось отправить сообщение.</string>
     <string name="new_message_info">У вас новое непрочитанное сообщение</string>
     <string name="message_write_hint">Написать сообщение</string>
-<string name="user_sexual_hobbies_all">Все сексуальные хобби</string>
+    <string name="user_sexual_hobbies_all">Все сексуальные хобби</string>
     <string name="buy_vip_title">Стать VIP членом</string>
     <string name="vip_promo_title">Специальное предложение</string>
     <string name="vip_promo_title_ends_today">Специальное предложение (заканчивается сегодня)</string>
@@ -607,7 +606,7 @@
     <string name="vip_plus_one_day_free">+ 1 день бесплатно</string>
     <string name="vip_normal_payment_button_title">Единоразовый платёж</string>
     <string name="vip_recurring_payment_advantages">Подписка на VIP-членство удобней тем, что Вам нет необходимости каждый раз заново создавать платёж и осуществлять оплату. Каждый раз при обновлении платежа вы получите информацию и подтверждение оплаты.</string>
-<string name="no_users_message_general">Пользователи не найдены</string>
+    <string name="no_users_message_general">Пользователи не найдены</string>
 
     <string name="title_friends">Друзья</string>
     <string name="tab_friends_list">Друзья</string>
@@ -645,7 +644,7 @@
     <string name="close">Закрыть</string>
     <string name="no_visits_title">Нет посетителей</string>
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
-<string name="update_news_dialog_title">Новое в этой версии</string>
+    <string name="update_news_dialog_title">Новое в этой версии</string>
 
     <string name="all_conversations">Все переписки</string>
     <string name="me">Я</string>
@@ -659,7 +658,7 @@
     <string name="no_conversations_message">У вас пока нет переписок</string>
     <string name="no_users_found_title">Нет пользователей</string>
     <string name="no_users_found_message">Пользователи не найдены</string>
-<string name="take_a_picture">Сделать фото</string>
+    <string name="take_a_picture">Сделать фото</string>
     <string name="pick_from_gallery">Выбрать из галереи</string>
     <string name="toast_no_camera_app">Не было найдено приложение для фото</string>
     <string name="add_attachment">Добавить фото</string>

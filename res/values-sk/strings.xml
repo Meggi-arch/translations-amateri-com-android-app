@@ -14,8 +14,8 @@
     <string name="tab_best">Najlepšie</string>
 
     <string name="title_comments">Komentáre</string>
-    <string name="title_next_comments">Ďalšie komentáre (%s)</string>
-    <string name="title_next_albums">Ďalšie fotoalbumy (%s)</string>
+    <string name="title_next_comments">Ďalšie komentáre</string>
+    <string name="title_next_albums">Ďalšie fotoalbumy</string>
 
     <string name="menu_notification">Upozornenie</string>
     <string name="menu_badges">Odznaky</string>
@@ -163,7 +163,7 @@
     <string name="title_videos">Videá</string>
     <string name="album_comment_fail">Nie je možné odoslať komentár</string>
 
-    <string name="title_next_videos">Ďalšie videá (%s)</string>
+    <string name="title_next_videos">Ďalšie videá</string>
     <string name="video_comment_fail">Nie je možné odoslať komentár</string>
 
     <string name="tab_videos">Videá</string>
@@ -501,10 +501,10 @@
     <string name="infinity_error_no_connection">Zdá se, že nemáte pripojenie k internetu. Tapnutím skúste znovu.</string>
     <string name="title_blogs">Blogy</string>
     <string name="title_stories">Poviedky</string>
-    <string name="title_next_blogs">Ďalšie články (%s)</string>
+    <string name="title_next_blogs">Ďalšie články</string>
     <string name="blog_comment_disallowed">K tomuto článku teraz nemôžete pridať komentár.</string>
 
-    <string name="title_next_story">Ďalšie poviedky (%s)</string>
+    <string name="title_next_story">Ďalšie poviedky</string>
     <string name="story_comment_disallowed">K tejto poviedke teraz nemôžete pridať komentár.</string>
 
     <string name="tab_blogs">Blog</string>
@@ -789,12 +789,7 @@
         <item quantity="other">Prihlásilo sa už %d ľudí.</item>
     </plurals>
 
-    <string-array name="update_news_dialog_items">
-        <item>Vylepšenie pošty</item>
-        <item>Vylepšenie zdieľanie</item>
-    </string-array>
-
-<string name="title_chat">Chat</string>
+    <string name="title_chat">Chat</string>
     <string name="conversation_dating_reply">Odpoveď na inzerát</string>
 
     <string name="tab_chat_board">Rozcestník</string>
@@ -830,6 +825,7 @@
     <string name="tab_chat_room_info">Detail miestnosti</string>
     <string name="tab_chat_room_people">Ľudia v miestnosti</string>
 
+    <string name="chat_room_info_description">Popis miestnosti</string>
     <string name="chat_room_info_category">Kategória</string>
     <string name="chat_room_info_access">Prístup</string>
     <string name="chat_room_info_temp_admin">Dočasný správca</string>
@@ -838,4 +834,9 @@
 
     <string name="chat_room_people_empty">V tejto miestnosti nikto nie je.</string>
 
-    </resources>
+    <string-array name="update_news_dialog_items">
+        <item>Chat - rozcestník</item>
+        <item>Vylepšenie pošty</item>
+    </string-array>
+
+</resources>

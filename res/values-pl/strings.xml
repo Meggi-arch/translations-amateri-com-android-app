@@ -15,8 +15,8 @@
     <string name="tab_best">Najlepsze</string>
 
     <string name="title_comments">Komentarze</string>
-    <string name="title_next_comments">Więcej komentarzy (%s)</string>
-    <string name="title_next_albums">Więcej albumów (%s)</string>
+    <string name="title_next_comments">Więcej komentarzy</string>
+    <string name="title_next_albums">Więcej albumów</string>
 
     <string name="menu_notification">Powiadomienia</string>
     <string name="menu_badges">Tagi</string>
@@ -78,7 +78,7 @@
     <string name="author">Autor</string>
     <string name="category">kategorie</string>
     <string name="photo_count">liczba zdjęć</string>
-    <string name="vip">vip</string>
+    <string name="vip">VIP</string>
     <string name="certificated">weryfikacja</string>
     <string name="views">Wyświetlenia</string>
     <string name="rating">ocena</string>
@@ -90,7 +90,6 @@
     <string name="no">nie</string>
 
     <string name="notifications_title">Powiadomienia</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Odwiedziny</string>
     <string name="notifications_messages">Wiadomości</string>
     <string name="notifications_dating_messages">Odpowiedzi na ogłoszenia</string>
@@ -168,7 +167,7 @@
     <string name="title_videos">Widea</string>
     <string name="album_comment_fail">Nie można wysłać komentarza</string>
 
-    <string name="title_next_videos">Więcej wideo (%s)</string>
+    <string name="title_next_videos">Więcej wideo</string>
     <string name="video_comment_fail">Nie można wysłać komentarza</string>
 
     <string name="tab_videos">Widea</string>

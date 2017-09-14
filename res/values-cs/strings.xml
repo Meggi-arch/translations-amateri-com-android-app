@@ -24,8 +24,8 @@
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Komentáře</string>
-    <string name="title_next_comments">Další komentáře (%s)</string>
-    <string name="title_next_albums">Další fotoalba (%s)</string>
+    <string name="title_next_comments">Další komentáře</string>
+    <string name="title_next_albums">Další fotoalba</string>
 
     <!--Menu-->
     <string name="menu_notification">Upozornění</string>
@@ -273,7 +273,7 @@
     <string name="search_user_hint">Hledat v uživatelích</string>
     <string name="album_comment_fail">Nelze odeslat komentář</string>
 
-    <string name="title_next_videos">Další videa (%s)</string>
+    <string name="title_next_videos">Další videa</string>
     <string name="video_comment_fail">Nelze odeslat komentář</string>
 
     <string name="vip_dialog_title">Je nám líto, ale jen VIP uživatelé mohou zdarma využívat tuto funkci.</string>
@@ -569,7 +569,7 @@
     <!-- Logout while uploading dialog -->
     <string name="logout_during_uploading_dialog_title">Opravdu se chcete odhlásit?</string>
     <string name="logout_during_uploading_dialog_content">Veškerý nenahraný obsah bude ztracen.</string>
-    <string name="title_next_story">Další povídky (%s)</string>
+    <string name="title_next_story">Další povídky</string>
     <string name="story_comment_disallowed">K této povídce nyní nemůžete přidat komentář.</string>
 
     <string name="setup_stories_and_blogs_title">Povídky a blogy</string>
@@ -583,7 +583,7 @@
     <string name="color_theme_dark">Tmavá</string>
     <string name="color_theme_light">Bílá</string>
 
-    <string name="title_next_blogs">Další články (%s)</string>
+    <string name="title_next_blogs">Další články</string>
 
     <string name="no_dating_ads_title">Inzeráty nenalezeny</string>
     <string name="no_dating_ads_text">Nebyly nalezeny žádné inzeráty pro zvolený filtr.</string>
@@ -893,6 +893,7 @@
     <string name="tab_chat_room_info">Detail místnosti</string>
     <string name="tab_chat_room_people">Lidé v místnosti</string>
 
+    <string name="chat_room_info_description">Popis místnosti</string>
     <string name="chat_room_info_category">Kategorie</string>
     <string name="chat_room_info_access">Přístup</string>
     <string name="chat_room_info_temp_admin">Dočasný správce</string>

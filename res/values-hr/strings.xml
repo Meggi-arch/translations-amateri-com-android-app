@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="yes">Da</string>
     <string name="no">Ne</string>
 
@@ -22,8 +22,8 @@
     <string name="tab_best">Najbolje</string>
 
     <string name="title_comments">Komentari</string>
-    <string name="title_next_comments">Više komentara (%s)</string>
-    <string name="title_next_albums">Više album (%s)</string>
+    <string name="title_next_comments">Više komentara</string>
+    <string name="title_next_albums">Više album</string>
 
     <string name="menu_notification">Obavijesti</string>
     <string name="menu_badges">Oznake</string>
@@ -92,7 +92,6 @@
     <string name="album_address">URL albuma</string>
 
     <string name="notifications_title">Obavijest</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Posjeta</string>
     <string name="notifications_messages">Poruke</string>
     <string name="notifications_dating_messages">Odgovori na vaše oglase</string>
@@ -144,7 +143,7 @@
         <item quantity="other">%s osoba se sviđa</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="one">sat</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">sat</item>
         <item quantity="few">sata</item>
         <item quantity="many">sati</item>
         <item quantity="other">sati</item>
@@ -170,7 +169,7 @@
     <string name="title_videos">Videozapisi</string>
     <string name="album_comment_fail">Ne može se poslati komentar</string>
 
-    <string name="title_next_videos">Još videozapisa (%s)</string>
+    <string name="title_next_videos">Još videozapisa</string>
     <string name="video_comment_fail">Ne može se poslati komentar</string>
 
     <string name="tab_videos">Videozapisi</string>

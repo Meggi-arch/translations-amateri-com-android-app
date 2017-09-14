@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="general_error">Ouille !</string>
     <string name="general_error_no_connection">Il semble que vous ne soyez pas connecté à Internet. Essayez plus tard s\'il vous plaît.</string>
     <string name="general_loading">Un peu de patience s\'il vous plaît, nous chargeons les données</string>
@@ -15,8 +15,8 @@
     <string name="tab_best">Le meilleur</string>
 
     <string name="title_comments">Commentaires</string>
-    <string name="title_next_comments">Autres commentaires (%s)</string>
-    <string name="title_next_albums">Autres albums de photos (%s)</string>
+    <string name="title_next_comments">Autres commentaires</string>
+    <string name="title_next_albums">Autres albums de photos</string>
 
     <string name="menu_notification">Avertissements</string>
     <string name="menu_badges">Balises</string>
@@ -90,7 +90,6 @@
     <string name="no">Non</string>
 
     <string name="notifications_title">Avertissement</string>
-    <string name="notifications_99_plus">99+</string>
     <string name="notifications_visits">Visites</string>
     <string name="notifications_messages">Messages</string>
     <string name="notifications_dating_messages">Réponses aux annonces</string>
@@ -140,7 +139,7 @@
         <item quantity="other">%s personnes aiment</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="one">heure</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">heure</item>
         <item quantity="other">heures</item>
     </plurals>
     <plurals name="user_filter_show">
@@ -158,7 +157,7 @@
     <string name="title_videos">Vidéos</string>
     <string name="album_comment_fail">Le commentaire ne peut pas être envoyé</string>
 
-    <string name="title_next_videos">Autres vidéos (%s)</string>
+    <string name="title_next_videos">Autres vidéos</string>
     <string name="video_comment_fail">Le commentaire ne peut pas être envoyé</string>
 
     <string name="tab_videos">Vidéos</string>
