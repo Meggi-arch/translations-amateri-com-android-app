@@ -95,7 +95,7 @@
     <string name="notifications_messages">Сообщения</string>
     <string name="notifications_dating_messages">Ответы на объявления</string>
     <string name="notifications_requests">Запросы на добавление в друзья</string>
-    <string name="notifications_favourites">Добавили меня в избранное</string>
+    <string name="notifications_favourites">Избранное</string>
 
     <string name="update_dialog_title">Новая версия</string>
     <string name="update_dialog_content">У нас есть новая, более интересная версия приложения. Хотите скачать её?</string>
@@ -738,17 +738,17 @@
 
     <string name="dialog_fingerprint_setup__title">Отпечаток пальца</string>
     <string name="dialog_fingerprint_setup_description">Прикоснитесь к сенсору пальцем для авторизации</string>
-    <string name="toast_fingerprint_not_supported">Ваше устройство не поддерживает разблокировку отпечатками пальцев</string>
+    <string name="toast_fingerprint_not_supported">Ваше устройство не поддерживает разблокировку отпечатком пальца</string>
     <string name="toast_not_pin_protected">Для использования данной функции необходимо включить блокировку PIN-кодом</string>
-    <string name="toast_fingerprint_not_enrolled">Разблокировка отпечатком пальцев неактивна. Необходимо зарегистрировать отпечаток пальца в настройках вашего устройства.</string>
+    <string name="toast_fingerprint_not_enrolled">Разблокировка отпечатком пальца неактивна. Необходимо зарегистрировать отпечаток пальца в настройках вашего устройства.</string>
     <string name="toast_lockscreen_disabled">Разрешите использование блокировки экрана в настройках устройства.</string>
-    <string name="error_fingerprints_invalidated">Разблокировка отпечатком пальцев недоступна. Похоже, что вы недавно изменяли настройки отпечатков пальцев вашего устройства. Снова активировать разблокировку вы сможете в настройках приложения.</string>
+    <string name="error_fingerprints_invalidated">Разблокировка отпечатком пальца недоступна. Похоже, что вы недавно изменяли настройки отпечатков пальца вашего устройства. Снова активировать разблокировку вы сможете в настройках приложения.</string>
     <string name="success">Готово</string>
-    <string name="fingerprint_authentication_failed">Отпечаток пальцев не был распознан</string>
-    <string name="dialog_fingerprint_unavailable_title">Отпечаток пальцев недоступен</string>
+    <string name="fingerprint_authentication_failed">Отпечаток пальца не был распознан</string>
+    <string name="dialog_fingerprint_unavailable_title">Отпечаток пальца недоступен</string>
     <string name="dialog_fingerprint_unavailable_button">Перейти в настройки</string>
 
-    <string name="title_fingerprint_unlock">Разблокировать отпечатком пальцев</string>
+    <string name="title_fingerprint_unlock">Разблокировать отпечатком пальца</string>
     <string name="subtitle_fingerprint_unlock">Используйте палец для разблокировки</string>
     <string name="use_pin_instead">Используйте PIN-код</string>
 
