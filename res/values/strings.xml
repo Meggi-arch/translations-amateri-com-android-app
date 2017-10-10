@@ -235,6 +235,7 @@
     <string name="notifications_my_account">My account</string>
     <string name="notifications_albums">Albums</string>
     <string name="notifications_videos">Videos</string>
+    <string name="notifications_dating">Dating</string>
 
     <!--Update dialog-->
     <string name="update_dialog_title">New version</string>
@@ -526,6 +527,7 @@
     <!--Floating action button-->
     <string name="fab_add_album">Add album</string>
     <string name="fab_add_video">Add video</string>
+    <string name="fab_add_dating">Add dating ad</string>
 
     <!--MyAccountSettingsFragment-->
     <string name="my_account_content_settings">Content source</string>
@@ -901,9 +903,67 @@
 
     <string name="chat_room_people_empty">There is nobody in this room.</string>
 
+    <!-- NewDatingActivity -->
+    <string name="title_dating_add">New dating ad</string>
+    <string name="dating_add_category_title">Category</string>
+    <string name="dating_add_category_hint">Select category</string>
+    <string name="dating_add_title_title">Title</string>
+    <string name="dating_add_title_hint">Enter a title</string>
+    <string name="dating_add_text_title">Text</string>
+    <string name="dating_add_text_hint">Enter dating ad text…</string>
+    <string name="dating_add_validity_title">Validity</string>
+    <string name="dating_add_button_text">Create dating ad</string>
+    <string name="dating_add_toast_created">Dating ad has been created.</string>
+    <string name="dating_add_dialog_backpress">Dating ad will not be created. All changes you\'ve made will be lost.</string>
+    <string name="dating_add_toast_empty_fields">All fields must be filled.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
+    <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
+
+    <!-- ProfileDatingSettingsFragment -->
+    <string name="dating_settings_no_dating_ads_title">You have no dating ads</string>
+    <string name="dating_settings_no_dating_ads_text">Adding a new dating ad is easy, try it now.</string>
+    <string name="dating_settings_no_dating_ads_button">Add dating ad</string>
+
+    <string name="dating_settings_status_enabled">On web</string>
+    <string name="dating_settings_status_disabled">Canceled</string>
+    <string name="dating_settings_status_expired">Expired</string>
+    <string name="dating_settings_button_topup">Top ad</string>
+    <string name="dating_settings_button_extend">Extend</string>
+    <string name="dating_settings_button_edit">Edit</string>
+
+    <string name="dating_settings_dialog_delete_title">Delete dating ad?</string>
+    <string name="dating_settings_dialog_delete_text">Do you really want to delete this dating ad?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Delete</string>
+    <string name="dating_settings_toast_dating_ad_deleted">Dating ad has been deleted.</string>
+
+    <!-- DatingExtendDialog -->
+    <string name="dialog_dating_extend_title">Extend dating ad validity</string>
+    <string name="dialog_dating_extend_text">Your dating ad has expired. You can extend its validity.</string>
+    <string name="dialog_dating_extend_button_text">Extend by %s</string>
+    <string name="dialog_dating_extend_toast_successful">Dating ad validity has been extended.</string>
+
+    <!-- DatingEditActivity -->
+    <string name="title_dating_edit">Edit dating ad</string>
+    <string name="dating_edit_button_text">Save changes</string>
+    <string name="dating_edit_toast_saved">Changes have been saved.</string>
+    <string name="dating_edit_toast_empty_fields">All fields must be filled.</string>
+
+    <!-- EditText validators -->
+    <string name="edittext_invalid_input_empty">%s must be filled</string>
+
+    <plurals name="edittext_invalid_input_short">
+        <item quantity="one">Please enter at least %d character</item>
+        <item quantity="other">Please enter at least %d characters</item>
+    </plurals>
+
+    <plurals name="edittext_invalid_input_long">
+        <item quantity="one">Please enter %d character at most</item>
+        <item quantity="other">Please enter %d characters at most</item>
+    </plurals>
+
     <string-array name="update_news_dialog_items">
-        <item>Chat - dashboard</item>
-        <item>Messaging improvement</item>
+        <item>Add and edit dating ads</item>
     </string-array>
 
 </resources>

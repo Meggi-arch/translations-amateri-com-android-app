@@ -140,6 +140,7 @@
     <string name="notifications_my_account">Můj účet</string>
     <string name="notifications_albums">Fotoalba</string>
     <string name="notifications_videos">Videa</string>
+    <string name="notifications_dating">Inzeráty</string>
     <string name="notification_add_to_calendar">Přidat do kalendáře</string>
     <string name="notification_event_detail">Detail srazu</string>
 
@@ -475,6 +476,7 @@
     <!--Floating action button-->
     <string name="fab_add_album">Přidat album</string>
     <string name="fab_add_video">Přidat video</string>
+    <string name="fab_add_dating">Přidat inzerát</string>
 
     <!--MyAccountSettingsFragment-->
     <string name="my_account_content_settings">Zdroj obsahu</string>
@@ -902,8 +904,69 @@
 
     <string name="chat_room_people_empty">V této místnosti nikdo není.</string>
 
+    <!-- NewDatingActivity -->
+    <string name="title_dating_add">Nový inzerát</string>
+    <string name="dating_add_category_title">Kategorie</string>
+    <string name="dating_add_category_hint">Vyberte kategorii</string>
+    <string name="dating_add_title_title">Název</string>
+    <string name="dating_add_title_hint">Napište název</string>
+    <string name="dating_add_text_title">Text</string>
+    <string name="dating_add_text_hint">Napište text inzerátu…</string>
+    <string name="dating_add_validity_title">Platnost</string>
+    <string name="dating_add_button_text">Přidat inzerát</string>
+    <string name="dating_add_toast_created">Inzerát byl vytvořen.</string>
+    <string name="dating_add_dialog_backpress">Inzerát nebude vytvořen. Provedené změny budou ztraceny.</string>
+    <string name="dating_add_toast_empty_fields">Musí být vyplněna všechna pole.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Pouze jeden inzerát za %d hodin</string>
+    <string name="dating_add_dialog_forbidden_content">Dnes jste již jeden inzerát přidal(a). Další můžete přidat opět zítra.</string>
+
+    <!-- ProfileDatingSettingsFragment -->
+    <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
+    <string name="dating_settings_no_dating_ads_text">Přidání nového inzerátu je snadné, zkuste to.</string>
+    <string name="dating_settings_no_dating_ads_button">Přidat inzerát</string>
+
+    <string name="dating_settings_status_enabled">Na webu</string>
+    <string name="dating_settings_status_disabled">Zrušeno</string>
+    <string name="dating_settings_status_expired">Exspirováno</string>
+    <string name="dating_settings_button_topup">Topuj inzerát</string>
+    <string name="dating_settings_button_extend">Prodloužit</string>
+    <string name="dating_settings_button_edit">Upravit</string>
+
+    <string name="dating_settings_dialog_delete_title">Smazat inzerát?</string>
+    <string name="dating_settings_dialog_delete_text">Opravdu chcete smazat tento inzerát?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Smazat</string>
+    <string name="dating_settings_toast_dating_ad_deleted">Inzerát byl smazán.</string>
+
+    <!-- DatingExtendDialog -->
+    <string name="dialog_dating_extend_title">Prodloužit platnost inzerátu</string>
+    <string name="dialog_dating_extend_text">Váš inzerát exspiroval. Prodloužením se opět zobrazí mezi ostatními inzeráty.</string>
+    <string name="dialog_dating_extend_button_text">Prodloužit o %s</string>
+    <string name="dialog_dating_extend_toast_successful">Platnost inzerátu byla prodloužena.</string>
+
+    <!-- DatingEditActivity -->
+    <string name="title_dating_edit">Upravit inzerát</string>
+    <string name="dating_edit_button_text">Uložit změny</string>
+    <string name="dating_edit_toast_saved">Změny byly uloženy.</string>
+    <string name="dating_edit_toast_empty_fields">Musí být vyplněna všechna pole.</string>
+
+    <!-- EditText validators -->
+    <string name="edittext_invalid_input_empty">Pole %s musí být vyplněno</string>
+
+    <plurals name="edittext_invalid_input_short">
+        <item quantity="one">Prosím zadejte aspoň %d znak</item>
+        <item quantity="few">Prosím zadejte aspoň %d znaky</item>
+        <item quantity="other">Prosím zadejte aspoň %d znaků</item>
+    </plurals>
+
+    <plurals name="edittext_invalid_input_long">
+        <item quantity="one">Prosím zadejte maximálně %d znak</item>
+        <item quantity="few">Prosím zadejte maximálně %d znaky</item>
+        <item quantity="other">Prosím zadejte maximálně %d znaků</item>
+    </plurals>
+
+    <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Chat - rozcestník</item>
-        <item>Vylepšení vzkazníku</item>
+        <item>Přidávání a úpravy inzerátů v seznamce</item>
     </string-array>
 </resources>
