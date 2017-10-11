@@ -839,4 +839,52 @@
         <item>Vylepšenie pošty</item>
     </string-array>
 
-</resources>
+<string name="notifications_dating">Inzeráty</string>
+
+    <string name="fab_add_dating">Pridať inzerát</string>
+
+    <string name="title_dating_add">Nový inzerát</string>
+    <string name="dating_add_category_title">Kategória</string>
+    <string name="dating_add_category_hint">Vyberte kategóriu</string>
+    <string name="dating_add_title_title">Názov</string>
+    <string name="dating_add_title_hint">Napíšte názov</string>
+    <string name="dating_add_text_title">Text</string>
+    <string name="dating_add_text_hint">Napíšte text inzerátu…</string>
+    <string name="dating_add_validity_title">Platnosť</string>
+    <string name="dating_add_button_text">Pridať inzerát</string>
+    <string name="dating_add_toast_created">Inzerát bol vytvorený.</string>
+    <string name="dating_add_dialog_backpress">Inzerát nebude vytvorený. Uskutočnené zmeny budú stratené.</string>
+    <string name="dating_add_toast_empty_fields">Musia byť vyplnené všetky polia.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Iba jeden inzerát za %d hodín</string>
+    <string name="dating_add_dialog_forbidden_content">Dnes ste už jeden inzerát pridali. Ďalší môžete pridať opäť zajtra.</string>
+
+    <string name="dating_settings_no_dating_ads_title">Nemáte žiadne inzeráty</string>
+    <string name="dating_settings_no_dating_ads_text">Pridanie nového inzerátu je ľahké, skúste to.</string>
+    <string name="dating_settings_no_dating_ads_button">Pridať inzerát</string>
+
+    <string name="dating_settings_status_enabled">Na webe</string>
+    <string name="dating_settings_status_disabled">Zrušené</string>
+    <string name="dating_settings_status_expired">Expirované</string>
+    <string name="dating_settings_button_topup">Topuj inzerát</string>
+    <string name="dating_settings_button_extend">Predĺžiť</string>
+    <string name="dating_settings_button_edit">Upraviť</string>
+
+    <string name="dating_settings_dialog_delete_title">Zmazať inzerát?</string>
+    <string name="dating_settings_dialog_delete_text">Naozaj chcete zmazať tento inzerát?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Zmazať</string>
+    <string name="dating_settings_toast_dating_ad_deleted">Inzerát bol zmazaný.</string>
+
+    <string name="dialog_dating_extend_title">Predĺžiť platnosť inzerátu</string>
+    <string name="dialog_dating_extend_text">Váš inzerát expiroval. Predĺžením sa opäť zobrazí medzi ostatnými inzerátmi.</string>
+    <string name="dialog_dating_extend_button_text">Predĺžiť o %s</string>
+    <string name="dialog_dating_extend_toast_successful">Platnosť inzerátu bola predĺžená.</string>
+
+    <string name="title_dating_edit">Upraviť inzerát</string>
+    <string name="dating_edit_button_text">Uložiť zmeny</string>
+    <string name="dating_edit_toast_saved">Zmeny boli uložené.</string>
+    <string name="dating_edit_toast_empty_fields">Musia byť vyplnené všetky polia.</string>
+
+    <string name="edittext_invalid_input_empty">Pole %s musí byť vyplnené</string>
+
+    </resources>
