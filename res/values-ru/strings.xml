@@ -448,7 +448,7 @@
     <string name="dating_highlight">Подними объявление наверх</string>
     <string name="dating_buy_top_dialog_title">Подними объявление наверх</string>
     <string name="dating_buy_top_dialog_main_text_first">Поднятием - вы поместите объявление на первое место в списке.</string>
-    <string name="dating_buy_top_dialog_main_text_second">"Использую функцию \"поднятие\" ваше объявление будет на первой позиции  в категории в течении %d дней."</string>
+    <string name="dating_buy_top_dialog_main_text_second">"Используя функцию \"поднятие\" ваше объявление будет на первой позиции  в категории в течении %d дней."</string>
     <string name="dating_buy_top_dialog_main_text_third">При одинаковых условиях выше будет объявление, у которого больше оплаченный срок дней.</string>
     <string name="dating_buy_top_dialog_info_text_1">Цена сообщения - %s, включая НДС.</string>
     <string name="dating_buy_top_dialog_info_text_2">Технически обеспечено %s.</string>
