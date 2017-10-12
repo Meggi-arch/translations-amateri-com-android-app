@@ -834,13 +834,7 @@
 
     <string name="chat_room_people_empty">V tejto miestnosti nikto nie je.</string>
 
-    <string-array name="update_news_dialog_items">
-        <item>Chat - rozcestník</item>
-        <item>Vylepšenie pošty</item>
-    </string-array>
-
-<string name="notifications_dating">Inzeráty</string>
-
+    <string name="notifications_dating">Inzeráty</string>
     <string name="fab_add_dating">Pridať inzerát</string>
 
     <string name="title_dating_add">Nový inzerát</string>
@@ -869,6 +863,7 @@
     <string name="dating_settings_button_topup">Topuj inzerát</string>
     <string name="dating_settings_button_extend">Predĺžiť</string>
     <string name="dating_settings_button_edit">Upraviť</string>
+    <string name="dating_settings_button_edited">Upravené</string>
 
     <string name="dating_settings_dialog_delete_title">Zmazať inzerát?</string>
     <string name="dating_settings_dialog_delete_text">Naozaj chcete zmazať tento inzerát?</string>
@@ -887,4 +882,21 @@
 
     <string name="edittext_invalid_input_empty">Pole %s musí byť vyplnené</string>
 
-    </resources>
+    <plurals name="edittext_invalid_input_short">
+        <item quantity="one">Prosím zadajte aspoň %d znak</item>
+        <item quantity="few">Prosím zadajte aspoň %d znaky</item>
+        <item quantity="other">Prosím zadajte aspoň %d znakov</item>
+    </plurals>
+
+    <plurals name="edittext_invalid_input_long">
+        <item quantity="one">Prosím zadajte maximálne %d znak</item>
+        <item quantity="few">Prosím zadajte maximálne %d znaky</item>
+        <item quantity="other">Prosím zadajte maximálne %d znakov</item>
+    </plurals>
+
+    <!-- Update news dialog -->
+    <string-array name="update_news_dialog_items">
+        <item>Pridávanie a úpravy inzerátov v zoznamke</item>
+    </string-array>
+
+</resources>

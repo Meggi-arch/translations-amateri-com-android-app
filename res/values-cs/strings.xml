@@ -932,6 +932,7 @@
     <string name="dating_settings_button_topup">Topuj inzerát</string>
     <string name="dating_settings_button_extend">Prodloužit</string>
     <string name="dating_settings_button_edit">Upravit</string>
+    <string name="dating_settings_button_edited">Upraveno</string>
 
     <string name="dating_settings_dialog_delete_title">Smazat inzerát?</string>
     <string name="dating_settings_dialog_delete_text">Opravdu chcete smazat tento inzerát?</string>

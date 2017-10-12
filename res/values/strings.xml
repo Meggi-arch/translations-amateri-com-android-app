@@ -931,6 +931,7 @@
     <string name="dating_settings_button_topup">Top ad</string>
     <string name="dating_settings_button_extend">Extend</string>
     <string name="dating_settings_button_edit">Edit</string>
+    <string name="dating_settings_button_edited">Edited</string>
 
     <string name="dating_settings_dialog_delete_title">Delete dating ad?</string>
     <string name="dating_settings_dialog_delete_text">Do you really want to delete this dating ad?</string>
