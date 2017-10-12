@@ -795,4 +795,53 @@
     <string name="chat_room_people_empty">Никого нет в чат-комнате.</string>
 
     <string name="setup_fingerprint">Разблокировать отпечатком пальца</string>
+    <string name="notifications_dating">Знакомства</string>
+
+    <string name="fab_add_dating">Добавить объявление</string>
+
+    <string name="title_dating_add">Новое объявление</string>
+    <string name="dating_add_category_title">Категория</string>
+    <string name="dating_add_category_hint">Выберите категорию</string>
+    <string name="dating_add_title_title">Заголовок</string>
+    <string name="dating_add_title_hint">Напишите заголовок</string>
+    <string name="dating_add_text_title">Текст</string>
+    <string name="dating_add_text_hint">Введите текст объявления…</string>
+    <string name="dating_add_validity_title">Срок действия</string>
+    <string name="dating_add_button_text">Добавить объявление</string>
+    <string name="dating_add_toast_created">Объявление было создано.</string>
+    <string name="dating_add_dialog_backpress">Объявление не добавлено. Все изменения будут потеряны.</string>
+    <string name="dating_add_toast_empty_fields">Все поля обязательны к заполнению.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Разрешено 1 объявление за %d часа</string>
+    <string name="dating_add_dialog_forbidden_content">Сегодня вы уже добавляли объявление. Следующее сможете добавить только завтра.</string>
+
+    <string name="dating_settings_no_dating_ads_title">У вас нет объявлений</string>
+    <string name="dating_settings_no_dating_ads_text">Добавить объявление легко, попробуйте сами.</string>
+    <string name="dating_settings_no_dating_ads_button">Добавить объявление</string>
+
+    <string name="dating_settings_status_enabled">На сайте</string>
+    <string name="dating_settings_status_disabled">Отменено</string>
+    <string name="dating_settings_status_expired">Истек срок действия</string>
+    <string name="dating_settings_button_topup">Подними объявление</string>
+    <string name="dating_settings_button_extend">Продлить</string>
+    <string name="dating_settings_button_edit">Редактировать</string>
+    <string name="dating_settings_button_edited">Отредактировано</string>
+
+    <string name="dating_settings_dialog_delete_title">Удалить объявление?</string>
+    <string name="dating_settings_dialog_delete_text">Вы действительно хотите удалить?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Удалить</string>
+    <string name="dating_settings_toast_dating_ad_deleted">Объявление удалено.</string>
+
+    <string name="dialog_dating_extend_title">Продлить срок действия</string>
+    <string name="dialog_dating_extend_text">У вашего объявления закончился срок действия. Продлите и оно снова будет показываться.</string>
+    <string name="dialog_dating_extend_button_text">Продлить на %s</string>
+    <string name="dialog_dating_extend_toast_successful">Срок действия объявление продлен.</string>
+
+    <string name="title_dating_edit">Редактировать</string>
+    <string name="dating_edit_button_text">Сохранить изменения</string>
+    <string name="dating_edit_toast_saved">Изменения сохранены.</string>
+    <string name="dating_edit_toast_empty_fields">Все поля должны быть заполнены.</string>
+
+    <string name="edittext_invalid_input_empty">Поле %s должно быть заполнено</string>
+
     </resources>
