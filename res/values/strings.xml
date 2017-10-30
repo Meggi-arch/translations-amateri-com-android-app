@@ -931,7 +931,7 @@
     <string name="dating_settings_button_topup">Top ad</string>
     <string name="dating_settings_button_extend">Extend</string>
     <string name="dating_settings_button_edit">Edit</string>
-    <string name="dating_settings_button_edited">Edited</string>
+    <string name="dating_settings_status_edited">Edited</string>
 
     <string name="dating_settings_dialog_delete_title">Delete dating ad?</string>
     <string name="dating_settings_dialog_delete_text">Do you really want to delete this dating ad?</string>
@@ -962,6 +962,11 @@
         <item quantity="one">Please enter %d character at most</item>
         <item quantity="other">Please enter %d characters at most</item>
     </plurals>
+
+    <!-- Android Notification channels - these strings will be shown in Android Oreo app's notification settings -->
+    <string name="notification_channel_general">General notifications</string>
+    <string name="notification_channel_messages">Message notifications</string>
+    <string name="notification_channel_upload">Content upload notifications</string>
 
     <string-array name="update_news_dialog_items">
         <item>Add and edit dating ads</item>
