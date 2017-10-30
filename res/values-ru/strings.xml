@@ -844,4 +844,10 @@
 
     <string name="edittext_invalid_input_empty">Поле %s должно быть заполнено</string>
 
+    <string name="dating_settings_status_edited">Отредактировано</string>
+
+    <string name="notification_channel_general">Общие уведомления</string>
+    <string name="notification_channel_messages">Уведомления о сообщениях</string>
+    <string name="notification_channel_upload">Уведомления о загрузке контента</string>
+
     </resources>
