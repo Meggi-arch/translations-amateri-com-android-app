@@ -899,4 +899,10 @@
         <item>Pridávanie a úpravy inzerátov v zoznamke</item>
     </string-array>
 
-</resources>
+<string name="dating_settings_status_edited">Upravené</string>
+
+    <string name="notification_channel_general">Všeobecné notifikácie</string>
+    <string name="notification_channel_messages">Notifikácie so správami</string>
+    <string name="notification_channel_upload">Notifikácie o nahrávaní obsahu</string>
+
+    </resources>
