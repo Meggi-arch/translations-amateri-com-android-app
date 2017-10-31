@@ -825,7 +825,7 @@
     <string name="dating_settings_button_topup">Подними объявление</string>
     <string name="dating_settings_button_extend">Продлить</string>
     <string name="dating_settings_button_edit">Редактировать</string>
-    <string name="dating_settings_button_edited">Отредактировано</string>
+    <string name="dating_settings_status_edited">Отредактировано</string>
 
     <string name="dating_settings_dialog_delete_title">Удалить объявление?</string>
     <string name="dating_settings_dialog_delete_text">Вы действительно хотите удалить?</string>

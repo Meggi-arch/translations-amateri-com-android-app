@@ -863,7 +863,7 @@
     <string name="dating_settings_button_topup">Topuj inzerát</string>
     <string name="dating_settings_button_extend">Predĺžiť</string>
     <string name="dating_settings_button_edit">Upraviť</string>
-    <string name="dating_settings_button_edited">Upravené</string>
+    <string name="dating_settings_status_edited">Upravené</string>
 
     <string name="dating_settings_dialog_delete_title">Zmazať inzerát?</string>
     <string name="dating_settings_dialog_delete_text">Naozaj chcete zmazať tento inzerát?</string>
@@ -898,8 +898,6 @@
     <string-array name="update_news_dialog_items">
         <item>Pridávanie a úpravy inzerátov v zoznamke</item>
     </string-array>
-
-<string name="dating_settings_status_edited">Upravené</string>
 
     <string name="notification_channel_general">Všeobecné notifikácie</string>
     <string name="notification_channel_messages">Notifikácie so správami</string>
