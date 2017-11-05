@@ -91,7 +91,7 @@
     <string name="notifications_messages">Nachrichten</string>
     <string name="notifications_dating_messages">Antworten auf Anzeigen</string>
     <string name="notifications_requests">Freundschaftsanfragen</string>
-    <string name="notifications_favourites">Gefallen mir</string>
+    <string name="notifications_favourites">Favoriten</string>
 
     <string name="update_dialog_title">Neue Version</string>
     <string name="update_dialog_content">Wir haben eine bessere, brandneue Version. Wollen Sie sie herunterladen?</string>
