@@ -661,4 +661,186 @@
     <string name="no_users_found_message">Keine Anwender gefunden</string>
     <string name="user_sent_a_photo">%s hat Ihnen ein Foto geschickt</string>
     <string name="i_sent_a_photo">Sie haben ein Foto geschickt</string>
-</resources>
+<string name="title_events">Treffen</string>
+    <string name="title_chat">Chat</string>
+    <string name="tab_friends">Freunde</string>
+
+    <string name="notifications_dating">Anzeigen</string>
+
+    <string name="notification_add_to_calendar">Zum Kalender hinzufügen</string>
+    <string name="notification_event_detail">Treffendetails</string>
+
+    <string name="fab_add_dating">Anzeige hinzufügen</string>
+
+    <string name="conversation_empty">Schreibe eine Nachricht, sende ein Foto oder einfach einen Smiley :)</string>
+    <string name="conversation_dating_reply">Dating-Antwort</string>
+
+    <string name="toolbar_share">Teilen…</string>
+
+    <string name="stories_offline_mode">Sie schauen sich die Geschichten im Offline-Mode an.</string>
+    <string name="blogs_offline_mode">Sie schauen sich die Blogs im Offline-Mode an.</string>
+    <string name="go_online_to_load_content">Gehen Sie online, um die neuesten Inhalte zu laden.</string>
+    <string name="refresh_to_load_content">Ziehen Sie runter um den Inhalt neuzuladen.</string>
+    <string name="no_stories_title">Keine Geschichten</string>
+    <string name="no_stories_text_online">Keine Geschichten gefunden</string>
+    <string name="no_stories_text_offline">Es gibt keine Offline-Geschichten. Gehen Sie online, um neue Geschichten zu laden.</string>
+    <string name="no_blogs_title">Keine Blogs</string>
+    <string name="no_blogs_text_online">Keine Blogs Gefunden</string>
+    <string name="no_blogs_text_offline">Es gibt keine Offline-Blogs. Gehen Sie online, um neue Blogs zu laden.</string>
+
+    <string name="tab_events_upcoming">Plan</string>
+    <string name="tab_events_past">Historie</string>
+    <string name="no_events_title">Keine Treffen</string>
+    <string name="no_events_upcoming_message">Es gibt keine kommende Treffen</string>
+    <string name="no_events_passed_message">Es gibt keine vergangenen Treffen</string>
+    <string name="no_events_attended_message">Sie haben noch kein treffen besucht</string>
+    <string name="events_attended">Ich besuchte</string>
+    <string name="tab_event_info">Info</string>
+    <string name="tab_event_people">Leute</string>
+    <string name="tab_event_content">Alben und Videen</string>
+
+    <string name="event_i_will_attend_as">Wählen Sie wen Sie angemelden</string>
+    <string name="event_i_attended">Ich war dort</string>
+    <string name="event_organizer">Veranstalter</string>
+    <string name="event_type">Treffentyp</string>
+    <string name="event_date">Datum</string>
+    <string name="event_time">Zeit</string>
+    <string name="event_capacity">Kapazität</string>
+
+    <string name="event_attendee_count">Teilnehmer</string>
+    <string name="event_entry">Eintritt</string>
+    <string name="event_address">Adresse</string>
+    <string name="event_description">Treffenbeschreibung</string>
+    <string name="event_participants">Teilnehmer</string>
+
+    <string name="toast_event_signed_in">Sie wurden erfolgreich angemeldet</string>
+    <string name="toast_event_signed_out">Sie wurden erfolgreich abgemeldet</string>
+    <string name="event_comment_disallowed">Sie können dieses Ereignis jetzt nicht kommentieren.</string>
+
+    <string name="event_button_man">Mann</string>
+    <string name="event_button_woman">Frau</string>
+    <string name="event_button_couple">Paar</string>
+
+    <string name="event_no_people_title">Keine Teilnehmer</string>
+    <string name="event_no_people_text">Niemand hat sich noch zu diesem Treffen angemeldet</string>
+
+    <string name="event_availability_everyone">Das Treffen ist offen für alle</string>
+    <string name="event_availability_users_with_content">Nur für alle Anwender mit aktivem Inhalt</string>
+    <string name="event_availability_verified_users">Nur für zertifizierte Anwender</string>
+    <string name="event_type_chat_room">Treffen des Chat-Raumes %s</string>
+    <string name="event_type_users">Anwender-Treffen</string>
+    <string name="event_type_official">Ofizielles Treffen</string>
+
+    <string name="title_event">Treffen</string>
+    <string name="notification_upcoming_event_start">Treffen-Beginn: %s.</string>
+    <string name="notification_upcoming_event_looking_forward">Vergessen Sie nicht vorbeizuschauen, wir freuen uns auf Sie!</string>
+
+    <string name="dialog_fingerprint_setup__title">Fingerabdruck</string>
+    <string name="dialog_fingerprint_setup_description">Berühren Sie den Fingerabdruck-Authentifizierungssensor</string>
+    <string name="setup_fingerprint">Entsperren durch Fingerabdruck</string>
+    <string name="toast_fingerprint_not_supported">Ihr Gerät unterstützt keine Fingerabdruckentriegelung</string>
+    <string name="toast_not_pin_protected">Um diese Funktion nutzen zu können, müssen Sie zuerst die PIN-Code-Sperre aktivieren</string>
+    <string name="toast_fingerprint_not_enrolled">Die Fingerabdruckentriegelung ist nicht aktiv. Aktivieren Sie die Fingerabdruckeinstellungen auf Ihrem Gerät.</string>
+    <string name="toast_lockscreen_disabled">Aktivieren Sie die Bildschirmsperre in Ihren Geräteeinstellungen.</string>
+    <string name="error_fingerprints_invalidated">Die Fingerabdruckentriegelung ist nicht verfügbar. Es sieht so aus, als ob Sie kürzlich die Fingerabdruckeinstellungen auf Ihrem Gerät geändert haben. Sie können die Fingerabdruckentriegelung in den Anwendungseinstellungen wieder aktivieren.</string>
+    <string name="success">Fertig</string>
+    <string name="fingerprint_authentication_failed">Ihr Fingerabdruck nicht erkannt</string>
+    <string name="dialog_fingerprint_unavailable_title">Fingerabdruck nicht verfügbar</string>
+    <string name="dialog_fingerprint_unavailable_button">In die Einstellungen gehen</string>
+
+    <string name="title_fingerprint_unlock">Entsperrung durch Fingerabdruck</string>
+    <string name="subtitle_fingerprint_unlock">Nutzen Sie Ihren Finger zum Entsperren</string>
+    <string name="use_pin_instead">PIN-Code verwenden</string>
+
+    <string name="tab_chat_board">Dashboard</string>
+    <string name="tab_chat_rooms">Räume</string>
+
+    <string name="chat_dashboard_online_friends">Freunde auf dem Chat</string>
+    <string name="chat_dashboard_online_friends_empty">Sie haben keine Freunde auf dem Chat.</string>
+    <string name="chat_dashboard_most_popular_webcams">Die beliebtesten Webcams</string>
+    <string name="chat_dashboard_favourite_chatrooms">Ihre Lieblingsräume</string>
+    <string name="chat_dashboard_favourite_chatrooms_empty">Sie haben keine Lieblingsräume.</string>
+    <string name="chat_dashboard_newest_chatrooms">Neueste Chaträume</string>
+
+    <string name="chat_room_access_not_allowed_default">Sie haben keinen Zugang zu diesem Raum.</string>
+    <string name="chat_room_access_not_allowed_locked">Raum ist gesperrt.</string>
+    <string name="chat_room_access_not_allowed_verified_only">Dieser Raum ist nur für zertifizierte Anwender.</string>
+    <string name="chat_room_access_not_allowed_with_content_only">Dieser Raum ist nur für Anwender mit Inhalt.</string>
+    <string name="chat_room_empty">Dieser Raum ist Leer.</string>
+    <string name="chat_room_category_all">Alle Kategorien</string>
+    <string name="toast_chat_room_favourited">Raum %s wurde zu Ihren Favoriten hinzugefügt.</string>
+    <string name="toast_chat_room_unfavourited">Raum %s wurde von Ihren Favoriten entfernt.</string>
+    <string name="chat_room_list_permanent">Permanent Räume</string>
+    <string name="chat_room_list_temporary">Temporäre Räume</string>
+
+    <string name="chat_avatar_popup_button_chat">Chatten</string>
+    <string name="chat_avatar_popup_button_profile">Profil</string>
+    <string name="chat_room_filter_show_empty">Leere Räume anzeigen</string>
+    <string name="chat_room_filter_show_locked">Gesperrte Räume anzeigen</string>
+    <string name="no_chat_rooms_text">Keine Räume für eingegebenen Filter.</string>
+
+    <string name="chat_online_friends_title">Freunde auf dem Chat</string>
+    <string name="chat_most_popular_webcams_title">Beliebteste Webcams</string>
+
+    <string name="tab_chat_room_info">Raum-Details</string>
+    <string name="tab_chat_room_people">Leute im Raum</string>
+
+    <string name="chat_room_info_description">Raumbeschreibung</string>
+    <string name="chat_room_info_category">Kategorie</string>
+    <string name="chat_room_info_access">Zugang</string>
+    <string name="chat_room_info_temp_admin">Temporärer Verwalter</string>
+    <string name="chat_room_info_permanent_admins">Permanente Verwalter</string>
+    <string name="chat_room_info_enter_button">Raum betreten</string>
+
+    <string name="chat_room_people_empty">Keiner ist in diesem Raum.</string>
+
+    <string name="title_dating_add">Neue Anzeige</string>
+    <string name="dating_add_category_title">Kategorie</string>
+    <string name="dating_add_category_hint">Kategorie wählen</string>
+    <string name="dating_add_title_title">Titel</string>
+    <string name="dating_add_title_hint">Titel eingeben</string>
+    <string name="dating_add_text_title">Text</string>
+    <string name="dating_add_text_hint">Text der Anzeige eingeben…</string>
+    <string name="dating_add_validity_title">Gültigkeit</string>
+    <string name="dating_add_button_text">Anzeige hinzufügen</string>
+    <string name="dating_add_toast_created">Anzeige erstellt.</string>
+    <string name="dating_add_dialog_backpress">Anzeige wird nicht erstellt. Vorgenomene Änderungen werden nicht gespeichert.</string>
+    <string name="dating_add_toast_empty_fields">Alle Felder müssen ausgefüllt werden.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Nur eine Anzeige in %d Stunden</string>
+    <string name="dating_add_dialog_forbidden_content">Heute haben Sie schon eine Azneige hinzugefügt. Sie können weitere morgen hinzufügen.</string>
+
+    <string name="dating_settings_no_dating_ads_title">Sie haben keine Anzeigen</string>
+    <string name="dating_settings_no_dating_ads_text">Neue Anzeige hinzuzufügen ist einfach, probieren Sie es.</string>
+    <string name="dating_settings_no_dating_ads_button">Anzeige hinzufügen</string>
+
+    <string name="dating_settings_status_enabled">Auf dem Web</string>
+    <string name="dating_settings_status_disabled">Abgebrochen</string>
+    <string name="dating_settings_status_expired">Abgelaufen</string>
+    <string name="dating_settings_button_topup">Anzeige TOPen</string>
+    <string name="dating_settings_button_extend">Erweitern</string>
+    <string name="dating_settings_button_edit">Bearbeiten</string>
+    <string name="dating_settings_status_edited">Bearbeitet</string>
+
+    <string name="dating_settings_dialog_delete_title">Anzeige löschen?</string>
+    <string name="dating_settings_dialog_delete_text">Wollen Sie wirklich diese Anzeige löschen?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Löschen</string>
+    <string name="dating_settings_toast_dating_ad_deleted">Anzeige wurde gelöscht.</string>
+
+    <string name="dialog_dating_extend_title">Gültigkeit der Anzeige erweitern</string>
+    <string name="dialog_dating_extend_text">Ihre Anzeige ist abgelaufen. Nach dem Erweitern wird es wieder unter anderen Anzeigen angezeigt.</string>
+    <string name="dialog_dating_extend_button_text">Erweitern um %s</string>
+    <string name="dialog_dating_extend_toast_successful">Gültigkeit der Anzeige wurde erweitert.</string>
+
+    <string name="title_dating_edit">Anzeige bearbeiten</string>
+    <string name="dating_edit_button_text">Änderungen speichern</string>
+    <string name="dating_edit_toast_saved">Änderungen wurden gespeichert.</string>
+    <string name="dating_edit_toast_empty_fields">Alle Felder müssen ausgefüllt werden.</string>
+
+    <string name="edittext_invalid_input_empty">Feld %s müss ausgefüllt werden</string>
+
+    <string name="notification_channel_general">Allgemeine Benachrichtigungen</string>
+    <string name="notification_channel_messages">Nachrichtenbenachrichtigungen</string>
+    <string name="notification_channel_upload">Benachrichtigungen zum Hochladen von Inhalten</string>
+
+    </resources>
