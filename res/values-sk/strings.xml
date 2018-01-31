@@ -903,4 +903,69 @@
     <string name="notification_channel_messages">Notifikácie so správami</string>
     <string name="notification_channel_upload">Notifikácie o nahrávaní obsahu</string>
 
+    <string name="menu_chat_room">Menu chat miestnosti</string>
+
+    <string name="chat_room_empty_title">Žiadne správy</string>
+    <string name="chat_room_empty_text">V tejto miestnosti nie sú žiadne správy.</string>
+    <string name="chat_room_empty_text_friend_filter">Máte vyfiltrované len správy od priateľov.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Vypnúť filter a skúsiť znova</string>
+    <string name="dialog_chat_room_leave_title">Chcete opustiť miestnosť?</string>
+    <string name="dialog_chat_room_leave_text">Pri voľbe Hneď sa vrátim zostanete ešte 10 minút v miestnosti.</string>
+    <string name="dialog_chat_room_leave_button_leave">Áno, opustiť</string>
+    <string name="dialog_chat_room_leave_button_brb">Hneď sa vrátim</string>
+    <string name="dialog_chat_room_forbidden_title">Čas pripojenia vypršal</string>
+    <string name="dialog_chat_room_forbidden_text">Pravdepodobne už nie ste v miestnosti, budete presmerovaní von z miestnosti a prípadne sa vráťte, alebo vyberte inú miestnosť.</string>
+    <string name="popup_chat_room_menu_info">Informácie o miestnosti</string>
+    <string name="popup_chat_room_menu_fav_add">Pridať do obľúbených</string>
+    <string name="popup_chat_room_menu_fav_remove">Odobrať z obľúbených</string>
+    <string name="popup_chat_room_menu_settings">Nastavenia</string>
+    <string name="avatarbar_empty_text">V tejto miestnosti ste sami :-(</string>
+    <string name="chat_room_users_category_chatties">Kecálkovia</string>
+    <string name="chat_room_users_category_friends">Priatelia</string>
+    <string name="chat_room_users_category_others">Užívatelia</string>
+    <string name="chat_room_users_filter_empty_title">Žiadni užívatelia</string>
+    <string name="chat_room_users_filter_empty_text">Neboli nájdení žiadni užívatelia pre zvolený filter.</string>
+    <string name="popup_chat_room_user_filter_webcam">S webkou</string>
+    <string name="popup_chat_room_user_filter_content">S albummi/videami</string>
+    <string name="chat_room_users_filter_all_countries">Všetky krajiny</string>
+    <string name="chat_room_users_filter_all_regions">Všetky regióny</string>
+    <string name="toast_chat_room_admin_rights_gained">Teraz ste dočasným správcom tejto miestnosti</string>
+    <string name="dialog_chat_room_kick_user_title">Vyhodiť tohto užívateľa z miestnosti?</string>
+    <string name="dialog_chat_room_kick_user_content">Užívateľ: %s</string>
+    <string name="dialog_chat_room_kick_user_choose_reason">Vyberte dôvod</string>
+    <string name="dialog_chat_room_kick_user_reason_hint">Dôvod</string>
+    <string name="dialog_chat_room_kick_user_button_confirm">Áno, vyhodiť</string>
+    <string name="toast_chat_room_user_kicked">Užívateľ %s bol vyhodený</string>
+    <string name="dialog_chat_room_kicked_me_title">Boli ste vyhodení</string>
+    <string name="dialog_chat_room_kicked_me_content">Boli ste vyhodení z miestnosti na %1$d minút! Dôvod: %2$s. Skúste to neskôr.</string>
+    <string name="chat_room_knock_ask_title">Užívateľ %s žiada o vstup do miestnosti</string>
+    <string name="chat_room_knock_ask_reject_button">Odmietnúť</string>
+    <string name="chat_room_knock_ask_allow_button">Povoliť</string>
+    <string name="chat_room_knock_ask_profile_button">Profil</string>
+
+    <string name="dialog_chat_room_knock_title_main">Táto miestnosť je zamknutá</string>
+    <string name="dialog_chat_room_knock_title_waiting">Čakám na odpoveď od správcu miestnosti…</string>
+    <string name="dialog_chat_room_knock_text_main">Môžete požiadať o vstup do miestnosti, alebo sa vrátiť späť.</string>
+    <string name="dialog_chat_room_knock_text_waiting">Ak správca miestnosti do 2 minút neodpovie, budete presmerovaní späť.</string>
+    <string name="dialog_chat_room_knock_text_forbidden">Je nám ľúto, ale správca vám nepovolil vstup do tejto miestnosti.</string>
+    <string name="dialog_chat_room_knock_button_request">Požiadať o vstup</string>
+    <string name="dialog_chat_room_knock_button_cancel">Ísť späť</string>
+    <string name="toast_chat_room_knock_access_refused">Správca vám nepovolil vstup do tejto miestnosti.</string>
+
+    <string name="chat_room_settings_friends_messages_only">Iba správy od priateľov</string>
+    <string name="chat_room_settings_admin_handover_title">Predať správcovstvo</string>
+    <string name="chat_room_settings_admin_handover_chooser_title">Vyberte užívateľa</string>
+    <string name="chat_room_settings_admin_handover_chooser_title_disabled">Žiadni užívatelia</string>
+    <string name="chat_room_settings_admin_handover_dialog_title">Predať správcovstvo?</string>
+    <string name="chat_room_settings_admin_handover_dialog_text">Naozaj chcete predať správcovstvo užívateľovi %s?</string>
+    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Áno, predať správcovstvo</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">Správcovstvo bolo predané užívateľovi %s.</string>
+    <string name="chat_room_settings_font_size_title">Veľkosť písma</string>
+    <string name="chat_room_settings_font_size_normal">Malé</string>
+    <string name="chat_room_settings_font_size_bigger">Stredné</string>
+    <string name="chat_room_settings_font_size_biggest">Veľké</string>
+
+    <string name="chat_room_whisper_empty_title">Zatiaľ žiadne správy</string>
+    <string name="chat_room_whisper_empty_text">Napíšte správu, alebo len smajlíka :)</string>
+
     </resources>
