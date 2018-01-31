@@ -31,6 +31,7 @@
     <string name="menu_notification">Upozornění</string>
     <string name="menu_badges">Štítky</string>
     <string name="menu_reset">Reset</string>
+    <string name="menu_chat_room">Menu chat místnosti</string>
 
     <string name="action_try_again">Zkusit znovu</string>
 
@@ -971,8 +972,75 @@
     <string name="notification_channel_messages">Notifikace vzkazníku</string>
     <string name="notification_channel_upload">Notifikace o nahrávání obsahu</string>
 
+    <!-- Chat Room -->
+    <string name="chat_room_empty_title">Žádné zprávy</string>
+    <string name="chat_room_empty_text">V této místnosti nejsou žádné zprávy.</string>
+    <string name="chat_room_empty_text_friend_filter">Máte vyfiltrované pouze zprávy od přátel.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Vypnout filtr a zkusit znovu</string>
+    <string name="dialog_chat_room_leave_title">Chcete opustit místnost?</string>
+    <string name="dialog_chat_room_leave_text">Při volbě \“Hned se vrátím\” zůstanete ještě 10 minut v místnosti.</string>
+    <string name="dialog_chat_room_leave_button_leave">Ano, opustit</string>
+    <string name="dialog_chat_room_leave_button_brb">Hned se vrátím</string>
+    <string name="dialog_chat_room_forbidden_title">Čas spojení vypršel</string>
+    <string name="dialog_chat_room_forbidden_text">Pravděpodobně už nejste v místnosti, budete přesměrováni ven z místnosti a případně se vraťte nebo vyberte jinou místnost.</string>
+    <string name="popup_chat_room_menu_info">Informace o místnosti</string>
+    <string name="popup_chat_room_menu_fav_add">Přidat do oblíbených</string>
+    <string name="popup_chat_room_menu_fav_remove">Odebrat z oblíbených</string>
+    <string name="popup_chat_room_menu_settings">Nastavení</string>
+    <string name="avatarbar_empty_text">V této místnosti jste sám :-(</string>
+    <string name="chat_room_users_category_chatties">Kecálci</string>
+    <string name="chat_room_users_category_friends">Přátelé</string>
+    <string name="chat_room_users_category_others">Uživatelé</string>
+    <string name="chat_room_users_filter_empty_title">Žádní uživatelé</string>
+    <string name="chat_room_users_filter_empty_text">Nebyli nalezeni žádní uživatelé pro zvolený filtr.</string>
+    <string name="popup_chat_room_user_filter_webcam">S webkou</string>
+    <string name="popup_chat_room_user_filter_content">S alby/videi</string>
+    <string name="chat_room_users_filter_all_countries">Všechny země</string>
+    <string name="chat_room_users_filter_all_regions">Všechny regiony</string>
+    <string name="toast_chat_room_admin_rights_gained">Nyní jste dočasným správcem této místnosti</string>
+    <string name="dialog_chat_room_kick_user_title">Vyhodit tohoto uživatele z místnosti?</string>
+    <string name="dialog_chat_room_kick_user_content">Uživatel: %s</string>
+    <string name="dialog_chat_room_kick_user_choose_reason">Vyberte důvod</string>
+    <string name="dialog_chat_room_kick_user_reason_hint">Důvod</string>
+    <string name="dialog_chat_room_kick_user_button_confirm">Ano, vyhodit</string>
+    <string name="toast_chat_room_user_kicked">Uživatel %s byl vyhozen</string>
+    <string name="dialog_chat_room_kicked_me_title">Byl jste vyhozen</string>
+    <string name="dialog_chat_room_kicked_me_content">Byl jste vyhozen z místnosti na %1$d minut! Důvod: %2$s. Zkuste to později.</string>
+    <string name="chat_room_knock_ask_title">User %s žádá o vstup do místnosti</string>
+    <string name="chat_room_knock_ask_reject_button">Odmítnout</string>
+    <string name="chat_room_knock_ask_allow_button">Povolit</string>
+    <string name="chat_room_knock_ask_profile_button">Profil</string>
+
+    <!-- Chat Room knock dialog -->
+    <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
+    <string name="dialog_chat_room_knock_title_waiting">Čekám na odpověď od správce místnosti…</string>
+    <string name="dialog_chat_room_knock_text_main">Můžete požádat o vstup do místnosti nebo se vrátit zpět.</string>
+    <string name="dialog_chat_room_knock_text_waiting">Pokud správce místnosti do 2 minut neodpoví, budete přesměrováni zpět.</string>
+    <string name="dialog_chat_room_knock_text_forbidden">Je nám líto, ale správce vám nepovolil vstup do této místnosti.</string>
+    <string name="dialog_chat_room_knock_button_request">Požádat o vstup</string>
+    <string name="dialog_chat_room_knock_button_cancel">Jít zpět</string>
+    <string name="toast_chat_room_knock_access_refused">Správce vám nepovolil vstup do této místnosti.</string>
+
+    <!-- Chat Room Settings -->
+    <string name="chat_room_settings_friends_messages_only">Jen texty přátel</string>
+    <string name="chat_room_settings_admin_handover_title">Předat správcovství</string>
+    <string name="chat_room_settings_admin_handover_chooser_title">Vyberte uživatele</string>
+    <string name="chat_room_settings_admin_handover_chooser_title_disabled">Žádní uživatelé</string>
+    <string name="chat_room_settings_admin_handover_dialog_title">Předat správcovství?</string>
+    <string name="chat_room_settings_admin_handover_dialog_text">Opravdu chcete předat správcovství uživateli %s?</string>
+    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Ano, předat správcovství</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">Správcovství bylo předáno uživateli %s.</string>
+    <string name="chat_room_settings_font_size_title">Velikost písma</string>
+    <string name="chat_room_settings_font_size_normal">Malé</string>
+    <string name="chat_room_settings_font_size_bigger">Střední</string>
+    <string name="chat_room_settings_font_size_biggest">Velké</string>
+
+    <!-- Chat room whisper -->
+    <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
+    <string name="chat_room_whisper_empty_text">Napište zprávu nebo jen smajlíka :)</string>
+
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Přidávání a úpravy inzerátů v seznamce</item>
+        <item>Chat místnosti ;-)</item>
     </string-array>
 </resources>
