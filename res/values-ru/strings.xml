@@ -850,4 +850,69 @@
     <string name="notification_channel_messages">Уведомления о сообщениях</string>
     <string name="notification_channel_upload">Уведомления о загрузке контента</string>
 
+    <string name="menu_chat_room">Меню чат-комнаты</string>
+
+    <string name="chat_room_empty_title">Нет сообщений</string>
+    <string name="chat_room_empty_text">Нет сообщение в данной комнате.</string>
+    <string name="chat_room_empty_text_friend_filter">У вас включен фильтр \"Сообщения только от друзей\".</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Выключить фильтр и попробовать еще раз</string>
+    <string name="dialog_chat_room_leave_title">Хотите выйти из комнаты?</string>
+    <string name="dialog_chat_room_leave_text">Вы останетесь в комнате на 10 минут при выборе опции \"Я вернусь\".</string>
+    <string name="dialog_chat_room_leave_button_leave">Да, выйти</string>
+    <string name="dialog_chat_room_leave_button_brb">Я вернусь</string>
+    <string name="dialog_chat_room_forbidden_title">Таймаут соединения</string>
+    <string name="dialog_chat_room_forbidden_text">Вероятнее всего вы уже не в комнате. Вы будете перенаправлены, откуда вы сможете вернуться или выбрать другую комнату.</string>
+    <string name="popup_chat_room_menu_info">Информация о комнате</string>
+    <string name="popup_chat_room_menu_fav_add">Добавить в избранное</string>
+    <string name="popup_chat_room_menu_fav_remove">Убрать из избранного</string>
+    <string name="popup_chat_room_menu_settings">Настройки</string>
+    <string name="avatarbar_empty_text">В комнате нет никого, кроме вас :-(</string>
+    <string name="chat_room_users_category_chatties">Люди в чате</string>
+    <string name="chat_room_users_category_friends">Друзья</string>
+    <string name="chat_room_users_category_others">Пользователи</string>
+    <string name="chat_room_users_filter_empty_title">Пользователей нет</string>
+    <string name="chat_room_users_filter_empty_text">С данным фильтром не найдено ни одного пользователя.</string>
+    <string name="popup_chat_room_user_filter_webcam">С вебкамерой</string>
+    <string name="popup_chat_room_user_filter_content">С альбомами/видео</string>
+    <string name="chat_room_users_filter_all_countries">Все страны</string>
+    <string name="chat_room_users_filter_all_regions">Все регионы</string>
+    <string name="toast_chat_room_admin_rights_gained">Вы стали временным администратором комнаты</string>
+    <string name="dialog_chat_room_kick_user_title">Выгнать пользователя из комнаты?</string>
+    <string name="dialog_chat_room_kick_user_content">Пользователь: %s</string>
+    <string name="dialog_chat_room_kick_user_choose_reason">Выберите причину</string>
+    <string name="dialog_chat_room_kick_user_reason_hint">Причина</string>
+    <string name="dialog_chat_room_kick_user_button_confirm">Да, выгнать</string>
+    <string name="toast_chat_room_user_kicked">Пользователь %s был выгнан</string>
+    <string name="dialog_chat_room_kicked_me_title">Вас выгнали</string>
+    <string name="dialog_chat_room_kicked_me_content">Вас выгнали из комнаты на %1$d минут! Причина: %2$s. Попробуйте зайти позже.</string>
+    <string name="chat_room_knock_ask_title">Пользователь %s запросил доступ в комнату</string>
+    <string name="chat_room_knock_ask_reject_button">Отказать</string>
+    <string name="chat_room_knock_ask_allow_button">Принять</string>
+    <string name="chat_room_knock_ask_profile_button">Профиль</string>
+
+    <string name="dialog_chat_room_knock_title_main">Это закрытая комната</string>
+    <string name="dialog_chat_room_knock_title_waiting">Жду ответа администратора комнаты…</string>
+    <string name="dialog_chat_room_knock_text_main">Вы можете запросить доступ до комнаты или вернуться.</string>
+    <string name="dialog_chat_room_knock_text_waiting">Если администратор не ответит в течении 2-х минут - вы будете перенаправлены.</string>
+    <string name="dialog_chat_room_knock_text_forbidden">Извините, но администратор комнаты не предоставил вам доступ.</string>
+    <string name="dialog_chat_room_knock_button_request">Запросить доступ</string>
+    <string name="dialog_chat_room_knock_button_cancel">Вернуться</string>
+    <string name="toast_chat_room_knock_access_refused">Администратор не предоставил вам доступ до комнаты.</string>
+
+    <string name="chat_room_settings_friends_messages_only">Только сообщения друзей</string>
+    <string name="chat_room_settings_admin_handover_title">Передать права администрирования</string>
+    <string name="chat_room_settings_admin_handover_chooser_title">Выбрать пользователя</string>
+    <string name="chat_room_settings_admin_handover_chooser_title_disabled">Нет пользователей</string>
+    <string name="chat_room_settings_admin_handover_dialog_title">Передать права администрирования?</string>
+    <string name="chat_room_settings_admin_handover_dialog_text">Вы действительно хотите передать права администрирования пользователю %s?</string>
+    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Да, передать</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">Права администрирования были переданы пользователю %s.</string>
+    <string name="chat_room_settings_font_size_title">Размер шрифта</string>
+    <string name="chat_room_settings_font_size_normal">Маленький</string>
+    <string name="chat_room_settings_font_size_bigger">Средний</string>
+    <string name="chat_room_settings_font_size_biggest">Большой</string>
+
+    <string name="chat_room_whisper_empty_title">Нет сообщений</string>
+    <string name="chat_room_whisper_empty_text">Напишите сообщение или смайлик :)</string>
+
     </resources>
