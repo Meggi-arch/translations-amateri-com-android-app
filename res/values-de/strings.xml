@@ -843,4 +843,69 @@
     <string name="notification_channel_messages">Nachrichtenbenachrichtigungen</string>
     <string name="notification_channel_upload">Benachrichtigungen zum Hochladen von Inhalten</string>
 
+    <string name="menu_chat_room">Chatroom-Menü</string>
+
+    <string name="chat_room_empty_title">Keine Nachrichten</string>
+    <string name="chat_room_empty_text">Keine Nachrichten in diesem Raum.</string>
+    <string name="chat_room_empty_text_friend_filter">Sie haben den Filter \"Nur Friend-Nachrichten\" aktiviert.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Filter ausschalten und wieder versuchen</string>
+    <string name="dialog_chat_room_leave_title">Wollen sie diesen Raum verlassen?</string>
+    <string name="dialog_chat_room_leave_text">Sie bleiben für die nächsten 10 Minuten im Zimmer, nachdem Sie die Option \"Ich bin gleich wieder da\" gewählt haben.</string>
+    <string name="dialog_chat_room_leave_button_leave">Ja, verlassen</string>
+    <string name="dialog_chat_room_leave_button_brb">Ich bin gleich wieder da</string>
+    <string name="dialog_chat_room_forbidden_title">Verbindung abgelaufen</string>
+    <string name="dialog_chat_room_forbidden_text">Sie sind wahrscheinlich nicht mehr im Raum, Sie werden aus dem Chatroom weitergeleitet, von wo aus Sie zurückkehren können, oder Sie können ein anderes Zimmer wählen.</string>
+    <string name="popup_chat_room_menu_info">Raum Info</string>
+    <string name="popup_chat_room_menu_fav_add">Zu Favoriten hinzufügen</string>
+    <string name="popup_chat_room_menu_fav_remove">Von Favoriten entfernen</string>
+    <string name="popup_chat_room_menu_settings">Einstellungen</string>
+    <string name="avatarbar_empty_text">Sie sind alleine in diesem Raum :-(</string>
+    <string name="chat_room_users_category_chatties">Chatters</string>
+    <string name="chat_room_users_category_friends">Freunde</string>
+    <string name="chat_room_users_category_others">Benutzer</string>
+    <string name="chat_room_users_filter_empty_title">Keine Benutzer</string>
+    <string name="chat_room_users_filter_empty_text">Für den ausgewählten Filter wurden keine Benutzer gefunden.</string>
+    <string name="popup_chat_room_user_filter_webcam">Mit Webcam</string>
+    <string name="popup_chat_room_user_filter_content">Mit Alben/Videen</string>
+    <string name="chat_room_users_filter_all_countries">Alle Länder</string>
+    <string name="chat_room_users_filter_all_regions">Alle Regione</string>
+    <string name="toast_chat_room_admin_rights_gained">Sie sind jetzt ein temporärer Administrator dieses Raums</string>
+    <string name="dialog_chat_room_kick_user_title">Den Benutzer aus dem Raum rauswerfen?</string>
+    <string name="dialog_chat_room_kick_user_content">Benutzer: %s</string>
+    <string name="dialog_chat_room_kick_user_choose_reason">Wähle einen Grund</string>
+    <string name="dialog_chat_room_kick_user_reason_hint">Grund</string>
+    <string name="dialog_chat_room_kick_user_button_confirm">Ja, rauswerfen</string>
+    <string name="toast_chat_room_user_kicked">Benutzer %s wurde rausgeworfen</string>
+    <string name="dialog_chat_room_kicked_me_title">Sie wurden rausgeworfen</string>
+    <string name="dialog_chat_room_kicked_me_content">Sie wurden für %1$d Minuten rausgeworfen! Grund: %2$s. Versuchen Sie es später noch einmal.</string>
+    <string name="chat_room_knock_ask_title">Benutzer %s möchte den Raum betreten</string>
+    <string name="chat_room_knock_ask_reject_button">Ablehnen</string>
+    <string name="chat_room_knock_ask_allow_button">Genehmigen</string>
+    <string name="chat_room_knock_ask_profile_button">Profil</string>
+
+    <string name="dialog_chat_room_knock_title_main">Dieser Raum ist gesperrt</string>
+    <string name="dialog_chat_room_knock_title_waiting">Ich warte auf die Antwort vom Raum-Administrator …</string>
+    <string name="dialog_chat_room_knock_text_main">Sie können darum bitten, den Raum zu betreten oder zurückgehen.</string>
+    <string name="dialog_chat_room_knock_text_waiting">Wenn der Raum-Administrator nicht innerhalb von 2 Minuten antwortet, werden Sie zurück umgeleitet.</string>
+    <string name="dialog_chat_room_knock_text_forbidden">Entschuldigung, der Admin hat ihnen nicht erlaubt, diesen Raum zu betreten.</string>
+    <string name="dialog_chat_room_knock_button_request">Eintrittserlaubnis anfordern</string>
+    <string name="dialog_chat_room_knock_button_cancel">Zurückgehen</string>
+    <string name="toast_chat_room_knock_access_refused">Admin hat ihnen nicht erlaubt, diesen Raum zu betreten.</string>
+
+    <string name="chat_room_settings_friends_messages_only">Nur Nachrichten von Freunden</string>
+    <string name="chat_room_settings_admin_handover_title">Adminberechtigung übergeben</string>
+    <string name="chat_room_settings_admin_handover_chooser_title">Wähle Benutzer</string>
+    <string name="chat_room_settings_admin_handover_chooser_title_disabled">Keine Benutzer</string>
+    <string name="chat_room_settings_admin_handover_dialog_title">Adminberechtigung übergeben?</string>
+    <string name="chat_room_settings_admin_handover_dialog_text">Wollen Sie wirklich Adminberechtigung an den Benutzer %s übergeben?</string>
+    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Ja, Adminberechtigung übergeben</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">Adminberechtigung wurde an den Benutzer %s übergeben.</string>
+    <string name="chat_room_settings_font_size_title">Schriftgröße</string>
+    <string name="chat_room_settings_font_size_normal">Klein</string>
+    <string name="chat_room_settings_font_size_bigger">Mittel</string>
+    <string name="chat_room_settings_font_size_biggest">Gross</string>
+
+    <string name="chat_room_whisper_empty_title">Zur Zeit keine Nachrichten</string>
+    <string name="chat_room_whisper_empty_text">Schreibe eine Nachricht oder nur einen Smiley :)</string>
+
     </resources>
