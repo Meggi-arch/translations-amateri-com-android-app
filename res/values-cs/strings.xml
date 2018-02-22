@@ -307,6 +307,7 @@
     <string name="title_new_video">Přidat nové video</string>
     <string name="title_profile_settings">Nastavení obsahu</string>
     <string name="title_my_account">Můj účet</string>
+    <string name="title_profile">Profil</string>
 
     <string name="album_filter_show_all">Zobrazit alba</string>
     <string name="video_filter_show_all">Zobrazit videa</string>
@@ -1006,7 +1007,7 @@
     <string name="toast_chat_room_user_kicked">Uživatel %s byl vyhozen</string>
     <string name="dialog_chat_room_kicked_me_title">Byl jste vyhozen</string>
     <string name="dialog_chat_room_kicked_me_content">Byl jste vyhozen z místnosti na %1$d minut! Důvod: %2$s. Zkuste to později.</string>
-    <string name="chat_room_knock_ask_title">User %s žádá o vstup do místnosti</string>
+    <string name="chat_room_knock_ask_title">Uživatel %s ž€€ádá o vstup do místnosti</string>
     <string name="chat_room_knock_ask_reject_button">Odmítnout</string>
     <string name="chat_room_knock_ask_allow_button">Povolit</string>
     <string name="chat_room_knock_ask_profile_button">Profil</string>
@@ -1039,8 +1040,39 @@
     <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
     <string name="chat_room_whisper_empty_text">Napište zprávu nebo jen smajlíka :)</string>
 
+    <!-- ProfileEditFragment -->
+    <string name="profile_edit_section_profile_info">Úvodní informace</string>
+    <string name="profile_edit_sex_hobbies_title">Sexuální záliby</string>
+    <string name="profile_edit_sex_search_title">Hledání</string>
+    <string name="profile_edit_sex_search_purpose_title">Účel hledání</string>
+    <string name="profile_edit_personal_description_title">Osobní popisek</string>
+    <string name="profile_edit_personal_description_hint">Vložte osobní popisek…</string>
+
+    <string name="profile_edit_section_personal_info">Osobní info</string>
+    <string name="profile_edit_section_personal_info_his">Jeho informace</string>
+    <string name="profile_edit_section_personal_info_her">Její informace</string>
+    <string name="profile_edit_section_personal_info_first_person">První osoba</string>
+    <string name="profile_edit_section_personal_info_second_person">Druhá osoba</string>
+    <string name="profile_edit_birth_date_title">Datum narození</string>
+    <string name="profile_edit_zodiac_sign_title">Znamení zvěrokruhu</string>
+    <string name="profile_edit_sex_orientation">Sexuální orientace</string>
+    <string name="profile_edit_family_status_title">Rodinný stav</string>
+    <string name="profile_edit_eye_color_title">Barva očí</string>
+    <string name="profile_edit_hair_color_title">Barva vlasů</string>
+    <string name="profile_edit_height_title">Výška</string>
+    <string name="profile_edit_weight_title">Váha</string>
+    <string name="profile_edit_skype_title">Skype ID</string>
+    <string name="profile_edit_skype_hint">Vložte své skype ID…</string>
+    <string name="profile_edit_phone_number_title">Telefonní číslo</string>
+    <string name="profile_edit_phone_number_hint">Vyplňte své telefonní číslo…</string>
+
+    <string name="profile_edit_chooser_not_filled">Nevyplněno</string>
+    <string name="profile_edit_button_save">Uložit změny</string>
+    <string name="toast_profile_edit_changes_saved">Změny byly uloženy.</string>
+
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Chat místnosti ;-)</item>
+        <item>Úprava profilu</item>
+        <item>Oprava chyb</item>
     </string-array>
 </resources>

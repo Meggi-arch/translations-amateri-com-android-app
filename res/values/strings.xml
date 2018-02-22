@@ -27,6 +27,7 @@
     <string name="title_new_video">Add new video</string>
     <string name="title_profile_settings">Content settings</string>
     <string name="title_my_account">My account</string>
+    <string name="title_profile">Profile</string>
     <string name="title_dating">Dating</string>
 
     <!--AlbumFragment-->
@@ -1036,8 +1037,39 @@
     <string name="chat_room_whisper_empty_title">No messages yet</string>
     <string name="chat_room_whisper_empty_text">Write a message or just a smiley :)</string>
 
+    <!-- ProfileEditFragment -->
+    <string name="profile_edit_section_profile_info">General information</string>
+    <string name="profile_edit_sex_hobbies_title">Sexual hobbies</string>
+    <string name="profile_edit_sex_search_title">Searching</string>
+    <string name="profile_edit_sex_search_purpose_title">Purpose of search</string>
+    <string name="profile_edit_personal_description_title">Personal description</string>
+    <string name="profile_edit_personal_description_hint">Enter your personal description…</string>
+
+    <string name="profile_edit_section_personal_info">Personal information</string>
+    <string name="profile_edit_section_personal_info_his">His information</string>
+    <string name="profile_edit_section_personal_info_her">Her information</string>
+    <string name="profile_edit_section_personal_info_first_person">First person</string>
+    <string name="profile_edit_section_personal_info_second_person">Second person</string>
+    <string name="profile_edit_birth_date_title">Date of birth</string>
+    <string name="profile_edit_zodiac_sign_title">Zodiac sign</string>
+    <string name="profile_edit_sex_orientation">Sexual orientation</string>
+    <string name="profile_edit_family_status_title">Marital status</string>
+    <string name="profile_edit_eye_color_title">Eye colour</string>
+    <string name="profile_edit_hair_color_title">Hair colour</string>
+    <string name="profile_edit_height_title">Height</string>
+    <string name="profile_edit_weight_title">Weight</string>
+    <string name="profile_edit_skype_title">Skype ID</string>
+    <string name="profile_edit_skype_hint">Enter your skype ID…</string>
+    <string name="profile_edit_phone_number_title">Phone number</string>
+    <string name="profile_edit_phone_number_hint">Enter your phone number…</string>
+
+    <string name="profile_edit_chooser_not_filled">Not filled</string>
+    <string name="profile_edit_button_save">Save changes</string>
+    <string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
+
     <string-array name="update_news_dialog_items">
-        <item>Chat rooms ;-)</item>
+        <item>Profile editing</item>
+        <item>Bug fixes</item>
     </string-array>
 
 </resources>
