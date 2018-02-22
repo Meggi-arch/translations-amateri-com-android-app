@@ -1007,7 +1007,7 @@
     <string name="toast_chat_room_user_kicked">Uživatel %s byl vyhozen</string>
     <string name="dialog_chat_room_kicked_me_title">Byl jste vyhozen</string>
     <string name="dialog_chat_room_kicked_me_content">Byl jste vyhozen z místnosti na %1$d minut! Důvod: %2$s. Zkuste to později.</string>
-    <string name="chat_room_knock_ask_title">Uživatel %s ž€€ádá o vstup do místnosti</string>
+    <string name="chat_room_knock_ask_title">Uživatel %s žádá o vstup do místnosti</string>
     <string name="chat_room_knock_ask_reject_button">Odmítnout</string>
     <string name="chat_room_knock_ask_allow_button">Povolit</string>
     <string name="chat_room_knock_ask_profile_button">Profil</string>
