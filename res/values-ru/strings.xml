@@ -915,4 +915,51 @@
     <string name="chat_room_whisper_empty_title">Нет сообщений</string>
     <string name="chat_room_whisper_empty_text">Напишите сообщение или смайлик :)</string>
 
+    <string name="title_profile">Профиль</string>
+    <string name="setup_notification_new_blog_comment">Новый комментарий в блоге</string>
+    <string name="setup_notification_new_story_comment">Новый комментарий к истории</string>
+    <string name="setup_notification_mention">Упоминания</string>
+    <string name="notification_blog">Блог</string>
+    <string name="notification_story">История</string>
+    <string name="notification_blog_comment_add_title">Новый комментарий в блоге</string>
+    <string name="notification_blog_comment_add_text">%1$s прокомментировал/а вашу запись в блоге \"%2$s\": %3$s</string>
+
+    <string name="notification_story_comment_add_title">Новый комментарий к истории</string>
+    <string name="notification_story_comment_add_text">%1$s прокомментировал/а вашу запись \"%2$s\": %3$s</string>
+
+    <string name="notification_mention_title">Новое упоминание</string>
+    <string name="notification_mention_text_album">%1$s Вас упомянул/а в комментарии к альбому \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_video">%1$s вас упомянул/а в комментарии к видео \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_story">%1$s вас упомянул/а в комментарии к записи \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_blog">%1$s вас упомянул/а в комментарии к записи \"%2$s\": %3$s</string>
+
+    <string name="profile_edit_section_profile_info">Основная информация</string>
+    <string name="profile_edit_sex_hobbies_title">Сексуальные хобби</string>
+    <string name="profile_edit_sex_search_title">Поиск</string>
+    <string name="profile_edit_sex_search_purpose_title">Цель поиска</string>
+    <string name="profile_edit_personal_description_title">Личное описание</string>
+    <string name="profile_edit_personal_description_hint">Напишите ваше персональное описание…</string>
+
+    <string name="profile_edit_section_personal_info">Личная информация</string>
+    <string name="profile_edit_section_personal_info_his">Информация о нём</string>
+    <string name="profile_edit_section_personal_info_her">Информация о ней</string>
+    <string name="profile_edit_section_personal_info_first_person">Первый партнёр</string>
+    <string name="profile_edit_section_personal_info_second_person">Второй партнёр</string>
+    <string name="profile_edit_birth_date_title">Дата рождения</string>
+    <string name="profile_edit_zodiac_sign_title">Знак зодиака</string>
+    <string name="profile_edit_sex_orientation">Сексуальная ориентация</string>
+    <string name="profile_edit_family_status_title">Семейное положение</string>
+    <string name="profile_edit_eye_color_title">Цвет глаз</string>
+    <string name="profile_edit_hair_color_title">Цвет волос</string>
+    <string name="profile_edit_height_title">Рост</string>
+    <string name="profile_edit_weight_title">Вес</string>
+    <string name="profile_edit_skype_title">Скайп</string>
+    <string name="profile_edit_skype_hint">Введите ваш логин скайп…</string>
+    <string name="profile_edit_phone_number_title">Номер телефона</string>
+    <string name="profile_edit_phone_number_hint">Введите ваш номер телефона…</string>
+
+    <string name="profile_edit_chooser_not_filled">Не заполнено</string>
+    <string name="profile_edit_button_save">Сохранить изменения</string>
+    <string name="toast_profile_edit_changes_saved">Изменения были сохранены.</string>
+
     </resources>
