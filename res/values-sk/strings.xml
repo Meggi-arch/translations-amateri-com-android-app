@@ -998,4 +998,21 @@
     <string name="profile_edit_button_save">Uložiť zmeny</string>
     <string name="toast_profile_edit_changes_saved">Zmeny boli uložené.</string>
 
+    <string name="setup_notification_new_blog_comment">Nový komentár k blogu</string>
+    <string name="setup_notification_new_story_comment">Nový komentár k poviedke</string>
+    <string name="setup_notification_mention">Zmienka</string>
+    <string name="notification_blog">Blog</string>
+    <string name="notification_story">Poviedka</string>
+    <string name="notification_blog_comment_add_title">Nový komentár k blogu</string>
+    <string name="notification_blog_comment_add_text">%1$s okomentoval/a váš článok v blogu \"%2$s\": %3$s</string>
+
+    <string name="notification_story_comment_add_title">Nový komentár k poviedke</string>
+    <string name="notification_story_comment_add_text">%1$s okomentoval/a vašu poviedku \"%2$s\": %3$s</string>
+
+    <string name="notification_mention_title">Nová zmienka</string>
+    <string name="notification_mention_text_album">%1$s sa o vás zmienil/a v komentári albumu \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_video">%1$s sa o vás zmienil/a v komentári videa \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_story">%1$s sa o vás zmienil/a v komentári poviedky \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_blog">%1$s sa o vás zmienil/a v komentári článku \"%2$s\": %3$s</string>
+
     </resources>
