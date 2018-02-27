@@ -321,9 +321,12 @@
     <string name="setup_notification_new_visit">Nová návštěva profilu</string>
     <string name="setup_notification_new_album_comment">Nový komentář k albu</string>
     <string name="setup_notification_new_video_comment">Nový komentář k videu</string>
+    <string name="setup_notification_new_blog_comment">Nový komentář k blogu</string>
+    <string name="setup_notification_new_story_comment">Nový komentář k povídce</string>
     <string name="setup_notification_album_approval">Nově schválené album</string>
     <string name="setup_notification_video_approval">Nově schválené video</string>
     <string name="setup_notification_advertisement">Reklamní sdělení</string>
+    <string name="setup_notification_mention">Zmínění</string>
     <string name="setup_privacy">Zabezpečení</string>
     <string name="change_pin">Změna PIN kódu</string>
     <string name="next">Další</string>
@@ -418,6 +421,8 @@
     <string name="notification_message">Zpráva</string>
     <string name="notification_album">Album</string>
     <string name="notification_video">Video</string>
+    <string name="notification_blog">Blog</string>
+    <string name="notification_story">Povídka</string>
     <string name="notification_update">Stáhnout</string>
     <string name="notification_update_later">Později</string>
     <string name="notification_friendship_accept">Přijmout</string>
@@ -443,6 +448,9 @@
 
     <string name="notification_album_comment_add_title">Nový komentář k albu</string>
     <string name="notification_video_comment_add_title">Nový komentář k videu</string>
+    <string name="notification_blog_comment_add_title">Nový komentár k blogu</string>
+    <string name="notification_story_comment_add_title">Nový komentář k povídce</string>
+    <string name="notification_mention_title">Nové zmínění</string>
     <string name="notification_album_approve_title">Schválené album</string>
     <string name="notification_album_approve_text">Vaše album \"%s\" bylo schváleno.</string>
 
@@ -452,9 +460,14 @@
     <string name="notification_update_text">Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
     <string name="setup_notification_friend_request">Nová žádost o přátelství</string>
     <string name="setup_notification_friend_request_reply">Žádost o přátelství byla přijata</string>
-    <string name="notification_album_comment_add_text">%1$s okomentoval vaše album \"%2$s\": %3$s</string>
-
-    <string name="notification_video_comment_add_text">%1$s okomentoval vaše video \"%2$s\": %3$s</string>
+    <string name="notification_album_comment_add_text">%1$s okomentoval/a vaše album \"%2$s\": %3$s</string>
+    <string name="notification_video_comment_add_text">%1$s okomentoval/a vaše video \"%2$s\": %3$s</string>
+    <string name="notification_blog_comment_add_text">%1$s okomentoval/a váš článek v blogu \"%2$s\": %3$s</string>
+    <string name="notification_story_comment_add_text">%1$s okomentoval/a vaší povídku \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_album">%1$s se o vás zmínil/a v komentáři u alba \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_video">%1$s se o vás zmínil/a v komentáři u videa \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_story">%1$s se o vás zmínil/a v komentáři u povídky \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_blog">%1$s se o vás zmínil/a v komentáři u článku \"%2$s\": %3$s</string>
 
     <string name="title_settings">Nastavení</string>
     <string name="title_application_settings">Nastavení aplikace</string>
@@ -1073,6 +1086,5 @@
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
         <item>Úprava profilu</item>
-        <item>Oprava chyb</item>
     </string-array>
 </resources>
