@@ -448,7 +448,7 @@
 
     <string name="notification_album_comment_add_title">Nový komentář k albu</string>
     <string name="notification_video_comment_add_title">Nový komentář k videu</string>
-    <string name="notification_blog_comment_add_title">Nový komentár k blogu</string>
+    <string name="notification_blog_comment_add_title">Nový komentář k blogu</string>
     <string name="notification_story_comment_add_title">Nový komentář k povídce</string>
     <string name="notification_mention_title">Nové zmínění</string>
     <string name="notification_album_approve_title">Schválené album</string>
