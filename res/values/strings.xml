@@ -1025,6 +1025,12 @@
     <string name="chat_room_knock_ask_reject_button">Reject</string>
     <string name="chat_room_knock_ask_allow_button">Allow</string>
     <string name="chat_room_knock_ask_profile_button">Profile</string>
+    <string name="popup_chat_message_copy_text">Copy to clipboard</string>
+    <string name="popup_chat_message_delete_message">Delete message</string>
+    <string name="dialog_delete_chat_message_title">Delete message?</string>
+    <string name="dialog_delete_chat_message_text">Do you really want to delete this message for all users?</string>
+    <string name="dialog_delete_chat_message_button_confirm">Yes, delete</string>
+    <string name="toast_chat_message_deleted">Message has been deleted.</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">This chat room is locked</string>
@@ -1085,7 +1091,9 @@
     <string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Profile editing</item>
+        <item>Chat improvement</item>
+        <item>Better formating of blog articles</item>
+        <item>Bug fixes</item>
     </string-array>
 
 </resources>

@@ -1024,6 +1024,12 @@
     <string name="chat_room_knock_ask_reject_button">Odmítnout</string>
     <string name="chat_room_knock_ask_allow_button">Povolit</string>
     <string name="chat_room_knock_ask_profile_button">Profil</string>
+    <string name="popup_chat_message_copy_text">Kopírovat text</string>
+    <string name="popup_chat_message_delete_message">Smazat zprávu</string>
+    <string name="dialog_delete_chat_message_title">Smazat zprávu?</string>
+    <string name="dialog_delete_chat_message_text">Opravdu chcete smazat tuto zprávu všem uživatelům?</string>
+    <string name="dialog_delete_chat_message_button_confirm">Ano, smazat</string>
+    <string name="toast_chat_message_deleted">Zpráva byla smazána.</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
@@ -1085,6 +1091,8 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Úprava profilu</item>
+        <item>Vylepšení chatu</item>
+        <item>Vylepšené formátování blogů</item>
+        <item>Oprava chyb</item>
     </string-array>
 </resources>
