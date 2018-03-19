@@ -908,4 +908,17 @@
     <string name="chat_room_whisper_empty_title">Zur Zeit keine Nachrichten</string>
     <string name="chat_room_whisper_empty_text">Schreibe eine Nachricht oder nur einen Smiley :)</string>
 
+    <string name="title_profile">Profil</string>
+    <string name="setup_notification_new_blog_comment">Neuer Blogpost-Kommentar</string>
+    <string name="setup_notification_new_story_comment">Neuer Geschichten-Kommentar</string>
+    <string name="setup_notification_mention">Erwähnungen</string>
+    <string name="notification_blog">Blog</string>
+    <string name="notification_story">Geschichte</string>
+    <string name="notification_blog_comment_add_title">Neuer Blogpost-Kommentar</string>
+    <string name="notification_blog_comment_add_text">%1$s hat Ihrem Blogbeitrag \"%2$s\" einen Kommentar hinzugefügt : %3$s</string>
+
+    <string name="notification_story_comment_add_title">Neuer Geschichten-Kommentar</string>
+    <string name="notification_story_comment_add_text">"%1$s  hat Ihrer Geschichte \"%2$s\" einen Kommentar hinzugefügt: %3$s"</string>
+
+    <string name="notification_mention_title">Neue Erwähnung</string>
     </resources>
