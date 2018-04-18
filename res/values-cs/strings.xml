@@ -6,6 +6,7 @@
     <string name="general_loading">Prosím strpení, načítáme data</string>
 
     <!--MainActivity-->
+    <string name="title_home">Úvodní stránka</string>
     <string name="title_album">Fotoalba</string>
     <string name="title_people">Lidé</string>
     <string name="title_blogs">Blogy</string>
@@ -30,6 +31,7 @@
     <!--Menu-->
     <string name="menu_notification">Upozornění</string>
     <string name="menu_badges">Štítky</string>
+    <string name="menu_profile_meatballs">Možnosti profilu</string>
     <string name="menu_reset">Reset</string>
     <string name="menu_chat_room">Menu chat místnosti</string>
 
@@ -137,6 +139,7 @@
     <string name="notifications_dating_messages">Odpovědi na inzeráty</string>
     <string name="notifications_requests">Žádosti o přátelství</string>
     <string name="notifications_favourites">Oblíbení</string>
+    <string name="notifications_ignored">Ignorace</string>
     <string name="notifications_my_account_content_settings">Nastavení účtu a obsahu</string>
     <string name="notifications_my_account">Můj účet</string>
     <string name="notifications_albums">Fotoalba</string>
@@ -745,7 +748,9 @@
     <string name="update_news_dialog_title">Novinky v této verzi</string>
 
     <!-- ConversationListActivity -->
-    <string name="all_conversations">Všechny konverzace</string>
+    <string name="conversation_list_filter_all">Všichni uživatelé</string>
+    <string name="conversation_list_filter_unread">Nepřečtené</string>
+    <string name="conversation_list_filter_friends">Od přátel</string>
     <string name="me">Já</string>
     <string name="popup_conversation_mark_read">Označit za přečtenou</string>
     <string name="popup_conversation_delete">Smazat konverzaci</string>
@@ -755,6 +760,7 @@
     <string name="toast_conversation_deleted">Konverzace s uživatelem %s byla smazána</string>
     <string name="no_conversations_title">Žádné konverzace</string>
     <string name="no_conversations_message">Zatím nemáte žádné konverzace</string>
+    <string name="no_conversations_message_with_filter">Pro zvolený filtr nebyly nalezeny žádné konverzace.</string>
     <string name="no_users_found_title">Žádní uživatelé</string>
     <string name="no_users_found_message">Nebyli nalezeni žádní uživatelé</string>
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
@@ -1089,10 +1095,39 @@
     <string name="profile_edit_button_save">Uložit změny</string>
     <string name="toast_profile_edit_changes_saved">Změny byly uloženy.</string>
 
+    <!-- Homepage -->
+    <string name="home_section_videos_title">Nejnovější videa</string>
+    <string name="home_section_albums_title">Nejnovější fotoalba</string>
+    <string name="home_section_chat_title">Chat</string>
+    <string name="home_section_dating_title">Seznamka</string>
+    <string name="home_section_events_title">Srazy</string>
+    <string name="home_section_stories_title">Povídky</string>
+    <string name="home_section_blogs_title">Blogy</string>
+
+    <string name="home_section_videos_footer_title">Všechna videa</string>
+    <string name="home_section_albums_footer_title">Všechna fotoalba</string>
+    <string name="home_section_chat_rooms_footer_title">Všechny místnosti</string>
+    <string name="home_section_dating_footer_title">Všechny inzeráty</string>
+    <string name="home_section_events_footer_title">Všechny srazy</string>
+    <string name="home_section_stories_footer_title">Všechny povídky</string>
+    <string name="home_section_blogs_footer_title">Všechny blogy</string>
+
+    <!-- Ignore list -->
+    <string name="title_ignore_list">Ignorace</string>
+    <string name="ignore_list_empty_title">Žádné ignorace</string>
+    <string name="ignore_list_empty_text">Ještě nemáte nikoho v ignoraci.</string>
+    <string name="dialog_ignore_list_remove_title">Odebrat z ignorace</string>
+    <string name="dialog_ignore_list_remove_text">Opravdu chcete odebrat uživatele %s z ignorace?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Odebrat</string>
+    <string name="toast_ignore_list_user_removed">Uživatel %s byl odebrán z ignorace.</string>
+
+    <!-- Profile options bottomsheet -->
+    <string name="profile_options_add_to_ignore">Přidat do ignorace</string>
+
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Vylepšení chatu</item>
-        <item>Vylepšené formátování blogů</item>
-        <item>Oprava chyb</item>
+        <item>Nová úvodní stranka</item>
+        <item>Filtr konverzací</item>
+        <item>Nastavení ignorace</item>
     </string-array>
 </resources>

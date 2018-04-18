@@ -8,6 +8,7 @@
     <string name="cancel">Cancel</string>
 
     <!--MainActivity-->
+    <string name="title_home">Homepage</string>
     <string name="title_album">Albums</string>
     <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
@@ -72,6 +73,7 @@
     <!--Menu-->
     <string name="menu_notification">Notifications</string>
     <string name="menu_badges">Tags</string>
+    <string name="menu_profile_meatballs">Profile options</string>
     <string name="menu_reset">Reset</string>
     <string name="menu_chat_room">Chat room menu</string>
 
@@ -233,6 +235,7 @@
     <string name="notifications_dating_messages">Answers to your ads</string>
     <string name="notifications_requests">Friend requests</string>
     <string name="notifications_favourites">Favourites</string>
+    <string name="notifications_ignored">Ignore list</string>
     <string name="notifications_my_account_content_settings">Account and content settings</string>
     <string name="notifications_my_account">My account</string>
     <string name="notifications_albums">Albums</string>
@@ -754,7 +757,9 @@
     <string name="update_news_dialog_title">New in this version</string>
 
     <!-- ConversationListActivity -->
-    <string name="all_conversations">All conversations</string>
+    <string name="conversation_list_filter_all">All users</string>
+    <string name="conversation_list_filter_unread">Unread</string>
+    <string name="conversation_list_filter_friends">From friends</string>
     <string name="me">Me</string>
     <string name="popup_conversation_mark_read">Mark as read</string>
     <string name="popup_conversation_delete">Delete conversation</string>
@@ -764,6 +769,7 @@
     <string name="toast_conversation_deleted">Conversation with %s was deleted</string>
     <string name="no_conversations_title">No conversations</string>
     <string name="no_conversations_message">You have no conversations yet</string>
+    <string name="no_conversations_message_with_filter">You have no conversations for the selected filter.</string>
     <string name="no_users_found_title">No users</string>
     <string name="no_users_found_message">No users found</string>
     <string name="user_sent_a_photo">%s sent you a photo</string>
@@ -1090,10 +1096,39 @@
     <string name="profile_edit_button_save">Save changes</string>
     <string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
 
+    <!-- Homepage -->
+    <string name="home_section_videos_title">Latest videos</string>
+    <string name="home_section_albums_title">Latest albums</string>
+    <string name="home_section_chat_title">Chat</string>
+    <string name="home_section_dating_title">Dating ads</string>
+    <string name="home_section_events_title">Events</string>
+    <string name="home_section_stories_title">Stories</string>
+    <string name="home_section_blogs_title">Blogs</string>
+
+    <string name="home_section_videos_footer_title">All videos</string>
+    <string name="home_section_albums_footer_title">All albums</string>
+    <string name="home_section_chat_rooms_footer_title">All chat rooms</string>
+    <string name="home_section_dating_footer_title">All dating ads</string>
+    <string name="home_section_events_footer_title">All events</string>
+    <string name="home_section_stories_footer_title">All stories</string>
+    <string name="home_section_blogs_footer_title">All blogs</string>
+
+    <!-- Ignore list -->
+    <string name="title_ignore_list">Ignore list</string>
+    <string name="ignore_list_empty_title">No ignored users</string>
+    <string name="ignore_list_empty_text">Your ignore list is empty.</string>
+    <string name="dialog_ignore_list_remove_title">Remove from ignore list</string>
+    <string name="dialog_ignore_list_remove_text">Do you want to remove %s from ignore list?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Remove</string>
+    <string name="toast_ignore_list_user_removed">%s has been removed from your ignore list.</string>
+
+    <!-- Profile options bottomsheet -->
+    <string name="profile_options_add_to_ignore">Ignore</string>
+
     <string-array name="update_news_dialog_items">
-        <item>Chat improvement</item>
-        <item>Better formating of blog articles</item>
-        <item>Bug fixes</item>
+        <item>New homepage</item>
+        <item>Conversation filter</item>
+        <item>Ignoration settings</item>
     </string-array>
 
 </resources>
