@@ -1022,4 +1022,37 @@
     <string name="dialog_delete_chat_message_button_confirm">Áno, zmazať</string>
     <string name="toast_chat_message_deleted">Správa bola zmazaná.</string>
 
+    <string name="title_home">Úvodná stránka</string>
+    <string name="menu_profile_meatballs">Možnosti profilu</string>
+    <string name="notifications_ignored">Ignorácie</string>
+    <string name="conversation_list_filter_all">Všetci užívatelia</string>
+    <string name="conversation_list_filter_unread">Neprečítané</string>
+    <string name="conversation_list_filter_friends">Od priateľov</string>
+    <string name="no_conversations_message_with_filter">Pre zvolený filter neboli nájdené žiadne konverzácie.</string>
+    <string name="home_section_videos_title">Najnovšie videá</string>
+    <string name="home_section_albums_title">Najnovšie albumy</string>
+    <string name="home_section_chat_title">Chat</string>
+    <string name="home_section_dating_title">Zoznamka</string>
+    <string name="home_section_events_title">Stretávky</string>
+    <string name="home_section_stories_title">Poviedky</string>
+    <string name="home_section_blogs_title">Blogy</string>
+
+    <string name="home_section_videos_footer_title">Všetky videá</string>
+    <string name="home_section_albums_footer_title">Všetky albumy</string>
+    <string name="home_section_chat_rooms_footer_title">Všetky chat miestnosti</string>
+    <string name="home_section_dating_footer_title">Všetky inzeráty</string>
+    <string name="home_section_events_footer_title">Všetky stretávky</string>
+    <string name="home_section_stories_footer_title">Všetky poviedky</string>
+    <string name="home_section_blogs_footer_title">Všetky blogy</string>
+
+    <string name="title_ignore_list">Ignorácie</string>
+    <string name="ignore_list_empty_title">Žiadne ignorácie</string>
+    <string name="ignore_list_empty_text">Ešte nemáte nikoho v ignorácii.</string>
+    <string name="dialog_ignore_list_remove_title">Odobrať z ignorácie</string>
+    <string name="dialog_ignore_list_remove_text">Naozaj chcete odobrať užívateľa %s z ignorácie?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Odobrať</string>
+    <string name="toast_ignore_list_user_removed">Užívateľ %s bol odobraný z ignorácie.</string>
+
+    <string name="profile_options_add_to_ignore">Pridať do ignorácie</string>
+
     </resources>
