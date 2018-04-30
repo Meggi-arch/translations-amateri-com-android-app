@@ -1055,4 +1055,14 @@
 
     <string name="profile_options_add_to_ignore">Pridať do ignorácie</string>
 
+    <string name="popup_conversation_ignore">Pridať do ignorácie</string>
+    <string name="profile_options_add_favourite">Pridať k obľúbeným</string>
+    <string name="profile_options_add_friend">Pridať priateľa</string>
+    <string name="profile_options_mesage">Poslať správu</string>
+    <string name="dialog_ignore_list_add_title">Pridať do ignorácie</string>
+    <string name="dialog_ignore_list_add_text">Naozaj chcete pridať užívateľa %s do ignorácie?</string>
+    <string name="dialog_ignore_list_add_button_confirm">Pridať do ignorácie</string>
+
+    <string name="conversation_options_delete_conversation">Vymazať konverzáciu</string>
+
     </resources>
