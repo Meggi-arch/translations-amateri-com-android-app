@@ -1131,6 +1131,9 @@
     <string name="dialog_ignore_list_add_text">Opravdu chcete přidat uživatele %s do ignorace?</string>
     <string name="dialog_ignore_list_add_button_confirm">Přidat do ignorace</string>
 
+    <!-- Conversation options bottomsheet -->
+    <string name="conversation_options_delete_conversation">Smazat konverzaci</string>
+
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
         <item>Nová úvodní stránka</item>
