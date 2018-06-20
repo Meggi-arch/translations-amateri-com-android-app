@@ -302,7 +302,7 @@
     <string name="search_album_hint">Hledat v albech</string>
     <string name="search_video_hint">Hledat ve videích</string>
     <string name="ok">OK</string>
-    <string name="cancel">Zrušit</string>
+    <string name="cancel">zrušit</string>
 
     <string name="title_album_settings">Nastavení alba</string>
     <string name="title_video_settings">Nastavení videa</string>
