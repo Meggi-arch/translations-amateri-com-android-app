@@ -1182,7 +1182,7 @@
     <string name="bottomsheet_webcam_listener_turn_off">Turn off the camera</string>
 
     <!-- Chat room webcam detail -->
-    <string name="webcam_detail_toolbar_title">Kamery: %s</string>
+    <string name="webcam_detail_toolbar_title">Camwras: %s</string>
 
     <string-array name="update_news_dialog_items">
         <item>Watch and broadcast chat cameras!</item>

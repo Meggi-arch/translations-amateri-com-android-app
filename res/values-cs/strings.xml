@@ -1180,9 +1180,6 @@
     <string name="bottomsheet_webcam_listener_unmute">Zapnout zvuk</string>
     <string name="bottomsheet_webcam_listener_turn_off">Vypnout kameru</string>
 
-    <!-- Chat room webcam detail -->
-    <string name="webcam_detail_toolbar_title">Kamery: %s</string>
-
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
         <item>Sledování a vysílaní kamer na chatu!</item>
