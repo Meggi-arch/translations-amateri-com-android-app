@@ -4,6 +4,8 @@
     <string name="general_error_no_connection">Zdá se, že nemáte připojení k internetu. Zkuste to prosím později.</string>
     <string name="infinity_error_no_connection">Zdá se, že nemáte připojení k internetu. Tapnutím zkuste znovu.</string>
     <string name="general_loading">Prosím strpení, načítáme data</string>
+    <string name="dialog_android_unsupported_title">Nepodporovaná funkce</string>
+    <string name="dialog_android_unsupported_text">Omlouváme se, ale verze vašeho operačního systému systému je moc stará pro použití této funkce :(</string>
 
     <!--MainActivity-->
     <string name="title_home">Úvodní stránka</string>
@@ -34,6 +36,7 @@
     <string name="menu_profile_meatballs">Možnosti profilu</string>
     <string name="menu_reset">Reset</string>
     <string name="menu_chat_room">Menu chat místnosti</string>
+    <string name="menu_chat_room_webcam">Zapnout kameru</string>
 
     <string name="action_try_again">Zkusit znovu</string>
 
@@ -887,7 +890,7 @@
 
     <string name="chat_dashboard_online_friends">Přátelé na chatu</string>
     <string name="chat_dashboard_online_friends_empty">Nemáte nyní žádné přátele na chatu.</string>
-    <string name="chat_dashboard_most_popular_webcams">Nejpopulárnější webkamery</string>
+    <string name="chat_dashboard_most_popular_webcams">Nejpopulárnější kamery</string>
     <string name="chat_dashboard_favourite_chatrooms">Vaše oblíbené místnosti</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Zatím nemáte žádné oblíbené místnosti.</string>
     <string name="chat_dashboard_newest_chatrooms">Nejnovější místnosti</string>
@@ -911,7 +914,7 @@
     <string name="no_chat_rooms_text">Pro zadaný výběr nejsou žádné místnosti.</string>
 
     <string name="chat_online_friends_title">Přátelé na chatu</string>
-    <string name="chat_most_popular_webcams_title">Nejpopulárnější webky</string>
+    <string name="chat_most_popular_webcams_title">Nejpopulárnější kamery</string>
 
     <!-- ChatRoomInfoActivity -->
     <string name="tab_chat_room_info">Detail místnosti</string>
@@ -1014,7 +1017,6 @@
     <string name="chat_room_users_category_others">Uživatelé</string>
     <string name="chat_room_users_filter_empty_title">Žádní uživatelé</string>
     <string name="chat_room_users_filter_empty_text">Nebyli nalezeni žádní uživatelé pro zvolený filtr.</string>
-    <string name="popup_chat_room_user_filter_webcam">S webkou</string>
     <string name="popup_chat_room_user_filter_content">S alby/videi</string>
     <string name="chat_room_users_filter_all_countries">Všechny země</string>
     <string name="chat_room_users_filter_all_regions">Všechny regiony</string>
@@ -1037,6 +1039,26 @@
     <string name="dialog_delete_chat_message_text">Opravdu chcete smazat tuto zprávu všem uživatelům?</string>
     <string name="dialog_delete_chat_message_button_confirm">Ano, smazat</string>
     <string name="toast_chat_message_deleted">Zpráva byla smazána.</string>
+    <string name="toast_chat_webcam_slot_unavailable">Další kamera se sem už nevejde.</string>
+    <string name="dialog_turn_off_webcam_title">Vypnout kameru?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">Tímto vypnete svou kameru</string>
+    <string name="dialog_turn_off_webcam_confirm">Vypnout</string>
+    <string name="dialog_webcam_broadcast_paused_title">Vysílání pozastaveno</string>
+    <string name="dialog_webcam_broadcast_paused_text">Vysílání se pozastaví při každém opuštění aplikace.</string>
+    <string name="dialog_webcam_broadcast_paused_button_confirm">Pokračovat ve vysílání</string>
+    <string name="dialog_webcam_broadcast_paused_button_cancel">Vypnout kameru</string>
+    <string name="toast_webcam_duplicate_stream">Již sledujete tohoto uživatele.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">Tento uživatel nepoužíva WebRTC přenos.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Získejte VIP členství nebo nahrajte alespoň jedno album/video, abyste mohli sledovat tuto webovou kameru.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Získejte VIP členství nebo ověřte svůj profil, abyste mohli sledovat tuto webovou kameru.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Chcete-li sledovat tuto kameru, musíte být VIP členem.</string>
+    <string name="toast_webcam_permission_denied_friends_only">Tento uživatel vysíla jenom pro své přátele.</string>
+    <string name="toast_chat_camera_permissions_denied">Je potřeba udělit oprávnění k zapnutí kamery.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">Zapnout kameru?</string>
+    <string name="dialog_webcam_data_connection_title_listen">Sledovat kameru uživatele?</string>
+    <string name="dialog_webcam_data_connection_text">Používáte mobilní datové připojení. Sledování kamer může spotřebovat velké množství dat.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Zapnout kameru</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Nechat kameru vypnutou</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
@@ -1061,6 +1083,8 @@
     <string name="chat_room_settings_font_size_normal">Malé</string>
     <string name="chat_room_settings_font_size_bigger">Střední</string>
     <string name="chat_room_settings_font_size_biggest">Velké</string>
+    <string name="chat_room_settings_webcam_sound_title">Zvuk kamer</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
@@ -1134,10 +1158,33 @@
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Smazat konverzaci</string>
 
+    <!-- Chat webcams -->
+    <string name="janus_fragment_retry_text">Přerušeno.  Obnovit?</string>
+    <string name="janus_error_hangup">Uživatel/ka %s vypnula/a kameru.</string>
+    <string name="janus_error_connection">Nepodařilo se navázat spojení se serverem.</string>
+    <string name="janus_error_unsupported">Vaše zařízení nepodporuje streamování kamery.</string>
+    <string name="janus_error_camera_unavailable">Kamera není dostupná.</string>
+    <string name="janus_error_video_not_receiving">Vypadá to, že vaše zařízení neposílá žádné video.</string>
+
+    <!-- Chat room webcam bottom sheets -->
+    <string name="bottomsheet_webcam_broadcast_title">Moje kamera</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Přepnout kameru</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Vypnout zvuk</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Zapnout zvuk</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Vypnout kameru</string>
+
+    <string name="bottomsheet_webcam_listener_title">Kamera uživatele %s</string>
+    <string name="bottomsheet_webcam_listener_maximize">Zobrazit v plné velikosti</string>
+    <string name="bottomsheet_webcam_listener_whisper">Šeptat</string>
+    <string name="bottomsheet_webcam_listener_mute">Vypnout zvuk</string>
+    <string name="bottomsheet_webcam_listener_unmute">Zapnout zvuk</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Vypnout kameru</string>
+
+    <!-- Chat room webcam detail -->
+    <string name="webcam_detail_toolbar_title">Kamery: %s</string>
+
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Nová úvodní stránka</item>
-        <item>Filtr konverzací</item>
-        <item>Nastavení ignorace</item>
+        <item>Sledování a vysílaní kamer na chatu!</item>
     </string-array>
 </resources>

@@ -6,6 +6,8 @@
     <string name="general_loading">Please wait while we load the data</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
+    <string name="dialog_android_unsupported_title">Unsupported feature</string>
+    <string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
 
     <!--MainActivity-->
     <string name="title_home">Homepage</string>
@@ -76,6 +78,7 @@
     <string name="menu_profile_meatballs">Profile options</string>
     <string name="menu_reset">Reset</string>
     <string name="menu_chat_room">Chat room menu</string>
+    <string name="menu_chat_room_webcam">Turn on the camera</string>
 
     <string name="action_try_again">Try again</string>
 
@@ -891,7 +894,7 @@
 
     <string name="chat_dashboard_online_friends">Friends on chat</string>
     <string name="chat_dashboard_online_friends_empty">There are no chatting friends now.</string>
-    <string name="chat_dashboard_most_popular_webcams">Most popular webcams</string>
+    <string name="chat_dashboard_most_popular_webcams">Most popular cameras</string>
     <string name="chat_dashboard_favourite_chatrooms">Your favourite chat rooms</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">You have no favourite chat rooms yet.</string>
     <string name="chat_dashboard_newest_chatrooms">Newest chat rooms</string>
@@ -914,7 +917,7 @@
     <string name="no_chat_rooms_text">There are no rooms for selected filter.</string>
 
     <string name="chat_online_friends_title">Friends on chat</string>
-    <string name="chat_most_popular_webcams_title">Most popular webcams</string>
+    <string name="chat_most_popular_webcams_title">Most popular cameras</string>
 
     <!-- ChatRoomInfoActivity -->
     <string name="tab_chat_room_info">Room details</string>
@@ -1015,7 +1018,6 @@
     <string name="chat_room_users_category_others">Users</string>
     <string name="chat_room_users_filter_empty_title">No users</string>
     <string name="chat_room_users_filter_empty_text">No users found for selected filter.</string>
-    <string name="popup_chat_room_user_filter_webcam">With webcam</string>
     <string name="popup_chat_room_user_filter_content">With albums/videos</string>
     <string name="chat_room_users_filter_all_countries">All countries</string>
     <string name="chat_room_users_filter_all_regions">All regions</string>
@@ -1038,6 +1040,26 @@
     <string name="dialog_delete_chat_message_text">Do you really want to delete this message for all users?</string>
     <string name="dialog_delete_chat_message_button_confirm">Yes, delete</string>
     <string name="toast_chat_message_deleted">Message has been deleted.</string>
+    <string name="toast_chat_webcam_slot_unavailable">The next camera won\'t fit in here anymore.</string>
+    <string name="dialog_turn_off_webcam_title">Turn off the camera?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">This will turn off your camera</string>
+    <string name="dialog_turn_off_webcam_confirm">Turn off</string>
+    <string name="dialog_webcam_broadcast_paused_title">Broadcast paused</string>
+    <string name="dialog_webcam_broadcast_paused_text">Broadcast will be paused every time you leave the app.</string>
+    <string name="dialog_webcam_broadcast_paused_button_confirm">Continue broadcasting</string>
+    <string name="dialog_webcam_broadcast_paused_button_cancel">Turn off the camera</string>
+    <string name="toast_webcam_duplicate_stream">You are already watching this user.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">This user does not use WebRTC streaming.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Get a VIP membership or upload at least one album/video to watch this camera.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Get a VIP membership or verify your profile to watch this camera.</string>
+    <string name="toast_webcam_permission_denied_vip_only">To watch this camera, you need to be a VIP member.</string>
+    <string name="toast_webcam_permission_denied_friends_only">This user only broadcast to his/her friends.</string>
+    <string name="toast_chat_camera_permissions_denied">You must grant permission to turn on the camera.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">Turn on the camera?</string>
+    <string name="dialog_webcam_data_connection_title_listen">Watch the user\'s camera?</string>
+    <string name="dialog_webcam_data_connection_text">You are using mobile data connection. Watching cameras can consume a lot of data.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Turn on the camera</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Leave the camera off</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">This chat room is locked</string>
@@ -1062,6 +1084,8 @@
     <string name="chat_room_settings_font_size_normal">Small</string>
     <string name="chat_room_settings_font_size_bigger">Medium</string>
     <string name="chat_room_settings_font_size_biggest">Large</string>
+    <string name="chat_room_settings_webcam_sound_title">Camera sound</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Turn on by default</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">No messages yet</string>
@@ -1135,10 +1159,33 @@
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Delete conversation</string>
 
+    <!-- Chat webcams -->
+    <string name="janus_fragment_retry_text">Interrupted. Retry?</string>
+    <string name="janus_error_hangup">User %s turned off the camera.</string>
+    <string name="janus_error_connection">Failed to establish a connection with the server.</string>
+    <string name="janus_error_unsupported">Your device does not support camera streaming.</string>
+    <string name="janus_error_camera_unavailable">Camera is not available.</string>
+    <string name="janus_error_video_not_receiving">It looks like your device is not sending any video.</string>
+
+    <!-- Chat room webcam bottom sheets -->
+    <string name="bottomsheet_webcam_broadcast_title">My camera</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Switch camera</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Mute</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Unmute</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Turn off the camera</string>
+
+    <string name="bottomsheet_webcam_listener_title">%s\'s camera</string>
+    <string name="bottomsheet_webcam_listener_maximize">Maximize</string>
+    <string name="bottomsheet_webcam_listener_whisper">Whisper</string>
+    <string name="bottomsheet_webcam_listener_mute">Mute</string>
+    <string name="bottomsheet_webcam_listener_unmute">Unmute</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Turn off the camera</string>
+
+    <!-- Chat room webcam detail -->
+    <string name="webcam_detail_toolbar_title">Kamery: %s</string>
+
     <string-array name="update_news_dialog_items">
-        <item>New homepage</item>
-        <item>Conversation filter</item>
-        <item>Ignoration settings</item>
+        <item>Watch and broadcast chat cameras!</item>
     </string-array>
 
 </resources>
