@@ -797,7 +797,7 @@
 
     <string name="chat_dashboard_online_friends">Priatelia na chate</string>
     <string name="chat_dashboard_online_friends_empty">Teraz nemáte žiadnych priateľov na chate.</string>
-    <string name="chat_dashboard_most_popular_webcams">Najpopulárnejšie webkamery</string>
+    <string name="chat_dashboard_most_popular_webcams">Najpopulárnejšie kamery</string>
     <string name="chat_dashboard_favourite_chatrooms">Vaše obľúbené miestnosti</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Zatiaľ nemáte žiadne obľúbené miestnosti.</string>
     <string name="chat_dashboard_newest_chatrooms">Najnovšie miestnosti</string>
@@ -820,7 +820,7 @@
     <string name="no_chat_rooms_text">Pre zadaný výber nie sú žiadne miestnosti.</string>
 
     <string name="chat_online_friends_title">Priatelia na chate</string>
-    <string name="chat_most_popular_webcams_title">Najpopulárnejšie webky</string>
+    <string name="chat_most_popular_webcams_title">Najpopulárnejšie kamery</string>
 
     <string name="tab_chat_room_info">Detail miestnosti</string>
     <string name="tab_chat_room_people">Ľudia v miestnosti</string>
@@ -1064,5 +1064,56 @@
     <string name="dialog_ignore_list_add_button_confirm">Pridať do ignorácie</string>
 
     <string name="conversation_options_delete_conversation">Vymazať konverzáciu</string>
+
+    <string name="dialog_android_unsupported_title">Nepodporovaná funkcia</string>
+    <string name="dialog_android_unsupported_text">Ospravedlňujeme sa, ale verzia vášho operačného systému je príliš stará pre použitie tejto funkcie :(</string>
+
+    <string name="menu_chat_room_webcam">Zapnúť kameru</string>
+
+    <string name="toast_chat_webcam_slot_unavailable">Ďalšia kamera sa sem už nevojde.</string>
+    <string name="dialog_turn_off_webcam_title">Vypnúť kameru?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">Týmto vypnete svoju kameru</string>
+    <string name="dialog_turn_off_webcam_confirm">Vypnúť</string>
+    <string name="dialog_webcam_broadcast_paused_title">Vysielanie pozastavené</string>
+    <string name="dialog_webcam_broadcast_paused_text">Vysielanie sa pozastaví pri každom opustení aplikácie.</string>
+    <string name="dialog_webcam_broadcast_paused_button_confirm">Pokračovať vo vysielaní</string>
+    <string name="dialog_webcam_broadcast_paused_button_cancel">Vypnúť kameru</string>
+    <string name="toast_webcam_duplicate_stream">Už sledujete tohto užívateľa.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">Tento užívateľ nepoužíva WebRTC prenos.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Získajte VIP členstvo alebo nahrajte aspoň jeden album/video, aby ste mohli sledovať túto kameru.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Získajte VIP členstvo alebo overte svoj profil, aby ste mohli sledovať túto kameru.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Ak chcete sledovať túto kameru, musíte byť VIP členom.</string>
+    <string name="toast_webcam_permission_denied_friends_only">Tento užívateľ vysiela iba pre svojich priateľov.</string>
+    <string name="toast_chat_camera_permissions_denied">Je potrebné udeliť oprávnenia na zapnutie kamery.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">Zapnúť kameru?</string>
+    <string name="dialog_webcam_data_connection_title_listen">Sledovať kameru užívateľa?</string>
+    <string name="dialog_webcam_data_connection_text">Používate mobilné dátové pripojenie. Sledovanie kamier môže spotrebovať veľké množstvo dát.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Zapnúť kameru</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Nechať kameru vypnutú</string>
+
+    <string name="chat_room_settings_webcam_sound_title">Zvuk kamier</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
+
+    <string name="janus_fragment_retry_text">Prerušené. Obnoviť?</string>
+    <string name="janus_error_hangup">Užívateľ/ka %s vypol/a kameru.</string>
+    <string name="janus_error_connection">Nepodarilo sa nadviazať spojenie so serverom.</string>
+    <string name="janus_error_unsupported">Vaše zariadenie nepodporuje streamovanie kamery.</string>
+    <string name="janus_error_camera_unavailable">Kamera je nedostupná.</string>
+    <string name="janus_error_video_not_receiving">Vyzerá to tak, že vaše zariadenie neposiela žiadne video.</string>
+
+    <string name="bottomsheet_webcam_broadcast_title">Moja kamera</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Prepnúť kameru</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Vypnúť zvuk</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Zapnúť zvuk</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Vypnúť kameru</string>
+
+    <string name="bottomsheet_webcam_listener_title">Kamera užívateľa %s</string>
+    <string name="bottomsheet_webcam_listener_maximize">Zobraziť v plnej veľkosti</string>
+    <string name="bottomsheet_webcam_listener_whisper">Šeptať</string>
+    <string name="bottomsheet_webcam_listener_mute">Vypnúť zvuk</string>
+    <string name="bottomsheet_webcam_listener_unmute">Zapnúť zvuk</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Vypnúť kameru</string>
+
+    <string name="webcam_detail_toolbar_title">Kamery: %s</string>
 
     </resources>
