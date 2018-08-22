@@ -202,7 +202,7 @@
     <string name="search_video_hint">Hľadať vo videách</string>
     <string name="search_user_hint">Hľadať v užívateľoch</string>
     <string name="ok">OK</string>
-    <string name="cancel">Zrušiť</string>
+    <string name="cancel">zrušiť</string>
 
     <string name="album_not_vip_other_button">Zrušiť</string>
     <string name="video_not_vip_other_button">Zrušiť</string>
