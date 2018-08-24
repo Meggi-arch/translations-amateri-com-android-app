@@ -996,6 +996,7 @@
     <string name="notification_channel_general">General notifications</string>
     <string name="notification_channel_messages">Message notifications</string>
     <string name="notification_channel_upload">Content upload notifications</string>
+    <string name="notification_channel_webcams">Chat webcam notifications</string>
 
     <!-- Chat Room -->
     <string name="chat_room_empty_title">No messages</string>
@@ -1015,6 +1016,7 @@
     <string name="avatarbar_empty_text">There is no other person in this room :-(</string>
     <string name="chat_room_users_category_chatties">Chatters</string>
     <string name="chat_room_users_category_friends">Friends</string>
+    <string name="chat_room_users_category_my_webcam_watchers">Viewers</string>
     <string name="chat_room_users_category_others">Users</string>
     <string name="chat_room_users_filter_empty_title">No users</string>
     <string name="chat_room_users_filter_empty_text">No users found for selected filter.</string>
@@ -1043,11 +1045,8 @@
     <string name="toast_chat_webcam_slot_unavailable">The next camera won\'t fit in here anymore.</string>
     <string name="dialog_turn_off_webcam_title">Turn off the camera?</string>
     <string name="dialog_turn_off_webcam_text_broadcast">This will turn off your camera</string>
+    <string name="dialog_turn_off_webcam_text_listener">This will turn off %s\' camera</string>
     <string name="dialog_turn_off_webcam_confirm">Turn off</string>
-    <string name="dialog_webcam_broadcast_paused_title">Broadcast paused</string>
-    <string name="dialog_webcam_broadcast_paused_text">Broadcast will be paused every time you leave the app.</string>
-    <string name="dialog_webcam_broadcast_paused_button_confirm">Continue broadcasting</string>
-    <string name="dialog_webcam_broadcast_paused_button_cancel">Turn off the camera</string>
     <string name="toast_webcam_duplicate_stream">You are already watching this user.</string>
     <string name="toast_webcam_permission_denied_webrtc_only">This user does not use WebRTC streaming.</string>
     <string name="toast_webcam_permission_denied_album_video_vip_only">Get a VIP membership or upload at least one album/video to watch this camera.</string>
@@ -1090,6 +1089,7 @@
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">No messages yet</string>
     <string name="chat_room_whisper_empty_text">Write a message or just a smiley :)</string>
+    <string name="chat_room_whisper_webcam_placeholder_title">Turn on: %s</string>
 
     <!-- ProfileEditFragment -->
     <string name="profile_edit_section_profile_info">General information</string>
@@ -1161,11 +1161,15 @@
 
     <!-- Chat webcams -->
     <string name="janus_fragment_retry_text">Interrupted. Retry?</string>
+    <string name="janus_fragment_hangup_text">Camera turned off</string>
     <string name="janus_error_hangup">User %s turned off the camera.</string>
     <string name="janus_error_connection">Failed to establish a connection with the server.</string>
     <string name="janus_error_unsupported">Your device does not support camera streaming.</string>
     <string name="janus_error_camera_unavailable">Camera is not available.</string>
     <string name="janus_error_video_not_receiving">It looks like your device is not sending any video.</string>
+    <string name="janus_broadcast_service_notification_title">You are broadcasting</string>
+    <string name="janus_broadcast_service_notification_text">Chat room: %s</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Turn off camera</string>
 
     <!-- Chat room webcam bottom sheets -->
     <string name="bottomsheet_webcam_broadcast_title">My camera</string>
@@ -1181,8 +1185,11 @@
     <string name="bottomsheet_webcam_listener_unmute">Unmute</string>
     <string name="bottomsheet_webcam_listener_turn_off">Turn off the camera</string>
 
+    <!-- Chat room webcam detail -->
+    <string name="webcam_detail_toolbar_title">Cameras: %s</string>
+
     <string-array name="update_news_dialog_items">
-        <item>Watch and broadcast chat cameras!</item>
+        <item>Watch chat cameras in fullscreen</item>
     </string-array>
 
 </resources>
