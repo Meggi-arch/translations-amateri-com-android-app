@@ -962,4 +962,109 @@
     <string name="profile_edit_button_save">Сохранить изменения</string>
     <string name="toast_profile_edit_changes_saved">Изменения были сохранены.</string>
 
+    <string name="dialog_android_unsupported_title">Неподдерживаемая функция</string>
+    <string name="dialog_android_unsupported_text">Извините, но ваша версия Android не поддерживает данную функцию</string>
+
+    <string name="title_home">Главная</string>
+    <string name="menu_profile_meatballs">Опции профиля</string>
+    <string name="menu_chat_room_webcam">Включить камеру</string>
+
+    <string name="notifications_ignored">Игнорируемые</string>
+    <string name="conversation_list_filter_all">Все пользователи</string>
+    <string name="conversation_list_filter_unread">Непрочитанное</string>
+    <string name="conversation_list_filter_friends">От друзей</string>
+    <string name="popup_conversation_ignore">Добавить в игнор</string>
+    <string name="no_conversations_message_with_filter">Не найдены переписки согласно выбранного фильтра.</string>
+    <string name="notification_channel_webcams">Нотификации вебкамер</string>
+
+    <string name="chat_room_users_category_my_webcam_watchers">Зрители</string>
+    <string name="popup_chat_message_copy_text">Копировать</string>
+    <string name="popup_chat_message_delete_message">Удалить сообщение</string>
+    <string name="dialog_delete_chat_message_title">Удалить сообщение?</string>
+    <string name="dialog_delete_chat_message_text">Вы действительно хотите удалить сообщение для всех пользователей?</string>
+    <string name="dialog_delete_chat_message_button_confirm">Да, удалить</string>
+    <string name="toast_chat_message_deleted">Сообщение было удалено.</string>
+    <string name="toast_chat_webcam_slot_unavailable">Следующая камера не помещается.</string>
+    <string name="dialog_turn_off_webcam_title">Выключить камеру?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">Камера будет выключена</string>
+    <string name="dialog_turn_off_webcam_text_listener">Камера пользователя %s будет выключена</string>
+    <string name="dialog_turn_off_webcam_confirm">Выключить</string>
+    <string name="toast_webcam_duplicate_stream">Вы уже смотрите камеру пользователя.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">Этот пользователь не использует WebRTC-технологию.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Получите VIP или закачайте минимально один альбом/видео для того, чтобы смотреть эту вебкамеру.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Получите VIP или подтвердите ваш профиль, чтобы смотреть эту камеру.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Получите VIP чтобы смотреть эту камеру.</string>
+    <string name="toast_webcam_permission_denied_friends_only">Камера пользователя включена только для его/её друзей.</string>
+    <string name="toast_chat_camera_permissions_denied">Необходимо дать разрешения, чтобы включить камеру.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">Включить камеру?</string>
+    <string name="dialog_webcam_data_connection_title_listen">Смотреть на вебкамеру пользователя?</string>
+    <string name="dialog_webcam_data_connection_text">Вы используете мобильный интернет. Вебкамеры могут использовать большое количество трафика.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Включить камеру</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Оставить камеру выключенной</string>
+
+    <string name="chat_room_settings_webcam_sound_title">Звук вебкамеры</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Звук по-умолчанию включен</string>
+
+    <string name="chat_room_whisper_webcam_placeholder_title">Включить: %s</string>
+
+    <string name="home_section_videos_title">Последние видео</string>
+    <string name="home_section_albums_title">Последние альбомы</string>
+    <string name="home_section_chat_title">Чат</string>
+    <string name="home_section_dating_title">Знакомства</string>
+    <string name="home_section_events_title">События</string>
+    <string name="home_section_stories_title">Истории</string>
+    <string name="home_section_blogs_title">Блоги</string>
+
+    <string name="home_section_videos_footer_title">Все видео</string>
+    <string name="home_section_albums_footer_title">Все альбомы</string>
+    <string name="home_section_chat_rooms_footer_title">Все чат-комнаты</string>
+    <string name="home_section_dating_footer_title">Все объявления</string>
+    <string name="home_section_events_footer_title">Все события</string>
+    <string name="home_section_stories_footer_title">Все истории</string>
+    <string name="home_section_blogs_footer_title">Все блоги</string>
+
+    <string name="title_ignore_list">Игнорируемые</string>
+    <string name="ignore_list_empty_title">Нет игнорируемых</string>
+    <string name="ignore_list_empty_text">Нет никого в игнорируемых.</string>
+    <string name="dialog_ignore_list_remove_title">Удалить из игнорируемых</string>
+    <string name="dialog_ignore_list_remove_text">Вы хотите удалить %s из игнорируемых?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Удалить</string>
+    <string name="toast_ignore_list_user_removed">%s был удален из игнорируемых.</string>
+
+    <string name="profile_options_add_favourite">Добавить в избранное</string>
+    <string name="profile_options_add_friend">Добавить в друзья</string>
+    <string name="profile_options_mesage">Отправить сообщение</string>
+    <string name="profile_options_add_to_ignore">Добавить в игнорируемые</string>
+    <string name="dialog_ignore_list_add_title">Добавить в игнорируемые</string>
+    <string name="dialog_ignore_list_add_text">Вы действительно хотите добавит %s в игнорируемые?</string>
+    <string name="dialog_ignore_list_add_button_confirm">Добавить в игнорируемые</string>
+
+    <string name="conversation_options_delete_conversation">Удалить переписку</string>
+
+    <string name="janus_fragment_retry_text">Остановлено. Повторить?</string>
+    <string name="janus_fragment_hangup_text">Камера выключена</string>
+    <string name="janus_error_hangup">Пользователь %s выключил/а камеру.</string>
+    <string name="janus_error_connection">Не получилось соединиться с сервером.</string>
+    <string name="janus_error_unsupported">Ваше устройство не поддерживает веб-камеры.</string>
+    <string name="janus_error_camera_unavailable">Камера недоступна.</string>
+    <string name="janus_error_video_not_receiving">Ваше устройство не отправляет видео.</string>
+    <string name="janus_broadcast_service_notification_title">Вы ведете трансляцию</string>
+    <string name="janus_broadcast_service_notification_text">Чат-комната: %s</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Выключить камеру</string>
+
+    <string name="bottomsheet_webcam_broadcast_title">Моя камера</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Переключить камеру</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Выключить звук</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Включить звук</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Выключить камеру</string>
+
+    <string name="bottomsheet_webcam_listener_title">Камера пользователя %s</string>
+    <string name="bottomsheet_webcam_listener_maximize">Увеличить</string>
+    <string name="bottomsheet_webcam_listener_whisper">Личное сообщение</string>
+    <string name="bottomsheet_webcam_listener_mute">Выключить звук</string>
+    <string name="bottomsheet_webcam_listener_unmute">Включить звук</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Выключить камеру</string>
+
+    <string name="webcam_detail_toolbar_title">Камеры: %s</string>
+
     </resources>
