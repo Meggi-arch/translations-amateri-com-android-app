@@ -1116,4 +1116,15 @@
 
     <string name="webcam_detail_toolbar_title">Kamery: %s</string>
 
+    <string name="notification_channel_webcams">Oznámenia kamery</string>
+
+    <string name="chat_room_users_category_my_webcam_watchers">Diváci</string>
+    <string name="dialog_turn_off_webcam_text_listener">Týmto vypnete kameru užívateľa %s</string>
+    <string name="chat_room_whisper_webcam_placeholder_title">Zapnuť %s</string>
+
+    <string name="janus_fragment_hangup_text">Kamera vypnutá</string>
+    <string name="janus_broadcast_service_notification_title">Vysielate</string>
+    <string name="janus_broadcast_service_notification_text">Chat miestnosť: %s</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Vypnúť kameru</string>
+
     </resources>
