@@ -757,7 +757,7 @@
 
     <string name="chat_dashboard_online_friends">Freunde auf dem Chat</string>
     <string name="chat_dashboard_online_friends_empty">Sie haben keine Freunde auf dem Chat.</string>
-    <string name="chat_dashboard_most_popular_webcams">Die beliebtesten Webcams</string>
+    <string name="chat_dashboard_most_popular_webcams">Beliebteste Webcams</string>
     <string name="chat_dashboard_favourite_chatrooms">Ihre Lieblingsräume</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Sie haben keine Lieblingsräume.</string>
     <string name="chat_dashboard_newest_chatrooms">Neueste Chaträume</string>
@@ -921,4 +921,143 @@
     <string name="notification_story_comment_add_text">"%1$s  hat Ihrer Geschichte \"%2$s\" einen Kommentar hinzugefügt: %3$s"</string>
 
     <string name="notification_mention_title">Neue Erwähnung</string>
+    <string name="dialog_android_unsupported_title">Nicht unterstützte Funktion</string>
+    <string name="dialog_android_unsupported_text">Es tut uns leid, aber Ihre Android-Systemversion ist zu alt, um diese Funktion zu nutzen :(</string>
+
+    <string name="title_home">Startseite</string>
+    <string name="menu_profile_meatballs">Profiloptionen</string>
+    <string name="menu_chat_room_webcam">Kamera einschalten</string>
+
+    <string name="notifications_ignored">Ignorier-Liste</string>
+    <string name="notification_mention_text_album">%1$s hat dich im \"%2$s\" -Albenkommentar erwähnt: %3$s</string>
+    <string name="notification_mention_text_video">%1$s hat dich im \"%2$s\" -Videokommentar erwähnt: %3$s</string>
+    <string name="notification_mention_text_story">%1$s hat dich im \"%2$s\" -Geschichtenkommentar erwähnt: %3$s</string>
+    <string name="notification_mention_text_blog">%1$s hat dich im \"%2$s\" -Blogkommentar erwähnt: %3$s</string>
+
+    <string name="conversation_list_filter_all">Alle Anwender</string>
+    <string name="conversation_list_filter_unread">Ungelesen</string>
+    <string name="conversation_list_filter_friends">Von Freunden</string>
+    <string name="popup_conversation_ignore">Zu Ignorier-Liste hinzufügen</string>
+    <string name="no_conversations_message_with_filter">Sie haben keine Konversationen für den ausgewählten Filter.</string>
+    <string name="notification_channel_webcams">Webcam-Benachrichtigungen</string>
+
+    <string name="chat_room_users_category_my_webcam_watchers">Zuschauer</string>
+    <string name="popup_chat_message_copy_text">Text kopieren</string>
+    <string name="popup_chat_message_delete_message">Nachricht löschen</string>
+    <string name="dialog_delete_chat_message_title">Nachricht löschen?</string>
+    <string name="dialog_delete_chat_message_text">Wollen sie wirklich diese Nachricht löschen?</string>
+    <string name="dialog_delete_chat_message_button_confirm">Ja, löschen</string>
+    <string name="toast_chat_message_deleted">Nachricht wurde löschen.</string>
+    <string name="toast_chat_webcam_slot_unavailable">Die nächste Kamera passt hier nicht mehr.</string>
+    <string name="dialog_turn_off_webcam_title">Kamera ausschalten?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">Hiermit schalten sie Ihre kamera aus</string>
+    <string name="dialog_turn_off_webcam_text_listener">Hiermit schalten sie die Kamera des Benutzers %s aus</string>
+    <string name="dialog_turn_off_webcam_confirm">Ausschalten</string>
+    <string name="toast_webcam_duplicate_stream">Sie schauen diesem Benutzer bereits zu.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">Dieser Benutzer verwendet kein WebRTC-Streaming.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Holen Sie sich eine VIP-Mitgliedschaft oder laden Sie mindestens ein Album / Video hoch, um diese Kamera zu sehen.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Holen Sie sich eine VIP-Mitgliedschaft oder verifizieren Sie Ihr Profil, um diese Kamera zu sehen.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Um diese Kamera zu sehen, müssen Sie VIP-Mitglied sein.</string>
+    <string name="toast_webcam_permission_denied_friends_only">Dieser Benutzer sendet nur an seine Freunde.</string>
+    <string name="toast_chat_camera_permissions_denied">Sie müssen die Berechtigung zum Einschalten der Kamera erteilen.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">Kamera einschalten?</string>
+    <string name="dialog_webcam_data_connection_title_listen">Kamera des Benutzers anschauen?</string>
+    <string name="dialog_webcam_data_connection_text">Sie verwenden eine mobile Datenverbindung. Überwachungskameras können viele Daten verbrauchen.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Kamera einschalten</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Kamera ausgeschaltet lassen</string>
+
+    <string name="chat_room_settings_webcam_sound_title">Kameraton</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Standardmäßig aktivieren</string>
+
+    <string name="chat_room_whisper_webcam_placeholder_title">Aktivieren: %s</string>
+
+    <string name="profile_edit_section_profile_info">Allgemeine Information</string>
+    <string name="profile_edit_sex_hobbies_title">Sexuelle Hobbies</string>
+    <string name="profile_edit_sex_search_title">Suche</string>
+    <string name="profile_edit_sex_search_purpose_title">Suchzweck</string>
+    <string name="profile_edit_personal_description_title">Personenbeschreibung</string>
+    <string name="profile_edit_personal_description_hint">Personenbeschreibung eingeben…</string>
+
+    <string name="profile_edit_section_personal_info">Persönliche Angaben</string>
+    <string name="profile_edit_section_personal_info_his">Seine Angaben</string>
+    <string name="profile_edit_section_personal_info_her">Ihre Angaben</string>
+    <string name="profile_edit_section_personal_info_first_person">Erste Person</string>
+    <string name="profile_edit_section_personal_info_second_person">Zweite Person</string>
+    <string name="profile_edit_birth_date_title">Geburtsdatum</string>
+    <string name="profile_edit_zodiac_sign_title">Sternzeichen</string>
+    <string name="profile_edit_sex_orientation">Sexuelle Orientierung</string>
+    <string name="profile_edit_family_status_title">Familienstand</string>
+    <string name="profile_edit_eye_color_title">Augenfarbe</string>
+    <string name="profile_edit_hair_color_title">Haarfarbe</string>
+    <string name="profile_edit_height_title">Höhe</string>
+    <string name="profile_edit_weight_title">Gewicht</string>
+    <string name="profile_edit_skype_title">Skype ID</string>
+    <string name="profile_edit_skype_hint">Geben sie Ihre Skype ID ein…</string>
+    <string name="profile_edit_phone_number_title">Telefonnummer</string>
+    <string name="profile_edit_phone_number_hint">Geben sie Ihre Telefonnummer ein…</string>
+
+    <string name="profile_edit_chooser_not_filled">Nicht ausgefüllt</string>
+    <string name="profile_edit_button_save">Änderungen speichern</string>
+    <string name="toast_profile_edit_changes_saved">Änderungen wurden speichert.</string>
+
+    <string name="home_section_videos_title">Neueste videos</string>
+    <string name="home_section_albums_title">Neueste Alben</string>
+    <string name="home_section_chat_title">Chat</string>
+    <string name="home_section_dating_title">Dating</string>
+    <string name="home_section_events_title">Veranstaltungen</string>
+    <string name="home_section_stories_title">Geschichten</string>
+    <string name="home_section_blogs_title">Blogs</string>
+
+    <string name="home_section_videos_footer_title">Alle Videos</string>
+    <string name="home_section_albums_footer_title">Alle Alben</string>
+    <string name="home_section_chat_rooms_footer_title">Alle Chat-Räume</string>
+    <string name="home_section_dating_footer_title">Alle Anzeigen</string>
+    <string name="home_section_events_footer_title">Alle Veranstaltungen</string>
+    <string name="home_section_stories_footer_title">Alle Geschichten</string>
+    <string name="home_section_blogs_footer_title">Alle Blogs</string>
+
+    <string name="title_ignore_list">Ignorier-Liste</string>
+    <string name="ignore_list_empty_title">Keine ignorierte Benutzer</string>
+    <string name="ignore_list_empty_text">Ihr Ignorier-Liste ist leer.</string>
+    <string name="dialog_ignore_list_remove_title">Aus Ignorier-Liste entfernen</string>
+    <string name="dialog_ignore_list_remove_text">Möchten Sie %s aus der Ignorierliste entfernen?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Entfernen</string>
+    <string name="toast_ignore_list_user_removed">Benutzer %s wurde aus der Ignorier-Liste entfernt.</string>
+
+    <string name="profile_options_add_favourite">Zu Favoriten hinzufügen</string>
+    <string name="profile_options_add_friend">Freund hinzufügen</string>
+    <string name="profile_options_mesage">Nachricht schicken</string>
+    <string name="profile_options_add_to_ignore">Benutzer ignorieren</string>
+    <string name="dialog_ignore_list_add_title">Benutzer ignorieren</string>
+    <string name="dialog_ignore_list_add_text">Wollen sie wirklich Benutzer in die Ignorier-Liste hinzufügen?</string>
+    <string name="dialog_ignore_list_add_button_confirm">Zu Ignorier-Liste hinzufügen</string>
+
+    <string name="conversation_options_delete_conversation">Konversation löschen</string>
+
+    <string name="janus_fragment_retry_text">Unterbrochen. Wiederholen?</string>
+    <string name="janus_fragment_hangup_text">Kamera ausgeschaltet</string>
+    <string name="janus_error_hangup">Benutzer %s hat die Kamera ausgeschaltet.</string>
+    <string name="janus_error_connection">Fehler beim Herstellen einer Verbindung mit dem Server.</string>
+    <string name="janus_error_unsupported">Ihr Gerät unterstützt kein Kamera-Streaming.</string>
+    <string name="janus_error_camera_unavailable">Kamera nicht verfügbar.</string>
+    <string name="janus_error_video_not_receiving">Es sieht so aus, als ob dein Gerät kein Video sendet.</string>
+    <string name="janus_broadcast_service_notification_title">Sie senden</string>
+    <string name="janus_broadcast_service_notification_text">Chat-Raum: %s</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Kamera ausschalten</string>
+
+    <string name="bottomsheet_webcam_broadcast_title">Meine Kamera</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Kamera wechseln</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Ton ausschalten</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Ton einschalten</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Kamera ausschalten</string>
+
+    <string name="bottomsheet_webcam_listener_title">Kamera des Benutzers %s</string>
+    <string name="bottomsheet_webcam_listener_maximize">In voller Größe anzeigen</string>
+    <string name="bottomsheet_webcam_listener_whisper">Flüstern</string>
+    <string name="bottomsheet_webcam_listener_mute">Ton ausschalten</string>
+    <string name="bottomsheet_webcam_listener_unmute">Ton einschalten</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Kamera ausschalten</string>
+
+    <string name="webcam_detail_toolbar_title">Kameras: %s</string>
+
     </resources>
