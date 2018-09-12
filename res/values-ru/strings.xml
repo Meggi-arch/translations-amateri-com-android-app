@@ -646,7 +646,7 @@
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
     <string name="update_news_dialog_title">Новое в этой версии</string>
 
-    <string name="all_conversations">Все переписки</string>
+    <string name="conversation_list_filter_all">Все переписки</string>
     <string name="me">Я</string>
     <string name="popup_conversation_mark_read">Отметить как прочитанное</string>
     <string name="popup_conversation_delete">Удалить переписку</string>
@@ -872,7 +872,6 @@
     <string name="chat_room_users_category_others">Пользователи</string>
     <string name="chat_room_users_filter_empty_title">Пользователей нет</string>
     <string name="chat_room_users_filter_empty_text">С данным фильтром не найдено ни одного пользователя.</string>
-    <string name="popup_chat_room_user_filter_webcam">С вебкамерой</string>
     <string name="popup_chat_room_user_filter_content">С альбомами/видео</string>
     <string name="chat_room_users_filter_all_countries">Все страны</string>
     <string name="chat_room_users_filter_all_regions">Все регионы</string>

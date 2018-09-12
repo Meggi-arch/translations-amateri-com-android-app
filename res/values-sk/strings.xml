@@ -202,7 +202,7 @@
     <string name="search_video_hint">Hľadať vo videách</string>
     <string name="search_user_hint">Hľadať v užívateľoch</string>
     <string name="ok">OK</string>
-    <string name="cancel">zrušiť</string>
+    <string name="cancel">Zrušiť</string>
 
     <string name="album_not_vip_other_button">Zrušiť</string>
     <string name="video_not_vip_other_button">Zrušiť</string>
@@ -656,7 +656,6 @@
         <item quantity="other">zostáva %d dní</item>
     </plurals>
 
-    <string name="all_conversations">Všetky konverzácie</string>
     <string name="me">Ja</string>
     <string name="popup_conversation_mark_read">Označiť za prečítané</string>
     <string name="popup_conversation_delete">Vymazať konverzáciu</string>
@@ -925,7 +924,6 @@
     <string name="chat_room_users_category_others">Užívatelia</string>
     <string name="chat_room_users_filter_empty_title">Žiadni užívatelia</string>
     <string name="chat_room_users_filter_empty_text">Neboli nájdení žiadni užívatelia pre zvolený filter.</string>
-    <string name="popup_chat_room_user_filter_webcam">S webkou</string>
     <string name="popup_chat_room_user_filter_content">S albummi/videami</string>
     <string name="chat_room_users_filter_all_countries">Všetky krajiny</string>
     <string name="chat_room_users_filter_all_regions">Všetky regióny</string>
@@ -1074,10 +1072,6 @@
     <string name="dialog_turn_off_webcam_title">Vypnúť kameru?</string>
     <string name="dialog_turn_off_webcam_text_broadcast">Týmto vypnete svoju kameru</string>
     <string name="dialog_turn_off_webcam_confirm">Vypnúť</string>
-    <string name="dialog_webcam_broadcast_paused_title">Vysielanie pozastavené</string>
-    <string name="dialog_webcam_broadcast_paused_text">Vysielanie sa pozastaví pri každom opustení aplikácie.</string>
-    <string name="dialog_webcam_broadcast_paused_button_confirm">Pokračovať vo vysielaní</string>
-    <string name="dialog_webcam_broadcast_paused_button_cancel">Vypnúť kameru</string>
     <string name="toast_webcam_duplicate_stream">Už sledujete tohto užívateľa.</string>
     <string name="toast_webcam_permission_denied_webrtc_only">Tento užívateľ nepoužíva WebRTC prenos.</string>
     <string name="toast_webcam_permission_denied_album_video_vip_only">Získajte VIP členstvo alebo nahrajte aspoň jeden album/video, aby ste mohli sledovať túto kameru.</string>

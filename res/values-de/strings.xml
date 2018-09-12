@@ -647,7 +647,6 @@
     <string name="add_attachment">Foto hinzufügen</string>
     <string name="notification_message_received">Sie haben neue Nachricht</string>
 
-    <string name="all_conversations">Alle Gespräche</string>
     <string name="me">Ich</string>
     <string name="popup_conversation_mark_read">Als gelesen markieren</string>
     <string name="popup_conversation_delete">Gespräch löschen</string>
@@ -865,7 +864,6 @@
     <string name="chat_room_users_category_others">Benutzer</string>
     <string name="chat_room_users_filter_empty_title">Keine Benutzer</string>
     <string name="chat_room_users_filter_empty_text">Für den ausgewählten Filter wurden keine Benutzer gefunden.</string>
-    <string name="popup_chat_room_user_filter_webcam">Mit Webcam</string>
     <string name="popup_chat_room_user_filter_content">Mit Alben/Videen</string>
     <string name="chat_room_users_filter_all_countries">Alle Länder</string>
     <string name="chat_room_users_filter_all_regions">Alle Regione</string>
