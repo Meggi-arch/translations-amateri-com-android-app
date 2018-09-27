@@ -29,8 +29,8 @@
 
     <string name="tab_albums">Albums de photos</string>
     <string name="tab_info">Infos</string>
-    <string name="tab_user">Utilisateur</string>
-    <string name="tab_album">Album de photos</string>
+    <string name="tab_user">Utilisateurs</string>
+    <string name="tab_album">Albums de photos</string>
 
     <string name="filter_advanced">Filtre avancé</string>
     <string name="filter_sort_by">Classer selon</string>
@@ -72,7 +72,7 @@
     <string name="no_users_found">Aucun utilisateur trouvé</string>
 
     <string name="album_theme_all">Tous les thèmes</string>
-    <string name="album_contest_all">Tous les concours</string>
+    <string name="album_contest_all">Concours non choisi</string>
     <string name="no_albums_found">Aucun album photos trouvé</string>
 
     <string name="author">Auteur</string>
@@ -94,7 +94,7 @@
     <string name="notifications_messages">Messages</string>
     <string name="notifications_dating_messages">Réponses aux annonces</string>
     <string name="notifications_requests">Demandes d\'amis</string>
-    <string name="notifications_favourites">M\'ont ajouté à leurs favoris</string>
+    <string name="notifications_favourites">Préférés</string>
 
     <string name="update_dialog_title">Nouvelle version</string>
     <string name="update_dialog_content">Nous avons une meilleure version, plus juteuse de l\'application pour vous. Voulez-vous la télécharger ?</string>
@@ -161,9 +161,9 @@
     <string name="video_comment_fail">Le commentaire ne peut pas être envoyé</string>
 
     <string name="tab_videos">Vidéos</string>
-    <string name="tab_video">Vidéo</string>
+    <string name="tab_video">Vidéos</string>
 
-    <string name="video_contest_all">Tous les concours</string>
+    <string name="video_contest_all">Concours non choisi</string>
     <string name="no_videos_found">Aucune vidéo trouvée</string>
 
     <string name="video_duration">Durée</string>
@@ -456,7 +456,7 @@
     <string name="dating_buy_top_dialog_main_text_third">Les jours s\'ajoutent en multipliant les mises en avant, celui qui en a le plus aura une meilleure position.</string>
     <string name="dating_buy_top_dialog_info_text_1">Le prix d\'un message reçu est %s TVA incluse.</string>
     <string name="dating_buy_top_dialog_info_text_2">Prise en charge technique par %s.</string>
-    <string name="dating_buy_top_dialog_info_text_3">SMS hotline : %s</string>
+    <string name="dating_buy_top_dialog_info_text_3">Hotline SMS : %s.</string>
     <string name="dating_buy_top_dialog_country_picker_title">Pays</string>
     <string name="dating_buy_top_dialog_country_picker_placeholder">Choisissez un pays</string>
     <string name="dating_buy_top_dialog_send_sms">Envoyer un SMS prérempli</string>
@@ -479,7 +479,7 @@
     <string name="video_settings_topic_default">Choisissez un thème</string>
     <string name="no_album_for_state_title">Vous n\'avez aucun album à l\'état \"%s\".</string>
     <string name="profile_video_converting_edit_error">Vous ne pouvez pas modifier cette vidéo pendant la conversion. Veuillez attendre.</string>
-    <string name="profile_video_disabled_edit_error">Vous ne pouvez plus modifier cette vidéo.</string>
+    <string name="profile_video_disabled_edit_error">Vous ne pouvez plus modifier cette vidéo</string>
     <string name="no_video_for_state_title">Vous n\'avez aucune vidéo à l\'état \"%s\".</string>
     <string name="notification_blog">Blog</string>
     <string name="notification_story">Histoire</string>
@@ -523,7 +523,7 @@
     <string name="toast_thumbnail_photo_changed">Vous avez bien modifié la photo de couverture</string>
     <string name="dialog_guidelines_title">Aide</string>
     <string name="photo_guidelines_1">Vous pouvez enregistrer %1$s – %2$s photos.</string>
-    <string name="photo_guidelines_2">Modifiez l\'ordre des photos en utilisant glisser-déposer</string>
+    <string name="photo_guidelines_2">Modifiez l\'ordre des photos en utilisant glisser-déposer.</string>
     <string name="toast_add_more_photos">Veuillez ajouter au moins %d photos</string>
     <string name="toast_too_much_photos">La limite de l\'album est %d photos</string>
     <string name="toast_cant_send_uploading">Impossible d\'envoyer pour approbation pendant l\'enregistrement</string>
@@ -703,7 +703,7 @@
     <string name="stories_offline_mode">Vous regardez les histoires en régime offline.</string>
     <string name="blogs_offline_mode">Vous regardez les blogs en régime offline.</string>
     <string name="go_online_to_load_content">Connectez-vous à internet pour charger le contenu le plus récent.</string>
-    <string name="refresh_to_load_content">Déroulez pour charger le contenu le plus récent</string>
+    <string name="refresh_to_load_content">Déroulez pour charger le contenu le plus récent.</string>
     <string name="no_stories_title">Aucune histoire</string>
     <string name="no_stories_text_online">Aucune histoire trouvée</string>
     <string name="no_stories_text_offline">Aucune histoire offline enregistrée. Connectez-vous à internet pour charger des histoires.</string>
@@ -738,7 +738,7 @@
 
     <string name="toast_event_signed_in">Vous avez été inscrit/e avec succès</string>
     <string name="toast_event_signed_out">Vous avez été désinscrit/e avec succès</string>
-    <string name="event_comment_disallowed">Vous pouvez désormais ajouter un commentaire à cet événement</string>
+    <string name="event_comment_disallowed">Vous pouvez désormais ajouter un commentaire à cet événement.</string>
 
     <string name="event_button_man">Homme</string>
     <string name="event_button_woman">Femme</string>
@@ -887,11 +887,11 @@
     <string name="chat_room_users_category_my_webcam_watchers">Spectateurs</string>
     <string name="chat_room_users_category_others">Utilisateurs</string>
     <string name="chat_room_users_filter_empty_title">Aucun utilisateur</string>
-    <string name="chat_room_users_filter_empty_text">Aucun utilisateur trouvé pour le filtre choisi</string>
+    <string name="chat_room_users_filter_empty_text">Aucun utilisateur trouvé pour le filtre choisi.</string>
     <string name="popup_chat_room_user_filter_content">Avec albums/vidéos</string>
     <string name="chat_room_users_filter_all_countries">Tous les pays</string>
     <string name="chat_room_users_filter_all_regions">Toutes les régions</string>
-    <string name="toast_chat_room_admin_rights_gained">Vous êtes désormais administrateur provisoire de cette salle.</string>
+    <string name="toast_chat_room_admin_rights_gained">Vous êtes désormais administrateur provisoire de cette salle</string>
     <string name="dialog_chat_room_kick_user_title">Exclure cet utilisateur de la salle ?</string>
     <string name="dialog_chat_room_kick_user_content">Utilisateur : %s</string>
     <string name="dialog_chat_room_kick_user_choose_reason">Choisir une raison</string>
@@ -929,7 +929,7 @@
     <string name="dialog_webcam_data_connection_button_cancel">Laisser la caméra éteinte</string>
 
     <string name="dialog_chat_room_knock_title_main">Cette salle est fermée</string>
-    <string name="dialog_chat_room_knock_title_waiting">J\'attends une réponse de l\'administrateur de la salle.</string>
+    <string name="dialog_chat_room_knock_title_waiting">J\'attends une réponse de l\'administrateur de la salle…</string>
     <string name="dialog_chat_room_knock_text_main">Vous pouvez demander à entrer dans la salle ou à y revenir.</string>
     <string name="dialog_chat_room_knock_text_waiting">Si l\'administrateur de la salle ne répond pas dans les 2 minutes, vous serez redirigé/e.</string>
     <string name="dialog_chat_room_knock_text_forbidden">Nous sommes désolés, mais l\'administrateur ne vous a pas autorisé/e à entrer dans cette salle.</string>
@@ -1003,7 +1003,7 @@
 
     <string name="title_ignore_list">Ignorer</string>
     <string name="ignore_list_empty_title">Aucun ignoré</string>
-    <string name="ignore_list_empty_text">Vous n\'avez encore personne dans ignorer</string>
+    <string name="ignore_list_empty_text">Vous n\'avez encore personne dans ignorer.</string>
     <string name="dialog_ignore_list_remove_title">Enlever d\'ignorer</string>
     <string name="dialog_ignore_list_remove_text">Enlever vraiment l\'utilisateur %s d\'ignorer ?</string>
     <string name="dialog_ignore_list_remove_button_confirm">Enlever</string>
