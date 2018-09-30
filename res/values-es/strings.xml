@@ -364,4 +364,685 @@
     <string name="notification_video_approve_text">Su vídeo \"%s\" ha sido aprobado.</string>
 
     <string name="notification_update_text">Está disponible una versión mejorada y más jugosa de la aplicación. ¿Desea descargarla?</string>
-</resources>
+<string name="infinity_error_no_connection">Parece que no hay conexión a Internet. Toque para intentarlo de nuevo.</string>
+    <string name="dialog_android_unsupported_title">Característica incompatible</string>
+    <string name="dialog_android_unsupported_text">Lo sentimos, pero la versión de su sistema Android es demasiado antigua para usar esta característica :(</string>
+
+    <string name="title_home">Página de inicio</string>
+    <string name="title_blogs">Blogs</string>
+    <string name="title_stories">Historias</string>
+    <string name="title_events">Eventos</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_application_settings">Ajustes de la aplicación</string>
+    <string name="title_new_album">Añadir un nuevo álbum</string>
+    <string name="title_new_video">Añadir un nuevo vídeo</string>
+    <string name="title_my_account">Mi cuenta</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_dating">Dates</string>
+
+    <string name="title_next_blogs">Más entradas</string>
+    <string name="blog_comment_disallowed">No puede agregar un comentario a esta entrada de blog ahora.</string>
+
+    <string name="title_next_story">Más historias</string>
+    <string name="story_comment_disallowed">No puede añadir un comentario a esta historia ahora.</string>
+
+    <string name="no_dating_ads_title">No se encontraron anuncios de citas</string>
+    <string name="no_dating_ads_text">No se encontraron anuncios de citas para el filtro seleccionado.</string>
+
+    <string name="dating_reply_button_send">Enviar respuesta</string>
+    <string name="dating_reply_hint">Su respuesta</string>
+    <string name="toast_dating_reply_sent">La respuesta ha sido enviada</string>
+    <string name="dating_reply_picture_attached">Foto adjunta</string>
+    <string name="dialog_delete_attachment_title">Eliminar adjunto</string>
+    <string name="dialog_delete_attachment_text">¿Desea eliminar el adjunto?</string>
+
+    <string name="dialog_report_ad_title">Informar de un anuncio de citas</string>
+
+    <string name="menu_profile_meatballs">Opciones de perfil</string>
+    <string name="menu_chat_room">Menú de sala de chat</string>
+    <string name="menu_chat_room_webcam">Encender la cámara</string>
+
+    <string name="tab_blogs">Blog</string>
+    <string name="tab_stories">Historias</string>
+    <string name="tab_dating">Citas</string>
+    <string name="tab_friends">Amigos</string>
+
+    <string name="title_filter_height">Altura [cm]</string>
+    <string name="title_filter_weight">Peso [kg]</string>
+    <string name="user_with_albums">Con álbumes</string>
+    <string name="user_with_videos">Con vídeos</string>
+    <string name="user_with_photo">Con fotografía</string>
+    <string name="user_sex_search_all">Todas las búsquedas de sexo</string>
+    <string name="user_sex_search_purpose_all">Todos los propósitos de búsqueda de sexo</string>
+    <string name="user_sexual_hobbies_all">Todos los hobbies sexuales</string>
+    <string name="user_zodiac_sign_all">Todos los signos zodiacales</string>
+    <string name="user_hair_color_all">Todos los colores de pelo</string>
+    <string name="user_eye_color_all">Todos los colores de ojos</string>
+    <string name="button_filter_connection_error">Error de conexión</string>
+    <string name="filter_show_only">Mostrar solo</string>
+    <string name="filter_user_online">En línea</string>
+    <string name="filter_user_verified">Verificado</string>
+
+    <string name="album_contest_unavailable">No hay concursos disponibles</string>
+    <string name="date_less_than_1_day">24h</string>
+    <string name="date_less_than_7_days">7 días</string>
+    <string name="date_less_than_1_month">1 mes</string>
+    <string name="date_less_than_3_months">3 meses</string>
+    <string name="date_start">Fecha de inicio</string>
+    <string name="date_end">Fecha de fin</string>
+
+    <string name="video_theme_all">Todos los temas</string>
+    <string name="video_contest_unavailable">Ningún concurso disponible</string>
+    <string name="filter_album_not_viewed">No visto</string>
+
+    <string name="notifications_ignored">Lista de ignorados</string>
+    <string name="notifications_my_account_content_settings">Configuración de cuenta y contenido</string>
+    <string name="notifications_my_account">Mi cuenta</string>
+    <string name="notifications_albums">Álbumes</string>
+    <string name="notifications_videos">Vídeos</string>
+    <string name="notifications_dating">Citas</string>
+
+    <string name="article_info_share">Compartir con amigos</string>
+    <string name="blog_number">Número de blog</string>
+    <string name="blog_url">URL del blog</string>
+    <string name="story_number">Número de historia</string>
+    <string name="story_url">URL de historia</string>
+
+    <string name="dating_reply">Contestar</string>
+    <string name="dating_highlight">Anuncio principal</string>
+    <string name="dating_buy_top_dialog_title">Anuncio superior</string>
+    <string name="dating_buy_top_dialog_main_text_first">Puedes colocar en la parte superior el anuncio hasta llegar al primer lugar ahora.</string>
+    <string name="dating_buy_top_dialog_main_text_second">El uso de la característica de Superior hace que su anuncio sea más visible y mantendrá su posición superior en esta categorías durante %d días.</string>
+    <string name="dating_buy_top_dialog_main_text_third">El uso repetido de la característica de Superior suma los días. Los anuncios de citas con más días acumulados ganarán una posición más alta en la lista.</string>
+    <string name="dating_buy_top_dialog_info_text_1">el precio de un solo mensaje recibido es de %s, IVA incluido.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Proporcionado técnicamente por %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">Línea directa de SMS: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_title">País</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Seleccionar país</string>
+    <string name="dating_buy_top_dialog_send_sms">Enviar un SMS autocompletado</string>
+    <string name="dating_buy_top_dialog_no_sms_data">No disponible en este país</string>
+    <string name="dating_buy_top_dialog_network_error">Error de conexión</string>
+
+    <string name="setup_notification_new_blog_comment">Nuevo comentario de entrada de blog</string>
+    <string name="notification_blog_comment_add_title">Nuevo comentario de entrada de blog</string>
+    <string name="notification_blog_comment_add_text">%1$s ha añadido un comentario a su entrada de blog \"%2$s\": %3$s</string>
+
+    <string name="notification_mention_text_blog">%1$s le ha mencionado en el comentario de entrada de blog \"%2$s\": %3$s</string>
+
+    <string name="setup_notification_new_story_comment">Nuevo comentario de historia</string>
+    <string name="setup_notification_mention">Menciones</string>
+    <string name="setup_stories_and_blogs_title">Historias y blogs</string>
+    <string name="setup_text_size">Tamaño del texto</string>
+    <string name="setup_background_color">Color de fondo</string>
+    <string name="text_size_small">Pequeño</string>
+    <string name="text_size_medium">Medio</string>
+    <string name="text_size_big">Grande</string>
+    <string name="color_theme_dark">Oscuro</string>
+    <string name="color_theme_light">Blanco</string>
+
+    <string name="video_settings_topic">Asunto</string>
+    <string name="video_settings_topic_default">Seleccionar asunto</string>
+    <string name="no_album_for_state_title">No tiene álbumes en estado \"%s\".</string>
+    <string name="profile_video_converting_edit_error">No puede editar este vídeo durante el proceso de codificación. Espere.</string>
+    <string name="profile_video_disabled_edit_error">Ya no puede editar este vídeo</string>
+    <string name="no_video_for_state_title">No tiene vídeos en estado \"%s\".</string>
+    <string name="notification_blog">Blog</string>
+    <string name="notification_story">Historia</string>
+    <string name="notification_add_to_calendar">Añadir al calendario</string>
+    <string name="notification_event_detail">Información del evento</string>
+
+    <string name="notification_story_comment_add_title">Nuevo comentario de la historia</string>
+    <string name="notification_story_comment_add_text">%1$s ha añadido un comentario a su historia \"%2$s\": %3$s</string>
+
+    <string name="notification_mention_title">Nueva mención</string>
+    <string name="notification_mention_text_album">%1$s le ha mencionado en el comentario del álbum \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_video">%1$s le ha mencionado en el comentario del vídeo \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_story">%1$s le ha mencionado en el comentario de la historia \"%2$s\": %3$s</string>
+    <string name="fab_add_album">Añadir álbum</string>
+    <string name="fab_add_video">Añadir vídeo</string>
+    <string name="fab_add_dating">Añadir anuncio de citas</string>
+
+    <string name="my_account_content_settings">Fuente de comentario</string>
+    <string name="my_account_other_settings">Más ajustes</string>
+    <string name="my_account_content_source_max">%d países máximo permitido</string>
+    <string name="all_countries">Todos los países</string>
+
+    <string name="new_album_save">Guardar y continuar</string>
+    <string name="warning">Advertencia</string>
+    <string name="dialog_new_album_back_press">El álbum se considera completo solo con imágenes cargadas. Todos los cambios que haya realizado serán descartados.</string>
+
+    <string name="dialog_album_settings_back_press">Todos los cambios que haya realizado serán descartados.</string>
+
+
+    <string name="new_video_save">Guardar y continuar</string>
+
+    <string name="album_upload_choose_photo">Cargar fotos</string>
+    <string name="album_upload_send_to_review">Enviar para aprobación</string>
+    <string name="photo_delete_dialog_title">¿Eliminar esta foto?</string>
+    <string name="photo_delete_dialog">¿Está seguro de que desea eliminar esta foto?</string>
+    <string name="toast_thumbnail_photo_changed">Ha cambiado la foto de portada correctamente</string>
+    <string name="dialog_guidelines_title">Ayuda</string>
+    <string name="photo_guidelines_1">Puede cargar %1$s – %2$s fotos.</string>
+    <string name="photo_guidelines_2">Cambie el orden de sus fotos utilizando arrastrar y soltar.</string>
+    <string name="toast_add_more_photos">Añada al menos %d fotos</string>
+    <string name="toast_too_much_photos">Máximo de %d fotos permitidas</string>
+    <string name="toast_cant_send_uploading">No se pudo enviar para su aprobación durante la carga</string>
+    <string name="toast_photo_already_exists">La foto ya existe</string>
+    <string name="toast_cant_load_photo">Falló al cargar la imagen</string>
+    <string name="toast_photo_too_large">No se puede cargar una foto más grande de %s MB</string>
+    <string name="toast_photo_too_small">No se puede cargar una foto inferior a %s px</string>
+    <string name="upload_failed">Falló al cargar</string>
+    <string name="tap_try_again">Toque para intentar de nuevo</string>
+    <string name="dialog_connection_data_title">Datos móviles</string>
+    <string name="dialog_connection_data_content">Está a punto de subir contenido a través de una conexión de datos móviles. Dependiendo de su operador, se pueden aplicar cargos adicionales. ¿Desea continuar?</string>
+    <string name="dialog_continue">Continuar</string>
+    <string name="processing_photos">Procesando fotos: %1$s/%2$s</string>
+    <string name="processing_photos_text">Estamos procesando sus fotos…</string>
+    <string name="photos_uploaded">Fotos cargadas: %s</string>
+    <string name="photos_to_upload">Fotos para cargar: %s</string>
+    <string name="photos_limit_reached">Límite excedido; elimine %s fotos</string>
+    <string name="album_no_description">Álbum sin descripción</string>
+    <string name="cant_leave_while_uploading">No pudo abandonar mientras cargaba</string>
+
+    <string name="dialog_new_video_back_press">El vídeo no se creará. Todos los cambios que haya realizado serán descartados.</string>
+
+    <string name="video_upload_choose_video">Cargar un vídeo</string>
+    <string name="delete_video">Eliminar vídeo</string>
+    <string name="cancel_upload">Cancelar la carga</string>
+    <string name="toast_thumbnail_error">Falló al establecer la miniatura del vídeo</string>
+    <string name="video_guidelines_1">Puede cargar solo un vídeo a la vez.</string>
+    <string name="video_guidelines_2">Longitud mínima de vídeo: %s segundos.</string>
+    <string name="toast_video_too_short">La longitud mínima del vídeo es de %s segundos. Cargue un vídeo más largo.</string>
+    <string name="toast_video_too_big">El vídeo es demasiado grande. El tamaño máximo permitido es de %s MB. Cargue un archivo más pequeño.</string>
+    <string name="video_upload_progress">%1$s %% de %2$s MB</string>
+    <string name="dialog_video_upload_cancel_title">¿Cancelar carga?</string>
+    <string name="dialog_video_upload_cancel_content">¿Desea cancelar la carga del vídeo?</string>
+    <string name="upload_complete">Carga completada</string>
+    <string name="video_upload_complete_text">Toque para comprobar su vídeo.</string>
+    <string name="toast_cant_send_no_video">Primero cargue un vídeo</string>
+    <string name="toast_one_video_at_once">Puede cargar solo un vídeo a la vez. Espere hasta que la carga esté completa.</string>
+    <string name="upload_in_progress">Cargando…</string>
+    <string name="video_no_description">Vídeo sin descripción</string>
+    <string name="video_not_found">Su vídeo está cargado, pero no puede ser reproducido ahora. No se encontró el archivo de vídeo en este dispositivo.</string>
+    <string name="admin_message">Mensaje del administrador</string>
+    <string name="toast_cant_load_video">Falló al cargar el vídeo</string>
+    <string name="video_loading">Espere mientras cargamos el vídeo…</string>
+
+    <string name="uploading_video">Cargando vídeo</string>
+    <string name="video_uploaded_percentage">Cargando progreso: %s %%</string>
+    <string name="tap_to_retry">Toque para intentar de nuevo</string>
+
+    <string name="photo_upload_notification_title">Carga de foto</string>
+    <string name="photo_upload_notification_progress">Carga en progreso: %1$d/%2$d</string>
+
+    <string name="album_delete_dialog_title">¿Eliminar álbum?</string>
+    <string name="album_delete_dialog">¿Está seguro de que desea eliminar este álbum?</string>
+    <string name="delete">Eliminar</string>
+    <string name="filter_all">Todo</string>
+
+    <string name="video_delete_dialog_title">¿Eliminar vídeo?</string>
+    <string name="video_delete_dialog">¿Está seguro de que desea eliminar este vídeo?</string>
+    <string name="video_delete_dialog_uploading">El vídeo está siendo cargado ahora. ¿Está seguro de que desea eliminar este vídeo?</string>
+
+    <string name="logout_during_uploading_dialog_title">¿Desea cerrar la sesión?</string>
+    <string name="logout_during_uploading_dialog_content">Todos los archivos que no haya cargado se perderán.</string>
+
+    <string name="report_dialog_text">Elija una razón</string>
+    <string name="report_dialog_send">Enviar</string>
+    <string name="report_dialog_toast_no_reason">Elija primero una razón</string>
+    <string name="report_dialog_toast_sent">El informe ha sido enviado. Gracias.</string>
+
+    <string name="message_popup_copy">Copiar al portapapeles</string>
+    <string name="message_popup_delete">Eliminar mensaje</string>
+    <string name="message_popup_report">Informe</string>
+    <string name="message_popup_received">Recibido %s</string>
+    <string name="dialog_report_message_title">Informar mensaje</string>
+    <string name="toast_message_deleted">Mensaje eliminado</string>
+    <string name="toast_copied_message_text">¡El mensaje ha sido copiado a su portapapeles!</string>
+    <string name="message_date_today">Hoy</string>
+    <string name="message_date_yesterday">Ayer</string>
+    <string name="message_seen">Leído</string>
+    <string name="message_unseen">No leído</string>
+    <string name="message_send_failure">Lo sentimos, parece que ha habido un problema de red y su mensaje no ha sido enviado.</string>
+    <string name="new_message_info">Tiene un nuevo mensaje</string>
+    <string name="message_write_hint">Escriba un mensaje</string>
+    <string name="take_a_picture">Tomar una foto</string>
+    <string name="pick_from_gallery">Elegir de la galería</string>
+    <string name="toast_no_camera_app">Ninguna app de cámara encontrada</string>
+    <string name="add_attachment">Añadir una foto</string>
+    <string name="notification_message_received">Tiene un nuevo mensaje</string>
+    <string name="conversation_empty">Escriba un mensaje, envíe una foto o solo un emoticono :)</string>
+    <string name="conversation_dating_reply">Respuesta de cita</string>
+
+    <string name="buy_vip_title">Conviértase en un miembro VIP</string>
+    <string name="vip_promo_title">Oferta especial</string>
+    <string name="vip_promo_title_ends_today">Oferta especial (finaliza hoy)</string>
+    <string name="vip_promo_subtitle">Regalamos hasta 1 mes de membresía VIP gratis</string>
+    <string name="buy">Comprar</string>
+    <string name="vip_sms_only">(solo SMS)</string>
+    <string name="vip_discount_text">%d %% de descuento</string>
+    <string name="vip_choose_paymethod">Elija un método de pago</string>
+    <string name="vip_most_popular_offer">Oferta más popular</string>
+    <string name="vip_membership_advantages">Beneficios de la membresía VIP</string>
+    <string name="vip_successful_payment_title">Pago correcto</string>
+    <string name="vip_unsuccessful_payment_title">Pago cancelado</string>
+    <string name="thank_you">Gracias.</string>
+    <string name="notification_vip_payment">%d días de membresía VIP se han acreditado a su cuenta.</string>
+
+    <string name="sms_price">El precio de un solo mensaje recibido es de %s, IVA incluido.</string>
+    <string name="vip_send_sms_instructions">Enviar un SMS con el texto %1$s a %2$s</string>
+
+    <string name="vip_get_one_day_for_free">Consiga 1 día de membresía VIP gratis</string>
+    <string name="vip_recurring_paymenthod_question">¿Desea un plan de descuento o un pago único?</string>
+    <string name="vip_recurring_payment_button_title">Renovar automáticamente</string>
+    <string name="vip_plus_one_day_free">+ 1 día gratis</string>
+    <string name="vip_normal_payment_button_title">Pago único</string>
+    <string name="vip_recurring_payment_advantages">La ventaja de una membresía VIP recurrente es que no tiene que crear y confirmar cada pago individual. Recibirá una confirmación de renovación cada vez que comience un nuevo período.</string>
+
+    <string name="no_users_title_general">Ningún usuario</string>
+    <string name="no_users_message_general">No se encontró ningún usuario</string>
+
+    <string name="title_friends">Amigos</string>
+    <string name="tab_friends_list">Amigos</string>
+    <string name="tab_friends_requests">Nuevas solicitudes</string>
+    <string name="online_users_only">Solo usuarios en línea</string>
+    <string name="no_friends_title">Ningún amigo</string>
+    <string name="no_friends_message">No tiene amigos aún</string>
+    <string name="no_friends_online_message">No tiene amigos en línea</string>
+    <string name="dialog_remove_friend_title">Eliminar de amigos</string>
+    <string name="dialog_remove_friend_content">¿Desea eliminar %s de sus amigos?</string>
+    <string name="dialog_remove_friend_confirm">Eliminar</string>
+    <string name="toast_friend_removed">El usuario %s fue eliminado de sus amigos</string>
+    <string name="button_friend_request_accept">Aceptar</string>
+    <string name="button_friend_request_reject">Rechazar</string>
+    <string name="toast_friend_request_accepted">Ahora es amigo de %s</string>
+    <string name="no_friend_requests_title">Ninguna solicitud de amistad</string>
+    <string name="no_friend_requests_message">No tiene ninguna solicitud de amistad</string>
+    <string name="dialog_reject_friend_request_title">Rechazar solicitud de amistad</string>
+    <string name="dialog_reject_friend_request_content">¿Desea rechazar esta solicitud de amistad?</string>
+
+    <string name="title_favourites">Favoritos</string>
+    <string name="tab_favourites_my_favourites">Mis favoritos</string>
+    <string name="tab_favourites_favourited_me">Añádeme a favoritos</string>
+    <string name="dialog_remove_favourite_title">Eliminar de favoritos</string>
+    <string name="dialog_remove_favourite_content">¿Desea eliminar a %s de favoritos?</string>
+    <string name="dialog_remove_favourite_confirm">Eliminar</string>
+    <string name="toast_favourite_removed">El usuario %s ha sido eliminado de favoritos</string>
+
+    <string name="no_favourited_users_title">No hay favoritos</string>
+    <string name="no_favourited_users_message">No tiene usuarios favoritos</string>
+    <string name="no_favourited_me_users_message">Aún no le ha añadido nadie a sus favoritos</string>
+
+    <string name="title_visits">Visitas</string>
+    <string name="close">Cerrar</string>
+    <string name="no_visits_title">Ninguna visita</string>
+    <string name="no_visits_message">Nadie ha visitado su perfil aún</string>
+
+    <string name="update_news_dialog_title">Nuevo en esta versión</string>
+
+    <string name="conversation_list_filter_all">Todos los usuarios</string>
+    <string name="conversation_list_filter_unread">No leído</string>
+    <string name="conversation_list_filter_friends">Desde amigos</string>
+    <string name="me">Yo</string>
+    <string name="popup_conversation_ignore">Ignorar usuario</string>
+    <string name="popup_conversation_mark_read">Marcar como leído</string>
+    <string name="popup_conversation_delete">Eliminar conversación</string>
+    <string name="dialog_conversation_delete_title">Eliminar conversación</string>
+    <string name="dialog_conversation_delete_content">¿Desea eliminar su conversación con %s?</string>
+    <string name="dialog_conversation_delete_confirm">Eliminar</string>
+    <string name="toast_conversation_deleted">La conversación con %s fue eliminada</string>
+    <string name="no_conversations_title">Ninguna conversación</string>
+    <string name="no_conversations_message">Aún no tiene conversaciones</string>
+    <string name="no_conversations_message_with_filter">No tiene conversaciones con el filtro seleccionado.</string>
+    <string name="no_users_found_title">Ningún usuario</string>
+    <string name="no_users_found_message">Ningún usuario encontrado</string>
+    <string name="user_sent_a_photo">%s le envió una foto</string>
+    <string name="i_sent_a_photo">Envió una foto</string>
+    <string name="toolbar_share">Compartir…</string>
+
+    <string name="stories_offline_mode">Está viendo historias en modo fuera de línea.</string>
+    <string name="blogs_offline_mode">Está viendo blogs en modo fuera de línea.</string>
+    <string name="go_online_to_load_content">Vaya a en línea para cargar el último contenido.</string>
+    <string name="refresh_to_load_content">Tire hacia abajo para actualizar el contenido.</string>
+    <string name="no_stories_title">Ninguna historia encontrada</string>
+    <string name="no_stories_text_online">No hay historias</string>
+    <string name="no_stories_text_offline">No hay historias fuera de línea. Vaya a en línea para cargar nuevas historias.</string>
+    <string name="no_blogs_title">Ningún blog encontrado</string>
+    <string name="no_blogs_text_online">No hay blogs</string>
+    <string name="no_blogs_text_offline">No hay blogs fuera de línea. Vaya a en línea para cargar nuevos blogs.</string>
+
+    <string name="tab_events_upcoming">Plan</string>
+    <string name="tab_events_past">Historial</string>
+    <string name="no_events_title">Ningún evento</string>
+    <string name="no_events_upcoming_message">No hay eventos próximos</string>
+    <string name="no_events_passed_message">No hay eventos próximos</string>
+    <string name="no_events_attended_message">Aún no ha asistido a ningún evento</string>
+    <string name="events_attended">Solo eventos a los que he asistido</string>
+    <string name="tab_event_info">Info</string>
+    <string name="tab_event_people">Gente</string>
+    <string name="tab_event_content">Álbumes y vídeos</string>
+
+    <string name="event_i_will_attend_as">Selecciones a quién iniciar sesión</string>
+    <string name="event_i_attended">Estuve ahí</string>
+    <string name="event_organizer">Organizador</string>
+    <string name="event_type">Tipo de evento</string>
+    <string name="event_date">Fecha</string>
+    <string name="event_time">Hora</string>
+    <string name="event_capacity">Capacidad</string>
+
+    <string name="event_attendee_count">Asistentes</string>
+    <string name="event_entry">Entrada</string>
+    <string name="event_address">Dirección</string>
+    <string name="event_description">Descripción del evento</string>
+    <string name="event_participants">Participantes</string>
+
+    <string name="toast_event_signed_in">Ha iniciado sesión correctamente</string>
+    <string name="toast_event_signed_out">Ha cerrado sesión correctamente</string>
+    <string name="event_comment_disallowed">No puede comentar este evento ahora.</string>
+
+    <string name="event_button_man">Hombre</string>
+    <string name="event_button_woman">Mujer</string>
+    <string name="event_button_couple">Pareja</string>
+
+    <string name="event_no_people_title">Ningún participante</string>
+    <string name="event_no_people_text">Ninguno ha iniciado sesión aún</string>
+
+    <string name="event_availability_everyone">El evento está abierto para cualquiera</string>
+    <string name="event_availability_users_with_content">Solo para usuarios con contenido</string>
+    <string name="event_availability_verified_users">Solo para usuarios verificados</string>
+    <string name="event_type_chat_room">Evento de sala de chat %s</string>
+    <string name="event_type_users">Evento de usuarios</string>
+    <string name="event_type_official">Evento oficial</string>
+
+    <string name="title_event">Evento</string>
+    <string name="notification_upcoming_event_start">Inicio de evento: %s.</string>
+    <string name="notification_upcoming_event_looking_forward">No olvide pasar por aquí, ¡esperamos verle de nuevo!</string>
+
+    <string name="dialog_fingerprint_setup__title">Huella dactilar</string>
+    <string name="dialog_fingerprint_setup_description">Toque el sensor para autenticar con su huella dactilar</string>
+    <string name="setup_fingerprint">Bloqueo de huella dactilar</string>
+    <string name="toast_fingerprint_not_supported">Su dispositivo no es compatible con la autenticación por huella dactilar</string>
+    <string name="toast_not_pin_protected">Necesita habilitar el bloqueo de código PIN para utilizar esta función</string>
+    <string name="toast_fingerprint_not_enrolled">No hay ninguna huella dactilar configurada. Registre al menos una huella dactilar en la configuración de su dispositivo.</string>
+    <string name="toast_lockscreen_disabled">Habilite la seguridad de la pantalla de bloqueo en la configuración de su dispositivo.</string>
+    <string name="error_fingerprints_invalidated">Huella dactilar no disponible. Parece que ha registrado recientemente una nueva huella dactilar. Puede volver a habilitar el bloqueo de huella dactilar en la configuración.</string>
+    <string name="success">Correcto</string>
+    <string name="fingerprint_authentication_failed">Huella dactilar no reconocida</string>
+    <string name="dialog_fingerprint_unavailable_title">Huella dactilar no disponible</string>
+    <string name="dialog_fingerprint_unavailable_button">Ir a configuración</string>
+
+    <string name="title_fingerprint_unlock">Desbloqueo de huella dactilar</string>
+    <string name="subtitle_fingerprint_unlock">Utilice su dedo para desbloquear</string>
+    <string name="use_pin_instead">Utilice el PIN</string>
+
+    <string name="tab_chat_board">Tablero</string>
+    <string name="tab_chat_rooms">Salas</string>
+
+    <string name="chat_dashboard_online_friends">Amigos en el chat</string>
+    <string name="chat_dashboard_online_friends_empty">No hay amigos chateando ahora.</string>
+    <string name="chat_dashboard_most_popular_webcams">Cámaras más populares</string>
+    <string name="chat_dashboard_favourite_chatrooms">Sus salas de chat favoritas</string>
+    <string name="chat_dashboard_favourite_chatrooms_empty">No tiene salas de chat favoritas aún.</string>
+    <string name="chat_dashboard_newest_chatrooms">Salas de chat más recientes</string>
+
+    <string name="chat_room_access_not_allowed_default">No está autorizado a acceder a esta sala.</string>
+    <string name="chat_room_access_not_allowed_locked">Esta sala está bloqueada.</string>
+    <string name="chat_room_access_not_allowed_verified_only">Esta sala es solo para usuarios verificados.</string>
+    <string name="chat_room_access_not_allowed_with_content_only">Esta sala es solo para usuarios con contenido.</string>
+    <string name="chat_room_empty">Esta sala está vacía.</string>
+    <string name="chat_room_category_all">Todas las categorías</string>
+    <string name="toast_chat_room_favourited">La sala %s fue añadida a sus favoritos.</string>
+    <string name="toast_chat_room_unfavourited">La sala %s fue eliminada de sus favoritos.</string>
+    <string name="chat_room_list_permanent">Salas de chat permanentes</string>
+    <string name="chat_room_list_temporary">Salas de chat temporales</string>
+
+    <string name="chat_avatar_popup_button_chat">Chat</string>
+    <string name="chat_avatar_popup_button_profile">Perfil</string>
+    <string name="chat_room_filter_show_empty">Mostrar salas vacías</string>
+    <string name="chat_room_filter_show_locked">Mostrar salas bloqueadas</string>
+    <string name="no_chat_rooms_text">No hay salas con el filtro seleccionado.</string>
+
+    <string name="chat_online_friends_title">Amigos en el chat</string>
+    <string name="chat_most_popular_webcams_title">Cámaras más populares</string>
+
+    <string name="tab_chat_room_info">Información de la sala</string>
+    <string name="tab_chat_room_people">Gente en la sala</string>
+
+    <string name="chat_room_info_description">Descripción de la sala</string>
+    <string name="chat_room_info_category">Categoría</string>
+    <string name="chat_room_info_access">Acceder</string>
+    <string name="chat_room_info_temp_admin">Administrador temporal</string>
+    <string name="chat_room_info_permanent_admins">Administradores permanentes</string>
+    <string name="chat_room_info_enter_button">Acceder a la sala de chat</string>
+
+    <string name="chat_room_people_empty">No hay nadie en esta sala.</string>
+
+    <string name="title_dating_add">Nuevo anuncio de citas</string>
+    <string name="dating_add_category_title">Categoría</string>
+    <string name="dating_add_category_hint">Seleccionar categoría</string>
+    <string name="dating_add_title_title">Título</string>
+    <string name="dating_add_title_hint">Introducir un título</string>
+    <string name="dating_add_text_title">Texto</string>
+    <string name="dating_add_text_hint">Introducir un texto de anuncio de citas…</string>
+    <string name="dating_add_validity_title">Validez</string>
+    <string name="dating_add_button_text">Crear un anuncio de citas</string>
+    <string name="dating_add_toast_created">El anuncio de citas ha sido creado.</string>
+    <string name="dating_add_dialog_backpress">El anuncio de citas no será creado. Todos los cambios que ha realizado se perderán.</string>
+    <string name="dating_add_toast_empty_fields">Todos los campos se deben rellenar.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Solo un anuncio de cita por %d horas</string>
+    <string name="dating_add_dialog_forbidden_content">Ya ha creado un anuncio hoy. Puede añadir otro mañana.</string>
+
+    <string name="dating_settings_no_dating_ads_title">No tiene anuncios de citas</string>
+    <string name="dating_settings_no_dating_ads_text">Es fácil añadir un nuevo anuncio de citas. Inténtelo ahora.</string>
+    <string name="dating_settings_no_dating_ads_button">Añadir un anuncio de citas</string>
+
+    <string name="dating_settings_status_enabled">En la web</string>
+    <string name="dating_settings_status_disabled">Cancelado</string>
+    <string name="dating_settings_status_expired">Expirado</string>
+    <string name="dating_settings_button_topup">Anuncio superior</string>
+    <string name="dating_settings_button_extend">Extender</string>
+    <string name="dating_settings_button_edit">Editar</string>
+    <string name="dating_settings_status_edited">Editado</string>
+
+    <string name="dating_settings_dialog_delete_title">¿Eliminar anuncio de citas?</string>
+    <string name="dating_settings_dialog_delete_text">¿Desea eliminar este anuncio de citas?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Eliminar</string>
+    <string name="dating_settings_toast_dating_ad_deleted">El anuncio de citas ha sido eliminado.</string>
+
+    <string name="dialog_dating_extend_title">Extender validez de anuncio de citas</string>
+    <string name="dialog_dating_extend_text">Su anuncio de citas ha expirado. Puede extender su validez.</string>
+    <string name="dialog_dating_extend_button_text">Extender en %s</string>
+    <string name="dialog_dating_extend_toast_successful">La validez del anuncio de cita ha sido extendido.</string>
+
+    <string name="title_dating_edit">Editar anuncio de cita</string>
+    <string name="dating_edit_button_text">Guardar cambios</string>
+    <string name="dating_edit_toast_saved">Los cambios han sido guardados.</string>
+    <string name="dating_edit_toast_empty_fields">Todos los campos han sido rellenado.</string>
+
+    <string name="edittext_invalid_input_empty">%s debe ser rellenado</string>
+
+    <string name="notification_channel_general">Notificaciones general</string>
+    <string name="notification_channel_messages">Notificaciones de mensaje</string>
+    <string name="notification_channel_upload">Notificaciones de carga de contenido</string>
+    <string name="notification_channel_webcams">Notificaciones de webcam de chat</string>
+
+    <string name="chat_room_empty_title">Ningún mensaje</string>
+    <string name="chat_room_empty_text">No hay mensajes en esta sala.</string>
+    <string name="chat_room_empty_text_friend_filter">Ha habilitado el filtro \"Solo mensajes de amigos\".</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Deshabilite el filtro e intente de nuevo</string>
+    <string name="dialog_chat_room_leave_title">¿Desea abandonar la sala?</string>
+    <string name="dialog_chat_room_leave_text">Permanecerá en la sala durante los siguientes 10 minutos después de elegir la opción \"Vuelvo enseguida\".</string>
+    <string name="dialog_chat_room_leave_button_leave">Sí, abandonar</string>
+    <string name="dialog_chat_room_leave_button_brb">Vuelvo enseguida</string>
+    <string name="dialog_chat_room_forbidden_title">Finalizó el tiempo de conexión</string>
+    <string name="dialog_chat_room_forbidden_text">Probablemente ya no esté en la sala. Será redirigido fuera de la sala de chat, desde donde puede volver o puede elegir otra sala.</string>
+    <string name="popup_chat_room_menu_info">Información de la sala</string>
+    <string name="popup_chat_room_menu_fav_add">Añadir a favoritos</string>
+    <string name="popup_chat_room_menu_fav_remove">Eliminar de favoritos</string>
+    <string name="popup_chat_room_menu_settings">Configuración</string>
+    <string name="avatarbar_empty_text">No hay nadie más en esta sala :-(</string>
+    <string name="chat_room_users_category_chatties">Chatters</string>
+    <string name="chat_room_users_category_friends">Amigos</string>
+    <string name="chat_room_users_category_my_webcam_watchers">Observadores</string>
+    <string name="chat_room_users_category_others">Usuarios</string>
+    <string name="chat_room_users_filter_empty_title">Ningún usuario</string>
+    <string name="chat_room_users_filter_empty_text">No se encontró ningún usuario con el filtro seleccionado.</string>
+    <string name="popup_chat_room_user_filter_content">Con álbumes/vídeos</string>
+    <string name="chat_room_users_filter_all_countries">Todos los países</string>
+    <string name="chat_room_users_filter_all_regions">Todas las regiones</string>
+    <string name="toast_chat_room_admin_rights_gained">Ahora es el administrador temporal de esta sala</string>
+    <string name="dialog_chat_room_kick_user_title">¿Echar al usuario de la sala?</string>
+    <string name="dialog_chat_room_kick_user_content">Usuario. %s</string>
+    <string name="dialog_chat_room_kick_user_choose_reason">Seleccione una razón</string>
+    <string name="dialog_chat_room_kick_user_reason_hint">Razón</string>
+    <string name="dialog_chat_room_kick_user_button_confirm">Sí, echarle</string>
+    <string name="toast_chat_room_user_kicked">El usuario %s ha sido echado</string>
+    <string name="dialog_chat_room_kicked_me_title">Ha sido echado</string>
+    <string name="dialog_chat_room_kicked_me_content">¡Ha sido echado de la sala durante %1$d minutos! Razón: %2$s. Inténtelo de nuevo más tarde.</string>
+    <string name="chat_room_knock_ask_title">El usuario %s solicita acceder a esta sala</string>
+    <string name="chat_room_knock_ask_reject_button">Rechazar</string>
+    <string name="chat_room_knock_ask_allow_button">Permitir</string>
+    <string name="chat_room_knock_ask_profile_button">Perfil</string>
+    <string name="popup_chat_message_copy_text">Copiar a portapapeles</string>
+    <string name="popup_chat_message_delete_message">Eliminar mensaje</string>
+    <string name="dialog_delete_chat_message_title">¿Eliminar mensaje?</string>
+    <string name="dialog_delete_chat_message_text">¿Desea eliminar este mensaje para todos los usuarios?</string>
+    <string name="dialog_delete_chat_message_button_confirm">Sí, eliminar</string>
+    <string name="toast_chat_message_deleted">El mensaje ha sido eliminado.</string>
+    <string name="toast_chat_webcam_slot_unavailable">La siguiente cámara ya no cabrá aquí.</string>
+    <string name="dialog_turn_off_webcam_title">¿Apagar la cámara?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">Esto apagará su cámara</string>
+    <string name="dialog_turn_off_webcam_text_listener">Esto apagará la cámara de %s</string>
+    <string name="dialog_turn_off_webcam_confirm">Apagar</string>
+    <string name="toast_webcam_duplicate_stream">Ya está viendo a este usuario.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">Este usuario no utiliza transmisión WebRTC.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Consiga una membresía VIP o cargue al menos un álbum/vídeo para ver esta cámara.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Consiga una membresía VIP o verifique su perfil para ver esta cámara.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Para ver esta cámara, necesita ser miembro VIP.</string>
+    <string name="toast_webcam_permission_denied_friends_only">Este usuario solo retransmite a sus amigos.</string>
+    <string name="toast_chat_camera_permissions_denied">Debe conceder permiso para encender la cámara.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">¿Encender la cámara?</string>
+    <string name="dialog_webcam_data_connection_title_listen">¿Ver la cámara del usuario?</string>
+    <string name="dialog_webcam_data_connection_text">Está utilizando una conexión de datos móviles. Ver cámaras puede consumir muchos datos.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Encender la cámara</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Dejar la cámara apagada</string>
+
+    <string name="dialog_chat_room_knock_title_main">Esta sala de chat está bloqueada</string>
+    <string name="dialog_chat_room_knock_title_waiting">Esperando respuesta del administrador de la sala de chat…</string>
+    <string name="dialog_chat_room_knock_text_main">Puede solicitar acceso a la sala de chat o volver.</string>
+    <string name="dialog_chat_room_knock_text_waiting">Si el administrador no responde en 2 minutos, será redirigido hacia atrás.</string>
+    <string name="dialog_chat_room_knock_text_forbidden">Lo sentimos, el administrador no le ha permitido acceder a esta sala.</string>
+    <string name="dialog_chat_room_knock_button_request">Solicite acceso</string>
+    <string name="dialog_chat_room_knock_button_cancel">Volver</string>
+    <string name="toast_chat_room_knock_access_refused">El administrador no le ha permitido acceder a esta sala.</string>
+
+    <string name="chat_room_settings_friends_messages_only">Solo mensajes de amigos</string>
+    <string name="chat_room_settings_admin_handover_title">Ceder los derechos del administrador</string>
+    <string name="chat_room_settings_admin_handover_chooser_title">Seleccionar un usuario</string>
+    <string name="chat_room_settings_admin_handover_chooser_title_disabled">Ningún usuario</string>
+    <string name="chat_room_settings_admin_handover_dialog_title">¿Ceder los derechos del administrador?</string>
+    <string name="chat_room_settings_admin_handover_dialog_text">¿Desea ceder los derechos del administrador al usuario %s?</string>
+    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Sí, ceder</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">Los derechos del administrador han sido cedidos al usuario %s.</string>
+    <string name="chat_room_settings_font_size_title">Tamaño de fuente</string>
+    <string name="chat_room_settings_font_size_normal">Pequeño</string>
+    <string name="chat_room_settings_font_size_bigger">Medio</string>
+    <string name="chat_room_settings_font_size_biggest">Grande</string>
+    <string name="chat_room_settings_webcam_sound_title">Sonido de cámara</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Encender por defecto</string>
+
+    <string name="chat_room_whisper_empty_title">Ningún mensaje aún</string>
+    <string name="chat_room_whisper_empty_text">Escribir un mensaje o un emoticono :)</string>
+    <string name="chat_room_whisper_webcam_placeholder_title">Encender: %s</string>
+
+    <string name="profile_edit_section_profile_info">Información general</string>
+    <string name="profile_edit_sex_hobbies_title">Hobbies sexuales</string>
+    <string name="profile_edit_sex_search_title">Buscando</string>
+    <string name="profile_edit_sex_search_purpose_title">Propósito de la búsqueda</string>
+    <string name="profile_edit_personal_description_title">Descripción personal</string>
+    <string name="profile_edit_personal_description_hint">Introduzca su descripción personal…</string>
+
+    <string name="profile_edit_section_personal_info">Información personal</string>
+    <string name="profile_edit_section_personal_info_his">Su información (de él)</string>
+    <string name="profile_edit_section_personal_info_her">Su información (de ella)</string>
+    <string name="profile_edit_section_personal_info_first_person">Primera persona</string>
+    <string name="profile_edit_section_personal_info_second_person">Segunda persona</string>
+    <string name="profile_edit_birth_date_title">Fecha de nacimiento</string>
+    <string name="profile_edit_zodiac_sign_title">Signo del zodiaco</string>
+    <string name="profile_edit_sex_orientation">Orientación sexual</string>
+    <string name="profile_edit_family_status_title">Estado civil</string>
+    <string name="profile_edit_eye_color_title">Color de ojos</string>
+    <string name="profile_edit_hair_color_title">Color de pelo</string>
+    <string name="profile_edit_height_title">Altura</string>
+    <string name="profile_edit_weight_title">Peso</string>
+    <string name="profile_edit_skype_title">ID de Skype</string>
+    <string name="profile_edit_skype_hint">Introduzca su ID de Skype…</string>
+    <string name="profile_edit_phone_number_title">Número de teléfono</string>
+    <string name="profile_edit_phone_number_hint">Introduzca su número de teléfono…</string>
+
+    <string name="profile_edit_chooser_not_filled">No rellenado</string>
+    <string name="profile_edit_button_save">Guardar cambios</string>
+    <string name="toast_profile_edit_changes_saved">Los cambios han sido guardados.</string>
+
+    <string name="home_section_videos_title">Últimos vídeos</string>
+    <string name="home_section_albums_title">Últimos álbumes</string>
+    <string name="home_section_chat_title">Chat</string>
+    <string name="home_section_dating_title">Anuncios de citas</string>
+    <string name="home_section_events_title">Eventos</string>
+    <string name="home_section_stories_title">Historias</string>
+    <string name="home_section_blogs_title">Blogs</string>
+
+    <string name="home_section_videos_footer_title">Todos los vídeos</string>
+    <string name="home_section_albums_footer_title">Todos los álbumes</string>
+    <string name="home_section_chat_rooms_footer_title">Todas las salas de chat</string>
+    <string name="home_section_dating_footer_title">Todos los anuncios de citas</string>
+    <string name="home_section_events_footer_title">Todos los eventos</string>
+    <string name="home_section_stories_footer_title">Todas las historias</string>
+    <string name="home_section_blogs_footer_title">Todos los blogs</string>
+
+    <string name="title_ignore_list">Lista de ignorados</string>
+    <string name="ignore_list_empty_title">Ningún usuario ignorado</string>
+    <string name="ignore_list_empty_text">Su lista de ignorados está vacía.</string>
+    <string name="dialog_ignore_list_remove_title">Eliminar de la lista de ignorados</string>
+    <string name="dialog_ignore_list_remove_text">¿Desea eliminar a %s de la lista de ignorados?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Eliminar</string>
+    <string name="toast_ignore_list_user_removed">%s ha sido eliminado de su lista de ignorados.</string>
+
+    <string name="profile_options_add_favourite">Añadir a favoritos</string>
+    <string name="profile_options_add_friend">Añadir un amigo</string>
+    <string name="profile_options_mesage">Enviar un mensaje</string>
+    <string name="profile_options_add_to_ignore">Ignorar usuario</string>
+    <string name="dialog_ignore_list_add_title">Añadir a lista de ignorados</string>
+    <string name="dialog_ignore_list_add_text">¿Desea añadir %s a lista de ignorados?</string>
+    <string name="dialog_ignore_list_add_button_confirm">Añadir a lista de ignorados</string>
+
+    <string name="conversation_options_delete_conversation">Eliminar conversación</string>
+
+    <string name="janus_fragment_retry_text">Interrumpido. ¿Reintentar?</string>
+    <string name="janus_fragment_hangup_text">Cámara apagada</string>
+    <string name="janus_error_hangup">El usuario %s apagó la cámara.</string>
+    <string name="janus_error_connection">Error al establecer una conexión con el servidor.</string>
+    <string name="janus_error_unsupported">Su dispositivo no es compatible con la retransmisión de la cámara.</string>
+    <string name="janus_error_camera_unavailable">La cámara no está disponible.</string>
+    <string name="janus_error_video_not_receiving">Parece que su dispositivo no está enviando ningún vídeo.</string>
+    <string name="janus_broadcast_service_notification_title">Está retransmitiendo</string>
+    <string name="janus_broadcast_service_notification_text">Sala de chat: %s</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Apagar la cámara</string>
+
+    <string name="bottomsheet_webcam_broadcast_title">Mi cámara</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Cambiar cámara</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Silenciar</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Activar sonido</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Apagar la cámara</string>
+
+    <string name="bottomsheet_webcam_listener_title">Cámara de %s</string>
+    <string name="bottomsheet_webcam_listener_maximize">Maximizar</string>
+    <string name="bottomsheet_webcam_listener_whisper">Susurrar</string>
+    <string name="bottomsheet_webcam_listener_mute">Silenciar</string>
+    <string name="bottomsheet_webcam_listener_unmute">Activar sonido</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Apagar la cámara</string>
+
+    <string name="webcam_detail_toolbar_title">Cámara: %s</string>
+
+    </resources>
