@@ -36,8 +36,8 @@
 
     <string name="tab_albums">Albumi</string>
     <string name="tab_info">Informacije</string>
-    <string name="tab_user">Korisnik</string>
-    <string name="tab_album">Album</string>
+    <string name="tab_user">Korisnici</string>
+    <string name="tab_album">Albumi</string>
 
     <string name="filter_advanced">Napredni filtar</string>
     <string name="filter_sort_by">Popis je razvrstan prema</string>
@@ -96,7 +96,7 @@
     <string name="notifications_messages">Poruke</string>
     <string name="notifications_dating_messages">Odgovori na vaše oglase</string>
     <string name="notifications_requests">Zahtjevi za prijateljstvom</string>
-    <string name="notifications_favourites">Dodao/la me u favorite</string>
+    <string name="notifications_favourites">Favoriti</string>
 
     <string name="update_dialog_title">Nova verzija</string>
     <string name="update_dialog_content">Dostupna je nova, poboljšana i sadržajnija verzija aplikacije. Želite li je preuzeti?</string>
@@ -173,7 +173,7 @@
     <string name="video_comment_fail">Ne može se poslati komentar</string>
 
     <string name="tab_videos">Videozapisi</string>
-    <string name="tab_video">Videozapis</string>
+    <string name="tab_video">Videozapisi</string>
 
     <string name="video_contest_all">Natječaj nije odabran</string>
     <string name="no_videos_found">Nije pronađen nijedan videozapis</string>
@@ -602,7 +602,7 @@
     <string name="report_dialog_text">Odaberite razlog</string>
     <string name="report_dialog_send">Pošalji</string>
     <string name="report_dialog_toast_no_reason">Najprije odaberite razlog</string>
-    <string name="report_dialog_toast_sent">Izvješće je poslano. Hvala,</string>
+    <string name="report_dialog_toast_sent">Izvješće je poslano. Hvala.</string>
 
     <string name="message_popup_copy">Kopiraj u međuspremnik</string>
     <string name="message_popup_delete">Izbriši poruku</string>
@@ -760,7 +760,7 @@
     <string name="event_no_people_text">Još se nitko nije prijavio</string>
 
     <string name="event_availability_everyone">Događaj je otvoren za sve</string>
-    <string name="event_availability_users_with_content">Samo za korisnike sa sadržajem.</string>
+    <string name="event_availability_users_with_content">Samo za korisnike sa sadržajem</string>
     <string name="event_availability_verified_users">Samo za potvrđene korisnike</string>
     <string name="event_type_chat_room">događaj %s sobe za čavrljanje</string>
     <string name="event_type_users">Događaj korisnika</string>
