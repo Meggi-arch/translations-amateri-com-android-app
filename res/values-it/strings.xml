@@ -36,7 +36,7 @@
 
     <string name="tab_albums">Album</string>
     <string name="tab_info">Info</string>
-    <string name="tab_user">Utente</string>
+    <string name="tab_user">Utenti</string>
     <string name="tab_album">Album</string>
 
     <string name="filter_advanced">Filtro avanzato</string>
@@ -79,7 +79,7 @@
     <string name="no_users_found">Nessun utente trovato</string>
 
     <string name="album_theme_all">Tutti gli argomenti</string>
-    <string name="album_contest_all">Tutti i concorsi</string>
+    <string name="album_contest_all">Concorso non selezionato</string>
     <string name="no_albums_found">Nessun album trovato</string>
 
     <string name="category">Categoria</string>
@@ -96,7 +96,7 @@
     <string name="notifications_messages">Messaggi</string>
     <string name="notifications_dating_messages">Risposte ai tuoi annunci</string>
     <string name="notifications_requests">Richieste di amicizia</string>
-    <string name="notifications_favourites">Aggiungimi ai preferiti</string>
+    <string name="notifications_favourites">Preferiti</string>
 
     <string name="update_dialog_title">Nuova versione</string>
     <string name="update_dialog_content">Una nuova versione migliorata e più piccante dell\'applicazione è disponibile. Vuoi scaricarla?</string>
@@ -165,7 +165,7 @@
     <string name="tab_videos">Video</string>
     <string name="tab_video">Video</string>
 
-    <string name="video_contest_all">Tutti i concorsi</string>
+    <string name="video_contest_all">Concorso non selezionato</string>
     <string name="no_videos_found">Nessun video trovato</string>
 
     <string name="video_duration">Durata</string>
@@ -366,4 +366,490 @@
     <string name="notification_video_approve_text">Il tuo video \"%s\" è stato approvato.</string>
 
     <string name="notification_update_text">Una nuova versione migliorata e più eccitante dell\'applicazione è disponibile. Vuoi scaricarla?</string>
-</resources>
+<string name="infinity_error_no_connection">Sembra non ci sia alcuna connessione a Internet. Tocca per riprovare.</string>
+    <string name="dialog_android_unsupported_title">Funzione non supportata</string>
+    <string name="dialog_android_unsupported_text">Spiacenti, ma la versione del tuo sistema Android non è abbastanza recente per utilizzare questa funzione :(</string>
+
+    <string name="title_home">Pagina principale</string>
+    <string name="title_blogs">Blog</string>
+    <string name="title_stories">Storie</string>
+    <string name="title_events">Eventi</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_application_settings">Impostazioni dell\'applicazione</string>
+    <string name="title_new_album">Aggiungi nuovo album</string>
+    <string name="title_new_video">Aggiungi nuovo video</string>
+    <string name="title_my_account">Il mio account</string>
+    <string name="title_profile">Profilo</string>
+    <string name="title_dating">Appuntamenti</string>
+
+    <string name="title_next_blogs">Più post</string>
+    <string name="blog_comment_disallowed">Impossibile aggiungere un commento a questo post ora.</string>
+
+    <string name="title_next_story">Più storie</string>
+    <string name="story_comment_disallowed">Impossibile aggiungere un commento a questa storia ora.</string>
+
+    <string name="no_dating_ads_title">Nessun annuncio per appuntamenti trovato</string>
+    <string name="no_dating_ads_text">Nessun annuncio per appuntamenti trovato per il filtro selezionato.</string>
+
+    <string name="dating_reply_button_send">Invia risposta</string>
+    <string name="dating_reply_hint">La tua risposta</string>
+    <string name="toast_dating_reply_sent">La risposta è stata inviata</string>
+    <string name="dating_reply_picture_attached">Foto allegata</string>
+    <string name="dialog_delete_attachment_title">Elimina allegato</string>
+    <string name="dialog_delete_attachment_text">Vuoi eliminare l\'allegato?</string>
+
+    <string name="dialog_report_ad_title">Segnala l\'annuncio per appuntamento</string>
+
+    <string name="menu_profile_meatballs">Opzioni del profilo</string>
+    <string name="menu_chat_room">Menu della chat room</string>
+    <string name="menu_chat_room_webcam">Accendi la fotocamera</string>
+
+    <string name="tab_blogs">Blog</string>
+    <string name="tab_stories">Storie</string>
+    <string name="tab_dating">Appuntamenti</string>
+    <string name="tab_friends">Amici</string>
+
+    <string name="title_filter_height">Altezza [cm]</string>
+    <string name="title_filter_weight">Peso [kg]</string>
+    <string name="user_with_albums">Con album</string>
+    <string name="user_with_videos">Con video</string>
+    <string name="user_with_photo">Con foto</string>
+    <string name="user_sex_search_all">Tutte le ricerche di sesso</string>
+    <string name="user_sex_search_purpose_all">Tutti gli scopi di ricerca di sesso</string>
+    <string name="user_sexual_hobbies_all">Tutti gli hobby sessuali</string>
+    <string name="user_zodiac_sign_all">Tutti i segni zodiacali</string>
+    <string name="user_hair_color_all">Tutti i colori di capelli</string>
+    <string name="user_eye_color_all">Tutti i colori degli occhi</string>
+    <string name="button_filter_connection_error">Errore di connessione</string>
+    <string name="filter_show_only">Mostra solo</string>
+    <string name="filter_user_online">Online</string>
+    <string name="filter_user_verified">Verificato</string>
+
+    <string name="album_contest_unavailable">Nessun concorso disponibile</string>
+    <string name="date_less_than_1_day">24h</string>
+    <string name="date_less_than_7_days">7 giorni</string>
+    <string name="date_less_than_1_month">1 mese</string>
+    <string name="date_less_than_3_months">3 mesi</string>
+    <string name="date_start">Data di inizio</string>
+    <string name="date_end">Data di fine</string>
+
+    <string name="video_theme_all">Tutti gli argomenti</string>
+    <string name="video_contest_unavailable">Nessun concorso disponibile</string>
+    <string name="filter_album_not_viewed">Non visto</string>
+
+    <string name="notifications_ignored">Elenco ignorati</string>
+    <string name="notifications_my_account_content_settings">Impostazioni di account e contenuti</string>
+    <string name="notifications_my_account">Il mio account</string>
+    <string name="notifications_albums">Album</string>
+    <string name="notifications_videos">Video</string>
+    <string name="notifications_dating">Appuntamenti</string>
+
+    <string name="article_info_share">Condividi con gli amici</string>
+    <string name="blog_number">Numero del blog</string>
+    <string name="blog_url">URL del blog</string>
+    <string name="story_number">Numero della storia</string>
+    <string name="story_url">URL della storia</string>
+
+    <string name="dating_reply">Risposta</string>
+    <string name="dating_highlight">Annuncio Top</string>
+    <string name="dating_buy_top_dialog_title">Annuncio Top</string>
+    <string name="dating_buy_top_dialog_main_text_first">Puoi aggiungere l\'annuncio come Top al primo posto ora.</string>
+    <string name="dating_buy_top_dialog_main_text_second">Con la funzione Top, l\'annuncio per appuntamento è più visibile e manterrà una posizione importante nella sua categoria per %d giorni.</string>
+    <string name="dating_buy_top_dialog_main_text_third">L\'uso ripetuto della funzione Top aggiunge ulteriori giorni, gli annunci con più giorni cumulativi otterranno una posizione più alta nell\'elenco.</string>
+    <string name="dating_buy_top_dialog_info_text_1">Il prezzo di un singolo messaggio ricevuto è %s IVA inclusa.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Supporto tecnico fornito da %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">Hotline per gli SMS: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_title">Paese</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Seleziona il Paese</string>
+    <string name="dating_buy_top_dialog_send_sms">Invia SMS con riempimento automatico</string>
+    <string name="dating_buy_top_dialog_no_sms_data">Non disponibile in questo Paese</string>
+    <string name="dating_buy_top_dialog_network_error">Errore di connessione</string>
+
+    <string name="setup_notification_new_blog_comment">Nuovo commento al post del blog</string>
+    <string name="setup_notification_new_story_comment">Nuovo commento alla storia</string>
+    <string name="setup_notification_mention">Menzioni</string>
+    <string name="setup_stories_and_blogs_title">Storie e blog</string>
+    <string name="setup_text_size">Dimensioni del testo</string>
+    <string name="setup_background_color">Colore di sfondo</string>
+    <string name="text_size_small">Piccolo</string>
+    <string name="text_size_medium">Medio</string>
+    <string name="text_size_big">Grande</string>
+    <string name="color_theme_dark">Scuro</string>
+    <string name="color_theme_light">Bianco</string>
+
+    <string name="video_settings_topic">Argomento</string>
+    <string name="video_settings_topic_default">Seleziona argomento</string>
+    <string name="no_album_for_state_title">Nessuno dei tuoi album si trova nello stato \"%s\".</string>
+    <string name="profile_video_converting_edit_error">Non puoi modificare questo video durante il processo di codifica. Attendi.</string>
+    <string name="profile_video_disabled_edit_error">Non è più possibile modificare questo video</string>
+    <string name="no_video_for_state_title">Non ci sono video nello stato \"%s\".</string>
+    <string name="notification_blog">Blog</string>
+    <string name="notification_story">Storia</string>
+    <string name="notification_add_to_calendar">Aggiungi al calendario</string>
+    <string name="notification_event_detail">Dettagli dell\'evento</string>
+
+    <string name="notification_blog_comment_add_title">Nuovo commento al post del blog</string>
+    <string name="notification_blog_comment_add_text">%1$s ha aggiunto un commento al tuo post del blog \"%2$s\": %3$s</string>
+
+    <string name="notification_story_comment_add_title">Nuovo commento alla storia</string>
+    <string name="notification_story_comment_add_text">%1$s ha aggiunto un commento alla tua storia \"%2$s\": %3$s</string>
+
+    <string name="notification_mention_title">Nuova menzione</string>
+    <string name="notification_mention_text_album">%1$s ti ha menzionato nel commento all\'album \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_video">%1$s ti ha menzionato nel commento al video \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_story">%1$s ti ha menzionato nel commento alla storia \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_blog">%1$s ti ha menzionato nel commento al post del blog \"%2$s\": %3$s</string>
+
+    <string name="fab_add_album">Aggiungi album</string>
+    <string name="fab_add_video">Aggiungi video</string>
+    <string name="fab_add_dating">Aggiungi annuncio per appuntamento</string>
+
+    <string name="my_account_content_settings">Fonte del contenuto</string>
+    <string name="my_account_other_settings">Più impostazioni</string>
+    <string name="my_account_content_source_max">Consentiti massimo %d Paesi</string>
+    <string name="all_countries">Tutti i Paesi</string>
+
+    <string name="new_album_save">Salva e continua</string>
+    <string name="warning">Attenzione</string>
+    <string name="dialog_new_album_back_press">L\'album è considerato completo solo con immagini caricate. Tutte le modifiche apportate saranno eliminate.</string>
+
+    <string name="dialog_album_settings_back_press">Tutte le modifiche apportate saranno eliminate.</string>
+
+
+    <string name="new_video_save">Salva e continua</string>
+
+    <string name="album_upload_choose_photo">Carica foto</string>
+    <string name="album_upload_send_to_review">Invia per l\'approvazione</string>
+    <string name="photo_delete_dialog_title">Elimina questa foto?</string>
+    <string name="photo_delete_dialog">Vuoi eliminare questa foto?</string>
+    <string name="toast_thumbnail_photo_changed">Hai modificato correttamente la foto di copertina</string>
+    <string name="dialog_guidelines_title">Aiuto</string>
+    <string name="photo_guidelines_1">Puoi caricare %1$s – %2$s foto.</string>
+    <string name="photo_guidelines_2">Modifica l\'ordine delle foto trascinando e rilasciando.</string>
+    <string name="toast_add_more_photos">Aggiungi almeno %d foto</string>
+    <string name="toast_too_much_photos">Consentite massimo %d foto</string>
+    <string name="toast_cant_send_uploading">Impossibile inviare per l\'approvazione durante il caricamento</string>
+    <string name="toast_photo_already_exists">La foto esiste già</string>
+    <string name="toast_cant_load_photo">Impossibile caricare l\'immagine</string>
+    <string name="toast_photo_too_large">Impossibile caricare foto superiori a %s MB</string>
+    <string name="toast_photo_too_small">Impossibile caricare foto inferiori a %s px</string>
+    <string name="upload_failed">Caricamento non riuscito</string>
+    <string name="tap_try_again">Tocca per riprovare</string>
+    <string name="dialog_connection_data_title">Dati mobili</string>
+    <string name="dialog_connection_data_content">Stai per caricare contenuti tramite la connessione dati del dispositivo mobile. In base al tuo operatore, possono essere applicati ulteriori oneri. Desideri continuare?</string>
+    <string name="dialog_continue">Continua</string>
+    <string name="processing_photos">Elaborazione foto: %1$s/%2$s</string>
+    <string name="processing_photos_text">Stiamo elaborando le tue foto…</string>
+    <string name="photos_uploaded">Foto caricate: %s</string>
+    <string name="photos_to_upload">Foto da caricare: %s</string>
+    <string name="photos_limit_reached">Limite superato, elimina %s foto</string>
+    <string name="album_no_description">Album senza descrizione</string>
+    <string name="cant_leave_while_uploading">Impossibile uscire mentre il caricamento è in corso</string>
+
+    <string name="dialog_new_video_back_press">Il video non sarà creato. Tutte le modifiche apportate saranno eliminate.</string>
+
+    <string name="video_upload_choose_video">Carica un video</string>
+    <string name="delete_video">Elimina il video</string>
+    <string name="cancel_upload">Annulla il caricamento</string>
+    <string name="toast_thumbnail_error">Impossibile impostare la miniatura del video</string>
+    <string name="video_guidelines_1">Puoi caricare solo un video alla volta.</string>
+    <string name="video_guidelines_2">Lunghezza minima del video: %s secondi.</string>
+    <string name="toast_video_too_short">La lunghezza minima del video è %s secondi. Carica un video più lungo.</string>
+    <string name="toast_video_too_big">Il video è troppo grande. La dimensione massima consentita è %s MB. Carica un file più piccolo.</string>
+    <string name="video_upload_progress">%1$s %% di %2$s MB</string>
+    <string name="dialog_video_upload_cancel_title">Annullare il caricamento?</string>
+    <string name="dialog_video_upload_cancel_content">Desideri annullare il caricamento del video?</string>
+    <string name="upload_complete">Caricamento completato</string>
+    <string name="video_upload_complete_text">Tocca per controllare il tuo video.</string>
+    <string name="toast_cant_send_no_video">Carica prima un video</string>
+    <string name="toast_one_video_at_once">Puoi caricare solamente un video alla volta. Attendi finché il caricamento è stato completato.</string>
+    <string name="upload_in_progress">Caricamento in corso…</string>
+    <string name="video_no_description">Video senza descrizione</string>
+    <string name="video_not_found">Il tuo video è caricato, ma non può essere riprodotto ora. Il file del video non è stato trovato su questo dispositivo.</string>
+    <string name="admin_message">Messaggio dell\'amministratore</string>
+    <string name="toast_cant_load_video">Impossibile caricare il video</string>
+    <string name="video_loading">Attendi mentre carichiamo il video…</string>
+
+    <string name="uploading_video">Caricamento del video in corso</string>
+    <string name="video_uploaded_percentage">Avanzamento del caricamento: %s %%</string>
+    <string name="tap_to_retry">Tocca per riprovare</string>
+
+    <string name="photo_upload_notification_title">Caricamento foto</string>
+    <string name="photo_upload_notification_progress">Caricamento in corso: %1$d/%2$d</string>
+
+    <string name="album_delete_dialog_title">Elimina album?</string>
+    <string name="album_delete_dialog">Desideri eliminare questo album?</string>
+    <string name="delete">Elimina</string>
+    <string name="filter_all">Tutto</string>
+
+    <string name="video_delete_dialog_title">Elimina video?</string>
+    <string name="video_delete_dialog">Desideri eliminare questo video?</string>
+    <string name="video_delete_dialog_uploading">Il video è attualmente in fase di caricamento. Desideri eliminare questo video?</string>
+
+    <string name="logout_during_uploading_dialog_title">Desideri uscire?</string>
+    <string name="logout_during_uploading_dialog_content">Tutti i file non caricati verranno persi.</string>
+
+    <string name="report_dialog_text">Scegli un motivo</string>
+    <string name="report_dialog_send">Invia</string>
+    <string name="report_dialog_toast_no_reason">Prima scegli un motivo</string>
+    <string name="report_dialog_toast_sent">La segnalazione è stata inviata. Grazie.</string>
+
+    <string name="message_popup_copy">Copia negli appunti</string>
+    <string name="message_popup_delete">Elimina il messaggio</string>
+    <string name="message_popup_report">Segnala</string>
+    <string name="message_popup_received">Ricevuto %s</string>
+    <string name="dialog_report_message_title">Segnala il messaggio</string>
+    <string name="toast_message_deleted">Messaggio eliminato</string>
+    <string name="toast_copied_message_text">Il messaggio è stato copiato negli appunti!</string>
+    <string name="message_date_today">Oggi</string>
+    <string name="message_date_yesterday">Ieri</string>
+    <string name="message_seen">Letto</string>
+    <string name="message_unseen">Non letto</string>
+    <string name="message_send_failure">Spiacenti, sembra si sia verificato un problema di rete e il tuo messaggio non è stato inviato.</string>
+    <string name="new_message_info">Hai un nuovo messaggio</string>
+    <string name="message_write_hint">Scrivi un messaggio</string>
+    <string name="take_a_picture">Scatta una foto</string>
+    <string name="pick_from_gallery">Scegli dalla galleria</string>
+    <string name="toast_no_camera_app">Nessuna applicazione fotocamera trovata</string>
+    <string name="add_attachment">Aggiungi una foto</string>
+    <string name="notification_message_received">Hai un nuovo messaggio</string>
+    <string name="conversation_empty">Scrivi un messaggio, invia una foto o semplicemente uno smiley :)</string>
+    <string name="conversation_dating_reply">Risposta per appuntamento</string>
+
+    <string name="buy_vip_title">Diventa un membro VIP</string>
+    <string name="vip_promo_title">Offerta speciale</string>
+    <string name="vip_promo_title_ends_today">Offerta speciale (termina oggi)</string>
+    <string name="vip_promo_subtitle">Regaliamo fino a 1 mese di iscrizione VIP gratuita</string>
+    <string name="buy">Acquista</string>
+    <string name="vip_sms_only">(solo SMS)</string>
+    <string name="vip_discount_text">%d %% di sconto</string>
+    <string name="vip_choose_paymethod">Scegli un metodo di pagamento</string>
+    <string name="vip_most_popular_offer">Offerta più popolare</string>
+    <string name="vip_membership_advantages">Vantaggi dei membri VIP</string>
+    <string name="vip_successful_payment_title">Pagamento avvenuto correttamente</string>
+    <string name="vip_unsuccessful_payment_title">Pagamento annullato</string>
+    <string name="thank_you">Grazie.</string>
+    <string name="notification_vip_payment">%d giorni di iscrizione VIP sono stati accreditati al tuo account.</string>
+
+    <string name="sms_price">Il prezzo di un singolo messaggio ricevuto è %s IVA inclusa.</string>
+    <string name="vip_send_sms_instructions">Invia un SMS con il testo %1$s a %2$s</string>
+
+    <string name="vip_get_one_day_for_free">Ottieni 1 giorno di iscrizione VIP gratuita</string>
+    <string name="vip_recurring_paymenthod_question">Desideri un piano scontato o un pagamento unico?</string>
+    <string name="vip_recurring_payment_button_title">Rinnova automaticamente</string>
+    <string name="vip_plus_one_day_free">+ 1 giorno gratis</string>
+    <string name="vip_normal_payment_button_title">Pagamento di una volta</string>
+    <string name="vip_recurring_payment_advantages">Il vantaggio di un\'iscrizione VIP ricorrente è che non devi effettuare e confermare ogni singolo pagamento. Riceverai una conferma di rinnovo all\'inizio di ogni nuovo periodo.</string>
+
+    <string name="no_users_title_general">Nessun utente</string>
+    <string name="no_users_message_general">Nessun utente trovato</string>
+
+    <string name="title_friends">Amici</string>
+    <string name="tab_friends_list">Amici</string>
+    <string name="tab_friends_requests">Nuove richieste</string>
+    <string name="online_users_only">Solo utenti online</string>
+    <string name="no_friends_title">Nessun amico</string>
+    <string name="no_friends_message">Non hai ancora alcun amico</string>
+    <string name="no_friends_online_message">Non hai amici online</string>
+    <string name="dialog_remove_friend_title">Rimuovi dagli amici</string>
+    <string name="dialog_remove_friend_content">Desideri rimuovere %s dagli amici?</string>
+    <string name="dialog_remove_friend_confirm">Rimuovi</string>
+    <string name="toast_friend_removed">L\'utente %s è stato rimosso dai tuoi amici</string>
+    <string name="button_friend_request_accept">Accetta</string>
+    <string name="button_friend_request_reject">Rifiuta</string>
+    <string name="toast_friend_request_accepted">Ora sei amico di %s</string>
+    <string name="no_friend_requests_title">Nessuna richiesta di amicizia</string>
+    <string name="no_friend_requests_message">Non hai nuove richieste di amicizia</string>
+    <string name="dialog_reject_friend_request_title">Rifiuta la richiesta di amicizia</string>
+    <string name="dialog_reject_friend_request_content">Desideri rifiutare questa richiesta di amicizia?</string>
+
+    <string name="title_favourites">Preferiti</string>
+    <string name="tab_favourites_my_favourites">I miei preferiti</string>
+    <string name="tab_favourites_favourited_me">Hanno inserito me tra i preferiti</string>
+    <string name="dialog_remove_favourite_title">Rimuovi dai preferiti</string>
+    <string name="dialog_remove_favourite_content">Desideri rimuovere %s dai preferiti?</string>
+    <string name="dialog_remove_favourite_confirm">Rimuovi</string>
+    <string name="toast_favourite_removed">L\'utente %s è stato rimosso dai tuoi preferiti</string>
+
+    <string name="no_favourited_users_title">Nessun preferito</string>
+    <string name="no_favourited_users_message">Non hai utenti preferiti</string>
+    <string name="no_favourited_me_users_message">Nessuno ti ha ancora inserito tra i preferiti</string>
+
+    <string name="title_visits">Visite</string>
+    <string name="close">Chiudi</string>
+    <string name="no_visits_title">Nessuna visita</string>
+    <string name="no_visits_message">Nessuno ha ancora visitato il tuo profilo</string>
+
+    <string name="update_news_dialog_title">Nuovo in questa versione</string>
+
+    <string name="conversation_list_filter_all">Tutti gli utenti</string>
+    <string name="conversation_list_filter_unread">Non letto</string>
+    <string name="conversation_list_filter_friends">Dagli amici</string>
+    <string name="me">Io</string>
+    <string name="popup_conversation_ignore">Ignora utente</string>
+    <string name="popup_conversation_mark_read">Segna come letto</string>
+    <string name="popup_conversation_delete">Elimina conversazione</string>
+    <string name="dialog_conversation_delete_title">Elimina conversazione</string>
+    <string name="dialog_conversation_delete_content">Desideri eliminare la conversazione con %s?</string>
+    <string name="dialog_conversation_delete_confirm">Elimina</string>
+    <string name="toast_conversation_deleted">La conversazione con %s è stata eliminata</string>
+    <string name="no_conversations_title">Nessuna conversazione</string>
+    <string name="no_conversations_message">Non hai ancora conversazioni</string>
+    <string name="no_conversations_message_with_filter">Non ci sono conversazioni per il filtro selezionato.</string>
+    <string name="no_users_found_title">Nessun utente</string>
+    <string name="no_users_found_message">Nessun utente trovato</string>
+    <string name="user_sent_a_photo">%s ti ha inviato una foto</string>
+    <string name="i_sent_a_photo">Hai inviato una foto</string>
+    <string name="toolbar_share">Condividi…</string>
+
+    <string name="stories_offline_mode">Stai visualizzando le storie in modalità offline.</string>
+    <string name="blogs_offline_mode">Stai visualizzando i blog in modalità offline.</string>
+    <string name="go_online_to_load_content">Vai online per caricare i contenuti più recenti.</string>
+    <string name="refresh_to_load_content">Trascina verso il basso per aggiornare i contenuti.</string>
+    <string name="no_stories_title">Nessuna storia trovata</string>
+    <string name="no_stories_text_online">Non ci sono storie</string>
+    <string name="no_stories_text_offline">Non ci sono storie offline. Vai online per caricare nuove storie.</string>
+    <string name="no_blogs_title">Nessun blog trovato</string>
+    <string name="no_blogs_text_online">Non ci sono blog</string>
+    <string name="no_blogs_text_offline">Non ci sono blog offline. Vai online per caricare nuovi blog.</string>
+
+    <string name="tab_events_upcoming">Programma</string>
+    <string name="tab_events_past">Cronologia</string>
+    <string name="no_events_title">Nessun evento</string>
+    <string name="no_events_upcoming_message">Non ci sono eventi futuri</string>
+    <string name="no_events_passed_message">Non ci sono eventi passati</string>
+    <string name="no_events_attended_message">Non hai ancora partecipato ad alcun evento</string>
+    <string name="events_attended">Solo eventi a cui ho partecipato</string>
+    <string name="tab_event_info">Informazioni</string>
+    <string name="tab_event_people">Persone</string>
+    <string name="tab_event_content">Album e video</string>
+
+    <string name="event_i_will_attend_as">Seleziona chi iscrivere</string>
+    <string name="event_i_attended">Ho partecipato</string>
+    <string name="event_organizer">Organizzatore</string>
+    <string name="event_type">Tipo di evento</string>
+    <string name="event_date">Data</string>
+    <string name="event_time">Ora</string>
+    <string name="event_capacity">Capacità</string>
+
+    <string name="event_attendee_count">Partecipanti</string>
+    <string name="event_entry">Entrata</string>
+    <string name="event_address">Indirizzo</string>
+    <string name="event_description">Descrizione dell\'evento</string>
+    <string name="event_participants">Partecipanti</string>
+
+    <string name="toast_event_signed_in">Hai effettuato correttamente l\'accesso</string>
+    <string name="toast_event_signed_out">Sei uscito correttamente</string>
+    <string name="event_comment_disallowed">Non puoi commentare ora su questo evento.</string>
+
+    <string name="event_button_man">Uomo</string>
+    <string name="event_button_woman">Donna</string>
+    <string name="event_button_couple">Coppia</string>
+
+    <string name="event_no_people_title">Nessun partecipante</string>
+    <string name="event_no_people_text">Nessuno si è ancora iscritto</string>
+
+    <string name="event_availability_everyone">L\'evento è aperto per tutti</string>
+    <string name="event_availability_users_with_content">Solo per gli utenti con contenuti</string>
+    <string name="event_availability_verified_users">Solo per gli utenti verificati</string>
+    <string name="event_type_chat_room">Evento chatroom %s</string>
+    <string name="event_type_users">Evento utenti</string>
+    <string name="event_type_official">Evento ufficiale</string>
+
+    <string name="title_event">Evento</string>
+    <string name="notification_upcoming_event_start">Inizio dell\'evento: %s.</string>
+    <string name="notification_upcoming_event_looking_forward">Non dimenticarti di venire, non vediamo l\'ora di vederti!</string>
+
+    <string name="dialog_fingerprint_setup__title">Impronta digitale</string>
+    <string name="dialog_fingerprint_setup_description">Tocca il sensore per autenticarti con l\'impronta digitale</string>
+    <string name="setup_fingerprint">Blocco impronta digitale</string>
+    <string name="toast_fingerprint_not_supported">Il tuo dispositivo non supporta l\'autenticazione con impronta digitale</string>
+    <string name="toast_not_pin_protected">Devi attivare il blocco con codice PIN per utilizzare questa funzione</string>
+    <string name="toast_fingerprint_not_enrolled">Nessuna impronta digitale configurata. Registra almeno un\'impronta digitale nelle Impostazioni del tuo dispositivo.</string>
+    <string name="toast_lockscreen_disabled">Attiva la sicurezza della schermata di blocco nelle Impostazioni del tuo dispositivo.</string>
+    <string name="error_fingerprints_invalidated">Impronta digitale non disponibile. Sembra che tu abbia registrato una nuova impronta digitale di recente. Puoi riattivare il blocco impronta digitale nelle impostazioni.</string>
+    <string name="success">Successo</string>
+    <string name="fingerprint_authentication_failed">Impronta digitale non riconosciuta</string>
+    <string name="dialog_fingerprint_unavailable_title">Impronta digitale non disponibile</string>
+    <string name="dialog_fingerprint_unavailable_button">Vai a impostazioni</string>
+
+    <string name="title_fingerprint_unlock">Sblocco con impronta digitale</string>
+    <string name="subtitle_fingerprint_unlock">Usa il dito per sbloccare</string>
+    <string name="use_pin_instead">Usa il PIN</string>
+
+    <string name="tab_chat_board">Dashboard</string>
+    <string name="tab_chat_rooms">Stanze</string>
+
+    <string name="chat_dashboard_online_friends">Amici in chat</string>
+    <string name="chat_dashboard_online_friends_empty">Non ci sono amici in chat ora.</string>
+    <string name="chat_dashboard_most_popular_webcams">Fotocamere più popolari</string>
+    <string name="chat_dashboard_favourite_chatrooms">Le tue chatroom preferite</string>
+    <string name="chat_dashboard_favourite_chatrooms_empty">Non hai ancora chatroom preferite.</string>
+    <string name="chat_dashboard_newest_chatrooms">Chatroom più recenti</string>
+
+    <string name="chat_room_access_not_allowed_default">Non hai il permesso per entrare in questa stanza.</string>
+    <string name="chat_room_access_not_allowed_locked">Questa stanza è chiusa.</string>
+    <string name="chat_room_access_not_allowed_verified_only">Questa stanza è solo per utenti verificati.</string>
+    <string name="chat_room_access_not_allowed_with_content_only">Questa stanza è solo per utenti con contenuti.</string>
+    <string name="chat_room_empty">Questa stanza è vuota.</string>
+    <string name="chat_room_category_all">Tutte le categorie</string>
+    <string name="toast_chat_room_favourited">La stanza %s è stata aggiunta ai tuoi preferiti.</string>
+    <string name="toast_chat_room_unfavourited">La stanza %s è stata rimossa dai tuoi preferiti.</string>
+    <string name="chat_room_list_permanent">Chatroom permanenti</string>
+    <string name="chat_room_list_temporary">Chatroom temporanee</string>
+
+    <string name="chat_avatar_popup_button_chat">Chat</string>
+    <string name="chat_avatar_popup_button_profile">Profilo</string>
+    <string name="chat_room_filter_show_empty">Mostra le stanze vuote</string>
+    <string name="chat_room_filter_show_locked">Mostra le stanze chiuse</string>
+    <string name="no_chat_rooms_text">Non ci sono stanze per il filtro selezionato.</string>
+
+    <string name="chat_online_friends_title">Amici in chat</string>
+    <string name="chat_most_popular_webcams_title">Fotocamere più popolari</string>
+
+    <string name="tab_chat_room_info">Dettagli della stanza</string>
+    <string name="tab_chat_room_people">Utenti nella stanza</string>
+
+    <string name="chat_room_info_description">Descrizione della stanza</string>
+    <string name="chat_room_info_category">Categoria</string>
+    <string name="chat_room_info_access">Accesso</string>
+    <string name="chat_room_info_temp_admin">Amministratore temporaneo</string>
+    <string name="chat_room_info_permanent_admins">Amministratori permanenti</string>
+    <string name="chat_room_info_enter_button">Entra nella chatroom</string>
+
+    <string name="chat_room_people_empty">Non c\'è nessuno in questa stanza.</string>
+
+    <string name="title_dating_add">Nuovo annuncio per appuntamento</string>
+    <string name="dating_add_category_title">Categoria</string>
+    <string name="dating_add_category_hint">Seleziona categoria</string>
+    <string name="dating_add_title_title">Titolo</string>
+    <string name="dating_add_title_hint">Inserisci un titolo</string>
+    <string name="dating_add_text_title">Testo</string>
+    <string name="dating_add_text_hint">Inserisci un testo per l\'annuncio…</string>
+    <string name="dating_add_validity_title">Validità</string>
+    <string name="dating_add_button_text">Crea un annuncio per appuntamento</string>
+    <string name="dating_add_toast_created">L\'annuncio è stato creato.</string>
+    <string name="dating_add_dialog_backpress">L\'annuncio non sarà creato. Tutte le modifiche apportate verranno perse.</string>
+    <string name="dating_add_toast_empty_fields">Tutti i campi devono essere completati.</string>
+
+    <string name="dating_add_dialog_forbidden_title">Solo un annuncio per appuntamento ogni %d ore</string>
+    <string name="dating_add_dialog_forbidden_content">Hai già creato un annuncio oggi. Puoi aggiungerne un altro domani.</string>
+
+    <string name="dating_settings_no_dating_ads_title">Non hai annunci per appuntamenti</string>
+    <string name="dating_settings_no_dating_ads_text">Aggiungere un annuncio per appuntamento è facile, provalo ora.</string>
+    <string name="dating_settings_no_dating_ads_button">Aggiungi un annuncio per appuntamento</string>
+
+    <string name="dating_settings_status_enabled">Sul Web</string>
+    <string name="dating_settings_status_disabled">Annullato</string>
+    <string name="dating_settings_status_expired">Scaduto</string>
+    <string name="dating_settings_button_topup">Annuncio top</string>
+    <string name="dating_settings_button_extend">Estendi</string>
+    <string name="dating_settings_button_edit">Modifica</string>
+    <string name="dating_settings_status_edited">Modificato</string>
+
+    <string name="dating_settings_dialog_delete_title">Elimina l\'annuncio?</string>
+    <string name="dating_settings_dialog_delete_text">Desideri eliminare questo annuncio?</string>
+    <string name="dating_settings_dialog_delete_button_confirm">Elimina</string>
+    <string name="dating_settings_toast_dating_ad_deleted">L\'annuncio è stato cancellato.</string>
+
+    </resources>
