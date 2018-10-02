@@ -221,6 +221,11 @@
         <item quantity="few">%s lidem se líbí</item>
         <item quantity="other">%s lidem se líbí</item>
     </plurals>
+    <plurals name="minutes_chat_logout">
+        <item quantity="one">%d minutu</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="other">%d minut</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="one">hodina</item>
         <item quantity="few">hodiny</item>
@@ -498,6 +503,7 @@
     <string name="fab_add_album">Přidat album</string>
     <string name="fab_add_video">Přidat video</string>
     <string name="fab_add_dating">Přidat inzerát</string>
+    <string name="fab_add_chatroom">Přidat chat místnost</string>
 
     <!--MyAccountSettingsFragment-->
     <string name="my_account_content_settings">Zdroj obsahu</string>
@@ -1058,6 +1064,9 @@
     <string name="dialog_webcam_data_connection_text">Používáte mobilní datové připojení. Sledování kamer může spotřebovat velké množství dat.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Zapnout kameru</string>
     <string name="dialog_webcam_data_connection_button_cancel">Nechat kameru vypnutou</string>
+    <string name="toast_chatroom_logout_warning">Za %s budete automaticky odhlášeni z místnosti kvůli neaktivitě</string>
+    <string name="dialog_chat_room_timeout_title">Časový limit neaktivity</string>
+    <string name="dialog_chat_room_timeout_text">Byli ste odhlášeni kvůli neaktivitě. Můžete se vrátit nebo vybrat jinou místnost.</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
@@ -1084,6 +1093,7 @@
     <string name="chat_room_settings_font_size_biggest">Velké</string>
     <string name="chat_room_settings_webcam_sound_title">Zvuk kamer</string>
     <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
+    <string name="chat_room_settings_camera_permission_title">Sledovaní webkamery</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
@@ -1186,6 +1196,23 @@
 
     <!-- Chat room webcam detail -->
     <string name="webcam_detail_toolbar_title">Kamery: %s</string>
+
+    <!-- NewChatRoomActivity -->
+    <string name="title_add_chat_room">Založit novou místnost</string>
+    <string name="chatroom_add_title_title">Název</string>
+    <string name="chatroom_add_title_hint">Zadejte název</string>
+    <string name="chatroom_add_description_title">Popis</string>
+    <string name="chatroom_add_description_hint">Zadejte popis</string>
+    <string name="chatroom_add_category_title">Kategorie</string>
+    <string name="chatroom_add_category_hint">Vyberte kategorii</string>
+    <string name="chatroom_add_access_title">Přístup</string>
+    <string name="chatroom_add_toast_empty_fields">Musí být vyplněna všechna pole.</string>
+    <string name="chatroom_add_allowed_users_title">Povolená pohlaví</string>
+    <string name="chatroom_add_allowed_users_man">Muž</string>
+    <string name="chatroom_add_allowed_users_woman">Žena</string>
+    <string name="chatroom_add_allowed_users_couple">Pár žena &amp; muž</string>
+    <string name="chatroom_add_country_title">Země</string>
+    <string name="chatroom_add_error_not_allowed">Nemáte povoleno vytváraní nových místností.</string>
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">

@@ -139,6 +139,10 @@
         <item quantity="one">%s like the person</item>
         <item quantity="other">%s people like</item>
     </plurals>
+    <plurals name="minutes_chat_logout">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="one">hour</item>
         <item quantity="other">hours</item>
@@ -553,6 +557,7 @@
     <string name="fab_add_album">Add album</string>
     <string name="fab_add_video">Add video</string>
     <string name="fab_add_dating">Add dating ad</string>
+    <string name="fab_add_chatroom">Add chat room</string>
 
     <!--MyAccountSettingsFragment-->
     <string name="my_account_content_settings">Content source</string>
@@ -894,7 +899,7 @@
 
     <string name="chat_dashboard_online_friends">Friends on chat</string>
     <string name="chat_dashboard_online_friends_empty">There are no chatting friends now.</string>
-    <string name="chat_dashboard_most_popular_webcams">Most popular cameras</string>
+    <string name="chat_dashboard_most_popular_webcams">Most popular streams</string>
     <string name="chat_dashboard_favourite_chatrooms">Your favourite chat rooms</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">You have no favourite chat rooms yet.</string>
     <string name="chat_dashboard_newest_chatrooms">Newest chat rooms</string>
@@ -917,7 +922,7 @@
     <string name="no_chat_rooms_text">There are no rooms for selected filter.</string>
 
     <string name="chat_online_friends_title">Friends on chat</string>
-    <string name="chat_most_popular_webcams_title">Most popular cameras</string>
+    <string name="chat_most_popular_webcams_title">Most popular streams</string>
 
     <!-- ChatRoomInfoActivity -->
     <string name="tab_chat_room_info">Room details</string>
@@ -1042,23 +1047,26 @@
     <string name="dialog_delete_chat_message_text">Do you really want to delete this message for all users?</string>
     <string name="dialog_delete_chat_message_button_confirm">Yes, delete</string>
     <string name="toast_chat_message_deleted">Message has been deleted.</string>
-    <string name="toast_chat_webcam_slot_unavailable">The next camera won\'t fit in here anymore.</string>
+    <string name="toast_chat_webcam_slot_unavailable">The next stream won\'t fit in here anymore.</string>
     <string name="dialog_turn_off_webcam_title">Turn off the camera?</string>
     <string name="dialog_turn_off_webcam_text_broadcast">This will turn off your camera</string>
     <string name="dialog_turn_off_webcam_text_listener">This will turn off %s\' camera</string>
     <string name="dialog_turn_off_webcam_confirm">Turn off</string>
     <string name="toast_webcam_duplicate_stream">You are already watching this user.</string>
     <string name="toast_webcam_permission_denied_webrtc_only">This user does not use WebRTC streaming.</string>
-    <string name="toast_webcam_permission_denied_album_video_vip_only">Get a VIP membership or upload at least one album/video to watch this camera.</string>
-    <string name="toast_webcam_permission_denied_verified_vip_only">Get a VIP membership or verify your profile to watch this camera.</string>
-    <string name="toast_webcam_permission_denied_vip_only">To watch this camera, you need to be a VIP member.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Get a VIP membership or upload at least one album/video to watch this stream.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Get a VIP membership or verify your profile to watch this stream.</string>
+    <string name="toast_webcam_permission_denied_vip_only">To watch this stream, you need to be a VIP member.</string>
     <string name="toast_webcam_permission_denied_friends_only">This user only broadcast to his/her friends.</string>
     <string name="toast_chat_camera_permissions_denied">You must grant permission to turn on the camera.</string>
     <string name="dialog_webcam_data_connection_title_broadcast">Turn on the camera?</string>
-    <string name="dialog_webcam_data_connection_title_listen">Watch the user\'s camera?</string>
-    <string name="dialog_webcam_data_connection_text">You are using mobile data connection. Watching cameras can consume a lot of data.</string>
+    <string name="dialog_webcam_data_connection_title_listen">Watch the user\'s stream?</string>
+    <string name="dialog_webcam_data_connection_text">You are using mobile data connection. Watching streams can consume a lot of data.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Turn on the camera</string>
     <string name="dialog_webcam_data_connection_button_cancel">Leave the camera off</string>
+    <string name="toast_chatroom_logout_warning">In %s, you will be automatically logged out from the room for inactivity.</string>
+    <string name="dialog_chat_room_timeout_title">Inactivity timeout</string>
+    <string name="dialog_chat_room_timeout_text">You have been logged out due to inactivity. You can either come back or choose another room.</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">This chat room is locked</string>
@@ -1083,8 +1091,9 @@
     <string name="chat_room_settings_font_size_normal">Small</string>
     <string name="chat_room_settings_font_size_bigger">Medium</string>
     <string name="chat_room_settings_font_size_biggest">Large</string>
-    <string name="chat_room_settings_webcam_sound_title">Camera sound</string>
+    <string name="chat_room_settings_webcam_sound_title">Streams sound</string>
     <string name="chat_room_settings_webcam_sound_default_option">Turn on by default</string>
+    <string name="chat_room_settings_camera_permission_title">Who can watch my stream</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">No messages yet</string>
@@ -1169,7 +1178,7 @@
     <string name="janus_error_video_not_receiving">It looks like your device is not sending any video.</string>
     <string name="janus_broadcast_service_notification_title">You are broadcasting</string>
     <string name="janus_broadcast_service_notification_text">Chat room: %s</string>
-    <string name="janus_broadcast_service_notification_action_turn_off">Turn off camera</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Turn off the camera</string>
 
     <!-- Chat room webcam bottom sheets -->
     <string name="bottomsheet_webcam_broadcast_title">My camera</string>
@@ -1178,15 +1187,33 @@
     <string name="bottomsheet_webcam_broadcast_unmute">Unmute</string>
     <string name="bottomsheet_webcam_broadcast_turn_off">Turn off the camera</string>
 
-    <string name="bottomsheet_webcam_listener_title">%s\'s camera</string>
+    <string name="bottomsheet_webcam_listener_title">%s\'s stream</string>
     <string name="bottomsheet_webcam_listener_maximize">Maximize</string>
     <string name="bottomsheet_webcam_listener_whisper">Whisper</string>
     <string name="bottomsheet_webcam_listener_mute">Mute</string>
     <string name="bottomsheet_webcam_listener_unmute">Unmute</string>
-    <string name="bottomsheet_webcam_listener_turn_off">Turn off the camera</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Leave the stream</string>
 
     <!-- Chat room webcam detail -->
-    <string name="webcam_detail_toolbar_title">Cameras: %s</string>
+    <string name="webcam_detail_toolbar_title">Streams: %s</string>
+
+    <!-- NewChatRoomActivity -->
+    <string name="title_add_chat_room">Add new chat room</string>
+    <string name="chatroom_add_title_title">Title</string>
+    <string name="chatroom_add_title_hint">Enter title</string>
+    <string name="chatroom_add_description_title">Description</string>
+    <string name="chatroom_add_description_hint">Enter description</string>
+    <string name="chatroom_add_category_title">Category</string>
+    <string name="chatroom_add_category_hint">Select category</string>
+    <string name="chatroom_add_access_title">Access</string>
+    <string name="chatroom_add_submit_button_text">Create chat room</string>
+    <string name="chatroom_add_toast_empty_fields">All fields must be filled.</string>
+    <string name="chatroom_add_allowed_users_title">Allowed users</string>
+    <string name="chatroom_add_allowed_users_man">Man</string>
+    <string name="chatroom_add_allowed_users_woman">Woman</string>
+    <string name="chatroom_add_allowed_users_couple">Couple woman &amp; man</string>
+    <string name="chatroom_add_country_title">Country</string>
+    <string name="chatroom_add_error_not_allowed">You cannot add new chat room right now.</string>
 
     <string-array name="update_news_dialog_items">
         <item>Watch chat cameras in fullscreen</item>
