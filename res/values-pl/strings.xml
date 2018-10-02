@@ -29,8 +29,8 @@
 
     <string name="tab_albums">Albumy</string>
     <string name="tab_info">Info</string>
-    <string name="tab_user">Użytkownik</string>
-    <string name="tab_album">Album</string>
+    <string name="tab_user">Użytkownicy</string>
+    <string name="tab_album">Albumy zdjęć</string>
 
     <string name="filter_advanced">Filtr zaawansowany</string>
     <string name="filter_sort_by">Uporządkuj według</string>
@@ -72,7 +72,7 @@
     <string name="no_users_found">Nie znaleziono żadnych użytkowników</string>
 
     <string name="album_theme_all">Wszystkie tematy</string>
-    <string name="album_contest_all">Wszystkie konkursy</string>
+    <string name="album_contest_all">Nie wybrano konkursu</string>
     <string name="no_albums_found">Nie znaleziono żadnych albumów</string>
 
     <string name="author">Autor</string>
@@ -94,7 +94,7 @@
     <string name="notifications_messages">Wiadomości</string>
     <string name="notifications_dating_messages">Odpowiedzi na ogłoszenia</string>
     <string name="notifications_requests">Propozycje dodania do znajomych</string>
-    <string name="notifications_favourites">Komu się podobam</string>
+    <string name="notifications_favourites">Ulubieni</string>
 
     <string name="update_dialog_title">Nowa wersja</string>
     <string name="update_dialog_content">Mamy dla Ciebie nową, lepszą wersję aplikacji. Czy chcesz ją pobrać?</string>
@@ -171,9 +171,9 @@
     <string name="video_comment_fail">Nie można wysłać komentarza</string>
 
     <string name="tab_videos">Widea</string>
-    <string name="tab_video">Wideo</string>
+    <string name="tab_video">Widea</string>
 
-    <string name="video_contest_all">Wszystkie konkursy</string>
+    <string name="video_contest_all">Nie wybrano konkursu</string>
     <string name="no_videos_found">Nie znaleziono filmów</string>
 
     <string name="video_duration">Długość</string>
@@ -192,7 +192,7 @@
 
     <string name="profile_photo_camera">Zrób zdjęcie</string>
     <string name="profile_photo_library">Wybierz z biblioteki</string>
-    <string name="profile_photo_processing">Zdjęcie w obróbce</string>
+    <string name="profile_photo_processing">Wgrywam zdjęcie</string>
     <string name="profile_photo_change">Zmień zdjęcie profilowe</string>
     <string name="profile_photo_fail">Nie można załadować zdjęcia profilowego</string>
     <string name="profile_photo_camera_fail">Nie można znaleźć aplikacji fotograficznej</string>
@@ -208,7 +208,7 @@
     <string name="ok">OK</string>
     <string name="cancel">Anuluj</string>
 
-    <string name="title_settings">Ustawienia aplikacji</string>
+    <string name="title_settings">Ustawienia</string>
     <string name="title_album_settings">Ustawienie albumu</string>
     <string name="title_video_settings">Ustawienie wideo</string>
     <string name="title_profile_settings">Ustawienie treści</string>
@@ -374,4 +374,224 @@
     <string name="notification_video_approve_text">Twoje wideo \"%s\" zostało zatwierdzone.</string>
 
     <string name="notification_update_text">Mamy dla Ciebie lepsza bardziej soczystą wersję aplikacji. Czy chcesz ją pobrać?</string>
-</resources>
+<string name="dialog_android_unsupported_title">Ta funkcja nie jest wspierana</string>
+    <string name="dialog_android_unsupported_text">Przepraszamy, ale wersja Twojego systemu operacyjnego jest zbyt stara, aby użyć tej funkcji :(</string>
+
+    <string name="title_home">Strona domowa</string>
+    <string name="title_blogs">Blogi</string>
+    <string name="title_stories">Opowieści</string>
+    <string name="title_events">Wydarzenia</string>
+    <string name="title_chat">Czat</string>
+    <string name="title_application_settings">Ustawienia aplikacji</string>
+    <string name="title_new_album">Dodaj nowy album</string>
+    <string name="title_new_video">Dodaj nowe wideo</string>
+    <string name="infinity_error_no_connection">Wygląda na to, że nie masz połączenie z Internetem. Dotykając spróbuj ponownie.</string>
+    <string name="title_my_account">Moje konto</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_dating">Serwis randkowy</string>
+
+    <string name="title_next_blogs">Więcej artykułów</string>
+    <string name="blog_comment_disallowed">Do tego artykułu nie można obecnie dodawać komentarzy.</string>
+
+    <string name="title_next_story">Więcej historii</string>
+    <string name="story_comment_disallowed">Do tej historii nie można obecnie dodawać komentarzy.</string>
+
+    <string name="no_dating_ads_title">Nie znaleziono ogłoszeń</string>
+    <string name="no_dating_ads_text">Dla wybranego filtra nie znaleziono żadnych ogłoszeń.</string>
+
+    <string name="dating_reply_button_send">Wyślij odpowiedź</string>
+    <string name="dating_reply_hint">Twoja odpowiedź</string>
+    <string name="toast_dating_reply_sent">Wysłano odpowiedź</string>
+    <string name="dating_reply_picture_attached">Załączono zdjęcie</string>
+    <string name="dialog_delete_attachment_title">Usuń załącznik</string>
+    <string name="dialog_delete_attachment_text">Czy rzeczywiście chcesz znaleźć załącznik?</string>
+
+    <string name="dialog_report_ad_title">Zgłoś ogłoszenie o randce</string>
+
+    <string name="menu_profile_meatballs">Opcje profilu</string>
+    <string name="menu_chat_room">Menu czatu</string>
+    <string name="menu_chat_room_webcam">Włącz kamerę</string>
+
+    <string name="tab_blogs">Blog</string>
+    <string name="tab_stories">Historie</string>
+    <string name="tab_dating">Serwis randkowy</string>
+    <string name="tab_friends">Przyjaciele</string>
+
+    <string name="title_filter_height">Wysokość [cm]</string>
+    <string name="title_filter_weight">Waga [kg]</string>
+    <string name="user_with_albums">Z albumami</string>
+    <string name="user_with_videos">Z wideo</string>
+    <string name="user_with_photo">Ze zdjęciami</string>
+    <string name="user_sex_search_all">Wyszukuj wszystkich</string>
+    <string name="user_sex_search_purpose_all">Wyszukuj wszystkie powody</string>
+    <string name="user_sexual_hobbies_all">Wszystkie preferencje seksualne</string>
+    <string name="user_zodiac_sign_all">Wszystkie znaki zodiaku</string>
+    <string name="user_hair_color_all">Wszystkie kolory włosów</string>
+    <string name="user_eye_color_all">Wszystkie kolory oczu</string>
+    <string name="button_filter_connection_error">Błąd połączenia</string>
+    <string name="filter_show_only">Wyświetl tylko</string>
+    <string name="filter_user_online">Online</string>
+    <string name="filter_user_verified">Sprawdzono</string>
+
+    <string name="album_contest_unavailable">Konkursy są niedostępne</string>
+    <string name="date_less_than_1_day">24h</string>
+    <string name="date_less_than_7_days">7 dni</string>
+    <string name="date_less_than_1_month">1 miesiąc</string>
+    <string name="date_less_than_3_months">3 miesiące</string>
+    <string name="date_start">Data początkowa</string>
+    <string name="date_end">Data końcowa</string>
+
+    <string name="video_theme_all">Wszystkie tematy</string>
+    <string name="video_contest_unavailable">Konkursy są niedostępne</string>
+    <string name="filter_album_not_viewed">Nie obejrzano</string>
+
+    <string name="notifications_my_account">Moje konto</string>
+    <string name="notifications_albums">Albumy zdjęć</string>
+    <string name="notifications_videos">Wideo</string>
+    <string name="notifications_dating">Ogłoszenia</string>
+
+    <string name="notifications_my_account_content_settings">Ustawienia konta i treści</string>
+    <string name="notifications_ignored">Lista ignorowanych</string>
+    <string name="article_info_share">Podziel się z przyjaciółmi</string>
+    <string name="blog_number">Numer blogu</string>
+    <string name="blog_url">URL blogu</string>
+    <string name="story_number">Numer historii</string>
+    <string name="story_url">URL historii</string>
+
+    <string name="dating_reply">Odpowiedz</string>
+    <string name="dating_highlight">Umieść ogłoszenie na początku listy</string>
+    <string name="dating_buy_top_dialog_title">Umieść ogłoszenie na początku listy</string>
+    <string name="dating_buy_top_dialog_main_text_first">Teraz możesz umieścić ogłoszenie na pierwszym miejscu listy.</string>
+    <string name="dating_buy_top_dialog_main_text_second">Korzystając z możliwości umieszczania ogłoszenia na początku listy możesz je bardziej wyeksponować i zachować w tej kategorii przez %d dni.</string>
+    <string name="dating_buy_top_dialog_main_text_third">Powtarzanie opcji umieszczania na pierwszej pozycji jest dodawane, im więcej zgromadzonych powtórzeń tej opcji, tym wyższa pozycja na liście.</string>
+    <string name="dating_buy_top_dialog_info_text_1">Cena za odebranie pojedynczej wiadomości wynosi %s łącznie z VAT.</string>
+    <string name="dating_buy_top_dialog_info_text_2">Serwis techniczny wykonuje %s.</string>
+    <string name="dating_buy_top_dialog_info_text_3">Gorąca linia SMS: %s.</string>
+    <string name="dating_buy_top_dialog_country_picker_title">Kraj</string>
+    <string name="dating_buy_top_dialog_country_picker_placeholder">Wybierz kraj</string>
+    <string name="dating_buy_top_dialog_send_sms">Wyślij wstępnie wypełniony SMS</string>
+    <string name="dating_buy_top_dialog_no_sms_data">Nie jest dostępny w tym kraju</string>
+    <string name="dating_buy_top_dialog_network_error">Błąd połączenia</string>
+
+    <string name="setup_notification_new_blog_comment">Nowy komentarz do bloga</string>
+    <string name="setup_notification_new_story_comment">Nowy komentarz do historii</string>
+    <string name="setup_notification_mention">Wzmianki</string>
+    <string name="setup_stories_and_blogs_title">Historie i blogi</string>
+    <string name="setup_text_size">Wielkość tekstu</string>
+    <string name="setup_background_color">Kolor tła</string>
+    <string name="text_size_small">Mały</string>
+    <string name="text_size_medium">Średni</string>
+    <string name="text_size_big">Duży</string>
+    <string name="color_theme_dark">Ciemny</string>
+    <string name="color_theme_light">Biały</string>
+
+    <string name="video_settings_topic">Temat</string>
+    <string name="video_settings_topic_default">Wybierz temat</string>
+    <string name="no_album_for_state_title">Nie masz żadnych albumów w stanie \"%s\".</string>
+    <string name="profile_video_converting_edit_error">W trakcie kodowania nie można edytować tego wideo. Proszę czekać.</string>
+    <string name="profile_video_disabled_edit_error">Nie można więcej edytować tego wideo</string>
+    <string name="no_video_for_state_title">Nie masz żadnego wideo w stanie \"%s\".</string>
+    <string name="notification_blog">Blog</string>
+    <string name="notification_story">Historia</string>
+    <string name="notification_add_to_calendar">Dodaj do kalendarza</string>
+    <string name="notification_event_detail">Szczegół wydarzenia</string>
+
+    <string name="notification_blog_comment_add_title">Nowy komentarz do bloga</string>
+    <string name="notification_blog_comment_add_text">%1$s dodał/a komentarz do Twojego artykuł w blogu \"%2$s\": %3$s</string>
+
+    <string name="notification_story_comment_add_title">Nowy komentarz do historii</string>
+    <string name="notification_story_comment_add_text">%1$s dodał/a komentarz do twojej historii \"%2$s\": %3$s</string>
+
+    <string name="notification_mention_title">Nowa wzmianka</string>
+    <string name="notification_mention_text_album">%1$s wspomniał/a Ciebie w komentarzu albumu \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_video">%1$s wspomniał/a Ciebie w komentarzu do wideo \"%2$s\" : %3$s</string>
+    <string name="notification_mention_text_story">%1$s wspomniał/a Ciebie w komentarzu do historii \"%2$s\": %3$s</string>
+    <string name="notification_mention_text_blog">%1$s wspomniał/a Ciebie w komentarzu do bloga \"%2$s\": %3$s</string>
+
+    <string name="fab_add_album">Dodaj album</string>
+    <string name="fab_add_video">Dodaj wideo</string>
+    <string name="fab_add_dating">Dodaj ogłoszenie</string>
+
+    <string name="my_account_content_settings">Źródło treści</string>
+    <string name="my_account_other_settings">Więcej ustawień</string>
+    <string name="my_account_content_source_max">Maksymalnie jest dozwolonych %d krajów</string>
+    <string name="all_countries">Wszystkie kraje</string>
+
+    <string name="new_album_save">Zapisz i kontynuuj</string>
+    <string name="warning">Ostrzeżenie</string>
+    <string name="dialog_new_album_back_press">Album jest traktowany jako ukończony jedynie z załadowanymi zdjęciami. Wszelkie wykonane przez Ciebie zmiany zostaną pominięte.</string>
+
+    <string name="dialog_album_settings_back_press">Wszystkie wykonane przez Ciebie zmiany zostaną pominięte.</string>
+
+
+    <string name="new_video_save">Zapisz i kontynuuj</string>
+
+    <string name="album_upload_choose_photo">Załaduj zdjęcia</string>
+    <string name="album_upload_send_to_review">Wyślij w celu zatwierdzenia</string>
+    <string name="photo_delete_dialog_title">Czy chcesz usunąć to zdjęcie?</string>
+    <string name="photo_delete_dialog">Czy rzeczywiście chcesz usunąć to zdjęcie?</string>
+    <string name="toast_thumbnail_photo_changed">Usuwanie zdjęcia na okładkę zakończyło się powodzeniem</string>
+    <string name="dialog_guidelines_title">Pomoc</string>
+    <string name="photo_guidelines_1">Możesz załadować %1$s – %2$s zdjęć.</string>
+    <string name="photo_guidelines_2">Kolejność swoich zdjęć możesz zmieniać funkcją przeciągnij i upuść.</string>
+    <string name="toast_add_more_photos">Dodaj co najmniej %d zdjęć</string>
+    <string name="toast_too_much_photos">Dozwolona maksymalna liczba zdjęć wynosi %d</string>
+    <string name="toast_cant_send_uploading">Nie można wysyłać w celu zatwierdzania w trakcie załadowywania</string>
+    <string name="toast_photo_already_exists">To zdjęcie już istnieje</string>
+    <string name="toast_cant_load_photo">Załadowywanie zdjęcia zakończyło się niepowodzeniem</string>
+    <string name="toast_photo_too_large">Nie można załadować zdjęcie większego aniżeli %s MB</string>
+    <string name="toast_photo_too_small">Nie można załadować zdjęcia mniejszego aniżeli %s px</string>
+    <string name="upload_failed">Załadowywanie zakończyło się niepowodzeniem</string>
+    <string name="tap_try_again">Dotykając spróbuj ponownie</string>
+    <string name="dialog_connection_data_title">Mobilna transmisja danych</string>
+    <string name="dialog_connection_data_content">Masz zamiar załadować treść poprzez mobilne łącze transmisji danych. W zależności od operatora, mogą być naliczane opłaty. Czy chcesz kontynuować?</string>
+    <string name="dialog_continue">Kontynuuj</string>
+    <string name="processing_photos">"Obróbka zdjęć:  %1$s/%2$s"</string>
+    <string name="processing_photos_text">Trwa obróbka Twoich zdjęć…</string>
+    <string name="photos_uploaded">Załadowane zdjęcia: %s</string>
+    <string name="photos_to_upload">Zdjęcia do załadowania: %s</string>
+    <string name="photos_limit_reached">Limit został przekroczony, usuń %s zdjęć</string>
+    <string name="album_no_description">Album bez opisu</string>
+    <string name="cant_leave_while_uploading">Nie można wychodzić w trakcie załadowywania</string>
+
+    <string name="dialog_new_video_back_press">Wideo nie zostanie utworzone. Wszelkie wykonane przez Ciebie zmiany zostaną pominięte.</string>
+
+    <string name="video_upload_choose_video">Załaduj wideo</string>
+    <string name="delete_video">Usuń wideo</string>
+    <string name="cancel_upload">Anuluj załadowywanie</string>
+    <string name="video_guidelines_1">Możesz załadować na raz tylko jedno wideo.</string>
+    <string name="video_guidelines_2">Minimalna długość wideo wynosi: %s sekund.</string>
+    <string name="toast_video_too_short">Minimalna długość wideo wynosi %s sekund. Załaduj dłuższe wideo.</string>
+    <string name="toast_video_too_big">Wideo jest zbyt długie. Maksymalna dozwolona wielkość wynosi %s MB. Załaduj mniejszy plik.</string>
+    <string name="video_upload_progress">%1$s %% z %2$s MB</string>
+    <string name="dialog_video_upload_cancel_title">Czy chcesz anulować załadowywanie?</string>
+    <string name="dialog_video_upload_cancel_content">Czy rzeczywiście chcesz anulować załadowywanie tego wideo?</string>
+    <string name="upload_complete">Zakończono załadowywanie</string>
+    <string name="video_upload_complete_text">Dotknij w celu kontroli załadowanego wideo.</string>
+    <string name="toast_cant_send_no_video">Najpierw załaduj wideo</string>
+    <string name="toast_one_video_at_once">Możesz załadować tylko jedno wideo na raz. Poczekaj do momentu zakończenia załadowywania.</string>
+    <string name="upload_in_progress">Trwa ładowanie…</string>
+    <string name="video_no_description">Wideo bez opisu</string>
+    <string name="video_not_found">Twoje wideo zostało załadowane, ale nie można go teraz odtworzyć. Nie znaleziono pliku wideo na tym urządzeniu.</string>
+    <string name="admin_message">Wiadomość od administratora</string>
+    <string name="toast_cant_load_video">Nie udało się załadować wideo</string>
+    <string name="video_loading">Jeszcze chwilę, trwa ładowanie Twojego wideo…</string>
+
+    <string name="uploading_video">Ładowanie wideo</string>
+    <string name="video_uploaded_percentage">Przebieg załadowywania: %s %%</string>
+    <string name="tap_to_retry">Dotykając zacznij ponownie</string>
+
+    <string name="photo_upload_notification_title">Wrzucanie zdjęć do sieci</string>
+    <string name="photo_upload_notification_progress">Trwa ładowanie: %1$d/%2$</string>
+
+    <string name="album_delete_dialog_title">Czy chcesz usunąć album?</string>
+    <string name="album_delete_dialog">Czy rzeczywiście chcesz skasować ten album?</string>
+    <string name="delete">Usuń</string>
+    <string name="filter_all">Wszystko</string>
+
+    <string name="video_delete_dialog_title">Czy chcesz usunąć wideo?</string>
+    <string name="video_delete_dialog">Czy rzeczywiście chcesz usunąć wideo?</string>
+    <string name="video_delete_dialog_uploading">To wideo jest aktualnie załadowywane. Czy rzeczywiście chcesz usunąć to wideo?</string>
+
+    <string name="logout_during_uploading_dialog_title">Czy chcesz się wylogować?</string>
+    </resources>
