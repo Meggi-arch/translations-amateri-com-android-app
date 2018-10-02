@@ -1218,4 +1218,5 @@
     <string-array name="update_news_dialog_items">
         <item>Sledujte kamery na chatu na celé obrazovce</item>
     </string-array>
-</resources>
+<string name="chatroom_add_submit_button_text">Vytvořit chatovací místnost</string>
+    </resources>
