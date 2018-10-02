@@ -1187,7 +1187,7 @@
     <string name="bottomsheet_webcam_listener_whisper">Šeptat</string>
     <string name="bottomsheet_webcam_listener_mute">Vypnout zvuk</string>
     <string name="bottomsheet_webcam_listener_unmute">Zapnout zvuk</string>
-    <string name="bottomsheet_webcam_listener_turn_off">Vypnout kameru</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Zavřít vysílání</string>
 
     <!-- Chat room webcam detail -->
     <string name="webcam_detail_toolbar_title">Vysílání: %s</string>
