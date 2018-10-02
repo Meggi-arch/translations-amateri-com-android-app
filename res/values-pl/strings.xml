@@ -594,4 +594,76 @@
     <string name="video_delete_dialog_uploading">To wideo jest aktualnie załadowywane. Czy rzeczywiście chcesz usunąć to wideo?</string>
 
     <string name="logout_during_uploading_dialog_title">Czy chcesz się wylogować?</string>
+    <string name="toast_thumbnail_error">Ustawienie miniatury wideo nie powiodło się</string>
+    <string name="logout_during_uploading_dialog_content">Wszystkie niezaładowane pliki zostaną stracone.</string>
+
+    <string name="report_dialog_text">Wybierz powód</string>
+    <string name="report_dialog_send">Wyślij</string>
+    <string name="report_dialog_toast_no_reason">Najpierw wybierz powód</string>
+    <string name="report_dialog_toast_sent">Komunikat został wysłany. Dziękujemy.</string>
+
+    <string name="message_popup_copy">Kopiuj tekst</string>
+    <string name="message_popup_delete">Usuń wiadomość</string>
+    <string name="message_popup_report">Zgłoś</string>
+    <string name="message_popup_received">Odebrano %s</string>
+    <string name="dialog_report_message_title">Zgłoś wiadomość</string>
+    <string name="toast_message_deleted">Wiadomość została usunięta</string>
+    <string name="toast_copied_message_text">Wiadomość została skopiowana do Twojej skrzynki!</string>
+    <string name="message_date_today">Dzisiaj</string>
+    <string name="message_date_yesterday">Wczoraj</string>
+    <string name="message_seen">Przeczytane</string>
+    <string name="message_unseen">Nieprzeczytane</string>
+    <string name="message_send_failure">Przepraszamy, wygląda na to, że wystąpił błąd w sieci i Twoja wiadomość nie została wysłana.</string>
+    <string name="new_message_info">Masz nową wiadomość</string>
+    <string name="message_write_hint">Napisz wiadomość</string>
+    <string name="take_a_picture">Zrób zdjęcie</string>
+    <string name="pick_from_gallery">Wybierz z galerii</string>
+    <string name="toast_no_camera_app">Nie znaleziono aplikacji dla aparatu</string>
+    <string name="add_attachment">Dodaj zdjęcie</string>
+    <string name="notification_message_received">Masz nową wiadomość</string>
+    <string name="conversation_empty">Napisz wiadomość, wyślij zdjęcie lub tylko buźkę :)</string>
+    <string name="conversation_dating_reply">Odpowiedź na ogłoszenie</string>
+
+    <string name="buy_vip_title">Zostań członkiem VIP</string>
+    <string name="vip_promo_title">Oferta specjalna</string>
+    <string name="vip_promo_title_ends_today">Oferta specjalna (koniec upływa dzisiaj)</string>
+    <string name="vip_promo_subtitle">Rozdajemy miesiąc członkostwa w VIP gratis</string>
+    <string name="buy">Kup</string>
+    <string name="vip_sms_only">(Tylko SMS)</string>
+    <string name="vip_discount_text">rabat %d %%</string>
+    <string name="vip_choose_paymethod">Wybierz sposób płatności</string>
+    <string name="vip_most_popular_offer">Najpopularniejsza oferta</string>
+    <string name="vip_membership_advantages">Korzyści płynące dla członków VIP</string>
+    <string name="vip_successful_payment_title">Płatność została zrealizowana pomyślnie</string>
+    <string name="vip_unsuccessful_payment_title">Płatność została anulowana</string>
+    <string name="thank_you">Dziękujemy.</string>
+    <string name="notification_vip_payment">Na Twoim koncie doliczono %d dni członkostwa VIP.</string>
+
+    <string name="sms_price">Cena jednej otrzymanej wiadomości wynosi %s wraz z podatkiem VAT.</string>
+    <string name="vip_send_sms_instructions">Wyślij SMS z tekstem %1$s pod numer %2$</string>
+
+    <string name="vip_get_one_day_for_free">Zdobądź 1 dzień członkostwa VIP gratis</string>
+    <string name="vip_recurring_payment_button_title">Przedłuż automatycznie</string>
+    <string name="vip_plus_one_day_free">+ 1 dzień gratis</string>
+    <string name="vip_normal_payment_button_title">Płatność jednorazowa</string>
+    <string name="no_users_title_general">Brak użytkowników</string>
+    <string name="no_users_message_general">Nie znaleziono żadnych użytkowników</string>
+
+    <string name="title_friends">Przyjaciele</string>
+    <string name="tab_friends_list">Przyjaciele</string>
+    <string name="tab_friends_requests">Nowe zapytania</string>
+    <string name="vip_recurring_payment_advantages">Zaletą automatycznego przedłużania członkostwa w VIP jest to, że nie musisz tworzyć i potwierdzać kolejnych płatności. Przed rozpoczęciem każdego nowego okresu otrzymasz wiadomość o przedłużeniu.</string>
+
+    <string name="online_users_only">Tylko użytkownicy online</string>
+    <string name="no_friends_title">Brak przyjaciół</string>
+    <string name="no_friends_message">Na razie nie masz żadnych przyjaciół</string>
+    <string name="no_friends_online_message">Nie masz żadnych przyjaciół online</string>
+    <string name="dialog_remove_friend_title">Usuń z grona przyjaciół</string>
+    <string name="dialog_remove_friend_content">Czy naprawdę chcesz usunąć użytkownika %s z grona swoich przyjaciół?</string>
+    <string name="dialog_remove_friend_confirm">Usuń</string>
+    <string name="toast_friend_removed">Użytkownika %s odebrano z grona przyjaciół</string>
+    <string name="button_friend_request_accept">Przyjmij</string>
+    <string name="button_friend_request_reject">Odrzuć</string>
+    <string name="toast_friend_request_accepted">Teraz jesteście z %s przyjaciółmi</string>
+    <string name="no_friend_requests_title">Brak zapytań</string>
     </resources>
