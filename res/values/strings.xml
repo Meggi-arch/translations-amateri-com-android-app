@@ -1192,7 +1192,7 @@
     <string name="bottomsheet_webcam_listener_whisper">Whisper</string>
     <string name="bottomsheet_webcam_listener_mute">Mute</string>
     <string name="bottomsheet_webcam_listener_unmute">Unmute</string>
-    <string name="bottomsheet_webcam_listener_turn_off">Leave the stream</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Close the stream</string>
 
     <!-- Chat room webcam detail -->
     <string name="webcam_detail_toolbar_title">Streams: %s</string>

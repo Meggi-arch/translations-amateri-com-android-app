@@ -221,11 +221,6 @@
         <item quantity="few">%s lidem se líbí</item>
         <item quantity="other">%s lidem se líbí</item>
     </plurals>
-    <plurals name="minutes_chat_logout">
-        <item quantity="one">%d minutu</item>
-        <item quantity="few">%d minuty</item>
-        <item quantity="other">%d minut</item>
-    </plurals>
     <plurals name="hours">
         <item quantity="one">hodina</item>
         <item quantity="few">hodiny</item>
@@ -1064,7 +1059,7 @@
     <string name="dialog_webcam_data_connection_text">Používáte mobilní datové připojení. Sledování vysílání může spotřebovat velké množství dat.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Zapnout kameru</string>
     <string name="dialog_webcam_data_connection_button_cancel">Nechat kameru vypnutou</string>
-    <string name="toast_chatroom_logout_warning">Za %s budete automaticky odhlášeni z místnosti kvůli neaktivitě.</string>
+    <string name="toast_chatroom_logout_warning">Napište prosím něco do chatu, jinak budete automaticky odpojen/a kvůli nečinnosti.</string>
     <string name="dialog_chat_room_timeout_title">Časový limit neaktivity</string>
     <string name="dialog_chat_room_timeout_text">Byli ste odhlášeni kvůli neaktivitě. Můžete se vrátit nebo vybrat jinou místnost.</string>
 
