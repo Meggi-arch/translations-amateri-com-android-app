@@ -1121,4 +1121,29 @@
     <string name="janus_broadcast_service_notification_text">Chat miestnosť: %s</string>
     <string name="janus_broadcast_service_notification_action_turn_off">Vypnúť kameru</string>
 
+    <string name="fab_add_chatroom">Pridať chat miestnosť</string>
+
+    <string name="toast_chatroom_logout_warning">Napíšte prosím niečo do chatu, inak budete automaticky odpojený(á) kvôli nečinnosti.</string>
+    <string name="dialog_chat_room_timeout_title">Časový limit neaktivity</string>
+    <string name="dialog_chat_room_timeout_text">Boli ste odhlásení kvôli neaktivite. Môžete sa vrátiť alebo vybrať inú miestnosť.</string>
+
+    <string name="chat_room_settings_camera_permission_title">Sledovanie webkamery</string>
+
+    <string name="title_add_chat_room">Založiť novú miestnosť</string>
+    <string name="chatroom_add_title_title">Názov</string>
+    <string name="chatroom_add_title_hint">Zadajte názov</string>
+    <string name="chatroom_add_description_title">Popis</string>
+    <string name="chatroom_add_description_hint">Zadajte popis</string>
+    <string name="chatroom_add_category_title">Kategória</string>
+    <string name="chatroom_add_category_hint">Vyberte kategóriu</string>
+    <string name="chatroom_add_access_title">Prístup</string>
+    <string name="chatroom_add_submit_button_text">Vytvoriť chatovaciu miestnosť</string>
+    <string name="chatroom_add_toast_empty_fields">Musia byť vyplnené všetky polia.</string>
+    <string name="chatroom_add_allowed_users_title">Povolené pohlavia</string>
+    <string name="chatroom_add_allowed_users_man">Muž</string>
+    <string name="chatroom_add_allowed_users_woman">Žena</string>
+    <string name="chatroom_add_allowed_users_couple">Pár žena &amp; muž</string>
+    <string name="chatroom_add_country_title">Krajina</string>
+    <string name="chatroom_add_error_not_allowed">Nemáte povolené vytváranie nových miestností.</string>
+
     </resources>
