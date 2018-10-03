@@ -196,7 +196,7 @@
     <string name="search_video_hint">Chercher dans les vidéos</string>
     <string name="search_user_hint">Chercher dans les utilisateurs</string>
     <string name="ok">OK</string>
-    <string name="cancel">Annuler</string>
+    <string name="cancel">annuler</string>
 
     <string name="title_settings">Configuration de l\'application</string>
     <string name="title_album_settings">Configuration de l\'album</string>
@@ -1044,5 +1044,30 @@
     <string name="bottomsheet_webcam_listener_turn_off">Eteindre la caméra</string>
 
     <string name="webcam_detail_toolbar_title">Caméras : %s</string>
+
+    <string name="fab_add_chatroom">Ajouter une salle de chat</string>
+
+    <string name="toast_chatroom_logout_warning">Veuillez écrire quelque chose dans le chat, sinon vous serez automatiquement déconnecté/e pour inactivité.</string>
+    <string name="dialog_chat_room_timeout_title">Limite de temps d\'inactivité</string>
+    <string name="dialog_chat_room_timeout_text">Vous avez été déconnecté/e pour inactivité. Vous pouvez revenir ou choisir une autre salle.</string>
+
+    <string name="chat_room_settings_camera_permission_title">Suivre la webcaméra</string>
+
+    <string name="title_add_chat_room">Créer une nouvelle salle</string>
+    <string name="chatroom_add_title_title">Nom</string>
+    <string name="chatroom_add_title_hint">Rentrez un nom</string>
+    <string name="chatroom_add_description_title">Description</string>
+    <string name="chatroom_add_description_hint">Rentrez une description</string>
+    <string name="chatroom_add_category_title">Catégorie</string>
+    <string name="chatroom_add_category_hint">Choisissez une catégorie</string>
+    <string name="chatroom_add_access_title">Accès</string>
+    <string name="chatroom_add_submit_button_text">Créer une salle de chat</string>
+    <string name="chatroom_add_toast_empty_fields">Tous les champs doivent être remplis.</string>
+    <string name="chatroom_add_allowed_users_title">Utilisateurs autorisés</string>
+    <string name="chatroom_add_allowed_users_man">Homme</string>
+    <string name="chatroom_add_allowed_users_woman">Femme</string>
+    <string name="chatroom_add_allowed_users_couple">Couple femme &amp; homme</string>
+    <string name="chatroom_add_country_title">Pays</string>
+    <string name="chatroom_add_error_not_allowed">Vous ne pouvez pas ajouter de nouvelle salle de chat maintenant.</string>
 
     </resources>
