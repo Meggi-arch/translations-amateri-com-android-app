@@ -1064,7 +1064,7 @@
     <string name="dialog_webcam_data_connection_text">You are using mobile data connection. Watching streams can consume a lot of data.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Turn on the camera</string>
     <string name="dialog_webcam_data_connection_button_cancel">Leave the camera off</string>
-    <string name="toast_chatroom_logout_warning">In %s, you will be automatically logged out from the room for inactivity.</string>
+    <string name="toast_chatroom_logout_warning">Please write something into the chat, otherwise you will be automatically disconnected for inactivity.</string>
     <string name="dialog_chat_room_timeout_title">Inactivity timeout</string>
     <string name="dialog_chat_room_timeout_text">You have been logged out due to inactivity. You can either come back or choose another room.</string>
 
