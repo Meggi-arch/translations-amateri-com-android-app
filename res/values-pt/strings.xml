@@ -366,4 +366,34 @@
     <string name="notification_video_approve_text">Seu vídeo \"%s\" foi aprovado.</string>
 
     <string name="notification_update_text">Uma nova versão aprimorada e mais suculenta do aplicativo está disponível. Deseja baixá-lo?</string>
-</resources>
+<string name="infinity_error_no_connection">Parece não haver conexão com a Internet. Toque para tentar novamente.</string>
+    <string name="dialog_android_unsupported_title">Recurso não suportado</string>
+    <string name="dialog_android_unsupported_text">Desculpe, mas sua versão do sistema Android é muito antiga para usar esse recurso :(</string>
+
+    <string name="title_home">Página Inicial</string>
+    <string name="title_blogs">Blogs</string>
+    <string name="title_stories">Histórias</string>
+    <string name="title_events">Eventos</string>
+    <string name="title_chat">Bate-papo</string>
+    <string name="title_application_settings">Configurações do aplicativo</string>
+    <string name="title_new_album">Adicionar novo álbum</string>
+    <string name="title_new_video">Adicionar novo vídeo</string>
+    <string name="title_my_account">Minha conta</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_dating">Encontros</string>
+
+    <string name="title_next_blogs">Mais posts</string>
+    <string name="blog_comment_disallowed">Não é possível adicionar um comentário a este post de blog no momento.</string>
+
+    <string name="title_next_story">Mais histórias</string>
+    <string name="story_comment_disallowed">Não é possível adicionar um comentário a esta história no momento.</string>
+
+    <string name="no_dating_ads_title">Nenhum anúncio de encontro localizado</string>
+    <string name="no_dating_ads_text">Nenhum anúncio de encontro localizado para o filtro selecionado.</string>
+
+    <string name="dating_reply_button_send">Enviar resposta</string>
+    <string name="dating_reply_hint">Sua resposta</string>
+    <string name="toast_dating_reply_sent">A resposta foi enviada</string>
+    <string name="dating_reply_picture_attached">Foto anexada</string>
+    <string name="dialog_delete_attachment_title">Excluir anexo</string>
+    </resources>
