@@ -852,4 +852,32 @@
     <string name="dating_settings_dialog_delete_button_confirm">Elimina</string>
     <string name="dating_settings_toast_dating_ad_deleted">L\'annuncio è stato cancellato.</string>
 
+    <string name="fab_add_chatroom">Aggiungi chatroom</string>
+
+    <string name="dialog_dating_extend_title">Estendi la validità dell\'annuncio</string>
+    <string name="dialog_dating_extend_text">Il tuo annuncio è scaduto. Puoi estendere la sua validità.</string>
+    <string name="dialog_dating_extend_button_text">Estendi di %s</string>
+    <string name="dialog_dating_extend_toast_successful">La validità dell\'annuncio è stata estesa.</string>
+
+    <string name="title_dating_edit">Modifica l\'annuncio</string>
+    <string name="dating_edit_button_text">Salva le modifiche</string>
+    <string name="dating_edit_toast_saved">Le modifiche sono state salvate.</string>
+    <string name="dating_edit_toast_empty_fields">Tutti i campi devono essere completati.</string>
+
+    <string name="edittext_invalid_input_empty">%s deve essere completato</string>
+
+    <string name="notification_channel_general">Notifiche generali</string>
+    <string name="notification_channel_messages">Notifiche dei messaggi</string>
+    <string name="notification_channel_upload">Notifiche di caricamento contenuti</string>
+    <string name="notification_channel_webcams">Notifiche delle webcam della chat</string>
+
+    <string name="chat_room_empty_title">Nessun messaggio</string>
+    <string name="chat_room_empty_text">Non ci sono messaggi in questa stanza.</string>
+    <string name="chat_room_empty_text_friend_filter">Il filtro \"Solo messaggi degli amici\" è abilitato.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Disattiva il filtro e riprova</string>
+    <string name="dialog_chat_room_leave_title">Desideri abbandonare la stanza?</string>
+    <string name="dialog_chat_room_leave_text">Rimarrai nella stanza per i successivi 10 minuti dopo aver scelto l\'opzione \"Torno subito\".</string>
+    <string name="dialog_chat_room_leave_button_leave">Sì, abbandona</string>
+    <string name="dialog_chat_room_leave_button_brb">Torno subito</string>
+    <string name="dialog_chat_room_forbidden_title">Timeout connessione</string>
     </resources>
