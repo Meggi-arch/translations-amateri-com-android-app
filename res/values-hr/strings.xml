@@ -208,7 +208,7 @@
     <string name="search_video_hint">Traži u videozapisima</string>
     <string name="search_user_hint">Traži u korisnicima</string>
     <string name="ok">U redu</string>
-    <string name="cancel">otkaži</string>
+    <string name="cancel">odustani</string>
 
     <string name="title_settings">Postavke aplikacije</string>
     <string name="title_album_settings">Postavke albuma</string>
@@ -1056,5 +1056,30 @@
     <string name="bottomsheet_webcam_listener_turn_off">Isključi fotoaparat</string>
 
     <string name="webcam_detail_toolbar_title">Fotoaparati: %s</string>
+
+    <string name="fab_add_chatroom">Dodaj sobu za čavrljanje</string>
+
+    <string name="toast_chatroom_logout_warning">Napišite nešto u čavrljanje, inače ćete automatski biti odspojeni zbog neaktivnosti.</string>
+    <string name="dialog_chat_room_timeout_title">Istek vremena zbog neaktivnosti</string>
+    <string name="dialog_chat_room_timeout_text">Odjavljeni ste zbog neaktivnosti. Vratite se ili odaberite drugu sobu.</string>
+
+    <string name="chat_room_settings_camera_permission_title">Tko može gledati moje strujanje</string>
+
+    <string name="title_add_chat_room">Dodaj novu sobu za čavrljanje</string>
+    <string name="chatroom_add_title_title">Naslov</string>
+    <string name="chatroom_add_title_hint">Unesi naslov</string>
+    <string name="chatroom_add_description_title">Opis</string>
+    <string name="chatroom_add_description_hint">Unesi opis</string>
+    <string name="chatroom_add_category_title">Kategorija</string>
+    <string name="chatroom_add_category_hint">Odaberi kategoriju</string>
+    <string name="chatroom_add_access_title">Pristup</string>
+    <string name="chatroom_add_submit_button_text">Izradi sobu za čavrljanje</string>
+    <string name="chatroom_add_toast_empty_fields">Sva polja moraju biti popunjena.</string>
+    <string name="chatroom_add_allowed_users_title">Dozvoljeni korisnici</string>
+    <string name="chatroom_add_allowed_users_man">Muškarac</string>
+    <string name="chatroom_add_allowed_users_woman">Žena</string>
+    <string name="chatroom_add_allowed_users_couple">Par žene i muškarca</string>
+    <string name="chatroom_add_country_title">Država</string>
+    <string name="chatroom_add_error_not_allowed">Trenutno ne možete dodati novu sobu za čavrljanje.</string>
 
     </resources>
