@@ -880,4 +880,194 @@
     <string name="dialog_chat_room_leave_button_leave">Sì, abbandona</string>
     <string name="dialog_chat_room_leave_button_brb">Torno subito</string>
     <string name="dialog_chat_room_forbidden_title">Timeout connessione</string>
+    <string name="dialog_chat_room_forbidden_text">Probabilmente non ti trovi più nella stanza: sarai reindirizzato fuori dalla chatroom, da dove potrai ritornare o potrai scegliere un\'altra stanza.</string>
+    <string name="popup_chat_room_menu_info">Informazioni sulla stanza</string>
+    <string name="popup_chat_room_menu_fav_add">Aggiungi ai preferiti</string>
+    <string name="popup_chat_room_menu_fav_remove">Rimuovi dai preferiti</string>
+    <string name="popup_chat_room_menu_settings">Impostazioni</string>
+    <string name="avatarbar_empty_text">Non ci sono altre persone in questa stanza :-(</string>
+    <string name="chat_room_users_category_chatties">Utenti in chat</string>
+    <string name="chat_room_users_category_friends">Amici</string>
+    <string name="chat_room_users_category_my_webcam_watchers">Spettatori</string>
+    <string name="chat_room_users_category_others">Utenti</string>
+    <string name="chat_room_users_filter_empty_title">Nessun utente</string>
+    <string name="chat_room_users_filter_empty_text">Nessun utente trovato per il filtro selezionato.</string>
+    <string name="popup_chat_room_user_filter_content">Con album/video</string>
+    <string name="chat_room_users_filter_all_countries">Tutti i Paesi</string>
+    <string name="chat_room_users_filter_all_regions">Tutte le regioni</string>
+    <string name="toast_chat_room_admin_rights_gained">Sei ora un amministratore temporaneo di questa stanza</string>
+    <string name="dialog_chat_room_kick_user_title">Espellere l\'utente dalla stanza?</string>
+    <string name="dialog_chat_room_kick_user_content">Utente: %s</string>
+    <string name="dialog_chat_room_kick_user_choose_reason">Seleziona un motivo</string>
+    <string name="dialog_chat_room_kick_user_reason_hint">Motivo</string>
+    <string name="dialog_chat_room_kick_user_button_confirm">Sì, espelli</string>
+    <string name="toast_chat_room_user_kicked">L\'utente %s è stato espulso</string>
+    <string name="dialog_chat_room_kicked_me_title">Sei stato espulso</string>
+    <string name="dialog_chat_room_kicked_me_content">Sei stato espulso dalla stanza per %1$d minuti! Motivo: %2$s. Riprova più tardi.</string>
+    <string name="chat_room_knock_ask_title">L\'utente %s richiede l\'accesso a questa stanza</string>
+    <string name="chat_room_knock_ask_reject_button">Rifiuta</string>
+    <string name="chat_room_knock_ask_allow_button">Consenti</string>
+    <string name="chat_room_knock_ask_profile_button">Profilo</string>
+    <string name="popup_chat_message_copy_text">Copia negli appunti</string>
+    <string name="popup_chat_message_delete_message">Elimina messaggio</string>
+    <string name="dialog_delete_chat_message_title">Eliminare il messaggio?</string>
+    <string name="dialog_delete_chat_message_text">Desideri eliminare questo messaggio per tutti gli utenti?</string>
+    <string name="dialog_delete_chat_message_button_confirm">Sì, elimina</string>
+    <string name="toast_chat_message_deleted">Il messaggio è stato eliminato.</string>
+    <string name="toast_chat_webcam_slot_unavailable">Non ci sarà più spazio per il prossimo streaming qui.</string>
+    <string name="dialog_turn_off_webcam_title">Spegnere la fotocamera?</string>
+    <string name="dialog_turn_off_webcam_text_broadcast">Questa azione spegnerà la tua fotocamera</string>
+    <string name="dialog_turn_off_webcam_text_listener">Questa azione spegnerà la fotocamera di %s</string>
+    <string name="dialog_turn_off_webcam_confirm">Spegni</string>
+    <string name="toast_webcam_duplicate_stream">Stai già guardando questo utente.</string>
+    <string name="toast_webcam_permission_denied_webrtc_only">Questo utente non utilizza lo streaming WebRTC.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Ottieni un\'iscrizione VIP o carica almeno un album/video per guardare questo streaming.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Ottieni un\'iscrizione VIP o verifica il tuo profilo per guardare questo streaming.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Per guardare questo streaming devi essere un membro VIP.</string>
+    <string name="toast_webcam_permission_denied_friends_only">Questo utente trasmette solo ai suoi amici.</string>
+    <string name="toast_chat_camera_permissions_denied">Devi concedere il permesso per accendere la fotocamera.</string>
+    <string name="dialog_webcam_data_connection_title_broadcast">Accendere la fotocamera?</string>
+    <string name="dialog_webcam_data_connection_title_listen">Guardare lo streaming dell\'utente?</string>
+    <string name="dialog_webcam_data_connection_text">Stai usando una connessione con dati mobili. Guardare gli streaming può consumare molti dati.</string>
+    <string name="dialog_webcam_data_connection_button_confirm">Accendi la fotocamera</string>
+    <string name="dialog_webcam_data_connection_button_cancel">Lascia spenta la fotocamera</string>
+    <string name="toast_chatroom_logout_warning">Scrivi qualcosa nella chat, altrimenti sarai automaticamente scollegato per inattività.</string>
+    <string name="dialog_chat_room_timeout_title">Timeout inattività</string>
+    <string name="dialog_chat_room_timeout_text">Sei stato disconnesso a causa di inattività. Puoi tornare o scegliere un\'altra stanza.</string>
+
+    <string name="dialog_chat_room_knock_title_main">Questa chatroom è chiusa</string>
+    <string name="dialog_chat_room_knock_title_waiting">In attesa di risposta dall\'amministratore della chatroom…</string>
+    <string name="dialog_chat_room_knock_text_main">Puoi chiedere l\'accesso alla chatroom o tornare indietro.</string>
+    <string name="dialog_chat_room_knock_text_waiting">Se l\'amministratore non risponde entro 2 minuti, sarai reindirizzato.</string>
+    <string name="dialog_chat_room_knock_text_forbidden">Spiacenti, l\'amministratore non ti ha permesso di entrare in questa stanza.</string>
+    <string name="dialog_chat_room_knock_button_request">Chiedi di accedere</string>
+    <string name="dialog_chat_room_knock_button_cancel">Torna indietro</string>
+    <string name="toast_chat_room_knock_access_refused">L\'amministratore non ti ha consentito di entrare in questa stanza.</string>
+
+    <string name="chat_room_settings_friends_messages_only">Solo messaggi degli amici</string>
+    <string name="chat_room_settings_admin_handover_title">Trasferisci i diritti di amministratore</string>
+    <string name="chat_room_settings_admin_handover_chooser_title">Seleziona un utente</string>
+    <string name="chat_room_settings_admin_handover_chooser_title_disabled">Nessun utente</string>
+    <string name="chat_room_settings_admin_handover_dialog_title">Trasferire i diritti di amministratore?</string>
+    <string name="chat_room_settings_admin_handover_dialog_text">Desideri trasferire i diritti di amministratore all\'utente %s?</string>
+    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Sì, trasferisci</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">I diritti di amministratore sono stati trasferiti all\'utente %s.</string>
+    <string name="chat_room_settings_font_size_title">Dimensione carattere</string>
+    <string name="chat_room_settings_font_size_normal">Piccolo</string>
+    <string name="chat_room_settings_font_size_bigger">Medio</string>
+    <string name="chat_room_settings_font_size_biggest">Grande</string>
+    <string name="chat_room_settings_webcam_sound_title">Audio dello streaming</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Attiva per impostazione predefinita</string>
+    <string name="chat_room_settings_camera_permission_title">Chi può guardare il mio streaming</string>
+
+    <string name="chat_room_whisper_empty_title">Ancora nessun messaggio</string>
+    <string name="chat_room_whisper_empty_text">Scrivi un messaggio o semplicemente uno smiley :)</string>
+    <string name="chat_room_whisper_webcam_placeholder_title">Accendi: %s</string>
+
+    <string name="profile_edit_section_profile_info">Informazioni generali</string>
+    <string name="profile_edit_sex_hobbies_title">Hobby sessuali</string>
+    <string name="profile_edit_sex_search_title">Ricerca in corso</string>
+    <string name="profile_edit_sex_search_purpose_title">Scopo della ricerca</string>
+    <string name="profile_edit_personal_description_title">Descrizione personale</string>
+    <string name="profile_edit_personal_description_hint">Inserisci la tua descrizione personale…</string>
+
+    <string name="profile_edit_section_personal_info">Dati personali</string>
+    <string name="profile_edit_section_personal_info_his">Informazioni di lui</string>
+    <string name="profile_edit_section_personal_info_her">Informazioni di lei</string>
+    <string name="profile_edit_section_personal_info_first_person">Prima persona</string>
+    <string name="profile_edit_section_personal_info_second_person">Seconda persona</string>
+    <string name="profile_edit_birth_date_title">Data di nascita</string>
+    <string name="profile_edit_zodiac_sign_title">Segno zodiacale</string>
+    <string name="profile_edit_sex_orientation">Orientamento sessuale</string>
+    <string name="profile_edit_family_status_title">Stato coniugale</string>
+    <string name="profile_edit_eye_color_title">Colore degli occhi</string>
+    <string name="profile_edit_hair_color_title">Colore dei capelli</string>
+    <string name="profile_edit_height_title">Altezza</string>
+    <string name="profile_edit_weight_title">Peso</string>
+    <string name="profile_edit_skype_title">ID Skype</string>
+    <string name="profile_edit_skype_hint">Inserisci il tuo ID Skype…</string>
+    <string name="profile_edit_phone_number_title">Numero di telefono</string>
+    <string name="profile_edit_phone_number_hint">Inserisci il tuo numero di telefono…</string>
+
+    <string name="profile_edit_chooser_not_filled">Non completato</string>
+    <string name="profile_edit_button_save">Salva le modifiche</string>
+    <string name="toast_profile_edit_changes_saved">Le modifiche sono state salvate.</string>
+
+    <string name="home_section_videos_title">Ultimi video</string>
+    <string name="home_section_albums_title">Ultimi album</string>
+    <string name="home_section_chat_title">Chat</string>
+    <string name="home_section_dating_title">Annunci per appuntamenti</string>
+    <string name="home_section_events_title">Eventi</string>
+    <string name="home_section_stories_title">Storie</string>
+    <string name="home_section_blogs_title">Blog</string>
+
+    <string name="home_section_videos_footer_title">Tutti i video</string>
+    <string name="home_section_albums_footer_title">Tutti gli album</string>
+    <string name="home_section_chat_rooms_footer_title">Tutte le chatroom</string>
+    <string name="home_section_dating_footer_title">Tutti gli annunci per appuntamenti</string>
+    <string name="home_section_events_footer_title">Tutti gli eventi</string>
+    <string name="home_section_stories_footer_title">Tutte le storie</string>
+    <string name="home_section_blogs_footer_title">Tutti i blog</string>
+
+    <string name="title_ignore_list">Elenco ignorati</string>
+    <string name="ignore_list_empty_title">Nessun utente ignorato</string>
+    <string name="ignore_list_empty_text">Il tuo elenco ignorati è vuoto.</string>
+    <string name="dialog_ignore_list_remove_title">Rimuovi dall\'elenco ignorati</string>
+    <string name="dialog_ignore_list_remove_text">Desideri rimuovere %s dall\'elenco ignorati?</string>
+    <string name="dialog_ignore_list_remove_button_confirm">Rimuovi</string>
+    <string name="toast_ignore_list_user_removed">%s è stato rimosso dall\'elenco ignorati.</string>
+
+    <string name="profile_options_add_favourite">Aggiungi ai preferiti</string>
+    <string name="profile_options_add_friend">Aggiungi un amico</string>
+    <string name="profile_options_mesage">Invia un messaggio</string>
+    <string name="profile_options_add_to_ignore">Ignora utente</string>
+    <string name="dialog_ignore_list_add_title">Aggiungi all\'elenco ignorati</string>
+    <string name="dialog_ignore_list_add_text">Desideri aggiungere %s all\'elenco ignorati?</string>
+    <string name="dialog_ignore_list_add_button_confirm">Aggiungi all\'elenco ignorati</string>
+
+    <string name="conversation_options_delete_conversation">Elimina conversazione</string>
+
+    <string name="janus_fragment_retry_text">Interrotto. Riprovare?</string>
+    <string name="janus_fragment_hangup_text">Fotocamera spenta</string>
+    <string name="janus_error_hangup">L\'utente %s ha spento la fotocamera.</string>
+    <string name="janus_error_connection">Impossibile stabilire una connessione con il server.</string>
+    <string name="janus_error_unsupported">Il tuo dispositivo non supporta lo streaming della fotocamera.</string>
+    <string name="janus_error_camera_unavailable">La fotocamera non è disponibile.</string>
+    <string name="janus_error_video_not_receiving">Sembra che il tuo dispositivo non stia inviando alcun video.</string>
+    <string name="janus_broadcast_service_notification_title">Stai trasmettendo</string>
+    <string name="janus_broadcast_service_notification_text">Chatroom: %s</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Spegni la fotocamera</string>
+
+    <string name="bottomsheet_webcam_broadcast_title">La mia fotocamera</string>
+    <string name="bottomsheet_webcam_broadcast_switch_camera">Cambia fotocamera</string>
+    <string name="bottomsheet_webcam_broadcast_mute">Disattiva l\'audio</string>
+    <string name="bottomsheet_webcam_broadcast_unmute">Attiva l\'audio</string>
+    <string name="bottomsheet_webcam_broadcast_turn_off">Spegni la fotocamera</string>
+
+    <string name="bottomsheet_webcam_listener_title">Streaming di %s</string>
+    <string name="bottomsheet_webcam_listener_maximize">Ingrandisci</string>
+    <string name="bottomsheet_webcam_listener_whisper">Sussurra</string>
+    <string name="bottomsheet_webcam_listener_mute">Disattiva l\'audio</string>
+    <string name="bottomsheet_webcam_listener_unmute">Attiva l\'audio</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Chiudi lo streaming</string>
+
+    <string name="webcam_detail_toolbar_title">Streaming: %s</string>
+
+    <string name="title_add_chat_room">Aggiungi una nuova chatroom</string>
+    <string name="chatroom_add_title_title">Titolo</string>
+    <string name="chatroom_add_title_hint">Inserisci un titolo</string>
+    <string name="chatroom_add_description_title">Descrizione</string>
+    <string name="chatroom_add_description_hint">Inserisci una descrizione</string>
+    <string name="chatroom_add_category_title">Categoria</string>
+    <string name="chatroom_add_category_hint">Seleziona una categoria</string>
+    <string name="chatroom_add_access_title">Accesso</string>
+    <string name="chatroom_add_submit_button_text">Crea una chatroom</string>
+    <string name="chatroom_add_toast_empty_fields">Tutti i campi devono essere completati.</string>
+    <string name="chatroom_add_allowed_users_title">Utenti consentiti</string>
+    <string name="chatroom_add_allowed_users_man">Uomo</string>
+    <string name="chatroom_add_allowed_users_woman">Donna</string>
+    <string name="chatroom_add_allowed_users_couple">Coppia donna e uomo</string>
+    <string name="chatroom_add_country_title">Paese</string>
+    <string name="chatroom_add_error_not_allowed">Non puoi aggiungere una nuova chatroom ora.</string>
+
     </resources>
