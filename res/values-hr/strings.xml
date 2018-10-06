@@ -231,7 +231,7 @@
     <string name="verify_text">Zapišite nadimak, trenutni datum, naziv za amateri.com na papiru i fotografirajte. Ako profil koristite kao par, trebat će nam fotografija za verifikaciju za vas oboje.</string>
     <string name="verify_more_info">Više informacija</string>
     <string name="verify_send">Prenesite fotografiju za verifikaciju</string>
-    <string name="verify_done_text">Poslana je nova slika. Administrator će provejriti fotografiju za verifikaciju. Hvala vam.</string>
+    <string name="verify_done_text">Poslana je nova slika. Administrator će provjeriti fotografiju za verifikaciju. Hvala vam.</string>
     <string name="done">Gotovo!</string>
 
     <string name="setup_notifications">Obavijesti</string>
@@ -243,7 +243,7 @@
     <string name="setup_notification_friend_request_reply">Prihvaćen je zahtjev za prijateljstvo</string>
     <string name="setup_notification_new_album_comment">Komentar za novi album</string>
     <string name="setup_notification_new_video_comment">Komentar za novi videozapis</string>
-    <string name="setup_notification_album_approval">Odobrenje nvogo albuma</string>
+    <string name="setup_notification_album_approval">Odobrenje novog albuma</string>
     <string name="setup_notification_video_approval">Odobrenje novog videozapisa</string>
     <string name="setup_notification_advertisement">Reklamne obavijesti</string>
     <string name="setup_privacy">Sigurnost</string>
@@ -373,7 +373,7 @@
     <string name="notification_album_approve_text">Vaš album \"%s\" je odobren.</string>
 
     <string name="notification_video_approve_title">VIdeozapis je odobren</string>
-    <string name="notification_video_approve_text">Vaš videouapis \"%s\" je odobren.</string>
+    <string name="notification_video_approve_text">Vaš videozapis \"%s\" je odobren.</string>
 
     <string name="notification_update_text">Dostupna je nova poboljšana i sočnija verzija aplikacije. Želite li ju preuzeti?</string>
 <string name="infinity_error_no_connection">Čini se da nema veze s internetom. Dodirnite za ponovni pokušaj.</string>
@@ -531,7 +531,7 @@
     <string name="album_upload_choose_photo">Pošalji fotografije</string>
     <string name="album_upload_send_to_review">Pošalji na odobrenje</string>
     <string name="photo_delete_dialog_title">Želite li izbrisati ovu fotografiju?</string>
-    <string name="photo_delete_dialog">Jeste li sigurni da želite izbristi ovu fotografiju?</string>
+    <string name="photo_delete_dialog">Jeste li sigurni da želite izbrisati ovu fotografiju?</string>
     <string name="toast_thumbnail_photo_changed">Uspješno ste promijenili naslovnu fotografiju</string>
     <string name="dialog_guidelines_title">Pomoć</string>
     <string name="photo_guidelines_1">Možete poslati %1$s – %2$s fotografija.</string>
@@ -667,7 +667,7 @@
     <string name="toast_friend_removed">Korisnik %s uklonjen je iz vaših prijatelja</string>
     <string name="button_friend_request_accept">Prihvati</string>
     <string name="button_friend_request_reject">Odbij</string>
-    <string name="toast_friend_request_accepted">Sada ste prijatleji s %s</string>
+    <string name="toast_friend_request_accepted">Sada ste prijatelji s %s</string>
     <string name="no_friend_requests_title">Nema zahtjeva za prijateljstvom</string>
     <string name="no_friend_requests_message">Nemate novih zahtjeva za prijateljstvom</string>
     <string name="dialog_reject_friend_request_title">Odbij zahtjev za prijateljstvom</string>
@@ -792,7 +792,7 @@
 
     <string name="chat_dashboard_online_friends">Prijatelji u čavrljanju</string>
     <string name="chat_dashboard_online_friends_empty">Trenutno nema prijatelja koji čavrljaju.</string>
-    <string name="chat_dashboard_most_popular_webcams">Najpopularniji fotoaparati</string>
+    <string name="chat_dashboard_most_popular_webcams">Najpopularnija strujanja</string>
     <string name="chat_dashboard_favourite_chatrooms">Vaše omiljene sobe za čavrljanje</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Još nemate omiljenih soba za čavrljanje.</string>
     <string name="chat_dashboard_newest_chatrooms">Najnovije sobe za čavrljanje</string>
@@ -815,7 +815,7 @@
     <string name="no_chat_rooms_text">Nema soba za odabrani filtar.</string>
 
     <string name="chat_online_friends_title">Prijatelji u čavrljanju</string>
-    <string name="chat_most_popular_webcams_title">Najpopularniji fotoaparati</string>
+    <string name="chat_most_popular_webcams_title">Najpopularnija strujanja</string>
 
     <string name="tab_chat_room_info">Pojedinosti i sobi</string>
     <string name="tab_chat_room_people">Ljudi u sobi</string>
@@ -870,7 +870,7 @@
     <string name="title_dating_edit">Uredi oglas za upoznavanje</string>
     <string name="dating_edit_button_text">Spremi promjene</string>
     <string name="dating_edit_toast_saved">Promjene su spremljene.</string>
-    <string name="dating_edit_toast_empty_fields">Svapolja moraju biti ispunjena.</string>
+    <string name="dating_edit_toast_empty_fields">Sva polja moraju biti ispunjena.</string>
 
     <string name="edittext_invalid_input_empty">%s mora biti ispunjeno</string>
 
@@ -884,7 +884,7 @@
     <string name="chat_room_empty_text_friend_filter">Omogućili ste filtar \"Samo poruke prijatelja\".</string>
     <string name="chat_room_empty_button_disable_filter_try_again">Onemogućite filtar i pokušajte ponovno</string>
     <string name="dialog_chat_room_leave_title">Želite li napustiti sobu?</string>
-    <string name="dialog_chat_room_leave_text">Ostatćete u sobi 10 minuta nakon odabira opcije \"Odmah se vraćam\".</string>
+    <string name="dialog_chat_room_leave_text">Ostat ćete u sobi 10 minuta nakon odabira opcije \"Odmah se vraćam\".</string>
     <string name="dialog_chat_room_leave_button_leave">Da, napusti</string>
     <string name="dialog_chat_room_leave_button_brb">Odmah se vraćam</string>
     <string name="dialog_chat_room_forbidden_title">Istek vremena veze</string>
@@ -922,21 +922,21 @@
     <string name="dialog_delete_chat_message_text">Želite li stvarno izbrisati ovu poruku za sve korisnike?</string>
     <string name="dialog_delete_chat_message_button_confirm">Da, izbriši</string>
     <string name="toast_chat_message_deleted">Poruka je izbrisana.</string>
-    <string name="toast_chat_webcam_slot_unavailable">Sljedeći fotoaparat više neće stati ovdje.</string>
+    <string name="toast_chat_webcam_slot_unavailable">Sljedeće strujanje više neće stati ovdje.</string>
     <string name="dialog_turn_off_webcam_title">Želite li isključiti fotoaparat?</string>
     <string name="dialog_turn_off_webcam_text_broadcast">Tako ćete isključiti vaš fotoaparat</string>
     <string name="dialog_turn_off_webcam_text_listener">Tako ćete isključiti fotoaparat %s</string>
     <string name="dialog_turn_off_webcam_confirm">Isključi</string>
     <string name="toast_webcam_duplicate_stream">Već pratite ovog korisnika.</string>
     <string name="toast_webcam_permission_denied_webrtc_only">Ovaj korisnik ne koristi WebRTC strujanje.</string>
-    <string name="toast_webcam_permission_denied_album_video_vip_only">Uzmite VIP članstvo ili pošaljite barem jedan album/videozapis kako biste pratili ovaj fotoaparat.</string>
-    <string name="toast_webcam_permission_denied_verified_vip_only">Uzmite VIP članstvo ili potvrdite vaš profil kako biste pratili ovaj fotoaparat.</string>
-    <string name="toast_webcam_permission_denied_vip_only">Za praćenje ovog fotoaparata morate biti VIP član.</string>
+    <string name="toast_webcam_permission_denied_album_video_vip_only">Uzmite VIP članstvo ili pošaljite barem jedan album/videozapis kako biste gledali ovo strujanje.</string>
+    <string name="toast_webcam_permission_denied_verified_vip_only">Uzmite VIP članstvo ili potvrdite vaš profil kako biste gledali ovo strujanje.</string>
+    <string name="toast_webcam_permission_denied_vip_only">Za gledanje ovog strujanja morate biti VIP član.</string>
     <string name="toast_webcam_permission_denied_friends_only">Ovaj korisnik emitira samo za svoje prijatelje.</string>
     <string name="toast_chat_camera_permissions_denied">Morate izdati dozvolu za uključivanje fotoaparata.</string>
     <string name="dialog_webcam_data_connection_title_broadcast">Želite li uključiti fotoaparat?</string>
-    <string name="dialog_webcam_data_connection_title_listen">Želite li pratiti fotoaparat korisnika?</string>
-    <string name="dialog_webcam_data_connection_text">Koristite mobilnu podatkovnu vezu. Praćenje fotoaparata može dovesti do potrošnje velike količine podataka.</string>
+    <string name="dialog_webcam_data_connection_title_listen">Želite li pratiti strujanje korisnika?</string>
+    <string name="dialog_webcam_data_connection_text">Koristite mobilnu podatkovnu vezu. Gledanje strujanja može dovesti do potrošnje velike količine podataka.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Uključi fotoaparat</string>
     <string name="dialog_webcam_data_connection_button_cancel">Ostavi fotoaparat isključenim</string>
 
@@ -956,12 +956,12 @@
     <string name="chat_room_settings_admin_handover_dialog_title">Želite li predati administratorska prava?</string>
     <string name="chat_room_settings_admin_handover_dialog_text">Želite li administratorska prava predati korisniku %s?</string>
     <string name="chat_room_settings_admin_handover_dialog_button_confirm">Da, predaj</string>
-    <string name="toast_chat_room_settings_admin_rights_handed_over">Admiinstratorska prava predana su korisniku %s.</string>
+    <string name="toast_chat_room_settings_admin_rights_handed_over">Administratorska prava predana su korisniku %s.</string>
     <string name="chat_room_settings_font_size_title">Veličina fonta</string>
     <string name="chat_room_settings_font_size_normal">Malo</string>
     <string name="chat_room_settings_font_size_bigger">Srednje</string>
     <string name="chat_room_settings_font_size_biggest">Veliko</string>
-    <string name="chat_room_settings_webcam_sound_title">Zvuk fotoaparata</string>
+    <string name="chat_room_settings_webcam_sound_title">Zvuk strujanja</string>
     <string name="chat_room_settings_webcam_sound_default_option">Uključen po zadanim postavkama</string>
 
     <string name="chat_room_whisper_empty_title">Još nema poruka</string>
@@ -988,7 +988,7 @@
     <string name="profile_edit_hair_color_title">Boja kose</string>
     <string name="profile_edit_height_title">Visina</string>
     <string name="profile_edit_weight_title">Težina</string>
-    <string name="profile_edit_skype_title">Skype ID</string>
+    <string name="profile_edit_skype_title">ID za Skype</string>
     <string name="profile_edit_skype_hint">Unesite vaš Skype ID…</string>
     <string name="profile_edit_phone_number_title">Telefonski broj</string>
     <string name="profile_edit_phone_number_hint">Unesite vaš telefonski broj…</string>
@@ -1040,7 +1040,7 @@
     <string name="janus_error_video_not_receiving">Čini se da vaš uređaj ne šalje videozapis.</string>
     <string name="janus_broadcast_service_notification_title">Vi emitirate</string>
     <string name="janus_broadcast_service_notification_text">Soba za čavrljanje: %s</string>
-    <string name="janus_broadcast_service_notification_action_turn_off">Isključi fotoaparat</string>
+    <string name="janus_broadcast_service_notification_action_turn_off">Isključi kameru</string>
 
     <string name="bottomsheet_webcam_broadcast_title">Moj fotoaparat</string>
     <string name="bottomsheet_webcam_broadcast_switch_camera">Promijeni fotoaparat</string>
@@ -1048,14 +1048,14 @@
     <string name="bottomsheet_webcam_broadcast_unmute">Uključi zvuk</string>
     <string name="bottomsheet_webcam_broadcast_turn_off">Isključi fotoaparat</string>
 
-    <string name="bottomsheet_webcam_listener_title">Fotoaparat %s</string>
+    <string name="bottomsheet_webcam_listener_title">Strujanje %s</string>
     <string name="bottomsheet_webcam_listener_maximize">Povećaj</string>
     <string name="bottomsheet_webcam_listener_whisper">Šapat</string>
     <string name="bottomsheet_webcam_listener_mute">Utišaj</string>
     <string name="bottomsheet_webcam_listener_unmute">Uključi zvuk</string>
-    <string name="bottomsheet_webcam_listener_turn_off">Isključi fotoaparat</string>
+    <string name="bottomsheet_webcam_listener_turn_off">Zatvori strujanje</string>
 
-    <string name="webcam_detail_toolbar_title">Fotoaparati: %s</string>
+    <string name="webcam_detail_toolbar_title">Strujanja: %s</string>
 
     <string name="fab_add_chatroom">Dodaj sobu za čavrljanje</string>
 
