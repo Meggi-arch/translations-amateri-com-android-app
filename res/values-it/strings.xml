@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="yes">Sì</string>
-    <string name="no">No</string>
+    <string name="no">no</string>
 
     <string name="author">Autore</string>
     <string name="comments">Commenti</string>
@@ -198,7 +198,7 @@
     <string name="search_video_hint">Cerca nei video</string>
     <string name="search_user_hint">Cerca negli utenti</string>
     <string name="ok">OK</string>
-    <string name="cancel">Annulla</string>
+    <string name="cancel">annulla</string>
 
     <string name="title_settings">Impostazioni applicazione</string>
     <string name="title_album_settings">Impostazioni album</string>
@@ -782,7 +782,7 @@
 
     <string name="chat_dashboard_online_friends">Amici in chat</string>
     <string name="chat_dashboard_online_friends_empty">Non ci sono amici in chat ora.</string>
-    <string name="chat_dashboard_most_popular_webcams">Fotocamere più popolari</string>
+    <string name="chat_dashboard_most_popular_webcams">Streaming più popolari</string>
     <string name="chat_dashboard_favourite_chatrooms">Le tue chatroom preferite</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Non hai ancora chatroom preferite.</string>
     <string name="chat_dashboard_newest_chatrooms">Chatroom più recenti</string>
@@ -805,7 +805,7 @@
     <string name="no_chat_rooms_text">Non ci sono stanze per il filtro selezionato.</string>
 
     <string name="chat_online_friends_title">Amici in chat</string>
-    <string name="chat_most_popular_webcams_title">Fotocamere più popolari</string>
+    <string name="chat_most_popular_webcams_title">Streaming più popolari</string>
 
     <string name="tab_chat_room_info">Dettagli della stanza</string>
     <string name="tab_chat_room_people">Utenti nella stanza</string>
