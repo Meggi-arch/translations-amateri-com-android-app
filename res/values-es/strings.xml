@@ -1045,4 +1045,29 @@
 
     <string name="webcam_detail_toolbar_title">Cámara: %s</string>
 
+    <string name="fab_add_chatroom">Añadir sala de chat</string>
+
+    <string name="toast_chatroom_logout_warning">Escriba algo en el chat, de lo contrario será desconectado automáticamente por inactividad.</string>
+    <string name="dialog_chat_room_timeout_title">Finalizó el tiempo de inactividad</string>
+    <string name="dialog_chat_room_timeout_text">Se le ha cerrado la sesión debido a la inactividad. Puede volver o elegir otra sala.</string>
+
+    <string name="chat_room_settings_camera_permission_title">Quién puede ver mi transmisión</string>
+
+    <string name="title_add_chat_room">Añadir nueva sala de chat</string>
+    <string name="chatroom_add_title_title">Título</string>
+    <string name="chatroom_add_title_hint">Introducir título</string>
+    <string name="chatroom_add_description_title">Descripción</string>
+    <string name="chatroom_add_description_hint">Introducir descripción</string>
+    <string name="chatroom_add_category_title">Categoría</string>
+    <string name="chatroom_add_category_hint">Seleccione una categoría</string>
+    <string name="chatroom_add_access_title">Acceder</string>
+    <string name="chatroom_add_submit_button_text">Crear una sala de chat</string>
+    <string name="chatroom_add_toast_empty_fields">Todos los campos deben ser completados.</string>
+    <string name="chatroom_add_allowed_users_title">Usuarios permitidos</string>
+    <string name="chatroom_add_allowed_users_man">Hombre</string>
+    <string name="chatroom_add_allowed_users_woman">Mujer</string>
+    <string name="chatroom_add_allowed_users_couple">Pareja de mujer y hombre</string>
+    <string name="chatroom_add_country_title">País</string>
+    <string name="chatroom_add_error_not_allowed">No se pudo añadir una nueva sala de chat ahora.</string>
+
     </resources>
