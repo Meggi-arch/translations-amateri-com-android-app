@@ -206,7 +206,7 @@
     <string name="search_video_hint">Szukać w wideach</string>
     <string name="search_user_hint">Szukać wśród użytkowników</string>
     <string name="ok">OK</string>
-    <string name="cancel">Anuluj</string>
+    <string name="cancel">anuluj</string>
 
     <string name="title_settings">Ustawienia</string>
     <string name="title_album_settings">Ustawienie albumu</string>
