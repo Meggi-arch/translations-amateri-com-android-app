@@ -31,8 +31,8 @@
 
     <string name="tab_albums">Álbuns</string>
     <string name="tab_info">Informações</string>
-    <string name="tab_user">Usuário</string>
-    <string name="tab_album">Álbum</string>
+    <string name="tab_user">Usuários</string>
+    <string name="tab_album">Álbuns</string>
 
     <string name="filter_advanced">Filtro avançado</string>
     <string name="filter_sort_by">Lista classificada por</string>
@@ -94,7 +94,7 @@
     <string name="notifications_messages">Mensagens</string>
     <string name="notifications_dating_messages">Respostas aos seus anúncios</string>
     <string name="notifications_requests">Solicitações de amizade</string>
-    <string name="notifications_favourites">Fui adicionado aos favoritos</string>
+    <string name="notifications_favourites">Favoritos</string>
 
     <string name="update_dialog_title">Nova versão</string>
     <string name="update_dialog_content">Uma nova versão melhorada e mais atrativa do aplicativo está disponível. Você deseja baixá-la?</string>
@@ -163,7 +163,7 @@
     <string name="video_comment_fail">Não é possível enviar o comentário</string>
 
     <string name="tab_videos">Vídeos</string>
-    <string name="tab_video">Vídeo</string>
+    <string name="tab_video">Vídeos</string>
 
     <string name="video_contest_all">Concurso não selecionado</string>
     <string name="no_videos_found">Nenhum vídeo encontrado</string>
@@ -857,7 +857,7 @@
     <string name="chat_room_access_not_allowed_locked">Esta sala está bloqueada.</string>
     <string name="chat_room_access_not_allowed_verified_only">Esta sala é apenas para usuários verificados.</string>
     <string name="chat_room_access_not_allowed_with_content_only">Esta sala é apenas para usuários com conteúdo.</string>
-    <string name="chat_room_empty">This room is empty.</string>
+    <string name="chat_room_empty">Esta sala está vazia.</string>
     <string name="chat_room_empty_button_disable_filter_try_again">Desative o filtro e tente novamente</string>
     <string name="dialog_chat_room_leave_title">Deseja sair da sala?</string>
     <string name="dialog_chat_room_leave_button_leave">Sim, sair</string>
