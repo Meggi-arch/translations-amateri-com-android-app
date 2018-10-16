@@ -198,7 +198,7 @@
     <string name="search_video_hint">Pesquisar em vídeos</string>
     <string name="search_user_hint">Pesquisar em usuários</string>
     <string name="ok">OK</string>
-    <string name="cancel">Cancelar</string>
+    <string name="cancel">cancelar</string>
 
     <string name="title_settings">Configurações do aplicativo</string>
     <string name="title_album_settings">Configurações do álbum</string>
