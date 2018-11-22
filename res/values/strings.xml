@@ -6,6 +6,7 @@
     <string name="general_loading">Please wait while we load the data</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
     <string name="dialog_android_unsupported_title">Unsupported feature</string>
     <string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
 
@@ -79,6 +80,7 @@
     <string name="menu_reset">Reset</string>
     <string name="menu_chat_room">Chat room menu</string>
     <string name="menu_chat_room_webcam">Turn on the camera</string>
+    <string name="menu_homepage">Settings</string>
 
     <string name="action_try_again">Try again</string>
 
@@ -138,10 +140,6 @@
     <plurals name="people">
         <item quantity="one">%s like the person</item>
         <item quantity="other">%s people like</item>
-    </plurals>
-    <plurals name="minutes_chat_logout">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
     </plurals>
     <plurals name="hours">
         <item quantity="one">hour</item>
@@ -362,7 +360,7 @@
     <string name="search_video_hint">Search in videos</string>
     <string name="search_user_hint">Search in users</string>
 
-    <!--SetupActivity-->
+    <!--ApplicationSettingsFragment-->
     <string name="setup_notifications">Notifications</string>
     <string name="setup_notification_new_message">New message</string>
     <string name="setup_notification_advert_reply">New dating ad response</string>
@@ -394,6 +392,9 @@
     <string name="text_size_big">Big</string>
     <string name="color_theme_dark">Dark</string>
     <string name="color_theme_light">White</string>
+
+    <string name="setup_default_homescreen_title">Default home screen</string>
+    <string name="setup_default_homescreen_dialog_title">Choose your default screen</string>
 
     <!--LockedActivity-->
     <string name="locked_unlock">Unlock</string>
@@ -1146,6 +1147,8 @@
     <string name="home_section_events_footer_title">All events</string>
     <string name="home_section_stories_footer_title">All stories</string>
     <string name="home_section_blogs_footer_title">All blogs</string>
+    <string name="home_menu_edit_homepage">Edit homepage</string>
+    <string name="home_menu_change_home_screen">Change default home screen</string>
 
     <!-- Ignore list -->
     <string name="title_ignore_list">Ignore list</string>
@@ -1215,8 +1218,12 @@
     <string name="chatroom_add_country_title">Country</string>
     <string name="chatroom_add_error_not_allowed">You cannot add new chat room right now.</string>
 
+    <!-- HomeSettingsActivity -->
+    <string name="home_settings_title">Edit homepage</string>
+    <string name="toast_home_settings_invalid_input">At least one category has to be selected.</string>
+
     <string-array name="update_news_dialog_items">
-        <item>Watch chat cameras in fullscreen</item>
+        <item>Custom homepage settings</item>
     </string-array>
 
 </resources>

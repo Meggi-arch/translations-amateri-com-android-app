@@ -37,6 +37,7 @@
     <string name="menu_reset">Reset</string>
     <string name="menu_chat_room">Menu chat místnosti</string>
     <string name="menu_chat_room_webcam">Zapnout kameru</string>
+    <string name="menu_homepage">Nastavení</string>
 
     <string name="action_try_again">Zkusit znovu</string>
 
@@ -306,6 +307,7 @@
     <string name="search_video_hint">Hledat ve videích</string>
     <string name="ok">OK</string>
     <string name="cancel">Zrušit</string>
+    <string name="save">Uložit</string>
 
     <string name="title_album_settings">Nastavení alba</string>
     <string name="title_video_settings">Nastavení videa</string>
@@ -1207,11 +1209,19 @@
     <string name="chatroom_add_allowed_users_woman">Žena</string>
     <string name="chatroom_add_allowed_users_couple">Pár žena &amp; muž</string>
     <string name="chatroom_add_country_title">Země</string>
-    <string name="chatroom_add_error_not_allowed">Nemáte povoleno vytváraní nových místností.</string>
+    <string name="chatroom_add_error_not_allowed">Nyní nemůžete přidat novou chatovací místnost.</string>
+    <string name="chatroom_add_submit_button_text">Vytvořit chatovací místnost</string>
+
+    <!-- ProfileSettingsFragment -->
+    <string name="setup_default_homescreen_title">Výchozí úvodní obrazovka</string>
+    <string name="setup_default_homescreen_dialog_title">Zvolte si svou úvodní obrazovku</string>
+
+    <!-- HomeSettingsActivity -->
+    <string name="home_settings_title">Upravit hlavní stránku</string>
+    <string name="toast_home_settings_invalid_input">Alespoň jedna kategorie musí být vybrána.</string>
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Sledujte kamery na chatu na celé obrazovce</item>
+        <item>Nastavení vlastní domovské stránky</item>
     </string-array>
-<string name="chatroom_add_submit_button_text">Vytvořit chatovací místnost</string>
-    </resources>
+</resources>
