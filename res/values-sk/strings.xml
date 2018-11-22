@@ -1146,4 +1146,16 @@
     <string name="chatroom_add_country_title">Krajina</string>
     <string name="chatroom_add_error_not_allowed">Nemáte povolené vytváranie nových miestností.</string>
 
+    <string name="save">Uložiť</string>
+    <string name="menu_homepage">Nastavenia</string>
+
+    <string name="setup_default_homescreen_title">Predvolená úvodná obrazovka</string>
+    <string name="setup_default_homescreen_dialog_title">Zvoľte si úvodnú obrazovku</string>
+
+    <string name="home_menu_edit_homepage">Upraviť hlavnú stránku</string>
+    <string name="home_menu_change_home_screen">Zmeniť úvodnú obrazovku</string>
+
+    <string name="home_settings_title">Upraviť hlavnú stránku</string>
+    <string name="toast_home_settings_invalid_input">Musí byť vybraná aspoň jedna kategória.</string>
+
     </resources>
