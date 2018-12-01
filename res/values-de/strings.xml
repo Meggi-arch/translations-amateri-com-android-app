@@ -1083,4 +1083,16 @@
     <string name="chatroom_add_country_title">Land</string>
     <string name="chatroom_add_error_not_allowed">Sie dürfen keine neuen Räume erstellen.</string>
 
+    <string name="save">Speichern</string>
+    <string name="menu_homepage">Einstellungen</string>
+
+    <string name="setup_default_homescreen_title">Standard-Startbildschirm</string>
+    <string name="setup_default_homescreen_dialog_title">Wählen Sie Ihren Standardbildschirm</string>
+
+    <string name="home_menu_edit_homepage">Startseite bearbeiten</string>
+    <string name="home_menu_change_home_screen">Standardbildschirm ändern</string>
+
+    <string name="home_settings_title">Startseite bearbeiten</string>
+    <string name="toast_home_settings_invalid_input">Mindestens eine Kategorie muss ausgewählt werden.</string>
+
     </resources>
