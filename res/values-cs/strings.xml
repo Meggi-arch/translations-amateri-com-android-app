@@ -22,7 +22,7 @@
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Odeslat feedback</string>
     <string name="title_new_version">Nová verze!</string>
-    <string name="title_forum">Forum</string>
+    <string name="title_forum">Fórum</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Nejnovější</string>
