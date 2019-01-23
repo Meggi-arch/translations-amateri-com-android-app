@@ -9,6 +9,8 @@
     <string name="save">Save</string>
     <string name="dialog_android_unsupported_title">Unsupported feature</string>
     <string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
+    <string name="general_empty_title">Nothing is here</string>
+    <string name="general_empty_text">There\'s nothing to show :(</string>
 
     <!--MainActivity-->
     <string name="title_home">Homepage</string>
@@ -33,6 +35,7 @@
     <string name="title_my_account">My account</string>
     <string name="title_profile">Profile</string>
     <string name="title_dating">Dating</string>
+    <string name="title_forum">Forum</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Latest</string>
@@ -81,6 +84,7 @@
     <string name="menu_chat_room">Chat room menu</string>
     <string name="menu_chat_room_webcam">Turn on the camera</string>
     <string name="menu_homepage">Settings</string>
+    <string name="menu_forum_topics">List sorted by</string>
 
     <string name="action_try_again">Try again</string>
 
@@ -172,6 +176,14 @@
     <plurals name="video_filter_show">
         <item quantity="one">Show %s video</item>
         <item quantity="other">Show %s videos</item>
+    </plurals>
+    <plurals name="topics">
+        <item quantity="one">%d topic</item>
+        <item quantity="other">%d topics</item>
+    </plurals>
+    <plurals name="posts">
+        <item quantity="one">%d post</item>
+        <item quantity="other">%d posts</item>
     </plurals>
 
     <!--FilterUserFragment-->
@@ -1222,8 +1234,24 @@
     <string name="home_settings_title">Edit homepage</string>
     <string name="toast_home_settings_invalid_input">At least one category has to be selected.</string>
 
+    <!-- ForumActivity -->
+    <string name="forum_tab_dashboard">Dashboard</string>
+    <string name="forum_tab_topics">Topics</string>
+    <string name="forum_tab_posts">Posts</string>
+
+    <!-- ForumDashboardFragment -->
+    <string name="forum_dashboard_section_main_topics">Main topics</string>
+    <string name="forum_dashboard_section_newly_updated_topics">Latest posts</string>
+    <string name="forum_dashboard_section_popular_topics">Popular topics</string>
+
+    <!-- ForumTopicsFragment -->
+    <string name="forum_topics_filter_all">All topics</string>
+    <string name="forum_topics_sort_time_desc">By latest topics</string>
+    <string name="forum_topics_sort_count_desc">By post count</string>
+    <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
+
     <string-array name="update_news_dialog_items">
-        <item>Custom homepage settings</item>
+        <item>Forum: homepage and topics</item>
     </string-array>
 
 </resources>

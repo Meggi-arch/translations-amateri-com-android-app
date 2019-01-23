@@ -6,6 +6,8 @@
     <string name="general_loading">Prosím strpení, načítáme data</string>
     <string name="dialog_android_unsupported_title">Nepodporovaná funkce</string>
     <string name="dialog_android_unsupported_text">Omlouváme se, ale verze vašeho operačního systému systému je moc stará pro použití této funkce :(</string>
+    <string name="general_empty_title">Nic tu není</string>
+    <string name="general_empty_text">Nemáme co ukázat :(</string>
 
     <!--MainActivity-->
     <string name="title_home">Úvodní stránka</string>
@@ -20,6 +22,7 @@
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Odeslat feedback</string>
     <string name="title_new_version">Nová verze!</string>
+    <string name="title_forum">Forum</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Nejnovější</string>
@@ -38,6 +41,7 @@
     <string name="menu_chat_room">Menu chat místnosti</string>
     <string name="menu_chat_room_webcam">Zapnout kameru</string>
     <string name="menu_homepage">Nastavení</string>
+    <string name="menu_forum_topics">Seřadit podle</string>
 
     <string name="action_try_again">Zkusit znovu</string>
 
@@ -262,6 +266,17 @@
         <item quantity="few">Zobrazit %s videa</item>
         <item quantity="other">Zobrazit %s videí</item>
     </plurals>
+    <plurals name="topics">
+        <item quantity="one">%d téma</item>
+        <item quantity="few">%d témata</item>
+        <item quantity="other">%d témat</item>
+    </plurals>
+    <plurals name="posts">
+        <item quantity="one">%d příspěvek</item>
+        <item quantity="few">%d příspěvky</item>
+        <item quantity="other">%d příspěvků</item>
+    </plurals>
+
     <string name="title_videos">Videa</string>
     <string name="tab_videos">Videa</string>
     <string name="tab_video">Videa</string>
@@ -1143,6 +1158,8 @@
     <string name="home_section_events_footer_title">Všechny srazy</string>
     <string name="home_section_stories_footer_title">Všechny povídky</string>
     <string name="home_section_blogs_footer_title">Všechny blogy</string>
+    <string name="home_menu_edit_homepage">Upravit hlavní stránku</string>
+    <string name="home_menu_change_home_screen">Změnit výchozí úvodní obrazovku</string>
 
     <!-- Ignore list -->
     <string name="title_ignore_list">Ignorace</string>
@@ -1220,8 +1237,24 @@
     <string name="home_settings_title">Upravit hlavní stránku</string>
     <string name="toast_home_settings_invalid_input">Alespoň jedna kategorie musí být vybrána.</string>
 
+    <!-- ForumActivity -->
+    <string name="forum_tab_dashboard">Rozcestník</string>
+    <string name="forum_tab_topics">Témata</string>
+    <string name="forum_tab_posts">Příspěvky</string>
+
+    <!-- ForumDashboardFragment -->
+    <string name="forum_dashboard_section_main_topics">Hlavní témata</string>
+    <string name="forum_dashboard_section_newly_updated_topics">Nejnovější příspěvky</string>
+    <string name="forum_dashboard_section_popular_topics">Oblíbená témata</string>
+
+    <!-- ForumTopicsFragment -->
+    <string name="forum_topics_filter_all">Všechna témata</string>
+    <string name="forum_topics_sort_time_desc">Od nejnovějších</string>
+    <string name="forum_topics_sort_count_desc">Podle počtu příspěvků</string>
+    <string name="forum_topics_sort_lastupdate_desc">Podle nejnovějších příspěvků</string>
+
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Nastavení vlastní domovské stránky</item>
+        <item>Forum: rozcestník a témata</item>
     </string-array>
 </resources>
