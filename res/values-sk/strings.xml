@@ -1158,4 +1158,24 @@
     <string name="home_settings_title">Upraviť hlavnú stránku</string>
     <string name="toast_home_settings_invalid_input">Musí byť vybraná aspoň jedna kategória.</string>
 
+    <string name="general_empty_title">Nič tu nie je</string>
+    <string name="general_empty_text">Nemáme čo ukázať :(</string>
+
+    <string name="title_forum">Fórum</string>
+
+    <string name="menu_forum_topics">Zoradiť podľa</string>
+
+    <string name="forum_tab_dashboard">Rozcestník</string>
+    <string name="forum_tab_topics">Témy</string>
+    <string name="forum_tab_posts">Príspevky</string>
+
+    <string name="forum_dashboard_section_main_topics">Hlavné témy</string>
+    <string name="forum_dashboard_section_newly_updated_topics">Najnovšie príspevky</string>
+    <string name="forum_dashboard_section_popular_topics">Obľúbené témy</string>
+
+    <string name="forum_topics_filter_all">Všetky témy</string>
+    <string name="forum_topics_sort_time_desc">Od najnovších</string>
+    <string name="forum_topics_sort_count_desc">Podľa počtu príspevkov</string>
+    <string name="forum_topics_sort_lastupdate_desc">Podľa najnovších príspevkov</string>
+
     </resources>
