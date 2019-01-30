@@ -1095,4 +1095,24 @@
     <string name="home_settings_title">Startseite bearbeiten</string>
     <string name="toast_home_settings_invalid_input">Mindestens eine Kategorie muss ausgewählt werden.</string>
 
+    <string name="general_empty_title">Nichts ist hier</string>
+    <string name="general_empty_text">Es gibt nichts zu zeigen :(</string>
+
+    <string name="title_forum">Forum</string>
+
+    <string name="menu_forum_topics">Sortieren nach</string>
+
+    <string name="forum_tab_dashboard">Dashboard</string>
+    <string name="forum_tab_topics">Themen</string>
+    <string name="forum_tab_posts">Beiträge</string>
+
+    <string name="forum_dashboard_section_main_topics">Hauptthemen</string>
+    <string name="forum_dashboard_section_newly_updated_topics">Neueste Beiträge</string>
+    <string name="forum_dashboard_section_popular_topics">Beliebte Themen</string>
+
+    <string name="forum_topics_filter_all">Alle Themen</string>
+    <string name="forum_topics_sort_time_desc">Von den neuesten</string>
+    <string name="forum_topics_sort_count_desc">Nach Anzahl der Beiträge</string>
+    <string name="forum_topics_sort_lastupdate_desc">Nach den neuesten Beiträgen</string>
+
     </resources>
