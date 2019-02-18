@@ -142,7 +142,7 @@
 
     <!--plurals-->
     <plurals name="people">
-        <item quantity="one">%s like the person</item>
+        <item quantity="one">%s person likes</item>
         <item quantity="other">%s people like</item>
     </plurals>
     <plurals name="hours">
@@ -697,6 +697,7 @@
     <string name="notification_message_received">You\'ve got a new message</string>
     <string name="conversation_empty">Write a message, send a photo, or just a smiley :)</string>
     <string name="conversation_dating_reply">Dating reply</string>
+    <string name="toast_camera_permissions_revoked">Please grant the app access the camera.</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
@@ -1249,6 +1250,9 @@
     <string name="forum_topics_sort_time_desc">By latest topics</string>
     <string name="forum_topics_sort_count_desc">By post count</string>
     <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
+
+    <!-- VideoPlayerSettingsBottomSheet -->
+    <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
         <item>Forum: homepage and topics</item>

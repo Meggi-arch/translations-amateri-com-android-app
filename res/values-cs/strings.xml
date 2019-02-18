@@ -687,6 +687,7 @@
     <string name="notification_message_received">Máte novou zprávu</string>
     <string name="conversation_empty">Napište zprávu, pošlete fotku, anebo jen smajlíka :)</string>
     <string name="conversation_dating_reply">Odpověď na inzerát</string>
+    <string name="toast_camera_permissions_revoked">Prosím, povolte aplikaci využívání fotoaparátu.</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
@@ -1252,6 +1253,9 @@
     <string name="forum_topics_sort_time_desc">Od nejnovějších</string>
     <string name="forum_topics_sort_count_desc">Podle počtu příspěvků</string>
     <string name="forum_topics_sort_lastupdate_desc">Podle nejnovějších příspěvků</string>
+
+    <!-- VideoPlayerSettingsBottomSheet -->
+    <string name="bottomsheet_video_player_settings_title">Nastavení kvality videa</string>
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
