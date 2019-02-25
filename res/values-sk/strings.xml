@@ -1178,4 +1178,8 @@
     <string name="forum_topics_sort_count_desc">Podľa počtu príspevkov</string>
     <string name="forum_topics_sort_lastupdate_desc">Podľa najnovších príspevkov</string>
 
+    <string name="toast_camera_permissions_revoked">Prosím, povoľte aplikácii využívanie fotoaparátu.</string>
+
+    <string name="bottomsheet_video_player_settings_title">Nastavenia kvality videa</string>
+
     </resources>
