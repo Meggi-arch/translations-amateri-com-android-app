@@ -55,6 +55,7 @@
     <string name="tab_user">Uživatelé</string>
     <string name="tab_album">Fotoalba</string>
     <string name="tab_friends">Přátelé</string>
+    <string name="tab_notes">Moje poznámky</string>
 
     <string name="filter_advanced">Pokročilý filtr</string>
     <string name="filter_sort_by">Seřadit podle</string>
@@ -79,6 +80,8 @@
     <string name="title_attended_events">Navštívené akce</string>
     <string name="title_views">Zobrazení</string>
     <string name="title_hobbies">Sexuální záliby</string>
+    <string name="title_sex_search">Hledání</string>
+    <string name="title_sex_search_purpose">Účel hledání</string>
     <string name="title_personal_descr">Osobní popis</string>
     <string name="title_profile_address">URL profilu</string>
     <string name="title_unknown">N/A</string>
@@ -1259,6 +1262,8 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Forum: rozcestník a témata</item>
+        <item>Optimalizace načítání obrázků</item>
+        <item>Osobní poznámky k uživatelům</item>
+        <item>Vylepšené vyhledávání úživatelů</item>
     </string-array>
 </resources>

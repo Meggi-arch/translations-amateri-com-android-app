@@ -101,6 +101,7 @@
     <string name="tab_video">Videos</string>
     <string name="tab_dating">Dating</string>
     <string name="tab_friends">Friends</string>
+    <string name="tab_notes">My notes</string>
 
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
@@ -127,6 +128,8 @@
     <string name="title_attended_events">Events attended</string>
     <string name="title_views">Views</string>
     <string name="title_hobbies">Sexual preferences and interests</string>
+    <string name="title_sex_search">Searching</string>
+    <string name="title_sex_search_purpose">Purpose of search</string>
     <string name="title_personal_descr">Personal description</string>
     <string name="title_profile_address">Profile URL</string>
     <string name="title_unknown">N/A</string>
@@ -697,7 +700,7 @@
     <string name="notification_message_received">You\'ve got a new message</string>
     <string name="conversation_empty">Write a message, send a photo, or just a smiley :)</string>
     <string name="conversation_dating_reply">Dating reply</string>
-    <string name="toast_camera_permissions_revoked">Please grant the app access the camera.</string>
+    <string name="toast_camera_permissions_revoked">Please grant the app access to the camera.</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
@@ -1255,7 +1258,9 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Forum: homepage and topics</item>
+        <item>Optimized image loading</item>
+        <item>Personal notes to users</item>
+        <item>Improved user search</item>
     </string-array>
 
 </resources>
