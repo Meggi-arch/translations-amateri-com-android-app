@@ -1182,4 +1182,8 @@
 
     <string name="bottomsheet_video_player_settings_title">Nastavenia kvality videa</string>
 
+    <string name="tab_notes">Moje poznámky</string>
+
+    <string name="title_sex_search">Hľadanie</string>
+    <string name="title_sex_search_purpose">Účel hľadania</string>
     </resources>
