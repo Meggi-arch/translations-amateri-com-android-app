@@ -22,7 +22,12 @@
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Odeslat feedback</string>
     <string name="title_new_version">Nová verze!</string>
+    <string name="title_notes">Poznámky</string>
     <string name="title_forum">Fórum</string>
+
+    <!--Notes empty screen-->
+    <string name="empty_notes_title">Nic tu není</string>
+    <string name="empty_notes_text">Můžete si je přidávat v profilech uživatelů.</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Nejnovější</string>
@@ -92,6 +97,7 @@
     <string name="profile_male">Muž</string>
     <string name="profile_female">Žena</string>
     <string name="profile_group">Skupina</string>
+    <string name="profile_add_note">Přidat novou poznámku</string>
 
     <string name="title_filter">Hledat</string>
 
@@ -156,6 +162,7 @@
     <string name="notifications_albums">Fotoalba</string>
     <string name="notifications_videos">Videa</string>
     <string name="notifications_dating">Inzeráty</string>
+    <string name="notifications_notes">Poznámky</string>
     <string name="notification_add_to_calendar">Přidat do kalendáře</string>
     <string name="notification_event_detail">Detail srazu</string>
 
@@ -526,6 +533,8 @@
     <string name="my_account_content_source_max">Jsou povoleny nejvýše %d země</string>
     <string name="all_countries">Všechny země</string>
 
+    <string name="my_account_hide_categories">Nezobrazovat kategorie</string>
+
     <!--NewAlbumActivity-->
     <string name="new_album_save">Uložit a pokračovat</string>
     <string name="warning">Upozornění</string>
@@ -691,6 +700,7 @@
     <string name="conversation_empty">Napište zprávu, pošlete fotku, anebo jen smajlíka :)</string>
     <string name="conversation_dating_reply">Odpověď na inzerát</string>
     <string name="toast_camera_permissions_revoked">Prosím, povolte aplikaci využívání fotoaparátu.</string>
+    <string name="conversation_user_ignored_error">Uživatel %s si nepřeje, abyste mu psali jakékoliv zprávy.</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
@@ -968,6 +978,13 @@
     <string name="dating_add_dialog_forbidden_title">Pouze jeden inzerát za %d hodin</string>
     <string name="dating_add_dialog_forbidden_content">Dnes jste již jeden inzerát přidal(a). Další můžete přidat opět zítra.</string>
 
+    <!-- NewNoteActivity -->
+    <string name="new_note_add_note">Přidat poznámku</string>
+    <string name="new_note_add_hint">Napište text…</string>
+    <string name="new_note_error">Text nesmí být prázdný.</string>
+    <string name="new_note_created">Poznámka byla úspěšně vytvořena.</string>
+    <string name="new_note_dialog_backpress">Poznámka nebude vytvořena. Provedené změny budou ztraceny.</string>
+
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
     <string name="dating_settings_no_dating_ads_text">Přidání nového inzerátu je snadné, zkuste to.</string>
@@ -1022,8 +1039,8 @@
     <!-- Chat Room -->
     <string name="chat_room_empty_title">Žádné zprávy</string>
     <string name="chat_room_empty_text">V této místnosti nejsou žádné zprávy.</string>
-    <string name="chat_room_empty_text_friend_filter">Máte vyfiltrované pouze zprávy od přátel.</string>
-    <string name="chat_room_empty_button_disable_filter_try_again">Vypnout filtr a zkusit znovu</string>
+    <string name="chat_room_empty_text_friend_filter">Máte vyfiltrované pouze zprávy od přátel nebo zprávy o mně.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Vypnout filtry a zkusit znovu</string>
     <string name="dialog_chat_room_leave_title">Chcete opustit místnost?</string>
     <string name="dialog_chat_room_leave_text">Při volbě \“Hned se vrátím\” zůstanete ještě 10 minut v místnosti.</string>
     <string name="dialog_chat_room_leave_button_leave">Ano, opustit</string>
@@ -1096,6 +1113,7 @@
 
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Jen texty přátel</string>
+    <string name="chat_room_settings_about_me_messages_only">Zprávy o mně</string>
     <string name="chat_room_settings_admin_handover_title">Předat správcovství</string>
     <string name="chat_room_settings_admin_handover_chooser_title">Vyberte uživatele</string>
     <string name="chat_room_settings_admin_handover_chooser_title_disabled">Žádní uživatelé</string>
@@ -1110,6 +1128,10 @@
     <string name="chat_room_settings_webcam_sound_title">Zvuk vysílání</string>
     <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
     <string name="chat_room_settings_camera_permission_title">Sledovaní webkamery</string>
+    <string name="chat_room_settings_hide_time_title">Čas</string>
+    <string name="chat_room_settings_hide_time_text">Skrýt čas zpráv</string>
+    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
+    <string name="chat_room_settings_hide_avatar_text">Skrýt avatary uživatelů</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
@@ -1236,6 +1258,11 @@
     <!-- ProfileSettingsFragment -->
     <string name="setup_default_homescreen_title">Výchozí úvodní obrazovka</string>
     <string name="setup_default_homescreen_dialog_title">Zvolte si svou úvodní obrazovku</string>
+
+    <string name="setup_default_language_title">Jazyk aplikace</string>
+    <string name="setup_default_language_dialog_title">Zvolte jazyk aplikace</string>
+
+    <string name="language_default">Stejný jako systémový jazyk</string>
 
     <!-- HomeSettingsActivity -->
     <string name="home_settings_title">Upravit hlavní stránku</string>

@@ -35,7 +35,12 @@
     <string name="title_my_account">My account</string>
     <string name="title_profile">Profile</string>
     <string name="title_dating">Dating</string>
+    <string name="title_notes">Notes</string>
     <string name="title_forum">Forum</string>
+
+    <!--Notes empty screen-->
+    <string name="empty_notes_title">Nothing is here</string>
+    <string name="empty_notes_text">You can add notes in user\'s profile.</string>
 
     <!--AlbumFragment-->
     <string name="tab_latest">Latest</string>
@@ -140,6 +145,7 @@
     <string name="profile_male">Man</string>
     <string name="profile_female">Woman</string>
     <string name="profile_group">Group</string>
+    <string name="profile_add_note">Add a new note</string>
 
     <string name="title_filter">Search</string>
 
@@ -261,6 +267,7 @@
     <string name="notifications_albums">Albums</string>
     <string name="notifications_videos">Videos</string>
     <string name="notifications_dating">Dating</string>
+    <string name="notifications_notes">Notes</string>
 
     <!--Update dialog-->
     <string name="update_dialog_title">New version</string>
@@ -410,6 +417,11 @@
 
     <string name="setup_default_homescreen_title">Default home screen</string>
     <string name="setup_default_homescreen_dialog_title">Choose your default screen</string>
+
+    <string name="setup_default_language_title">Application language</string>
+    <string name="setup_default_language_dialog_title">Choose the application language</string>
+
+    <string name="language_default">Automatic (according to phone settings)</string>
 
     <!--LockedActivity-->
     <string name="locked_unlock">Unlock</string>
@@ -581,6 +593,8 @@
     <string name="my_account_content_source_max">Maximum %d countries allowed</string>
     <string name="all_countries">All countries</string>
 
+    <string name="my_account_hide_categories">Do not show categories</string>
+
     <!--NewAlbumActivity-->
     <string name="new_album_save">Save and continue</string>
     <string name="warning">Warning</string>
@@ -588,7 +602,6 @@
 
     <!--AlbumSettingsActivity-->
     <string name="dialog_album_settings_back_press">All changes you\'ve made will be discarded.</string>
-
 
     <!--NewVideoActivity-->
     <string name="new_video_save">Save and continue</string>
@@ -701,6 +714,7 @@
     <string name="conversation_empty">Write a message, send a photo, or just a smiley :)</string>
     <string name="conversation_dating_reply">Dating reply</string>
     <string name="toast_camera_permissions_revoked">Please grant the app access to the camera.</string>
+    <string name="conversation_user_ignored_error">User %s does not want you to send him/her any messages.</string>
 
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
@@ -971,6 +985,13 @@
     <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
     <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
 
+    <!-- NewNoteActivity -->
+    <string name="new_note_add_note">Add a note</string>
+    <string name="new_note_add_hint">Enter the text…</string>
+    <string name="new_note_error">The text cannot be empty.</string>
+    <string name="new_note_created">The note was created successfully.</string>
+    <string name="new_note_dialog_backpress">New note will not be created. All changes you\'ve made will be lost.</string>
+
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">You have no dating ads</string>
     <string name="dating_settings_no_dating_ads_text">Adding a new dating ad is easy, try it now.</string>
@@ -1023,8 +1044,8 @@
     <!-- Chat Room -->
     <string name="chat_room_empty_title">No messages</string>
     <string name="chat_room_empty_text">There are no messages in this room.</string>
-    <string name="chat_room_empty_text_friend_filter">You have enabled \"Friend messages only\" filter.</string>
-    <string name="chat_room_empty_button_disable_filter_try_again">Disable the filter and try again</string>
+    <string name="chat_room_empty_text_friend_filter">You have enabled \"Friend messages only\" or \"Messages about me\" filter.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Disable filters and try again</string>
     <string name="dialog_chat_room_leave_title">Do you want to leave the room?</string>
     <string name="dialog_chat_room_leave_text">You will stay in the room for the next 10 minutes after choosing the \"I\'ll be right back\" option.</string>
     <string name="dialog_chat_room_leave_button_leave">Yes, leave</string>
@@ -1097,6 +1118,7 @@
 
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Friends messages only</string>
+    <string name="chat_room_settings_about_me_messages_only">Messages about me</string>
     <string name="chat_room_settings_admin_handover_title">Hand over admin\'s rights</string>
     <string name="chat_room_settings_admin_handover_chooser_title">Select a user</string>
     <string name="chat_room_settings_admin_handover_chooser_title_disabled">No users</string>
@@ -1111,6 +1133,10 @@
     <string name="chat_room_settings_webcam_sound_title">Streams sound</string>
     <string name="chat_room_settings_webcam_sound_default_option">Turn on by default</string>
     <string name="chat_room_settings_camera_permission_title">Who can watch my stream</string>
+    <string name="chat_room_settings_hide_time_title">Time</string>
+    <string name="chat_room_settings_hide_time_text">Hide time of messages</string>
+    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
+    <string name="chat_room_settings_hide_avatar_text">Hide user avatars</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">No messages yet</string>
