@@ -906,8 +906,8 @@
 
     <string name="chat_room_empty_title">Žiadne správy</string>
     <string name="chat_room_empty_text">V tejto miestnosti nie sú žiadne správy.</string>
-    <string name="chat_room_empty_text_friend_filter">Máte vyfiltrované len správy od priateľov.</string>
-    <string name="chat_room_empty_button_disable_filter_try_again">Vypnúť filter a skúsiť znova</string>
+    <string name="chat_room_empty_text_friend_filter">Máte vyfiltrované len správy od priateľov alebo správy o mne.</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Vypnúť filtre a skúsiť znova</string>
     <string name="dialog_chat_room_leave_title">Chcete opustiť miestnosť?</string>
     <string name="dialog_chat_room_leave_text">Pri voľbe Hneď sa vrátim zostanete ešte 10 minút v miestnosti.</string>
     <string name="dialog_chat_room_leave_button_leave">Áno, opustiť</string>
@@ -1197,7 +1197,7 @@
     <string name="setup_default_language_title">Jazyk aplikácie</string>
     <string name="setup_default_language_dialog_title">Zvoľte jazyk aplikácie</string>
 
-    <string name="language_default">Automatický (podľa nastavení telefónu)</string>
+    <string name="language_default">Rovnaký ako systémový jazyk</string>
 
     <string name="my_account_hide_categories">Nezobrazovať kategórie</string>
 
