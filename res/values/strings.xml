@@ -421,7 +421,7 @@
     <string name="setup_default_language_title">Application language</string>
     <string name="setup_default_language_dialog_title">Choose the application language</string>
 
-    <string name="language_default">Automatic (according to phone settings)</string>
+    <string name="language_default">Same as system language</string>
 
     <!--LockedActivity-->
     <string name="locked_unlock">Unlock</string>
@@ -1284,9 +1284,11 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Optimized image loading</item>
-        <item>Personal notes to users</item>
-        <item>Improved user search</item>
+        <item>Improved chat</item>
+        <item>Improved ignoration</item>
+        <item>Optimization of notifications</item>
+        <item>Writing personal notes to users</item>
+        <item>Ability to change application language in settings</item>
     </string-array>
 
 </resources>

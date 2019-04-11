@@ -1289,8 +1289,10 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Optimalizace načítání obrázků</item>
-        <item>Osobní poznámky k uživatelům</item>
-        <item>Vylepšené vyhledávání úživatelů</item>
+        <item>Vylepšení chatu</item>
+        <item>Vylepšení ignorace</item>
+        <item>Optimalizace notifikací</item>
+        <item>Psaní osobních poznámek k uživatelům</item>
+        <item>Možnost změnit jazyk aplikace v nastavení</item>
     </string-array>
 </resources>
