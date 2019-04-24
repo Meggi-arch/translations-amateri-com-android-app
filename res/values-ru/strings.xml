@@ -207,7 +207,7 @@
     <string name="search_video_hint">Поиск по видео</string>
     <string name="search_user_hint">Поиск по пользователям</string>
     <string name="ok">OK</string>
-    <string name="cancel">Отмена</string>
+    <string name="cancel">отмена</string>
 
     <string name="title_settings">Настройки приложения</string>
     <string name="title_album_settings">Настройки альбома</string>
@@ -1065,5 +1065,96 @@
     <string name="bottomsheet_webcam_listener_turn_off">Выключить камеру</string>
 
     <string name="webcam_detail_toolbar_title">Камеры: %s</string>
+
+    <string name="save">Сохранить</string>
+    <string name="general_empty_title">Тут ничего нет</string>
+    <string name="general_empty_text">Нечего показать :(</string>
+
+    <string name="title_notes">Заметки</string>
+    <string name="title_forum">Форум</string>
+
+    <string name="empty_notes_title">Тут ничего нет</string>
+    <string name="empty_notes_text">Вы можете добавить заметки в профилях пользователей.</string>
+
+    <string name="menu_homepage">Настройки</string>
+    <string name="menu_forum_topics">Сортировать</string>
+
+    <string name="tab_notes">Мои заметки</string>
+
+    <string name="title_sex_search">Поиск</string>
+    <string name="title_sex_search_purpose">Цель поиска</string>
+    <string name="profile_add_note">Добавить новую заметку</string>
+
+    <string name="notifications_notes">Заметки</string>
+
+    <string name="setup_default_homescreen_title">Домашний экран по-умолчанию</string>
+    <string name="setup_default_homescreen_dialog_title">Выберите ваш домашний экран</string>
+
+    <string name="setup_default_language_title">Язык приложения</string>
+    <string name="setup_default_language_dialog_title">Выберите язык приложения</string>
+
+    <string name="language_default">Такой же как и системный язык</string>
+
+    <string name="fab_add_chatroom">Добавить чат-комнату</string>
+
+    <string name="my_account_hide_categories">Не показывать категории</string>
+
+    <string name="toast_camera_permissions_revoked">Пожалуйста предоставьте доступ к камере.</string>
+    <string name="conversation_user_ignored_error">Пользователь %s не хочет, чтобы вы посылали ему сообщения.</string>
+
+    <string name="new_note_add_note">Добавить заметку</string>
+    <string name="new_note_add_hint">Напишите текст…</string>
+    <string name="new_note_error">Текст не может быть пустым.</string>
+    <string name="new_note_created">Заметка успешно создана.</string>
+    <string name="new_note_dialog_backpress">Заметка не сохранена. Все изменения будут потеряны.</string>
+
+    <string name="toast_chatroom_logout_warning">Напишите пожалуйста что-нибудь в чат, иначе вы будете автоматически отсоединены из-за неактивности.</string>
+    <string name="dialog_chat_room_timeout_title">Временной лимит бездействия</string>
+    <string name="chat_room_settings_about_me_messages_only">Сообщение обо мне</string>
+    <string name="chat_room_settings_camera_permission_title">Кто может смотреть мою камеру</string>
+    <string name="chat_room_settings_hide_time_title">Время</string>
+    <string name="chat_room_settings_hide_time_text">Скрыть время сообщений</string>
+    <string name="chat_room_settings_hide_avatar_title">Аватар</string>
+    <string name="chat_room_settings_hide_avatar_text">Скрыть аватары пользователей</string>
+
+    <string name="home_menu_edit_homepage">Редактировать главную страницу</string>
+    <string name="home_menu_change_home_screen">Изменить главный экран по-умолчанию</string>
+
+    <string name="title_add_chat_room">Добавить новую чат-комнату</string>
+    <string name="chatroom_add_title_title">Название</string>
+    <string name="chatroom_add_title_hint">Введите название</string>
+    <string name="chatroom_add_description_title">Описание</string>
+    <string name="chatroom_add_description_hint">Напишите описание</string>
+    <string name="chatroom_add_category_title">Категория</string>
+    <string name="chatroom_add_category_hint">Выберите категорию</string>
+    <string name="chatroom_add_access_title">Доступ</string>
+    <string name="chatroom_add_submit_button_text">Создать новую чат-комнату</string>
+    <string name="chatroom_add_toast_empty_fields">Все поля должны быть заполнены.</string>
+    <string name="chatroom_add_allowed_users_title">Разрешенные пользователи</string>
+    <string name="chatroom_add_allowed_users_man">Мужчины</string>
+    <string name="chatroom_add_allowed_users_woman">Женщины</string>
+    <string name="chatroom_add_allowed_users_couple">Пары женщина/мужчина</string>
+    <string name="chatroom_add_country_title">Страна</string>
+    <string name="chatroom_add_error_not_allowed">Вы не можете создать новую чат-комнату сейчас.</string>
+
+    <string name="home_settings_title">Редактировать главную страницу</string>
+    <string name="toast_home_settings_invalid_input">Как минимум одна категория должна быть выбрана.</string>
+
+    <string name="forum_tab_dashboard">Рабочий стол</string>
+    <string name="forum_tab_topics">Темы</string>
+    <string name="forum_tab_posts">Записи</string>
+
+    <string name="forum_dashboard_section_main_topics">Главные темы</string>
+    <string name="forum_dashboard_section_newly_updated_topics">Новые записи</string>
+    <string name="forum_dashboard_section_popular_topics">Популярные темы</string>
+
+    <string name="forum_topics_filter_all">Все темы</string>
+    <string name="forum_topics_sort_time_desc">Самые новые</string>
+    <string name="forum_topics_sort_count_desc">По количеству записей</string>
+    <string name="forum_topics_sort_lastupdate_desc">По последним записям</string>
+
+    <string name="bottomsheet_video_player_settings_title">Настройки качества видео</string>
+
+    <string name="dialog_chat_room_timeout_text">Вы были отключены из-за отсутствия активности. Можете вернуться или выбрать другую комнату.</string>
 
     </resources>
