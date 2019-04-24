@@ -757,7 +757,7 @@
 
     <string name="chat_dashboard_online_friends">Друзья в чатах</string>
     <string name="chat_dashboard_online_friends_empty">Никого из ваших друзей сейчас нет в чатах.</string>
-    <string name="chat_dashboard_most_popular_webcams">Популярные вебкамеры</string>
+    <string name="chat_dashboard_most_popular_webcams">Самые популярные вебкамеры</string>
     <string name="chat_dashboard_favourite_chatrooms">Ваши избранные комнаты</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">У вас нет избранных комнат.</string>
     <string name="chat_dashboard_newest_chatrooms">Новые чат-комнаты</string>
@@ -780,7 +780,7 @@
     <string name="no_chat_rooms_text">Нет чат-комнат согласно фильтра.</string>
 
     <string name="chat_online_friends_title">Друзья в чате</string>
-    <string name="chat_most_popular_webcams_title">Популярные вебкамеры</string>
+    <string name="chat_most_popular_webcams_title">Самые популярные вебкамеры</string>
 
     <string name="tab_chat_room_info">Детали комнаты</string>
     <string name="tab_chat_room_people">Люди в чате</string>
@@ -854,8 +854,8 @@
 
     <string name="chat_room_empty_title">Нет сообщений</string>
     <string name="chat_room_empty_text">Нет сообщение в данной комнате.</string>
-    <string name="chat_room_empty_text_friend_filter">У вас включен фильтр \"Сообщения только от друзей\".</string>
-    <string name="chat_room_empty_button_disable_filter_try_again">Выключить фильтр и попробовать еще раз</string>
+    <string name="chat_room_empty_text_friend_filter">У вас включен фильтр \"Сообщения только от друзей\" или \"сообщение обо мне\".</string>
+    <string name="chat_room_empty_button_disable_filter_try_again">Выключить фильтры и попробовать еще раз</string>
     <string name="dialog_chat_room_leave_title">Хотите выйти из комнаты?</string>
     <string name="dialog_chat_room_leave_text">Вы останетесь в комнате на 10 минут при выборе опции \"Я вернусь\".</string>
     <string name="dialog_chat_room_leave_button_leave">Да, выйти</string>
