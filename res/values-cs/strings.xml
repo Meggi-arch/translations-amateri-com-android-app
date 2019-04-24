@@ -1099,7 +1099,7 @@
     <string name="dialog_webcam_data_connection_button_cancel">Nechat kameru vypnutou</string>
     <string name="toast_chatroom_logout_warning">Napište prosím něco do chatu, jinak budete automaticky odpojen/a kvůli nečinnosti.</string>
     <string name="dialog_chat_room_timeout_title">Časový limit neaktivity</string>
-    <string name="dialog_chat_room_timeout_text">Byli ste odhlášeni kvůli neaktivitě. Můžete se vrátit nebo vybrat jinou místnost.</string>
+    <string name="dialog_chat_room_timeout_text">Byli jste odhlášeni kvůli neaktivitě. Můžete se vrátit nebo vybrat jinou místnost.</string>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
