@@ -846,7 +846,7 @@
 
     <string name="chat_room_empty_title">Keine Nachrichten</string>
     <string name="chat_room_empty_text">Keine Nachrichten in diesem Raum.</string>
-    <string name="chat_room_empty_text_friend_filter">Sie haben den Filter \"Nur Friend-Nachrichten\" aktiviert.</string>
+    <string name="chat_room_empty_text_friend_filter">Sie haben den Filter \"Nur Freundschaftsmeldungen\" oder \"Nachrichten über mich\" aktiviert.</string>
     <string name="chat_room_empty_button_disable_filter_try_again">Filter ausschalten und wieder versuchen</string>
     <string name="dialog_chat_room_leave_title">Wollen sie diesen Raum verlassen?</string>
     <string name="dialog_chat_room_leave_text">Sie bleiben für die nächsten 10 Minuten im Zimmer, nachdem Sie die Option \"Ich bin gleich wieder da\" gewählt haben.</string>
@@ -1114,5 +1114,41 @@
     <string name="forum_topics_sort_time_desc">Von den neuesten</string>
     <string name="forum_topics_sort_count_desc">Nach Anzahl der Beiträge</string>
     <string name="forum_topics_sort_lastupdate_desc">Nach den neuesten Beiträgen</string>
+
+    <string name="title_notes">Notizen</string>
+    <string name="empty_notes_title">Hier ist Nichts</string>
+    <string name="empty_notes_text">Sie können Notizen im Benutzerprofil hinzufügen.</string>
+
+    <string name="tab_notes">Meine Notizen</string>
+
+    <string name="title_sex_search">Suche</string>
+    <string name="title_sex_search_purpose">Zweck der Suche</string>
+    <string name="profile_add_note">Neue Notiz hinzufügen</string>
+
+    <string name="notifications_notes">Notizen</string>
+
+    <string name="setup_default_language_title">Anwendungssprache</string>
+    <string name="setup_default_language_dialog_title">Wählen Sie die Anwendungssprache</string>
+
+    <string name="language_default">Gleich wie Systemsprache</string>
+
+    <string name="my_account_hide_categories">Kategorien nicht anzeigen</string>
+
+    <string name="toast_camera_permissions_revoked">Bitte gewähren Sie der App Zugriff auf die Kamera.</string>
+    <string name="conversation_user_ignored_error">Benutzer %s möchte nicht, dass Sie ihm Nachrichten senden.</string>
+
+    <string name="new_note_add_note">Notiz hinzufügen</string>
+    <string name="new_note_add_hint">Geben Sie den Text ein …</string>
+    <string name="new_note_error">Text darf nicht leer sein.</string>
+    <string name="new_note_created">Die Notiz wurde erfolgreich erstellt.</string>
+    <string name="new_note_dialog_backpress">Neue Notiz wird nicht erstellt. Alle von Ihnen vorgenommenen Änderungen gehen verloren.</string>
+
+    <string name="chat_room_settings_about_me_messages_only">Nachrichten über mich</string>
+    <string name="chat_room_settings_hide_time_title">Zeit</string>
+    <string name="chat_room_settings_hide_time_text">Zeit der Nachrichten ausblenden</string>
+    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
+    <string name="chat_room_settings_hide_avatar_text">Benutzer-Avatare ausblenden</string>
+
+    <string name="bottomsheet_video_player_settings_title">Videoqualitätseinstellung</string>
 
     </resources>
