@@ -71,6 +71,7 @@
     <string name="title_age">Věk</string>
     <string name="title_country">Země</string>
     <string name="title_region">Region</string>
+    <string name="title_city">Město</string>
     <string name="title_marital_status">Rodinný stav</string>
     <string name="title_sexual_orientation">Sexuální orientace</string>
     <string name="title_height">Výška</string>
@@ -107,6 +108,7 @@
     <string name="user_with_albums">S alby</string>
     <string name="user_with_videos">S videi</string>
     <string name="user_with_photo">S foto</string>
+    <string name="user_with_dating">S inzerátem</string>
     <string name="user_sexual_orientation_all">Všechny sexuální orientace</string>
     <string name="user_marital_status_all">Všechny rodinné stavy</string>
     <string name="user_sex_search_all">Všechny hledání</string>
@@ -524,6 +526,7 @@
     <!--Floating action button-->
     <string name="fab_add_album">Přidat album</string>
     <string name="fab_add_video">Přidat video</string>
+    <string name="fab_add_blog">Přidat článek do blogu</string>
     <string name="fab_add_dating">Přidat inzerát</string>
     <string name="fab_add_chatroom">Přidat chat místnost</string>
 
@@ -983,7 +986,13 @@
     <string name="new_note_add_hint">Napište text…</string>
     <string name="new_note_error">Text nesmí být prázdný.</string>
     <string name="new_note_created">Poznámka byla úspěšně vytvořena.</string>
+    <string name="note_edit_title">Upravit poznámku</string>
+    <string name="note_edit">Upravit</string>
+    <string name="note_edited">Poznámka byla úspěšně upravena.</string>
     <string name="new_note_dialog_backpress">Poznámka nebude vytvořena. Provedené změny budou ztraceny.</string>
+    <string name="note_delete_dialog_backpress_title">Smazat tuto poznámku?</string>
+    <string name="note_delete_dialog_backpress_text">Opravdu chcete smazat tuto poznámku?</string>
+    <string name="note_delete_dialog_backpress_button">Smazat</string>
 
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
@@ -1059,6 +1068,7 @@
     <string name="chat_room_users_filter_empty_title">Žádní uživatelé</string>
     <string name="chat_room_users_filter_empty_text">Nebyli nalezeni žádní uživatelé pro zvolený filtr.</string>
     <string name="popup_chat_room_user_filter_content">S alby/videi</string>
+    <string name="popup_chat_room_user_filter_content_dating">S inzerátem</string>
     <string name="chat_room_users_filter_all_countries">Všechny země</string>
     <string name="chat_room_users_filter_all_regions">Všechny regiony</string>
     <string name="toast_chat_room_admin_rights_gained">Nyní jste dočasným správcem této místnosti</string>
@@ -1091,6 +1101,9 @@
     <string name="toast_webcam_permission_denied_verified_vip_only">Získejte VIP členství nebo ověřte svůj profil, abyste mohli sledovat toto vysílání.</string>
     <string name="toast_webcam_permission_denied_vip_only">Chcete-li sledovat toto vysílání, musíte být VIP členem.</string>
     <string name="toast_webcam_permission_denied_friends_only">Tento uživatel vysíla jenom pro své přátele.</string>
+    <string name="toast_webcam_permission_denied_men">Tento uživatel nevysílá pro muže.</string>
+    <string name="toast_webcam_permission_denied_women">Tento uživatel nevysílá pro ženy.</string>
+    <string name="toast_webcam_permission_denied_couples">Tento uživatel nevysílá pro páry.</string>
     <string name="toast_chat_camera_permissions_denied">Je potřeba udělit oprávnění k zapnutí kamery.</string>
     <string name="dialog_webcam_data_connection_title_broadcast">Zapnout kameru?</string>
     <string name="dialog_webcam_data_connection_title_listen">Sledovat vysílání uživatele?</string>
@@ -1132,6 +1145,10 @@
     <string name="chat_room_settings_hide_time_text">Skrýt čas zpráv</string>
     <string name="chat_room_settings_hide_avatar_title">Avatar</string>
     <string name="chat_room_settings_hide_avatar_text">Skrýt avatary uživatelů</string>
+    <string name="chat_room_settings_webcam_allow_men">Muži</string>
+    <string name="chat_room_settings_webcam_allow_women">Ženy</string>
+    <string name="chat_room_settings_webcam_allow_couples">Páry</string>
+    <string name="chat_room_settings_webcam_allow_uncheck_warning">Alespoň 1 kategorie musí zůstat povolena</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
@@ -1290,9 +1307,8 @@
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
         <item>Vylepšení chatu</item>
-        <item>Vylepšení ignorace</item>
-        <item>Optimalizace notifikací</item>
-        <item>Psaní osobních poznámek k uživatelům</item>
-        <item>Možnost změnit jazyk aplikace v nastavení</item>
+        <item>Úprava a mazání poznámek</item>
+        <item>Vylepšení filtru uživatelů</item>
+        <item>Vylepšení profilů</item>
     </string-array>
 </resources>
