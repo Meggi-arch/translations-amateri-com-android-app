@@ -1157,4 +1157,23 @@
 
     <string name="dialog_chat_room_timeout_text">Вы были отключены из-за отсутствия активности. Можете вернуться или выбрать другую комнату.</string>
 
+    <string name="title_city">Город</string>
+    <string name="user_with_dating">С объявлением</string>
+    <string name="fab_add_blog">Добавить запись в блог</string>
+    <string name="note_edit_title">Редактировать заметку</string>
+    <string name="note_edit">Редактировать</string>
+    <string name="note_edited">Заметка была отредактирована.</string>
+    <string name="note_delete_dialog_backpress_title">Удалить заметку?</string>
+    <string name="note_delete_dialog_backpress_text">Вы действительно хотите удалить эту заметку?</string>
+    <string name="note_delete_dialog_backpress_button">Удалить</string>
+
+    <string name="popup_chat_room_user_filter_content_dating">С объявлением</string>
+    <string name="toast_webcam_permission_denied_men">Пользователь отключил камеру для мужчин.</string>
+    <string name="toast_webcam_permission_denied_women">Пользователь отключил камеру для женщин.</string>
+    <string name="toast_webcam_permission_denied_couples">Пользователь отключил камеру для пар.</string>
+    <string name="chat_room_settings_webcam_allow_men">Мужчины</string>
+    <string name="chat_room_settings_webcam_allow_women">Женщины</string>
+    <string name="chat_room_settings_webcam_allow_couples">Пары</string>
+    <string name="chat_room_settings_webcam_allow_uncheck_warning">Как минимум 1 категория должна быть разрешена</string>
+
     </resources>
