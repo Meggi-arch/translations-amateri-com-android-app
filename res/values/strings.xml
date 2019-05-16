@@ -119,6 +119,7 @@
     <string name="title_age">Age</string>
     <string name="title_country">Country</string>
     <string name="title_region">Region</string>
+    <string name="title_city">City</string>
     <string name="title_marital_status">Marital status</string>
     <string name="title_sexual_orientation">Sexual orientation</string>
     <string name="title_height">Height</string>
@@ -201,6 +202,7 @@
     <string name="user_with_albums">With albums</string>
     <string name="user_with_videos">With videos</string>
     <string name="user_with_photo">With photo</string>
+    <string name="user_with_dating">With dating ads</string>
     <string name="user_sexual_orientation_all">All sexual orientations</string>
     <string name="user_marital_status_all">All family statuses</string>
     <string name="user_sex_search_all">All sex searches</string>
@@ -584,6 +586,7 @@
     <!--Floating action button-->
     <string name="fab_add_album">Add album</string>
     <string name="fab_add_video">Add video</string>
+    <string name="fab_add_blog">Add blog post</string>
     <string name="fab_add_dating">Add dating ad</string>
     <string name="fab_add_chatroom">Add chat room</string>
 
@@ -991,6 +994,12 @@
     <string name="new_note_error">The text cannot be empty.</string>
     <string name="new_note_created">The note was created successfully.</string>
     <string name="new_note_dialog_backpress">New note will not be created. All changes you\'ve made will be lost.</string>
+    <string name="note_edit_title">Edit the note</string>
+    <string name="note_edit">Edit</string>
+    <string name="note_edited">Note has been edited successfully.</string>
+    <string name="note_delete_dialog_backpress_title">Delete this note?</string>
+    <string name="note_delete_dialog_backpress_text">Do you really want to delete this note?</string>
+    <string name="note_delete_dialog_backpress_button">Delete</string>
 
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">You have no dating ads</string>
@@ -1064,6 +1073,7 @@
     <string name="chat_room_users_filter_empty_title">No users</string>
     <string name="chat_room_users_filter_empty_text">No users found for selected filter.</string>
     <string name="popup_chat_room_user_filter_content">With albums/videos</string>
+    <string name="popup_chat_room_user_filter_content_dating">With dating ads</string>
     <string name="chat_room_users_filter_all_countries">All countries</string>
     <string name="chat_room_users_filter_all_regions">All regions</string>
     <string name="toast_chat_room_admin_rights_gained">You are now a temporary admin of this room</string>
@@ -1096,6 +1106,9 @@
     <string name="toast_webcam_permission_denied_verified_vip_only">Get a VIP membership or verify your profile to watch this stream.</string>
     <string name="toast_webcam_permission_denied_vip_only">To watch this stream, you need to be a VIP member.</string>
     <string name="toast_webcam_permission_denied_friends_only">This user only broadcast to his/her friends.</string>
+    <string name="toast_webcam_permission_denied_men">This user does not broadcast for men.</string>
+    <string name="toast_webcam_permission_denied_women">This user does not broadcast for women.</string>
+    <string name="toast_webcam_permission_denied_couples">This user does not broadcast for couples.</string>
     <string name="toast_chat_camera_permissions_denied">You must grant permission to turn on the camera.</string>
     <string name="dialog_webcam_data_connection_title_broadcast">Turn on the camera?</string>
     <string name="dialog_webcam_data_connection_title_listen">Watch the user\'s stream?</string>
@@ -1137,6 +1150,10 @@
     <string name="chat_room_settings_hide_time_text">Hide time of messages</string>
     <string name="chat_room_settings_hide_avatar_title">Avatar</string>
     <string name="chat_room_settings_hide_avatar_text">Hide user avatars</string>
+    <string name="chat_room_settings_webcam_allow_men">Men</string>
+    <string name="chat_room_settings_webcam_allow_women">Women</string>
+    <string name="chat_room_settings_webcam_allow_couples">Couples</string>
+    <string name="chat_room_settings_webcam_allow_uncheck_warning">At least 1 category must be allowed</string>
 
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_empty_title">No messages yet</string>
@@ -1285,10 +1302,9 @@
 
     <string-array name="update_news_dialog_items">
         <item>Improved chat</item>
-        <item>Improved ignoration</item>
-        <item>Optimization of notifications</item>
-        <item>Writing personal notes to users</item>
-        <item>Ability to change application language in settings</item>
+        <item>Editing and deleting notes</item>
+        <item>User filter improvements</item>
+        <item>Profile improvements</item>
     </string-array>
 
 </resources>
