@@ -1215,4 +1215,23 @@
     <string name="chat_room_settings_hide_avatar_title">Avatar</string>
     <string name="chat_room_settings_hide_avatar_text">Skryť avatary užívateľov</string>
 
+    <string name="title_city">Mesto</string>
+    <string name="user_with_dating">S inzerátom</string>
+    <string name="note_edit_title">Upraviť poznámku</string>
+    <string name="note_edit">Upraviť</string>
+    <string name="note_edited">Poznámka bola úspešne upravená.</string>
+    <string name="note_delete_dialog_backpress_title">Zmazať túto poznámku?</string>
+    <string name="note_delete_dialog_backpress_text">Naozaj chcete zmazať túto poznámku?</string>
+    <string name="note_delete_dialog_backpress_button">Zmazať</string>
+
+    <string name="popup_chat_room_user_filter_content_dating">S inzerátom</string>
+    <string name="toast_webcam_permission_denied_men">Tento užívateľ nevysiela pre mužov.</string>
+    <string name="toast_webcam_permission_denied_women">Tento užívateľ nevysiela pre ženy.</string>
+    <string name="toast_webcam_permission_denied_couples">Tento užívateľ nevysiela pre páry.</string>
+    <string name="chat_room_settings_webcam_allow_men">Muži</string>
+    <string name="chat_room_settings_webcam_allow_women">Ženy</string>
+    <string name="chat_room_settings_webcam_allow_couples">Páry</string>
+    <string name="chat_room_settings_webcam_allow_uncheck_warning">Aspoň 1 kategória musí zostať povolená</string>
+
+    <string name="fab_add_blog">Pridať článok do blogu</string>
     </resources>
