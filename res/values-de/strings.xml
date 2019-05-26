@@ -1151,4 +1151,23 @@
 
     <string name="bottomsheet_video_player_settings_title">Videoqualitätseinstellung</string>
 
+    <string name="title_city">Stadt</string>
+    <string name="user_with_dating">Mit Anzeige</string>
+    <string name="fab_add_blog">Blogbeitrag hinzufügen</string>
+    <string name="note_edit_title">Notiz bearbeiten</string>
+    <string name="note_edit">Bearbeiten</string>
+    <string name="note_edited">Notiz wurde erfolgreich bearbeitet.</string>
+    <string name="note_delete_dialog_backpress_title">Diese Notiz löschen?</string>
+    <string name="note_delete_dialog_backpress_text">Möchten Sie diese Notiz wirklich löschen?</string>
+    <string name="note_delete_dialog_backpress_button">Löschen</string>
+
+    <string name="popup_chat_room_user_filter_content_dating">Mit Anzeige</string>
+    <string name="toast_webcam_permission_denied_men">Dieser Benutzer überträgt nicht für Männer.</string>
+    <string name="toast_webcam_permission_denied_women">Dieser Benutzer überträgt nicht für Frauen.</string>
+    <string name="toast_webcam_permission_denied_couples">Dieser Benutzer überträgt nicht für Paare.</string>
+    <string name="chat_room_settings_webcam_allow_men">Männer</string>
+    <string name="chat_room_settings_webcam_allow_women">Frauen</string>
+    <string name="chat_room_settings_webcam_allow_couples">Paare</string>
+    <string name="chat_room_settings_webcam_allow_uncheck_warning">Es muss mindestens 1 Kategorie erlaubt sein</string>
+
     </resources>
