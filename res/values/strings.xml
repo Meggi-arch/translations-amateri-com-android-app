@@ -268,6 +268,7 @@
     <string name="notifications_my_account">My account</string>
     <string name="notifications_albums">Albums</string>
     <string name="notifications_videos">Videos</string>
+    <string name="notifications_blogs">Blog posts</string>
     <string name="notifications_dating">Dating</string>
     <string name="notifications_notes">Notes</string>
 
@@ -1001,6 +1002,44 @@
     <string name="note_delete_dialog_backpress_text">Do you really want to delete this note?</string>
     <string name="note_delete_dialog_backpress_button">Delete</string>
 
+    <!-- NewBlogActivity -->
+    <string name="new_blog_header">Add new blog post</string>
+    <string name="new_blog_title">Title</string>
+    <string name="new_blog_title_hint">Enter title</string>
+    <string name="new_blog_content">Blog formatting</string>
+    <string name="new_blog_hint">Hint</string>
+    <string name="new_blog_markdown">Use markdown formatting</string>
+    <string name="new_blog_preview">Preview</string>
+    <string name="new_blog_text">Enter the article text</string>
+    <string name="new_blog_save">Save and continue</string>
+    <string name="new_blog_created">New blog post has been successfully created.</string>
+    <string name="new_blog_empty_fields">All fields must be filled.</string>
+    <string name="new_blog_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
+
+    <!-- NewBlogActivity edit blog -->
+    <string name="blog_menu_delete">Delete blog post</string>
+    <string name="blog_delete_content">Do you really want to delete this blog post?</string>
+    <string name="blog_deleted_successfully">Blog has been successfully deleted.</string>
+    <string name="blog_sent_successfully">Blog post has been successfully published.</string>
+    <string name="blog_edit_header">Edit blog post</string>
+    <string name="blog_edited">Blog post has been successfully saved.</string>
+    <string name="blog_edit_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
+    <string name="blog_edit_send_for_approval_title">Publish blog post</string>
+    <string name="blog_edit_send_for_approval_content">Do you really want to publish this blog post?</string>
+    <string name="blog_edit_send_for_approval_confirm">Yes</string>
+    <string name="blog_edit_send_for_approval_cancel">I\'ll check it once again.</string>
+
+    <!-- Blog list settings -->
+    <string name="blogs_settings_no_blogs_for_state_title">You have no blogs in state \"%s\".</string>
+    <string name="blogs_settings_no_blogs_title">You have no blogs yet.</string>
+    <string name="blogs_settings_no_blogs_text">Adding a new blog is easy and you can start right now.</string>
+    <string name="blogs_settings_empty_button_text">Add a new blog</string>
+    <string name="blogs_settings_edit_button">Edit</string>
+    <string name="blogs_settings_delete_title">Delete blog post?</string>
+    <string name="blogs_settings_delete_text">Do you really want to delete this blog post?</string>
+    <string name="blogs_settings_delete_confirm">Delete</string>
+    <string name="blogs_settings_delete_toast">Blog post has been successfully deleted.</string>
+
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">You have no dating ads</string>
     <string name="dating_settings_no_dating_ads_text">Adding a new dating ad is easy, try it now.</string>
@@ -1229,6 +1268,9 @@
 
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Delete conversation</string>
+    <string name="conversation_options_remove_favourite">Remove from favourites</string>
+    <string name="conversation_to_favourites_added_toast">Conversation was added to your favourites.</string>
+    <string name="conversation_from_favourites_removed_toast">Conversation was removed from your favourites.</string>
 
     <!-- Chat webcams -->
     <string name="janus_fragment_retry_text">Interrupted. Retry?</string>

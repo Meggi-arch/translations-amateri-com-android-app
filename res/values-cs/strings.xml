@@ -163,6 +163,7 @@
     <string name="notifications_my_account">Můj účet</string>
     <string name="notifications_albums">Fotoalba</string>
     <string name="notifications_videos">Videa</string>
+    <string name="notifications_blogs">Články v blogu</string>
     <string name="notifications_dating">Inzeráty</string>
     <string name="notifications_notes">Poznámky</string>
     <string name="notification_add_to_calendar">Přidat do kalendáře</string>
@@ -994,6 +995,47 @@
     <string name="note_delete_dialog_backpress_text">Opravdu chcete smazat tuto poznámku?</string>
     <string name="note_delete_dialog_backpress_button">Smazat</string>
 
+    <!-- NewBlogActivity -->
+    <string name="new_blog_header">Přidat nový článek</string>
+    <string name="new_blog_title">Název</string>
+    <string name="new_blog_title_hint">Zadejte název</string>
+    <string name="new_blog_content">Formátování blogu</string>
+    <string name="new_blog_hint">Nápověda</string>
+    <string name="new_blog_markdown">Použít formátování markdown</string>
+    <string name="new_blog_preview">Náhled</string>
+    <string name="new_blog_text">Zadejte text článku</string>
+    <string name="new_blog_save">Uložit a pokračovat</string>
+    <string name="new_blog_created">Nový příspěvek v blogu byl úspěšně vytvořen.</string>
+    <string name="new_blog_empty_fields">Musí být vyplněna všechna pole.</string>
+    <string name="new_blog_dialog_backpress">Článek nebude uložen. Provedené změny budou ztraceny.</string>
+
+    <!-- NewBlogActivity edit blog -->
+    <string name="blog_menu_delete">Smazat článek</string>
+    <string name="blog_delete_content">Opravdu chcete smazat tento článek?</string>
+    <string name="blog_deleted_successfully">Článek byl smazán</string>
+    <string name="blog_sent_successfully">Článek byl úspěšně zveřejněn.</string>
+    <string name="blog_edit_header">Upravit článek</string>
+    <string name="blog_edited">Článek byl úspešně uložen.</string>
+    <string name="blog_edit_dialog_backpress">Článek nebude uložen. Provedené změny budou ztraceny.</string>
+    <string name="blog_edit_send_for_approval_title">Zveřejnit článek</string>
+    <string name="blog_edit_send_for_approval_content">Opravdu chcete článek zveřejnit?</string>
+    <string name="blog_edit_send_for_approval_confirm">Ano</string>
+    <string name="blog_edit_send_for_approval_cancel">Ještě si to zkontroluji.</string>
+
+    <!-- Blog list settings -->
+    <string name="blogs_settings_no_blogs_for_state_title">Nemáte žádný blog ve stavu \"%s\".</string>
+    <string name="blogs_settings_no_blogs_title">Nemáte zatím žádné články v blogu.</string>
+    <string name="blogs_settings_no_blogs_text">Přidat článek je snadné a můžete začít hned teď.</string>
+
+    <string name="blogs_settings_empty_button_text">Přidat nový článek.</string>
+    <string name="blogs_settings_edit_button">Upravit</string>
+
+    <string name="blogs_settings_delete_title">Smazat článek?</string>
+    <string name="blogs_settings_delete_text">Opravdu chcete smazat tento clánek z blogu?</string>
+    <string name="blogs_settings_delete_confirm">Smazat</string>
+    <string name="blogs_settings_delete_toast">Clánek byl úspešně smazán.</string>
+
+
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
     <string name="dating_settings_no_dating_ads_text">Přidání nového inzerátu je snadné, zkuste to.</string>
@@ -1224,6 +1266,9 @@
 
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Smazat konverzaci</string>
+    <string name="conversation_options_remove_favourite">Odebrat z oblíbených</string>
+    <string name="conversation_to_favourites_added_toast">Konverzace byla přidána mezi vaše oblíbené.</string>
+    <string name="conversation_from_favourites_removed_toast">Konverzace byla odebrána z vašich oblíbených.</string>
 
     <!-- Chat webcams -->
     <string name="janus_fragment_retry_text">Přerušeno.  Obnovit?</string>
