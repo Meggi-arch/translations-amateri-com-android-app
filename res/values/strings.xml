@@ -1012,6 +1012,7 @@
     <string name="new_blog_preview">Preview</string>
     <string name="new_blog_text">Enter the article text</string>
     <string name="new_blog_save">Save and continue</string>
+    <string name="new_blog_send_for_approval">Publish blog post</string>
     <string name="new_blog_created">New blog post has been successfully created.</string>
     <string name="new_blog_empty_fields">All fields must be filled.</string>
     <string name="new_blog_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
@@ -1268,6 +1269,7 @@
 
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Delete conversation</string>
+    <string name="conversation_options_add_favourite">Add to favourites</string>
     <string name="conversation_options_remove_favourite">Remove from favourites</string>
     <string name="conversation_to_favourites_added_toast">Conversation was added to your favourites.</string>
     <string name="conversation_from_favourites_removed_toast">Conversation was removed from your favourites.</string>
