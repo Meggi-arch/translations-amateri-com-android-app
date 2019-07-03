@@ -1012,7 +1012,7 @@
     <!-- NewBlogActivity edit blog -->
     <string name="blog_menu_delete">Smazat článek</string>
     <string name="blog_delete_content">Opravdu chcete smazat tento článek?</string>
-    <string name="blog_deleted_successfully">Článek byl smazán</string>
+    <string name="blog_deleted_successfully">Článek byl smazán.</string>
     <string name="blog_sent_successfully">Článek byl úspěšně zveřejněn.</string>
     <string name="blog_edit_header">Upravit článek</string>
     <string name="blog_edited">Článek byl úspešně uložen.</string>
@@ -1027,7 +1027,7 @@
     <string name="blogs_settings_no_blogs_title">Nemáte zatím žádné články v blogu.</string>
     <string name="blogs_settings_no_blogs_text">Přidat článek je snadné a můžete začít hned teď.</string>
 
-    <string name="blogs_settings_empty_button_text">Přidat nový článek.</string>
+    <string name="blogs_settings_empty_button_text">Přidat nový článek</string>
     <string name="blogs_settings_edit_button">Upravit</string>
 
     <string name="blogs_settings_delete_title">Smazat článek?</string>
