@@ -1356,4 +1356,6 @@
         <item>Vylepšení filtru uživatelů</item>
         <item>Vylepšení profilů</item>
     </string-array>
-</resources>
+<string name="new_blog_send_for_approval">Zveřejnit článek</string>
+    <string name="conversation_options_add_favourite">Přidat k oblíbeným</string>
+    </resources>
