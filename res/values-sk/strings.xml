@@ -1234,4 +1234,46 @@
     <string name="chat_room_settings_webcam_allow_uncheck_warning">Aspoň 1 kategória musí zostať povolená</string>
 
     <string name="fab_add_blog">Pridať článok do blogu</string>
+    <string name="notifications_blogs">Články v blogu</string>
+    <string name="new_blog_header">Pridať nový článok</string>
+    <string name="new_blog_title">Názov</string>
+    <string name="new_blog_title_hint">Zadajte názov</string>
+    <string name="new_blog_content">Formátovanie blogu</string>
+    <string name="new_blog_hint">Nápoveda</string>
+    <string name="new_blog_markdown">Použiť formátovanie markdown</string>
+    <string name="new_blog_preview">Náhľad</string>
+    <string name="new_blog_text">Zadajte text článku</string>
+    <string name="new_blog_save">Uložiť a pokračovať</string>
+    <string name="new_blog_send_for_approval">Zverejniť článok</string>
+    <string name="new_blog_created">Nový príspevok v blogu bol úspešne vytvorený.</string>
+    <string name="new_blog_empty_fields">Musia byť vyplnené všetky polia.</string>
+    <string name="new_blog_dialog_backpress">Článok nebude uložený. Prevedené zmeny budú stratené.</string>
+
+    <string name="blog_menu_delete">Zmazať článok</string>
+    <string name="blog_delete_content">Naozaj chcete zmazať tento článok?</string>
+    <string name="blog_deleted_successfully">Článok bol zmazaný.</string>
+    <string name="blog_sent_successfully">Článok bol úspešne zverejnený.</string>
+    <string name="blog_edit_header">Upraviť článok</string>
+    <string name="blog_edited">Článok bol úspešne uložený.</string>
+    <string name="blog_edit_dialog_backpress">Článok nebude uložený. Prevedené zmeny budú stratené.</string>
+    <string name="blog_edit_send_for_approval_title">Zverejniť článok</string>
+    <string name="blog_edit_send_for_approval_content">Naozaj chcete článok zverejniť?</string>
+    <string name="blog_edit_send_for_approval_confirm">Áno</string>
+    <string name="blog_edit_send_for_approval_cancel">Ešte si to skontrolujem.</string>
+
+    <string name="blogs_settings_no_blogs_for_state_title">Nemáte žiadny blog v stave \"%s\".</string>
+    <string name="blogs_settings_no_blogs_title">Nemáte zatiaľ žiadne články v blogu.</string>
+    <string name="blogs_settings_no_blogs_text">Pridať článok je ľahké a môžete začať hneď teraz.</string>
+    <string name="blogs_settings_empty_button_text">Pridať nový článok</string>
+    <string name="blogs_settings_edit_button">Upraviť</string>
+    <string name="blogs_settings_delete_title">Zmazať článok?</string>
+    <string name="blogs_settings_delete_text">Naozaj chcete zmazať tento článok z blogu?</string>
+    <string name="blogs_settings_delete_confirm">Zmazať</string>
+    <string name="blogs_settings_delete_toast">Článok bol úspešne zmazaný.</string>
+
+    <string name="conversation_options_add_favourite">Pridať k obľúbeným</string>
+    <string name="conversation_options_remove_favourite">Odobrať z obľúbených</string>
+    <string name="conversation_to_favourites_added_toast">Konverzácia bolo pridaná medzi vaše obľúbené.</string>
+    <string name="conversation_from_favourites_removed_toast">Konverzácia bola odobraná z vašich obľúbených.</string>
+
     </resources>
