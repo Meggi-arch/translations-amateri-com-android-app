@@ -1276,4 +1276,5 @@
     <string name="conversation_to_favourites_added_toast">Konverzácia bolo pridaná medzi vaše obľúbené.</string>
     <string name="conversation_from_favourites_removed_toast">Konverzácia bola odobraná z vašich obľúbených.</string>
 
+    <string name="new_blog_sent_for_approval">Článok bol úspešne zverejnený.</string>
     </resources>
