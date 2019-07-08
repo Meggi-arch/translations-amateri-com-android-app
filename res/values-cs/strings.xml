@@ -1006,6 +1006,7 @@
     <string name="new_blog_text">Zadejte text článku</string>
     <string name="new_blog_save">Uložit a pokračovat</string>
     <string name="new_blog_created">Nový příspěvek v blogu byl úspěšně vytvořen.</string>
+    <string name="new_blog_sent_for_approval">Článek byl úspěšně zveřejněn.</string>
     <string name="new_blog_empty_fields">Musí být vyplněna všechna pole.</string>
     <string name="new_blog_dialog_backpress">Článek nebude uložen. Provedené změny budou ztraceny.</string>
 
@@ -1013,7 +1014,6 @@
     <string name="blog_menu_delete">Smazat článek</string>
     <string name="blog_delete_content">Opravdu chcete smazat tento článek?</string>
     <string name="blog_deleted_successfully">Článek byl smazán.</string>
-    <string name="blog_sent_successfully">Článek byl úspěšně zveřejněn.</string>
     <string name="blog_edit_header">Upravit článek</string>
     <string name="blog_edited">Článek byl úspešně uložen.</string>
     <string name="blog_edit_dialog_backpress">Článek nebude uložen. Provedené změny budou ztraceny.</string>
@@ -1351,11 +1351,11 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Vylepšení chatu</item>
-        <item>Úprava a mazání poznámek</item>
-        <item>Vylepšení filtru uživatelů</item>
-        <item>Vylepšení profilů</item>
+        <item>Tvorba a úprava článků v blogu</item>
+        <item>Zobrazení a označení oblíbených konverzací</item>
+        <item>Oprava chyb</item>
     </string-array>
+
 <string name="new_blog_send_for_approval">Zveřejnit článek</string>
     <string name="conversation_options_add_favourite">Přidat k oblíbeným</string>
     </resources>

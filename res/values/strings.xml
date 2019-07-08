@@ -1014,6 +1014,7 @@
     <string name="new_blog_save">Save and continue</string>
     <string name="new_blog_send_for_approval">Publish blog post</string>
     <string name="new_blog_created">New blog post has been successfully created.</string>
+    <string name="new_blog_sent_for_approval">Blog post has been successfully published.</string>
     <string name="new_blog_empty_fields">All fields must be filled.</string>
     <string name="new_blog_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
 
@@ -1021,7 +1022,6 @@
     <string name="blog_menu_delete">Delete blog post</string>
     <string name="blog_delete_content">Do you really want to delete this blog post?</string>
     <string name="blog_deleted_successfully">Blog has been successfully deleted.</string>
-    <string name="blog_sent_successfully">Blog post has been successfully published.</string>
     <string name="blog_edit_header">Edit blog post</string>
     <string name="blog_edited">Blog post has been successfully saved.</string>
     <string name="blog_edit_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
@@ -1345,10 +1345,8 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Improved chat</item>
-        <item>Editing and deleting notes</item>
-        <item>User filter improvements</item>
-        <item>Profile improvements</item>
+        <item>Creating and editing blog posts</item>
+        <item>Show and mark favourited conversations</item>
+        <item>Bug fixes</item>
     </string-array>
-
 </resources>
