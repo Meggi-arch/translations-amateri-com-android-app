@@ -1170,4 +1170,46 @@
     <string name="chat_room_settings_webcam_allow_couples">Paare</string>
     <string name="chat_room_settings_webcam_allow_uncheck_warning">Es muss mindestens 1 Kategorie erlaubt sein</string>
 
+    <string name="notifications_blogs">Blogeinträge</string>
+    <string name="new_blog_header">Neuen Blogbeitrag hinzufügen</string>
+    <string name="new_blog_title">Titel</string>
+    <string name="new_blog_title_hint">Titel eingeben</string>
+    <string name="new_blog_content">Blog formatierung</string>
+    <string name="new_blog_hint">Tipp</string>
+    <string name="new_blog_markdown">Abschriftenformatierung Verwenden</string>
+    <string name="new_blog_preview">Ansicht</string>
+    <string name="new_blog_text">Geben Sie den Artikeltext ein</string>
+    <string name="new_blog_save">Speichern und weiter</string>
+    <string name="new_blog_send_for_approval">Blogbeitrag veröffentlichen</string>
+    <string name="new_blog_created">Neuer Blogbeitrag wurde erfolgreich erstellt.</string>
+    <string name="new_blog_sent_for_approval">Der Blogbeitrag wurde erfolgreich veröffentlicht.</string>
+    <string name="new_blog_empty_fields">Alle Felder müssen ausgefüllt werden.</string>
+    <string name="new_blog_dialog_backpress">Blogpost wird nicht gespeichert. Alle vorgenommenen Änderungen gehen verloren.</string>
+
+    <string name="blog_menu_delete">Blogbeitrag löschen</string>
+    <string name="blog_delete_content">Möchten Sie diesen Blogeintrag wirklich löschen?</string>
+    <string name="blog_deleted_successfully">Blog wurde erfolgreich gelöscht.</string>
+    <string name="blog_edit_header">Blogbeitrag bearbeiten</string>
+    <string name="blog_edited">Der Blogbeitrag wurde erfolgreich gespeichert.</string>
+    <string name="blog_edit_dialog_backpress">Blogpost wird nicht gespeichert. Alle vorgenommenen Änderungen gehen verloren.</string>
+    <string name="blog_edit_send_for_approval_title">Blogbeitrag veröffentlichen</string>
+    <string name="blog_edit_send_for_approval_content">Möchten Sie diesen Blog-Beitrag wirklich veröffentlichen?</string>
+    <string name="blog_edit_send_for_approval_confirm">Ja</string>
+    <string name="blog_edit_send_for_approval_cancel">Ich werde es noch einmal überprüfen.</string>
+
+    <string name="blogs_settings_no_blogs_for_state_title">Sie haben keine Blogs im Status \"% s\".</string>
+    <string name="blogs_settings_no_blogs_title">Sie haben noch keine Blogs.</string>
+    <string name="blogs_settings_no_blogs_text">Das Hinzufügen eines neuen Blogs ist einfach und Sie können sofort beginnen.</string>
+    <string name="blogs_settings_empty_button_text">Einen neuen Blog hinzufügen</string>
+    <string name="blogs_settings_edit_button">Bearbeiten</string>
+    <string name="blogs_settings_delete_title">Blogbeitrag löschen?</string>
+    <string name="blogs_settings_delete_text">Möchten Sie diesen Blogeintrag wirklich löschen?</string>
+    <string name="blogs_settings_delete_confirm">Löschen</string>
+    <string name="blogs_settings_delete_toast">Blogbeitrag wurde erfolgreich gelöscht.</string>
+
+    <string name="conversation_options_add_favourite">Zu Favoriten hinzufügen</string>
+    <string name="conversation_options_remove_favourite">Von den Favoriten entfernen</string>
+    <string name="conversation_to_favourites_added_toast">Konversation wurde zu Ihren Favoriten hinzugefügt.</string>
+    <string name="conversation_from_favourites_removed_toast">Die Konversation wurde aus Ihren Favoriten entfernt.</string>
+
     </resources>
