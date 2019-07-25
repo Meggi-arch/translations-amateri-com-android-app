@@ -1252,7 +1252,6 @@
     <string name="blog_menu_delete">Zmazať článok</string>
     <string name="blog_delete_content">Naozaj chcete zmazať tento článok?</string>
     <string name="blog_deleted_successfully">Článok bol zmazaný.</string>
-    <string name="blog_sent_successfully">Článok bol úspešne zverejnený.</string>
     <string name="blog_edit_header">Upraviť článok</string>
     <string name="blog_edited">Článok bol úspešne uložený.</string>
     <string name="blog_edit_dialog_backpress">Článok nebude uložený. Prevedené zmeny budú stratené.</string>
