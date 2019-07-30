@@ -1176,4 +1176,46 @@
     <string name="chat_room_settings_webcam_allow_couples">Пары</string>
     <string name="chat_room_settings_webcam_allow_uncheck_warning">Как минимум 1 категория должна быть разрешена</string>
 
+    <string name="notifications_blogs">Записи в блоге</string>
+    <string name="new_blog_header">Добавить новую запись в блог</string>
+    <string name="new_blog_title">Название</string>
+    <string name="new_blog_title_hint">Введите название</string>
+    <string name="new_blog_content">Форматирование</string>
+    <string name="new_blog_hint">Подсказка</string>
+    <string name="new_blog_markdown">"Использовать  markdown форматирование"</string>
+    <string name="new_blog_preview">Предпросмотр</string>
+    <string name="new_blog_text">Введите текст записи</string>
+    <string name="new_blog_save">Сохранить и продолжить</string>
+    <string name="new_blog_send_for_approval">Опубликовать запись</string>
+    <string name="new_blog_created">Новая запись в блоге была успешно создана.</string>
+    <string name="new_blog_sent_for_approval">Запись в блоге была успешно опубликована.</string>
+    <string name="new_blog_empty_fields">Все поля должны быть заполнены.</string>
+    <string name="new_blog_dialog_backpress">Запись в блоге не была сохранена. Все изменения будут потеряны.</string>
+
+    <string name="blog_menu_delete">Удалить запись</string>
+    <string name="blog_delete_content">Действительно хотите удалить запись?</string>
+    <string name="blog_deleted_successfully">Запись в блоге была успешно удалена.</string>
+    <string name="blog_edit_header">Редактировать запись</string>
+    <string name="blog_edited">Запись в блоге была успешно сохранена.</string>
+    <string name="blog_edit_dialog_backpress">Запись в блоге не была сохранена. Все изменения будут потеряны.</string>
+    <string name="blog_edit_send_for_approval_title">Опубликовать запись в блоге</string>
+    <string name="blog_edit_send_for_approval_content">Вы действительно хотите удалить запись?</string>
+    <string name="blog_edit_send_for_approval_confirm">Да</string>
+    <string name="blog_edit_send_for_approval_cancel">Проверю еще раз.</string>
+
+    <string name="blogs_settings_no_blogs_for_state_title">У вас нет записей в состоянии \"%s\".</string>
+    <string name="blogs_settings_no_blogs_title">У вас еще нет записей в блоге.</string>
+    <string name="blogs_settings_no_blogs_text">Добавить запись очень просто и вы можете начать прямо сейчас.</string>
+    <string name="blogs_settings_empty_button_text">Добавить блог</string>
+    <string name="blogs_settings_edit_button">Редактировать</string>
+    <string name="blogs_settings_delete_title">Удалить запись?</string>
+    <string name="blogs_settings_delete_text">Вы действительно хотите удалить запись?</string>
+    <string name="blogs_settings_delete_confirm">Удалить</string>
+    <string name="blogs_settings_delete_toast">Запись была успешно удалена.</string>
+
+    <string name="conversation_options_add_favourite">Добавить в избранное</string>
+    <string name="conversation_options_remove_favourite">Убрать из избранного</string>
+    <string name="conversation_to_favourites_added_toast">Переписка была добавлена в избранное.</string>
+    <string name="conversation_from_favourites_removed_toast">Переписка была удалена из избранного.</string>
+
     </resources>
