@@ -1276,4 +1276,24 @@
     <string name="conversation_from_favourites_removed_toast">Konverzácia bola odobraná z vašich obľúbených.</string>
 
     <string name="new_blog_sent_for_approval">Článok bol úspešne zverejnený.</string>
+    <string name="tab_favourites">Od obľúbených</string>
+
+    <string name="title_location">Lokácia</string>
+    <string name="filter_user_favourites">Od obľúbených</string>
+    <string name="profile_user_chat_rooms">Miestnosti na chate</string>
+
+    <string name="dialog_chat_room_enter_title_main">Vstupujem do chat miestnosti…</string>
+    <string name="dialog_chat_room_enter_button_cancel">Ísť späť</string>
+    <string name="dialog_chat_room_enter_forbidden">Vstup nebol povolený</string>
+
+    <string name="profile_edit_section_location_title">Lokácia</string>
+    <string name="profile_edit_section_location_country">Krajina</string>
+    <string name="profile_edit_section_location_region">Región</string>
+    <string name="profile_edit_section_location_city">Mesto</string>
+
+    <string name="home_section_favourites_videos_title">Videá mojich obľúbených</string>
+    <string name="home_section_favourites_albums_title">Fotoalbumy mojich obľúbených</string>
+    <string name="home_favourites_section_empty_text">Moji obľúbení zatiaľ nič nepridali</string>
+    <string name="home_section_favourites_videos_footer_title">Všetky videá mojich obľúbených</string>
+    <string name="home_section_favourites_albums_footer_title">Všetky fotoalbumy mojich obľúbených</string>
     </resources>
