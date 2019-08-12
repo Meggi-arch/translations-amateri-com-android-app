@@ -45,6 +45,7 @@
     <!--AlbumFragment-->
     <string name="tab_latest">Latest</string>
     <string name="tab_best">Best</string>
+    <string name="tab_favourites">From favourites</string>
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Comments</string>
@@ -117,6 +118,7 @@
     <string name="title_personal_info">Personal details</string>
     <string name="title_sex">Sex</string>
     <string name="title_age">Age</string>
+    <string name="title_location">Location</string>
     <string name="title_country">Country</string>
     <string name="title_region">Region</string>
     <string name="title_city">City</string>
@@ -215,6 +217,7 @@
     <string name="button_filter_connection_error">Connection error</string>
     <string name="filter_show_only">Show only</string>
     <string name="filter_user_online">Online</string>
+    <string name="filter_user_favourites">From favourites</string>
     <string name="filter_user_verified">Verified</string>
 
     <!--FilterAlbumFragment-->
@@ -318,6 +321,8 @@
     <string name="verify_send">Upload verification photo</string>
     <string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
     <string name="done">Done!</string>
+    <!--ProfileActivity-->
+    <string name="profile_user_chat_rooms">Chat rooms</string>
 
     <!-- ArticleInfoActivity -->
     <string name="article_info_share">Share with friends</string>
@@ -353,8 +358,8 @@
     <string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
 
     <!--Buy VIP dialog-->
-    <string name="vip_dialog_title">We are sorry, but only VIP members can use this feature for free.</string>
-    <string name="vip_dialog_activate">I want to become VIP member</string>
+    <string name="vip_dialog_title">We are sorry, but only VIP members can use this feature.</string>
+    <string name="vip_dialog_activate">I want to become a VIP member</string>
     <string name="vip_dialog_login">Log in</string>
     <string name="vip_dialog_register">Register</string>
 
@@ -1169,6 +1174,11 @@
     <string name="dialog_chat_room_knock_button_cancel">Go back</string>
     <string name="toast_chat_room_knock_access_refused">The admin has not allowed you to enter this room.</string>
 
+    <!-- Chat Room Enter dialog -->
+    <string name="dialog_chat_room_enter_title_main">Entering chat room …</string>
+    <string name="dialog_chat_room_enter_button_cancel">Go back</string>
+    <string name="dialog_chat_room_enter_forbidden">Entry not allowed</string>
+
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Friends messages only</string>
     <string name="chat_room_settings_about_me_messages_only">Messages about me</string>
@@ -1208,6 +1218,11 @@
     <string name="profile_edit_personal_description_title">Personal description</string>
     <string name="profile_edit_personal_description_hint">Enter your personal description…</string>
 
+    <string name="profile_edit_section_location_title">Location</string>
+    <string name="profile_edit_section_location_country">Country</string>
+    <string name="profile_edit_section_location_region">Region</string>
+    <string name="profile_edit_section_location_city">City</string>
+
     <string name="profile_edit_section_personal_info">Personal information</string>
     <string name="profile_edit_section_personal_info_his">His information</string>
     <string name="profile_edit_section_personal_info_her">Her information</string>
@@ -1231,6 +1246,9 @@
     <string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
 
     <!-- Homepage -->
+    <string name="home_section_favourites_videos_title">Videos of my favourites</string>
+    <string name="home_section_favourites_albums_title">Photo albums of my favourites</string>
+    <string name="home_favourites_section_empty_text">My favorites have not added anything yet</string>
     <string name="home_section_videos_title">Latest videos</string>
     <string name="home_section_albums_title">Latest albums</string>
     <string name="home_section_chat_title">Chat</string>
@@ -1239,6 +1257,8 @@
     <string name="home_section_stories_title">Stories</string>
     <string name="home_section_blogs_title">Blogs</string>
 
+    <string name="home_section_favourites_videos_footer_title">All videos of my favourites</string>
+    <string name="home_section_favourites_albums_footer_title">All albums of my favourites</string>
     <string name="home_section_videos_footer_title">All videos</string>
     <string name="home_section_albums_footer_title">All albums</string>
     <string name="home_section_chat_rooms_footer_title">All chat rooms</string>
@@ -1345,8 +1365,8 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Creating and editing blog posts</item>
-        <item>Show and mark favourited conversations</item>
-        <item>Bug fixes</item>
+        <item>Setting the country and region in the profile</item>
+        <item>Albums and videos of my favorite users</item>
+        <item>Chat icon and room list in profile</item>
     </string-array>
 </resources>

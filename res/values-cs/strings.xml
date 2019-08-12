@@ -32,6 +32,7 @@
     <!--AlbumFragment-->
     <string name="tab_latest">Nejnovější</string>
     <string name="tab_best">Nejlepší</string>
+    <string name="tab_favourites">Od oblíbených</string>
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Komentáře</string>
@@ -121,6 +122,7 @@
     <string name="button_filter_connection_error">Chyba připojení</string>
     <string name="filter_show_only">Zobrazit pouze</string>
     <string name="filter_user_online">Online</string>
+    <string name="filter_user_favourites">Od oblíbených</string>
     <string name="filter_user_verified">Ověřeno</string>
 
     <!--FilterAlbumFragment-->
@@ -215,6 +217,9 @@
     <string name="verify_send">Nahrát ověřovací fotku</string>
     <string name="verify_done_text">Nový obrázek byl úspěšně nahrán. Ověrovací fotka bude zkontrolována správcem. Děkujeme vám.</string>
     <string name="done">Hotovo!</string>
+
+    <!--ProfileActivity-->
+    <string name="profile_user_chat_rooms">Místnosti na chatu</string>
 
     <!-- ArticleInfoActivity -->
     <string name="article_info_share">Sdílejte s přáteli</string>
@@ -313,7 +318,7 @@
     <string name="title_next_videos">Další videa</string>
     <string name="video_comment_fail">Nelze odeslat komentář</string>
 
-    <string name="vip_dialog_title">Je nám líto, ale jen VIP uživatelé mohou zdarma využívat tuto funkci.</string>
+    <string name="vip_dialog_title">Je nám líto, ale tuto funkci mohou používat pouze VIP členové.</string>
     <string name="vip_dialog_activate">Chci se stát VIP členem</string>
     <string name="vip_dialog_login">Přihlásit se</string>
     <string name="vip_dialog_register">Registrovat se</string>
@@ -1007,6 +1012,7 @@
     <string name="new_blog_save">Uložit a pokračovat</string>
     <string name="new_blog_created">Nový příspěvek v blogu byl úspěšně vytvořen.</string>
     <string name="new_blog_sent_for_approval">Článek byl úspěšně zveřejněn.</string>
+    <string name="new_blog_send_for_approval">Zveřejnit článek</string>
     <string name="new_blog_empty_fields">Musí být vyplněna všechna pole.</string>
     <string name="new_blog_dialog_backpress">Článek nebude uložen. Provedené změny budou ztraceny.</string>
 
@@ -1026,15 +1032,12 @@
     <string name="blogs_settings_no_blogs_for_state_title">Nemáte žádný blog ve stavu \"%s\".</string>
     <string name="blogs_settings_no_blogs_title">Nemáte zatím žádné články v blogu.</string>
     <string name="blogs_settings_no_blogs_text">Přidat článek je snadné a můžete začít hned teď.</string>
-
     <string name="blogs_settings_empty_button_text">Přidat nový článek</string>
     <string name="blogs_settings_edit_button">Upravit</string>
-
     <string name="blogs_settings_delete_title">Smazat článek?</string>
     <string name="blogs_settings_delete_text">Opravdu chcete smazat tento clánek z blogu?</string>
     <string name="blogs_settings_delete_confirm">Smazat</string>
     <string name="blogs_settings_delete_toast">Clánek byl úspešně smazán.</string>
-
 
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
@@ -1166,6 +1169,11 @@
     <string name="dialog_chat_room_knock_button_cancel">Jít zpět</string>
     <string name="toast_chat_room_knock_access_refused">Správce vám nepovolil vstup do této místnosti.</string>
 
+    <!-- Chat Room Enter dialog -->
+    <string name="dialog_chat_room_enter_title_main">Vstupuju do chat místnosti…</string>
+    <string name="dialog_chat_room_enter_button_cancel">Jít zpět</string>
+    <string name="dialog_chat_room_enter_forbidden">Vstup nebyl povolen</string>
+
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Jen texty přátel</string>
     <string name="chat_room_settings_about_me_messages_only">Zprávy o mně</string>
@@ -1205,6 +1213,11 @@
     <string name="profile_edit_personal_description_title">Osobní popisek</string>
     <string name="profile_edit_personal_description_hint">Vložte osobní popisek…</string>
 
+    <string name="profile_edit_section_location_title">Lokace</string>
+    <string name="profile_edit_section_location_country">Země</string>
+    <string name="profile_edit_section_location_region">Region</string>
+    <string name="profile_edit_section_location_city">Město</string>
+
     <string name="profile_edit_section_personal_info">Osobní info</string>
     <string name="profile_edit_section_personal_info_his">Jeho informace</string>
     <string name="profile_edit_section_personal_info_her">Její informace</string>
@@ -1228,6 +1241,9 @@
     <string name="toast_profile_edit_changes_saved">Změny byly uloženy.</string>
 
     <!-- Homepage -->
+    <string name="home_section_favourites_videos_title">Videa mých oblíbených</string>
+    <string name="home_section_favourites_albums_title">Fotoalba mých oblíbených</string>
+    <string name="home_favourites_section_empty_text">Mí oblíbení zatím nic nepřidali</string>
     <string name="home_section_videos_title">Nejnovější videa</string>
     <string name="home_section_albums_title">Nejnovější fotoalba</string>
     <string name="home_section_chat_title">Chat</string>
@@ -1236,6 +1252,8 @@
     <string name="home_section_stories_title">Povídky</string>
     <string name="home_section_blogs_title">Blogy</string>
 
+    <string name="home_section_favourites_videos_footer_title">Všechna videa mých oblíbených</string>
+    <string name="home_section_favourites_albums_footer_title">Všechna alba mých oblíbených</string>
     <string name="home_section_videos_footer_title">Všechna videa</string>
     <string name="home_section_albums_footer_title">Všechna fotoalba</string>
     <string name="home_section_chat_rooms_footer_title">Všechny místnosti</string>
@@ -1266,6 +1284,7 @@
 
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Smazat konverzaci</string>
+    <string name="conversation_options_add_favourite">Přidat k oblíbeným</string>
     <string name="conversation_options_remove_favourite">Odebrat z oblíbených</string>
     <string name="conversation_to_favourites_added_toast">Konverzace byla přidána mezi vaše oblíbené.</string>
     <string name="conversation_from_favourites_removed_toast">Konverzace byla odebrána z vašich oblíbených.</string>
@@ -1351,11 +1370,8 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Tvorba a úprava článků v blogu</item>
-        <item>Zobrazení a označení oblíbených konverzací</item>
-        <item>Oprava chyb</item>
+        <item>Nastavení země a regionu v profilu</item>
+        <item>Alba a videa mých oblíbených uživatelů</item>
+        <item>Ikonka chatu a seznam místností v profilu</item>
     </string-array>
-
-<string name="new_blog_send_for_approval">Zveřejnit článek</string>
-    <string name="conversation_options_add_favourite">Přidat k oblíbeným</string>
-    </resources>
+</resources>
