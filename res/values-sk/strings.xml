@@ -174,7 +174,7 @@
 
     <string name="video_duration">Dĺžka</string>
 
-    <string name="vip_dialog_title">Ľutujeme, ale iba VIP užívatelia môžu využívať túto funkciu zadarmo.</string>
+    <string name="vip_dialog_title">Ľutujeme, ale iba VIP užívatelia môžu využívať túto funkciu.</string>
     <string name="vip_dialog_activate">Chcem sa stať VIP členom</string>
     <string name="vip_dialog_login">Prihlásiť sa</string>
     <string name="vip_dialog_register">Registrovať sa</string>
