@@ -169,7 +169,7 @@
 
     <string name="video_duration">Dauer</string>
 
-    <string name="vip_dialog_title">Es tut uns leid, aber nur VIP-Benutzer können diese Funktion umsonst nutzen.</string>
+    <string name="vip_dialog_title">Es tut uns leid, aber nur VIP-Benutzer können diese Funktion nutzen.</string>
     <string name="vip_dialog_activate">Ich möchte VIP-Mitglied werden</string>
     <string name="vip_dialog_login">Login</string>
     <string name="vip_dialog_register">Registrieren</string>
