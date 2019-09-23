@@ -1196,7 +1196,7 @@
     <string name="chat_room_settings_font_size_bigger">Střední</string>
     <string name="chat_room_settings_font_size_biggest">Velké</string>
 
-    <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnout zvuk</string>
     <string name="chat_room_settings_camera_permission_title">Sledovaní webkamery</string>
     <string name="chat_room_settings_hide_time_text">Skrýt čas zpráv</string>
     <string name="chat_room_settings_hide_avatar_text">Skrýt avatary uživatelů</string>
