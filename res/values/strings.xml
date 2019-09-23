@@ -1377,7 +1377,7 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Chat improvement</item>
+        <item>Chat improvements</item>
         <item>Changes under the hood</item>
     </string-array>
 </resources>
