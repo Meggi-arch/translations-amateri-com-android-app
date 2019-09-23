@@ -5,7 +5,7 @@
     <string name="infinity_error_no_connection">Zdá se, že nemáte připojení k internetu. Tapnutím zkuste znovu.</string>
     <string name="general_loading">Prosím strpení, načítáme data</string>
     <string name="dialog_android_unsupported_title">Nepodporovaná funkce</string>
-    <string name="dialog_android_unsupported_text">Omlouváme se, ale verze vašeho operačního systému systému je moc stará pro použití této funkce :(</string>
+    <string name="dialog_android_unsupported_text">Omlouváme se, ale verze vašeho operačního systému Android je moc stará pro použití této funkce :(</string>
     <string name="general_empty_title">Nic tu není</string>
     <string name="general_empty_text">Nemáme co ukázat :(</string>
 
@@ -72,6 +72,7 @@
     <string name="title_age">Věk</string>
     <string name="title_country">Země</string>
     <string name="title_region">Region</string>
+    <string name="title_location">Umístění</string>
     <string name="title_city">Město</string>
     <string name="title_marital_status">Rodinný stav</string>
     <string name="title_sexual_orientation">Sexuální orientace</string>
@@ -375,6 +376,7 @@
     <string name="setup_current_version">Současná verze</string>
     <string name="setup_update_check">Zkontrolovat aktualizace</string>
     <string name="setup_no_updates">Žádné aktualizace nejsou k dispozici</string>
+    <string name="setup_update_unsupported_sdk">Omlouváme se, ale verze vašeho operačního systému Android je moc stará pro instalaci nové verze aplikace :(</string>
 
     <string name="locked_unlock">Odemknout</string>
     <string name="locked_forgot_pin">Zapomenutý PIN kód</string>
@@ -455,7 +457,7 @@
 
     <string name="no_video_for_state_title">Nemáte žádná videa ve stavu \"%s\".</string>
     <string name="no_video_title">Nemáte zatím žádná videa.</string>
-    <string name="no_video_text">Přidat video je snadné a můžete začít hned.</string>
+    <string name="no_video_text">Přidat video je snadné a můžete začít hned teď.</string>
     <string name="add_video">Přidat nové video</string>
 
     <string name="notification_profile">Profil</string>
@@ -1029,19 +1031,19 @@
     <string name="blog_edit_send_for_approval_cancel">Ještě si to zkontroluji.</string>
 
     <!-- Blog list settings -->
-    <string name="blogs_settings_no_blogs_for_state_title">Nemáte žádný blog ve stavu \"%s\".</string>
+    <string name="blogs_settings_no_blogs_for_state_title">Nemáte žádný článek ve stavu \"%s\".</string>
     <string name="blogs_settings_no_blogs_title">Nemáte zatím žádné články v blogu.</string>
     <string name="blogs_settings_no_blogs_text">Přidat článek je snadné a můžete začít hned teď.</string>
     <string name="blogs_settings_empty_button_text">Přidat nový článek</string>
     <string name="blogs_settings_edit_button">Upravit</string>
     <string name="blogs_settings_delete_title">Smazat článek?</string>
-    <string name="blogs_settings_delete_text">Opravdu chcete smazat tento clánek z blogu?</string>
+    <string name="blogs_settings_delete_text">Opravdu chcete smazat tento článek z blogu?</string>
     <string name="blogs_settings_delete_confirm">Smazat</string>
-    <string name="blogs_settings_delete_toast">Clánek byl úspešně smazán.</string>
+    <string name="blogs_settings_delete_toast">Článek byl úspešně smazán.</string>
 
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
-    <string name="dating_settings_no_dating_ads_text">Přidání nového inzerátu je snadné, zkuste to.</string>
+    <string name="dating_settings_no_dating_ads_text">Přidat inzerát je snadné a můžete začít hned teď.</string>
     <string name="dating_settings_no_dating_ads_button">Přidat inzerát</string>
 
     <string name="dating_settings_status_enabled">Na webu</string>
@@ -1176,6 +1178,10 @@
 
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Jen texty přátel</string>
+    <string name="chat_room_settings_room_management_section_title">Nastavení správce</string>
+    <string name="chat_room_settings_message_filtering_section_title">Filtrování zpráv</string>
+    <string name="chat_room_settings_chat_design_section__title">Vzhled chatu</string>
+    <string name="chat_room_settings_webcam_settings_section_title">Nastavení kamer</string>
     <string name="chat_room_settings_about_me_messages_only">Zprávy o mně</string>
     <string name="chat_room_settings_admin_handover_title">Předat správcovství</string>
     <string name="chat_room_settings_admin_handover_chooser_title">Vyberte uživatele</string>
@@ -1184,17 +1190,18 @@
     <string name="chat_room_settings_admin_handover_dialog_text">Opravdu chcete předat správcovství uživateli %s?</string>
     <string name="chat_room_settings_admin_handover_dialog_button_confirm">Ano, předat správcovství</string>
     <string name="toast_chat_room_settings_admin_rights_handed_over">Správcovství bylo předáno uživateli %s.</string>
+
     <string name="chat_room_settings_font_size_title">Velikost písma</string>
     <string name="chat_room_settings_font_size_normal">Malé</string>
     <string name="chat_room_settings_font_size_bigger">Střední</string>
     <string name="chat_room_settings_font_size_biggest">Velké</string>
-    <string name="chat_room_settings_webcam_sound_title">Zvuk vysílání</string>
+
     <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
     <string name="chat_room_settings_camera_permission_title">Sledovaní webkamery</string>
-    <string name="chat_room_settings_hide_time_title">Čas</string>
     <string name="chat_room_settings_hide_time_text">Skrýt čas zpráv</string>
-    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
     <string name="chat_room_settings_hide_avatar_text">Skrýt avatary uživatelů</string>
+    <string name="chat_room_settings_gender_colors_text">Barvy podle pohlaví</string>
+    <string name="chat_room_settings_camera_permission_genders">Podle pohlaví</string>
     <string name="chat_room_settings_webcam_allow_men">Muži</string>
     <string name="chat_room_settings_webcam_allow_women">Ženy</string>
     <string name="chat_room_settings_webcam_allow_couples">Páry</string>
@@ -1239,6 +1246,11 @@
     <string name="profile_edit_chooser_not_filled">Nevyplněno</string>
     <string name="profile_edit_button_save">Uložit změny</string>
     <string name="toast_profile_edit_changes_saved">Změny byly uloženy.</string>
+
+    <string name="dialog_profile_edit_leave_title">Upozornění</string>
+    <string name="dialog_profile_edit_leave_subtitle">Máte neuložené změny v profilu. Přejete si je uložit?</string>
+    <string name="dialog_profile_edit_leave_save_button">Uložit změny</string>
+    <string name="dialog_profile_edit_leave_dismiss_button">Zahodit změny a odejít</string>
 
     <!-- Homepage -->
     <string name="home_section_favourites_videos_title">Videa mých oblíbených</string>
@@ -1370,9 +1382,7 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Nastavení země a regionu v profilu</item>
-        <item>Alba a videa mých oblíbených uživatelů</item>
-        <item>Ikonka chatu a seznam místností v profilu</item>
-    </string-array>
-<string name="title_location">Umístění</string>
-    </resources>
+        <item>Vylepšení chatu</item>
+        <item>Změny pod kapotou</item>
+    </string-array>q
+</resources>

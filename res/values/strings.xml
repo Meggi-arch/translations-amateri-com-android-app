@@ -414,6 +414,7 @@
     <string name="setup_current_version">Current version</string>
     <string name="setup_update_check">Check for updates</string>
     <string name="setup_no_updates">No updates available</string>
+    <string name="setup_update_unsupported_sdk">We are sorry, but your Android system version is too old to install new version :(</string>
     <string name="setup_stories_and_blogs_title">Stories and blogs</string>
     <string name="setup_text_size">Text size</string>
     <string name="setup_background_color">Background color</string>
@@ -1181,6 +1182,10 @@
 
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Friends messages only</string>
+    <string name="chat_room_settings_room_management_section_title">Admin settings</string>
+    <string name="chat_room_settings_message_filtering_section_title">Message filtering</string>
+    <string name="chat_room_settings_chat_design_section__title">Chat appearance</string>
+    <string name="chat_room_settings_webcam_settings_section_title">Camera settings</string>
     <string name="chat_room_settings_about_me_messages_only">Messages about me</string>
     <string name="chat_room_settings_admin_handover_title">Hand over admin\'s rights</string>
     <string name="chat_room_settings_admin_handover_chooser_title">Select a user</string>
@@ -1193,13 +1198,15 @@
     <string name="chat_room_settings_font_size_normal">Small</string>
     <string name="chat_room_settings_font_size_bigger">Medium</string>
     <string name="chat_room_settings_font_size_biggest">Large</string>
-    <string name="chat_room_settings_webcam_sound_title">Streams sound</string>
-    <string name="chat_room_settings_webcam_sound_default_option">Turn on by default</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Turn on sound by default</string>
+
     <string name="chat_room_settings_camera_permission_title">Who can watch my stream</string>
-    <string name="chat_room_settings_hide_time_title">Time</string>
     <string name="chat_room_settings_hide_time_text">Hide time of messages</string>
-    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
+
     <string name="chat_room_settings_hide_avatar_text">Hide user avatars</string>
+    <string name="chat_room_settings_gender_colors_text">Colors by sex</string>
+
+    <string name="chat_room_settings_camera_permission_genders">By sex</string>
     <string name="chat_room_settings_webcam_allow_men">Men</string>
     <string name="chat_room_settings_webcam_allow_women">Women</string>
     <string name="chat_room_settings_webcam_allow_couples">Couples</string>
@@ -1244,6 +1251,11 @@
     <string name="profile_edit_chooser_not_filled">Not filled</string>
     <string name="profile_edit_button_save">Save changes</string>
     <string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
+
+    <string name="dialog_profile_edit_leave_title">Warning</string>
+    <string name="dialog_profile_edit_leave_subtitle">You\'ve made some changes to your profile. Do you want to save them?</string>
+    <string name="dialog_profile_edit_leave_save_button">Save changes</string>
+    <string name="dialog_profile_edit_leave_dismiss_button">Discard changes and leave</string>
 
     <!-- Homepage -->
     <string name="home_section_favourites_videos_title">Videos of my favourites</string>
@@ -1365,8 +1377,7 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Setting the country and region in the profile</item>
-        <item>Albums and videos of my favorite users</item>
-        <item>Chat icon and room list in profile</item>
+        <item>Chat improvement</item>
+        <item>Changes under the hood</item>
     </string-array>
 </resources>
