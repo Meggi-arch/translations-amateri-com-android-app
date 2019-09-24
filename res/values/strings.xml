@@ -516,7 +516,7 @@
     <string name="visibility_on">Enabled</string>
     <string name="visibility_off">Disabled</string>
     <string name="no_album_for_state_title">You have no albums in state \"%s\".</string>
-    <string name="no_album_title">You have no albums yet.</string>
+    <string name="no_album_title">You have no albums.</string>
     <string name="no_album_text">To add an album is easy and you can start right now.</string>
     <string name="add_album">Add new album</string>
 
@@ -525,7 +525,7 @@
     <string name="profile_video_converting_edit_error">You cannot edit this video during the encoding process. Please wait.</string>
     <string name="profile_video_disabled_edit_error">You cannot edit this video anymore</string>
     <string name="no_video_for_state_title">You have no videos in state \"%s\".</string>
-    <string name="no_video_title">You have no videos yet.</string>
+    <string name="no_video_title">You have no videos.</string>
     <string name="no_video_text">To add a video is easy and you can start right now.</string>
     <string name="add_video">Add new video</string>
 
@@ -1038,7 +1038,7 @@
 
     <!-- Blog list settings -->
     <string name="blogs_settings_no_blogs_for_state_title">You have no blogs in state \"%s\".</string>
-    <string name="blogs_settings_no_blogs_title">You have no blogs yet.</string>
+    <string name="blogs_settings_no_blogs_title">You have no blogs.</string>
     <string name="blogs_settings_no_blogs_text">Adding a new blog is easy and you can start right now.</string>
     <string name="blogs_settings_empty_button_text">Add a new blog</string>
     <string name="blogs_settings_edit_button">Edit</string>

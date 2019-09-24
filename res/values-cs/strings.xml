@@ -451,12 +451,12 @@
     <string name="visibility_on">Zapnuto</string>
     <string name="visibility_off">Vypnuto</string>
     <string name="no_album_for_state_title">Nemáte žádná alba ve stavu \"%s\".</string>
-    <string name="no_album_title">Nemáte zatím žádná alba.</string>
+    <string name="no_album_title">Nemáte žádná alba.</string>
     <string name="no_album_text">Přidat album je snadné a můžete začít hned teď.</string>
     <string name="add_album">Přidat nové album</string>
 
     <string name="no_video_for_state_title">Nemáte žádná videa ve stavu \"%s\".</string>
-    <string name="no_video_title">Nemáte zatím žádná videa.</string>
+    <string name="no_video_title">Nemáte žádná videa.</string>
     <string name="no_video_text">Přidat video je snadné a můžete začít hned teď.</string>
     <string name="add_video">Přidat nové video</string>
 
@@ -1032,7 +1032,7 @@
 
     <!-- Blog list settings -->
     <string name="blogs_settings_no_blogs_for_state_title">Nemáte žádný článek ve stavu \"%s\".</string>
-    <string name="blogs_settings_no_blogs_title">Nemáte zatím žádné články v blogu.</string>
+    <string name="blogs_settings_no_blogs_title">Nemáte žádné články v blogu.</string>
     <string name="blogs_settings_no_blogs_text">Přidat článek je snadné a můžete začít hned teď.</string>
     <string name="blogs_settings_empty_button_text">Přidat nový článek</string>
     <string name="blogs_settings_edit_button">Upravit</string>
