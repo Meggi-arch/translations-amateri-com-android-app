@@ -321,12 +321,12 @@
     <string name="profile_album_settings_edit_error">Tento album nemôžete upravovať</string>
     <string name="visibility_on">Zapnuté</string>
     <string name="visibility_off">Vypnuté</string>
-    <string name="no_album_title">Nemáte zatiaľ žiadne albumy.</string>
+    <string name="no_album_title">Nemáte žiadne albumy.</string>
     <string name="no_album_text">Pridať album je jednoduché a môžete začať hneď teraz.</string>
     <string name="add_album">Pridať nový album</string>
 
     <string name="profile_video_settings_edit_error">Toto video nemôžete upravovať</string>
-    <string name="no_video_title">Nemáte zatiaľ žiadne videá.</string>
+    <string name="no_video_title">Nemáte žiadne videá.</string>
     <string name="no_video_text">Pridať video je jednoduché a môžete začať hneď teraz.</string>
     <string name="add_video">Pridať nové video</string>
 
@@ -1261,7 +1261,7 @@
     <string name="blog_edit_send_for_approval_cancel">Ešte si to skontrolujem.</string>
 
     <string name="blogs_settings_no_blogs_for_state_title">Nemáte žiadny blog v stave \"%s\".</string>
-    <string name="blogs_settings_no_blogs_title">Nemáte zatiaľ žiadne články v blogu.</string>
+    <string name="blogs_settings_no_blogs_title">Nemáte žiadne články v blogu.</string>
     <string name="blogs_settings_no_blogs_text">Pridať článok je ľahké a môžete začať hneď teraz.</string>
     <string name="blogs_settings_empty_button_text">Pridať nový článok</string>
     <string name="blogs_settings_edit_button">Upraviť</string>
