@@ -1296,4 +1296,17 @@
     <string name="home_favourites_section_empty_text">Moji obľúbení zatiaľ nič nepridali</string>
     <string name="home_section_favourites_videos_footer_title">Všetky videá mojich obľúbených</string>
     <string name="home_section_favourites_albums_footer_title">Všetky fotoalbumy mojich obľúbených</string>
+    <string name="setup_update_unsupported_sdk">Ospravedlňujeme sa, ale verzia vášho operačného systému je príliš stará na inštaláciu novej verzie aplikácie :(</string>
+    <string name="chat_room_settings_room_management_section_title">Nastavenia správcu</string>
+    <string name="chat_room_settings_message_filtering_section_title">Filtrovanie správ</string>
+    <string name="chat_room_settings_chat_design_section__title">Vzhľad chatu</string>
+    <string name="chat_room_settings_webcam_settings_section_title">Nastavenia kamier</string>
+    <string name="chat_room_settings_gender_colors_text">Farby podľa pohlaví</string>
+
+    <string name="chat_room_settings_camera_permission_genders">Podľa pohlaví</string>
+    <string name="dialog_profile_edit_leave_title">Upozornenie</string>
+    <string name="dialog_profile_edit_leave_subtitle">Máte neuložené zmeny v profile. Chcete ich uložiť?</string>
+    <string name="dialog_profile_edit_leave_save_button">Uložiť zmeny</string>
+    <string name="dialog_profile_edit_leave_dismiss_button">Zahodiť zmeny a odísť</string>
+
     </resources>
