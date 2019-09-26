@@ -1232,4 +1232,17 @@
     <string name="home_favourites_section_empty_text">Meine Favoriten haben noch nichts hinzugefügt</string>
     <string name="home_section_favourites_videos_footer_title">Alle Videos meiner Favoriten</string>
     <string name="home_section_favourites_albums_footer_title">Alle Fotoalben meiner Favoriten</string>
+    <string name="setup_update_unsupported_sdk">Ihre Android-Version ist leider zu alt, um die neue Version der App zu installieren :(</string>
+    <string name="chat_room_settings_room_management_section_title">Administratoreinstellungen</string>
+    <string name="chat_room_settings_message_filtering_section_title">Nachrichtenfilterung</string>
+    <string name="chat_room_settings_chat_design_section__title">Aussehen des Chats</string>
+    <string name="chat_room_settings_webcam_settings_section_title">Kameraeinstellungen</string>
+    <string name="chat_room_settings_gender_colors_text">Farben nach Geschlecht</string>
+
+    <string name="chat_room_settings_camera_permission_genders">Nach Geschlecht</string>
+    <string name="dialog_profile_edit_leave_title">Warnung</string>
+    <string name="dialog_profile_edit_leave_subtitle">Sie haben die Profiländerungen nicht gespeichert. Möchten sie sie speichern?</string>
+    <string name="dialog_profile_edit_leave_save_button">Änderungen speichern</string>
+    <string name="dialog_profile_edit_leave_dismiss_button">Änderungen verwerfen und verlassen</string>
+
     </resources>
