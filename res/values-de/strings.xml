@@ -320,7 +320,7 @@
     <string name="add_album">Neues Album hinzufügen</string>
 
     <string name="profile_video_settings_edit_error">Dieses Video können Sie nicht bearbeiten</string>
-    <string name="no_video_title">Sie haben bislang keine Videen.</string>
+    <string name="no_video_title">Sie haben keine Videen.</string>
     <string name="no_video_text">Ein Video hinzuzufügen ist einfach und Sie können sofort anfrangen.</string>
     <string name="add_video">Neues Video hinzufügen</string>
 
@@ -965,7 +965,7 @@
     <string name="dialog_webcam_data_connection_button_cancel">Kamera ausgeschaltet lassen</string>
 
     <string name="chat_room_settings_webcam_sound_title">Kameraton</string>
-    <string name="chat_room_settings_webcam_sound_default_option">Standardmäßig aktivieren</string>
+    <string name="chat_room_settings_webcam_sound_default_option">Standardmäßig Ton aktivieren</string>
 
     <string name="chat_room_whisper_webcam_placeholder_title">Aktivieren: %s</string>
 
@@ -1198,7 +1198,7 @@
     <string name="blog_edit_send_for_approval_cancel">Ich werde es noch einmal überprüfen.</string>
 
     <string name="blogs_settings_no_blogs_for_state_title">Sie haben keine Blogs im Status \"% s\".</string>
-    <string name="blogs_settings_no_blogs_title">Sie haben noch keine Blogs.</string>
+    <string name="blogs_settings_no_blogs_title">Sie haben keine Blogs.</string>
     <string name="blogs_settings_no_blogs_text">Das Hinzufügen eines neuen Blogs ist einfach und Sie können sofort beginnen.</string>
     <string name="blogs_settings_empty_button_text">Einen neuen Blog hinzufügen</string>
     <string name="blogs_settings_edit_button">Bearbeiten</string>
