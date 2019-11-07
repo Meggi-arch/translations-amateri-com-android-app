@@ -207,7 +207,7 @@
     <string name="search_video_hint">Поиск по видео</string>
     <string name="search_user_hint">Поиск по пользователям</string>
     <string name="ok">OK</string>
-    <string name="cancel">отмена</string>
+    <string name="cancel">Отмена</string>
 
     <string name="title_settings">Настройки приложения</string>
     <string name="title_album_settings">Настройки альбома</string>
