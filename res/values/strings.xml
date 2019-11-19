@@ -2,7 +2,6 @@
 <resources>
     <string name="general_error">Ouch!</string>
     <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
-    <string name="infinity_error_no_connection">It looks like there is no internet connection. Tap to try again.</string>
     <string name="general_loading">Please wait while we load the data</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
@@ -31,7 +30,6 @@
     <string name="title_video_settings">Video settings</string>
     <string name="title_new_album">Add new album</string>
     <string name="title_new_video">Add new video</string>
-    <string name="title_profile_settings">Content settings</string>
     <string name="title_my_account">My account</string>
     <string name="title_profile">Profile</string>
     <string name="title_dating">Dating</string>
@@ -49,14 +47,11 @@
 
     <!--AlbumDetailActivity-->
     <string name="title_comments">Comments</string>
-    <string name="title_next_comments">More comments</string>
     <string name="title_next_albums">More albums</string>
-    <string name="album_comment_fail">Unable to send comment</string>
     <string name="album_comment_disallowed">You cannot add a comment to this album now.</string>
 
     <!--VideoDetailActivity-->
     <string name="title_next_videos">More videos</string>
-    <string name="video_comment_fail">Unable to send comment</string>
     <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
 
     <!--BlogDetailActivity-->
@@ -72,7 +67,6 @@
     <string name="no_dating_ads_text">No dating ads found for selected filter.</string>
 
     <!--DatingReplyActivity-->
-    <string name="dating_reply_button_send">Send reply</string>
     <string name="dating_reply_hint">Your reply</string>
     <string name="toast_dating_reply_sent">Reply has been sent</string>
     <string name="dating_reply_picture_attached">Photo attached</string>
@@ -149,6 +143,8 @@
     <string name="profile_female">Woman</string>
     <string name="profile_group">Group</string>
     <string name="profile_add_note">Add a new note</string>
+    <string name="profile_add_friend_already_friend">Previously added</string>
+    <string name="profile_add_friend_already_requested">Previously requested</string>
 
     <string name="title_filter">Search</string>
 
@@ -164,10 +160,6 @@
     <plurals name="days">
         <item quantity="one">%s day</item>
         <item quantity="other">%s days</item>
-    </plurals>
-    <plurals name="weeks">
-        <item quantity="one">%s week</item>
-        <item quantity="other">%s weeks</item>
     </plurals>
     <plurals name="months">
         <item quantity="one">%s month</item>
@@ -263,11 +255,9 @@
     <string name="notifications_title">Notification</string>
     <string name="notifications_visits">Visits</string>
     <string name="notifications_messages">Messages</string>
-    <string name="notifications_dating_messages">Answers to your ads</string>
     <string name="notifications_requests">Friend requests</string>
     <string name="notifications_favourites">Favourites</string>
     <string name="notifications_ignored">Ignore list</string>
-    <string name="notifications_my_account_content_settings">Account and content settings</string>
     <string name="notifications_my_account">My account</string>
     <string name="notifications_albums">Albums</string>
     <string name="notifications_videos">Videos</string>
@@ -321,6 +311,7 @@
     <string name="verify_send">Upload verification photo</string>
     <string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
     <string name="done">Done!</string>
+
     <!--ProfileActivity-->
     <string name="profile_user_chat_rooms">Chat rooms</string>
 
@@ -376,8 +367,6 @@
     <string name="profile_photo_library">Select from library</string>
     <string name="profile_photo_processing">Uploading photo</string>
     <string name="profile_photo_change">Change profile photo</string>
-    <string name="profile_photo_fail">Unable to upload profile photo</string>
-    <string name="profile_photo_camera_fail">Unable to find camera app</string>
 
     <!--Comment adding-->
     <string name="comment_write_hint">Write a comment</string>
@@ -711,10 +700,7 @@
     <string name="toast_copied_message_text">The message has been copied to your clipboard!</string>
     <string name="message_date_today">Today</string>
     <string name="message_date_yesterday">Yesterday</string>
-    <string name="message_seen">Read</string>
-    <string name="message_unseen">Unread</string>
     <string name="message_send_failure">Sorry, it seems there has been a network problem and your message was not sent.</string>
-    <string name="new_message_info">You have a new message</string>
     <string name="message_write_hint">Write a message</string>
     <string name="take_a_picture">Take a picture</string>
     <string name="pick_from_gallery">Pick from gallery</string>
@@ -945,10 +931,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">You have no favourite chat rooms yet.</string>
     <string name="chat_dashboard_newest_chatrooms">Newest chat rooms</string>
 
-    <string name="chat_room_access_not_allowed_default">You are not allowed to enter this room.</string>
-    <string name="chat_room_access_not_allowed_locked">This room is locked.</string>
-    <string name="chat_room_access_not_allowed_verified_only">This room is for verified users only.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">This room is only for users with content.</string>
     <string name="chat_room_empty">This room is empty.</string>
     <string name="chat_room_category_all">All categories</string>
     <string name="toast_chat_room_favourited">Room %s was added to your favourites.</string>
@@ -1164,6 +1146,12 @@
     <string name="toast_chatroom_logout_warning">Please write something into the chat, otherwise you will be automatically disconnected for inactivity.</string>
     <string name="dialog_chat_room_timeout_title">Inactivity timeout</string>
     <string name="dialog_chat_room_timeout_text">You have been logged out due to inactivity. You can either come back or choose another room.</string>
+    <string name="toast_webcam_friend_enter">Your friend %s just entered this room.</string>
+    <string name="toast_webcam_start_requested">You\'ve asked %s to turn the camera on.</string>
+    <plurals name="toast_webcam_start_request_received">
+        <item quantity="one">%s is asking you to turn your camera on!</item>
+        <item quantity="other">%s users are asking you to turn your camera on!</item>
+    </plurals>
 
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">This chat room is locked</string>
@@ -1182,8 +1170,11 @@
 
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Friends messages only</string>
-    <string name="chat_room_settings_room_management_section_title">Admin settings</string>
     <string name="chat_room_settings_message_filtering_section_title">Message filtering</string>
+    <string name="chat_room_settings_notifications_section_title">Notifications</string>
+    <string name="chat_room_settings_webcam_knock">Requests to turn on the camera</string>
+    <string name="chat_room_settings_friend_enter">Friend entered the chat room</string>
+    <string name="chat_room_settings_room_management_section_title">Admin settings</string>
     <string name="chat_room_settings_chat_design_section__title">Chat appearance</string>
     <string name="chat_room_settings_webcam_settings_section_title">Camera settings</string>
     <string name="chat_room_settings_about_me_messages_only">Messages about me</string>
@@ -1194,12 +1185,12 @@
     <string name="chat_room_settings_admin_handover_dialog_text">Do you want to hand over admin\'s rights to user %s?</string>
     <string name="chat_room_settings_admin_handover_dialog_button_confirm">Yes, hand over</string>
     <string name="toast_chat_room_settings_admin_rights_handed_over">Admin rights have been handed over to user %s.</string>
+
     <string name="chat_room_settings_font_size_title">Font size</string>
     <string name="chat_room_settings_font_size_normal">Small</string>
     <string name="chat_room_settings_font_size_bigger">Medium</string>
     <string name="chat_room_settings_font_size_biggest">Large</string>
     <string name="chat_room_settings_webcam_sound_default_option">Turn on sound by default</string>
-
     <string name="chat_room_settings_camera_permission_title">Who can watch my stream</string>
     <string name="chat_room_settings_hide_time_text">Hide time of messages</string>
 
@@ -1213,6 +1204,7 @@
     <string name="chat_room_settings_webcam_allow_uncheck_warning">At least 1 category must be allowed</string>
 
     <!-- Chat room whisper -->
+    <string name="chat_room_whisper_user_left">%s left the chat room…</string>
     <string name="chat_room_whisper_empty_title">No messages yet</string>
     <string name="chat_room_whisper_empty_text">Write a message or just a smiley :)</string>
     <string name="chat_room_whisper_webcam_placeholder_title">Turn on: %s</string>
@@ -1268,6 +1260,7 @@
     <string name="home_section_events_title">Events</string>
     <string name="home_section_stories_title">Stories</string>
     <string name="home_section_blogs_title">Blogs</string>
+    <string name="home_section_visits_title">Latest profile visits</string>
 
     <string name="home_section_favourites_videos_footer_title">All videos of my favourites</string>
     <string name="home_section_favourites_albums_footer_title">All albums of my favourites</string>
@@ -1278,6 +1271,7 @@
     <string name="home_section_events_footer_title">All events</string>
     <string name="home_section_stories_footer_title">All stories</string>
     <string name="home_section_blogs_footer_title">All blogs</string>
+    <string name="home_section_visits_footer_title">All visits</string>
     <string name="home_menu_edit_homepage">Edit homepage</string>
     <string name="home_menu_change_home_screen">Change default home screen</string>
 
@@ -1380,4 +1374,5 @@
         <item>Chat improvements</item>
         <item>Changes under the hood</item>
     </string-array>
+
 </resources>
