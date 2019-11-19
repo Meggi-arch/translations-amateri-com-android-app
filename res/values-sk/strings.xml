@@ -1309,4 +1309,16 @@
     <string name="dialog_profile_edit_leave_save_button">Uložiť zmeny</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Zahodiť zmeny a odísť</string>
 
+    <string name="profile_add_friend_already_friend">Už skôr pridaný</string>
+    <string name="profile_add_friend_already_requested">Už skôr požiadaný</string>
+
+    <string name="toast_webcam_friend_enter">Váš priateľ %s se práve pripojil k chatovacej miestnosti.</string>
+    <string name="toast_webcam_start_requested">Požiadali ste %s, aby zapol/a kameru.</string>
+    <string name="chat_room_settings_notifications_section_title">Upozornenia</string>
+    <string name="chat_room_settings_webcam_knock">Žiadosť o zapnutie kamery</string>
+    <string name="chat_room_settings_friend_enter">Vstup priateľa do miestnosti</string>
+    <string name="chat_room_whisper_user_left">%s opustil/a miestnosť …</string>
+    <string name="home_section_visits_title">Posledné návštevy profilu</string>
+
+    <string name="home_section_visits_footer_title">Všetky zobrazenia</string>
     </resources>
