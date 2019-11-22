@@ -1375,7 +1375,8 @@
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
         <item>Vylepšení chatu</item>
-        <item>Změny pod kapotou</item>
+        <item>Poslední návštěvy profilu na uvodní obrazovce</item>
+        <item>Oprava chyb</item>
     </string-array>
 
 </resources>

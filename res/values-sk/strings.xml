@@ -1296,4 +1296,12 @@
     <string name="home_section_visits_title">Posledné návštevy profilu</string>
 
     <string name="home_section_visits_footer_title">Všetky zobrazenia</string>
+
+    <!-- Update news dialog -->
+    <string-array name="update_news_dialog_items">
+        <item>Vylepšenia chatu</item>
+        <item>Posledné návštevy profilu na úvodnej obrazovke</item>
+        <item>Oprava chýb</item>
+    </string-array>
+
 </resources>
