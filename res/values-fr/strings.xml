@@ -15,7 +15,6 @@
     <string name="tab_best">Le meilleur</string>
 
     <string name="title_comments">Commentaires</string>
-    <string name="title_next_comments">Autres commentaires</string>
     <string name="title_next_albums">Autres albums de photos</string>
 
     <string name="menu_notification">Avertissements</string>
@@ -92,7 +91,6 @@
     <string name="notifications_title">Avertissement</string>
     <string name="notifications_visits">Visites</string>
     <string name="notifications_messages">Messages</string>
-    <string name="notifications_dating_messages">Réponses aux annonces</string>
     <string name="notifications_requests">Demandes d\'amis</string>
     <string name="notifications_favourites">Préférés</string>
 
@@ -155,10 +153,8 @@
         <item quantity="other">Afficher %s vidéos</item>
     </plurals>
     <string name="title_videos">Vidéos</string>
-    <string name="album_comment_fail">Le commentaire ne peut pas être envoyé</string>
 
     <string name="title_next_videos">Autres vidéos</string>
-    <string name="video_comment_fail">Le commentaire ne peut pas être envoyé</string>
 
     <string name="tab_videos">Vidéos</string>
     <string name="tab_video">Vidéos</string>
@@ -184,8 +180,6 @@
     <string name="profile_photo_library">Choisissez dans la bibliothèque</string>
     <string name="profile_photo_processing">La photo se charge</string>
     <string name="profile_photo_change">Changer la photo de profil</string>
-    <string name="profile_photo_fail">La photo de profil ne peut pas être téléchargée</string>
-    <string name="profile_photo_camera_fail">L\'application photo ne peut pas être trouvée</string>
 
     <string name="comment_write_hint">Ecrire un commentaire</string>
     <string name="emoticon_dialog_close">Fermer</string>
@@ -201,7 +195,6 @@
     <string name="title_settings">Configuration de l\'application</string>
     <string name="title_album_settings">Configuration de l\'album</string>
     <string name="title_video_settings">Configuration de la vidéo</string>
-    <string name="title_profile_settings">Configuration du contenu</string>
 
     <string name="album_comment_disallowed">Vous ne pouvez pas rajouter de commentaire à cet album maintenant.</string>
 
@@ -364,7 +357,6 @@
     <string name="notification_video_approve_text">Votre vidéo \"%s\" a été approuvée.</string>
 
     <string name="notification_update_text">Nous avons pour vous une meilleure version, plus juteuse de l\'application. Voulez-vous la télécharger ?</string>
-<string name="infinity_error_no_connection">Il semble que vous n\'êtes pas connecté à internet. Tapez pour réessayer.</string>
     <string name="dialog_android_unsupported_title">Fonction non soutenue</string>
     <string name="dialog_android_unsupported_text">Nous nous excusons, mais la version de votre système d\'opération est trop ancienne pour l\'utilisation de cette fonction :(</string>
 
@@ -389,7 +381,6 @@
     <string name="no_dating_ads_title">Annonces non trouvées</string>
     <string name="no_dating_ads_text">Aucune annonce trouvée pour le filtre choisi.</string>
 
-    <string name="dating_reply_button_send">Envoyer une réponse</string>
     <string name="dating_reply_hint">Votre réponse</string>
     <string name="toast_dating_reply_sent">Réponse envoyée</string>
     <string name="dating_reply_picture_attached">Photo jointe</string>
@@ -436,7 +427,6 @@
     <string name="filter_album_not_viewed">Non vu</string>
 
     <string name="notifications_ignored">Ignorer</string>
-    <string name="notifications_my_account_content_settings">Configuration du compte et du contenu</string>
     <string name="notifications_my_account">Mon compte</string>
     <string name="notifications_albums">Album photos</string>
     <string name="notifications_videos">Vidéos</string>
@@ -601,10 +591,7 @@
     <string name="toast_copied_message_text">Le message a été copié dans la boîte !</string>
     <string name="message_date_today">Aujourd\'hui</string>
     <string name="message_date_yesterday">Hier</string>
-    <string name="message_seen">Lu</string>
-    <string name="message_unseen">Non lu</string>
     <string name="message_send_failure">Nous sommes désolés, il semble qu\'un problème de connexion soit survenu et le message n\'a pas pu être envoyé.</string>
-    <string name="new_message_info">Vous avez un nouveau message</string>
     <string name="message_write_hint">Ecrire un message</string>
     <string name="take_a_picture">Prendre une photo</string>
     <string name="pick_from_gallery">Choisir dans la galerie</string>
@@ -785,10 +772,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">Vous n\'avez aucune salle préférée pour le moment.</string>
     <string name="chat_dashboard_newest_chatrooms">Salles les plus récentes</string>
 
-    <string name="chat_room_access_not_allowed_default">Vous n\'avez pas accès à cette salle.</string>
-    <string name="chat_room_access_not_allowed_locked">Cette salle est fermée.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Cette salle n\'est que pour les utilisateurs vérifiés.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Cette salle n\'est que pour les utilisateurs avec un contenu.</string>
     <string name="chat_room_empty">Cette salle est vide.</string>
     <string name="chat_room_category_all">Toutes les catégories</string>
     <string name="toast_chat_room_favourited">La salle %s a été ajoutée à vos préférées.</string>
@@ -949,7 +932,6 @@
     <string name="chat_room_settings_font_size_normal">Petit</string>
     <string name="chat_room_settings_font_size_bigger">Moyen</string>
     <string name="chat_room_settings_font_size_biggest">Grand</string>
-    <string name="chat_room_settings_webcam_sound_title">Son des caméras</string>
     <string name="chat_room_settings_webcam_sound_default_option">Son allumé automatiquement</string>
 
     <string name="chat_room_whisper_empty_title">Aucun message pour le moment</string>
@@ -1070,4 +1052,4 @@
     <string name="chatroom_add_country_title">Pays</string>
     <string name="chatroom_add_error_not_allowed">Vous ne pouvez pas ajouter de nouvelle salle de chat maintenant.</string>
 
-    </resources>
+</resources>

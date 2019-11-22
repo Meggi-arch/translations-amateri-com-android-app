@@ -18,7 +18,6 @@
     <string name="tab_best">Лучшее</string>
 
     <string name="title_comments">Комментарии</string>
-    <string name="title_next_comments">Другие комментарии</string>
     <string name="title_next_albums">Другие альбомы</string>
 
     <string name="menu_notification">Оповещения</string>
@@ -93,7 +92,6 @@
     <string name="notifications_title">Нотификация</string>
     <string name="notifications_visits">Просмотры профиля</string>
     <string name="notifications_messages">Сообщения</string>
-    <string name="notifications_dating_messages">Ответы на объявления</string>
     <string name="notifications_requests">Запросы на добавление в друзья</string>
     <string name="notifications_favourites">Избранное</string>
 
@@ -166,10 +164,8 @@
         <item quantity="other">Показать %s видео</item>
     </plurals>
     <string name="title_videos">Видео</string>
-    <string name="album_comment_fail">Невозможно отправить комментарий</string>
 
     <string name="title_next_videos">Больше видео</string>
-    <string name="video_comment_fail">Невозможно отправить комментарий</string>
 
     <string name="tab_videos">Видео</string>
     <string name="tab_video">Видео</string>
@@ -195,8 +191,6 @@
     <string name="profile_photo_library">Выбрать из библиотеки</string>
     <string name="profile_photo_processing">Фотография загружается</string>
     <string name="profile_photo_change">Изменить фото профиля</string>
-    <string name="profile_photo_fail">Не удается загрузить фото профиля</string>
-    <string name="profile_photo_camera_fail">Не удается найти приложение камеры</string>
 
     <string name="comment_write_hint">Написать комментарий</string>
     <string name="emoticon_dialog_close">Закрыть</string>
@@ -212,7 +206,6 @@
     <string name="title_settings">Настройки приложения</string>
     <string name="title_album_settings">Настройки альбома</string>
     <string name="title_video_settings">Настройки видео</string>
-    <string name="title_profile_settings">Настройки содержимого</string>
 
     <string name="album_comment_disallowed">Сейчас Вы не можете добавить комментарий к этому альбому.</string>
 
@@ -375,7 +368,6 @@
     <string name="notification_video_approve_text">Ваше видео \"%s\" было утверждено.</string>
 
     <string name="notification_update_text">У нас есть новая, более интересная версия приложения. Хотите скачать ее?</string>
-    <string name="infinity_error_no_connection">Скорее всего отсутствует интернет-соединение. Нажмите для перезагрузки.</string>
     <string name="title_blogs">Блоги</string>
     <string name="title_stories">Истории</string>
     <string name="title_application_settings">Настройки приложения</string>
@@ -393,7 +385,6 @@
     <string name="no_dating_ads_title">Объявления не найдены</string>
     <string name="no_dating_ads_text">Не было найдено объявлений в соответствии с фильтром.</string>
 
-    <string name="dating_reply_button_send">Ответить</string>
     <string name="dating_reply_hint">Ваш ответ</string>
     <string name="toast_dating_reply_sent">Ответ был отправлен</string>
     <string name="dating_reply_picture_attached">Фото добавлено</string>
@@ -433,7 +424,6 @@
     <string name="video_contest_unavailable">Конкурсы не найдены</string>
     <string name="filter_album_not_viewed">Не просмотрено</string>
 
-    <string name="notifications_my_account_content_settings">Настройки профиля и содержимого</string>
     <string name="notifications_my_account">Мой профиль</string>
     <string name="notifications_albums">Альбомы</string>
     <string name="notifications_videos">Видео</string>
@@ -576,10 +566,7 @@
     <string name="toast_copied_message_text">Сообщение было скопировано в буфер!</string>
     <string name="message_date_today">Сегодня</string>
     <string name="message_date_yesterday">Вчера</string>
-    <string name="message_seen">Прочитано</string>
-    <string name="message_unseen">Непрочитано</string>
     <string name="message_send_failure">Извините, но возникли проблемы с соединением и не удалось отправить сообщение.</string>
-    <string name="new_message_info">У вас новое непрочитанное сообщение</string>
     <string name="message_write_hint">Написать сообщение</string>
     <string name="user_sexual_hobbies_all">Все сексуальные хобби</string>
     <string name="buy_vip_title">Стать VIP членом</string>
@@ -646,7 +633,6 @@
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
     <string name="update_news_dialog_title">Новое в этой версии</string>
 
-    <string name="conversation_list_filter_all">Все переписки</string>
     <string name="me">Я</string>
     <string name="popup_conversation_mark_read">Отметить как прочитанное</string>
     <string name="popup_conversation_delete">Удалить переписку</string>
@@ -666,7 +652,7 @@
 
     <string name="user_sent_a_photo">%s отправил(-а) фото</string>
     <string name="i_sent_a_photo">Фото отправлено</string>
-<string name="title_events">События</string>
+    <string name="title_events">События</string>
     <string name="title_chat">Чат</string>
     <string name="tab_friends">Друзья</string>
 
@@ -762,10 +748,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">У вас нет избранных комнат.</string>
     <string name="chat_dashboard_newest_chatrooms">Новые чат-комнаты</string>
 
-    <string name="chat_room_access_not_allowed_default">У вас нет доступа в данную комнату.</string>
-    <string name="chat_room_access_not_allowed_locked">Эта чат-комната закрыта.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Эта чат-комната только для верифицированных пользователей.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Эта чат-комната только для пользователей с контентом.</string>
     <string name="chat_room_empty">Эта чат-комната пуста.</string>
     <string name="chat_room_category_all">Все категории</string>
     <string name="toast_chat_room_favourited">Комната %s была добавлена в избранное.</string>
@@ -843,8 +825,6 @@
     <string name="dating_edit_toast_empty_fields">Все поля должны быть заполнены.</string>
 
     <string name="edittext_invalid_input_empty">Поле %s должно быть заполнено</string>
-
-    <string name="dating_settings_status_edited">Отредактировано</string>
 
     <string name="notification_channel_general">Общие уведомления</string>
     <string name="notification_channel_messages">Уведомления о сообщениях</string>
@@ -1001,7 +981,6 @@
     <string name="dialog_webcam_data_connection_button_confirm">Включить камеру</string>
     <string name="dialog_webcam_data_connection_button_cancel">Оставить камеру выключенной</string>
 
-    <string name="chat_room_settings_webcam_sound_title">Звук вебкамеры</string>
     <string name="chat_room_settings_webcam_sound_default_option">Звук по-умолчанию включен</string>
 
     <string name="chat_room_whisper_webcam_placeholder_title">Включить: %s</string>
@@ -1112,9 +1091,7 @@
     <string name="dialog_chat_room_timeout_title">Временной лимит бездействия</string>
     <string name="chat_room_settings_about_me_messages_only">Сообщение обо мне</string>
     <string name="chat_room_settings_camera_permission_title">Кто может смотреть мою камеру</string>
-    <string name="chat_room_settings_hide_time_title">Время</string>
     <string name="chat_room_settings_hide_time_text">Скрыть время сообщений</string>
-    <string name="chat_room_settings_hide_avatar_title">Аватар</string>
     <string name="chat_room_settings_hide_avatar_text">Скрыть аватары пользователей</string>
 
     <string name="home_menu_edit_homepage">Редактировать главную страницу</string>
@@ -1218,4 +1195,4 @@
     <string name="conversation_to_favourites_added_toast">Переписка была добавлена в избранное.</string>
     <string name="conversation_from_favourites_removed_toast">Переписка была удалена из избранного.</string>
 
-    </resources>
+</resources>

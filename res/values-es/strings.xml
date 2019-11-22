@@ -15,7 +15,6 @@
     <string name="tab_best">Mejores</string>
 
     <string name="title_comments">Comentarios</string>
-    <string name="title_next_comments">Más comentarios</string>
     <string name="title_next_albums">Más álbumes</string>
 
     <string name="menu_notification">Notificaciones</string>
@@ -92,7 +91,6 @@
     <string name="notifications_title">Notificación</string>
     <string name="notifications_visits">Visitas</string>
     <string name="notifications_messages">Mensajes</string>
-    <string name="notifications_dating_messages">Respuestas a tus anuncios</string>
     <string name="notifications_requests">Solicitudes de amistad</string>
     <string name="notifications_favourites">Me añadió a favoritos</string>
 
@@ -155,10 +153,8 @@
         <item quantity="other">Mostrar %s vídeos</item>
     </plurals>
     <string name="title_videos">Vídeos</string>
-    <string name="album_comment_fail">No se pudo enviar el comentario</string>
 
     <string name="title_next_videos">Más vídeos</string>
-    <string name="video_comment_fail">No se pudo enviar el comentario</string>
 
     <string name="tab_videos">Vídeos</string>
     <string name="tab_video">Vídeo</string>
@@ -184,8 +180,6 @@
     <string name="profile_photo_library">Seleccionar de la biblioteca</string>
     <string name="profile_photo_processing">Cargando foto</string>
     <string name="profile_photo_change">Cambiar la foto de perfil</string>
-    <string name="profile_photo_fail">No se pudo cargar la foto de perfil</string>
-    <string name="profile_photo_camera_fail">No se pudo encontrar la aplicación de la cámara</string>
 
     <string name="comment_write_hint">Escribir un comentario</string>
     <string name="emoticon_dialog_close">Cerrar</string>
@@ -201,7 +195,6 @@
     <string name="title_settings">Configuración de la aplicación</string>
     <string name="title_album_settings">Configuración del álbum</string>
     <string name="title_video_settings">Configuración de vídeo</string>
-    <string name="title_profile_settings">Configuración de contenido</string>
 
     <string name="album_comment_disallowed">No puede añadir un comentario a este álbum ahora.</string>
 
@@ -364,7 +357,6 @@
     <string name="notification_video_approve_text">Su vídeo \"%s\" ha sido aprobado.</string>
 
     <string name="notification_update_text">Está disponible una versión mejorada y más jugosa de la aplicación. ¿Desea descargarla?</string>
-<string name="infinity_error_no_connection">Parece que no hay conexión a Internet. Toque para intentarlo de nuevo.</string>
     <string name="dialog_android_unsupported_title">Característica incompatible</string>
     <string name="dialog_android_unsupported_text">Lo sentimos, pero la versión de su sistema Android es demasiado antigua para usar esta característica :(</string>
 
@@ -389,7 +381,6 @@
     <string name="no_dating_ads_title">No se encontraron anuncios de citas</string>
     <string name="no_dating_ads_text">No se encontraron anuncios de citas para el filtro seleccionado.</string>
 
-    <string name="dating_reply_button_send">Enviar respuesta</string>
     <string name="dating_reply_hint">Su respuesta</string>
     <string name="toast_dating_reply_sent">La respuesta ha sido enviada</string>
     <string name="dating_reply_picture_attached">Foto adjunta</string>
@@ -436,7 +427,6 @@
     <string name="filter_album_not_viewed">No visto</string>
 
     <string name="notifications_ignored">Lista de ignorados</string>
-    <string name="notifications_my_account_content_settings">Configuración de cuenta y contenido</string>
     <string name="notifications_my_account">Mi cuenta</string>
     <string name="notifications_albums">Álbumes</string>
     <string name="notifications_videos">Vídeos</string>
@@ -601,10 +591,7 @@
     <string name="toast_copied_message_text">¡El mensaje ha sido copiado a su portapapeles!</string>
     <string name="message_date_today">Hoy</string>
     <string name="message_date_yesterday">Ayer</string>
-    <string name="message_seen">Leído</string>
-    <string name="message_unseen">No leído</string>
     <string name="message_send_failure">Lo sentimos, parece que ha habido un problema de red y su mensaje no ha sido enviado.</string>
-    <string name="new_message_info">Tiene un nuevo mensaje</string>
     <string name="message_write_hint">Escriba un mensaje</string>
     <string name="take_a_picture">Tomar una foto</string>
     <string name="pick_from_gallery">Elegir de la galería</string>
@@ -785,10 +772,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">No tiene salas de chat favoritas aún.</string>
     <string name="chat_dashboard_newest_chatrooms">Salas de chat más recientes</string>
 
-    <string name="chat_room_access_not_allowed_default">No está autorizado a acceder a esta sala.</string>
-    <string name="chat_room_access_not_allowed_locked">Esta sala está bloqueada.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Esta sala es solo para usuarios verificados.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Esta sala es solo para usuarios con contenido.</string>
     <string name="chat_room_empty">Esta sala está vacía.</string>
     <string name="chat_room_category_all">Todas las categorías</string>
     <string name="toast_chat_room_favourited">La sala %s fue añadida a sus favoritos.</string>
@@ -949,7 +932,6 @@
     <string name="chat_room_settings_font_size_normal">Pequeño</string>
     <string name="chat_room_settings_font_size_bigger">Medio</string>
     <string name="chat_room_settings_font_size_biggest">Grande</string>
-    <string name="chat_room_settings_webcam_sound_title">Sonido de cámara</string>
     <string name="chat_room_settings_webcam_sound_default_option">Encender por defecto</string>
 
     <string name="chat_room_whisper_empty_title">Ningún mensaje aún</string>
@@ -1070,4 +1052,4 @@
     <string name="chatroom_add_country_title">País</string>
     <string name="chatroom_add_error_not_allowed">No se pudo añadir una nueva sala de chat ahora.</string>
 
-    </resources>
+</resources>

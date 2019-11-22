@@ -22,7 +22,6 @@
     <string name="tab_best">Migliori</string>
 
     <string name="title_comments">Commenti</string>
-    <string name="title_next_comments">Più commenti</string>
     <string name="title_next_albums">Più album</string>
 
     <string name="menu_notification">Notifiche</string>
@@ -94,7 +93,6 @@
     <string name="notifications_title">Notifica</string>
     <string name="notifications_visits">Visite</string>
     <string name="notifications_messages">Messaggi</string>
-    <string name="notifications_dating_messages">Risposte ai tuoi annunci</string>
     <string name="notifications_requests">Richieste di amicizia</string>
     <string name="notifications_favourites">Preferiti</string>
 
@@ -157,10 +155,8 @@
         <item quantity="other">Mostra %s video</item>
     </plurals>
     <string name="title_videos">Video</string>
-    <string name="album_comment_fail">Impossibile inviare il commento</string>
 
     <string name="title_next_videos">Più video</string>
-    <string name="video_comment_fail">Impossibile inviare il commento</string>
 
     <string name="tab_videos">Video</string>
     <string name="tab_video">Video</string>
@@ -186,8 +182,6 @@
     <string name="profile_photo_library">Seleziona dalla libreria</string>
     <string name="profile_photo_processing">Caricamento foto in corso</string>
     <string name="profile_photo_change">Cambia la foto del profilo</string>
-    <string name="profile_photo_fail">Impossibile caricare la foto del profilo</string>
-    <string name="profile_photo_camera_fail">Impossibile trovare l\'app della fotocamera</string>
 
     <string name="comment_write_hint">Scrivi un commento</string>
     <string name="emoticon_dialog_close">Chiudi</string>
@@ -203,7 +197,6 @@
     <string name="title_settings">Impostazioni applicazione</string>
     <string name="title_album_settings">Impostazioni album</string>
     <string name="title_video_settings">Impostazioni video</string>
-    <string name="title_profile_settings">Impostazioni contenuti</string>
 
     <string name="album_comment_disallowed">Impossibile aggiungere un commento a questo album ora.</string>
 
@@ -366,7 +359,6 @@
     <string name="notification_video_approve_text">Il tuo video \"%s\" è stato approvato.</string>
 
     <string name="notification_update_text">Una nuova versione migliorata e più eccitante dell\'applicazione è disponibile. Vuoi scaricarla?</string>
-<string name="infinity_error_no_connection">Sembra non ci sia alcuna connessione a Internet. Tocca per riprovare.</string>
     <string name="dialog_android_unsupported_title">Funzione non supportata</string>
     <string name="dialog_android_unsupported_text">Spiacenti, ma la versione del tuo sistema Android non è abbastanza recente per utilizzare questa funzione :(</string>
 
@@ -391,7 +383,6 @@
     <string name="no_dating_ads_title">Nessun annuncio per appuntamenti trovato</string>
     <string name="no_dating_ads_text">Nessun annuncio per appuntamenti trovato per il filtro selezionato.</string>
 
-    <string name="dating_reply_button_send">Invia risposta</string>
     <string name="dating_reply_hint">La tua risposta</string>
     <string name="toast_dating_reply_sent">La risposta è stata inviata</string>
     <string name="dating_reply_picture_attached">Foto allegata</string>
@@ -438,7 +429,6 @@
     <string name="filter_album_not_viewed">Non visto</string>
 
     <string name="notifications_ignored">Elenco ignorati</string>
-    <string name="notifications_my_account_content_settings">Impostazioni di account e contenuti</string>
     <string name="notifications_my_account">Il mio account</string>
     <string name="notifications_albums">Album</string>
     <string name="notifications_videos">Video</string>
@@ -603,10 +593,7 @@
     <string name="toast_copied_message_text">Il messaggio è stato copiato negli appunti!</string>
     <string name="message_date_today">Oggi</string>
     <string name="message_date_yesterday">Ieri</string>
-    <string name="message_seen">Letto</string>
-    <string name="message_unseen">Non letto</string>
     <string name="message_send_failure">Spiacenti, sembra si sia verificato un problema di rete e il tuo messaggio non è stato inviato.</string>
-    <string name="new_message_info">Hai un nuovo messaggio</string>
     <string name="message_write_hint">Scrivi un messaggio</string>
     <string name="take_a_picture">Scatta una foto</string>
     <string name="pick_from_gallery">Scegli dalla galleria</string>
@@ -787,10 +774,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">Non hai ancora chatroom preferite.</string>
     <string name="chat_dashboard_newest_chatrooms">Chatroom più recenti</string>
 
-    <string name="chat_room_access_not_allowed_default">Non hai il permesso per entrare in questa stanza.</string>
-    <string name="chat_room_access_not_allowed_locked">Questa stanza è chiusa.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Questa stanza è solo per utenti verificati.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Questa stanza è solo per utenti con contenuti.</string>
     <string name="chat_room_empty">Questa stanza è vuota.</string>
     <string name="chat_room_category_all">Tutte le categorie</string>
     <string name="toast_chat_room_favourited">La stanza %s è stata aggiunta ai tuoi preferiti.</string>
@@ -956,7 +939,6 @@
     <string name="chat_room_settings_font_size_normal">Piccolo</string>
     <string name="chat_room_settings_font_size_bigger">Medio</string>
     <string name="chat_room_settings_font_size_biggest">Grande</string>
-    <string name="chat_room_settings_webcam_sound_title">Audio dello streaming</string>
     <string name="chat_room_settings_webcam_sound_default_option">Attiva per impostazione predefinita</string>
     <string name="chat_room_settings_camera_permission_title">Chi può guardare il mio streaming</string>
 
@@ -1070,4 +1052,4 @@
     <string name="chatroom_add_country_title">Paese</string>
     <string name="chatroom_add_error_not_allowed">Non puoi aggiungere una nuova chatroom ora.</string>
 
-    </resources>
+</resources>

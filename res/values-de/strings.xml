@@ -15,7 +15,6 @@
     <string name="tab_best">Beste</string>
 
     <string name="title_comments">Kommentare</string>
-    <string name="title_next_comments">Weitere Kommentare</string>
     <string name="title_next_albums">Weitere Fotoalben</string>
 
     <string name="menu_notification">Hinweis</string>
@@ -89,7 +88,6 @@
     <string name="notifications_title">Benachrichtigung</string>
     <string name="notifications_visits">Besuche</string>
     <string name="notifications_messages">Nachrichten</string>
-    <string name="notifications_dating_messages">Antworten auf Anzeigen</string>
     <string name="notifications_requests">Freundschaftsanfragen</string>
     <string name="notifications_favourites">Favoriten</string>
 
@@ -156,10 +154,8 @@
         <item quantity="other">Show %s videos</item>
     </plurals>
     <string name="title_videos">Videos</string>
-    <string name="album_comment_fail">Es ist nicht möglich, einen Kommentar abzusenden</string>
 
     <string name="title_next_videos">Mehr Videos</string>
-    <string name="video_comment_fail">Es lässt sich kein Kommentar absenden</string>
 
     <string name="tab_videos">Videos</string>
     <string name="tab_video">Videen</string>
@@ -185,8 +181,6 @@
     <string name="profile_photo_library">Wählen Sie aus der Bibliothek aus</string>
     <string name="profile_photo_processing">Das Foto wird hochgeladen</string>
     <string name="profile_photo_change">Profilfoto ändern</string>
-    <string name="profile_photo_fail">Es lässt sich kein Profilfoto hochladen</string>
-    <string name="profile_photo_camera_fail">Es lässt sich keine Foto-App finden</string>
 
     <string name="comment_write_hint">Einen Kommentar schreiben</string>
     <string name="emoticon_dialog_close">Schließen</string>
@@ -201,7 +195,6 @@
 
     <string name="title_album_settings">Album-Einstellungen</string>
     <string name="title_video_settings">Video-Einstellungen</string>
-    <string name="title_profile_settings">Inhaltseinstellungen</string>
 
     <string name="album_comment_disallowed">Sie können kein Kommentar zu diesem Album hinzufügen.</string>
     <string name="video_comment_disallowed">Sie können kein Kommentar zu diesem Video hinzufügen.</string>
@@ -369,7 +362,6 @@
     <string name="title_new_video">Neues Video hinzufügen</string>
     <string name="title_my_account">Mein Konto</string>
 
-    <string name="notifications_my_account_content_settings">Konto und Inhalts-einstellungen</string>
     <string name="notifications_my_account">Mein Konto</string>
     <string name="notifications_albums">Fotoalben</string>
     <string name="notifications_videos">Videen</string>
@@ -488,7 +480,6 @@
 
     <string name="logout_during_uploading_dialog_title">Wollen Sie sich wirklich abmelden?</string>
     <string name="logout_during_uploading_dialog_content">"Alle nicht hochgeladene Dateien gehen verloren."</string>
-    <string name="infinity_error_no_connection">Es scheint, dass Sie nicht über eine Internetverbindung verfügen. Tappen Sie um erneut zu versuchen.</string>
     <string name="title_blogs">Blogs</string>
     <string name="title_stories">Geschichten</string>
     <string name="title_next_blogs">Weitere Artikeln</string>
@@ -541,7 +532,6 @@
     <string name="no_dating_ads_title">Keine Anzeigen gefunden</string>
     <string name="no_dating_ads_text">Keine Anzeigen für ausgewählte Filter gefunden.</string>
 
-    <string name="dating_reply_button_send">Antwort abschicken</string>
     <string name="dating_reply_hint">Ihre Antwort</string>
     <string name="toast_dating_reply_sent">Antwort wurde verschickt</string>
     <string name="dating_reply_picture_attached">Foto beigefügt</string>
@@ -572,10 +562,7 @@
     <string name="toast_copied_message_text">Nachricht wurde in den Zwischenspeicher kopiert!</string>
     <string name="message_date_today">Heute</string>
     <string name="message_date_yesterday">Gestern</string>
-    <string name="message_seen">Gelesen</string>
-    <string name="message_unseen">Nicht gelesen</string>
     <string name="message_send_failure">Es scheint, dass ein Netzwerkproblem aufgetreten ist und Ihre Nachricht nicht gesendet wurde.</string>
-    <string name="new_message_info">Sie haben neue Nachricht</string>
     <string name="message_write_hint">Nachricht schreiben</string>
     <string name="vip_recurring_payment_advantages">Der Vorteil der automatischen Verlängerung der VIP-Mitgliedschaft ist, dass man nicht immer neu die Zahlung definieren und bestätigen muss. Zu Beginn der nächsten Periode werden Sie Informationen über die Erweiterung informiert.</string>
     <string name="buy_vip_title">Werden Sie VIP Mitglied</string>
@@ -660,7 +647,7 @@
     <string name="no_users_found_message">Keine Anwender gefunden</string>
     <string name="user_sent_a_photo">%s hat Ihnen ein Foto geschickt</string>
     <string name="i_sent_a_photo">Sie haben ein Foto geschickt</string>
-<string name="title_events">Treffen</string>
+    <string name="title_events">Treffen</string>
     <string name="title_chat">Chat</string>
     <string name="tab_friends">Freunde</string>
 
@@ -761,10 +748,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">Sie haben keine Lieblingsräume.</string>
     <string name="chat_dashboard_newest_chatrooms">Neueste Chaträume</string>
 
-    <string name="chat_room_access_not_allowed_default">Sie haben keinen Zugang zu diesem Raum.</string>
-    <string name="chat_room_access_not_allowed_locked">Raum ist gesperrt.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Dieser Raum ist nur für zertifizierte Anwender.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Dieser Raum ist nur für Anwender mit Inhalt.</string>
     <string name="chat_room_empty">Dieser Raum ist Leer.</string>
     <string name="chat_room_category_all">Alle Kategorien</string>
     <string name="toast_chat_room_favourited">Raum %s wurde zu Ihren Favoriten hinzugefügt.</string>
@@ -963,10 +946,7 @@
     <string name="dialog_webcam_data_connection_text">Sie verwenden eine mobile Datenverbindung. Überwachungskameras können viele Daten verbrauchen.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Kamera einschalten</string>
     <string name="dialog_webcam_data_connection_button_cancel">Kamera ausgeschaltet lassen</string>
-
-    <string name="chat_room_settings_webcam_sound_title">Kameraton</string>
     <string name="chat_room_settings_webcam_sound_default_option">Standardmäßig Ton aktivieren</string>
-
     <string name="chat_room_whisper_webcam_placeholder_title">Aktivieren: %s</string>
 
     <string name="profile_edit_section_profile_info">Allgemeine Information</string>
@@ -1144,9 +1124,7 @@
     <string name="new_note_dialog_backpress">Neue Notiz wird nicht erstellt. Alle von Ihnen vorgenommenen Änderungen gehen verloren.</string>
 
     <string name="chat_room_settings_about_me_messages_only">Nachrichten über mich</string>
-    <string name="chat_room_settings_hide_time_title">Zeit</string>
     <string name="chat_room_settings_hide_time_text">Zeit der Nachrichten ausblenden</string>
-    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
     <string name="chat_room_settings_hide_avatar_text">Benutzer-Avatare ausblenden</string>
 
     <string name="bottomsheet_video_player_settings_title">Videoqualitätseinstellung</string>
@@ -1245,4 +1223,4 @@
     <string name="dialog_profile_edit_leave_save_button">Änderungen speichern</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Änderungen verwerfen und verlassen</string>
 
-    </resources>
+</resources>

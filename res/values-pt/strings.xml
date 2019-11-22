@@ -18,7 +18,6 @@
     <string name="tab_best">Melhores</string>
 
     <string name="title_comments">Comentários</string>
-    <string name="title_next_comments">Mais comentários</string>
     <string name="title_next_albums">Mais álbuns</string>
 
     <string name="menu_notification">Notificações</string>
@@ -92,7 +91,6 @@
     <string name="notifications_title">Notificação</string>
     <string name="notifications_visits">Visitas</string>
     <string name="notifications_messages">Mensagens</string>
-    <string name="notifications_dating_messages">Respostas aos seus anúncios</string>
     <string name="notifications_requests">Solicitações de amizade</string>
     <string name="notifications_favourites">Favoritos</string>
 
@@ -157,10 +155,8 @@
         <item quantity="other">Mostrar %s vídeos</item>
     </plurals>
     <string name="title_videos">Vídeos</string>
-    <string name="album_comment_fail">Não é possível enviar um comentário</string>
 
     <string name="title_next_videos">Mais vídeos</string>
-    <string name="video_comment_fail">Não é possível enviar o comentário</string>
 
     <string name="tab_videos">Vídeos</string>
     <string name="tab_video">Vídeos</string>
@@ -186,8 +182,6 @@
     <string name="profile_photo_library">Selecionar da biblioteca</string>
     <string name="profile_photo_processing">Enviando uma foto</string>
     <string name="profile_photo_change">Alterar foto do perfil</string>
-    <string name="profile_photo_fail">Não é possível carregar foto do perfil</string>
-    <string name="profile_photo_camera_fail">Não é possível localizar um aplicativo de câmera</string>
 
     <string name="comment_write_hint">Escreva um comentário</string>
     <string name="emoticon_dialog_close">Fechar</string>
@@ -203,7 +197,6 @@
     <string name="title_settings">Configurações do aplicativo</string>
     <string name="title_album_settings">Configurações do álbum</string>
     <string name="title_video_settings">Configurações de vídeo</string>
-    <string name="title_profile_settings">Configurações de conteúdo</string>
 
     <string name="album_comment_disallowed">Não é possível adicionar um comentário a este álbum agora.</string>
 
@@ -366,7 +359,6 @@
     <string name="notification_video_approve_text">Seu vídeo \"%s\" foi aprovado.</string>
 
     <string name="notification_update_text">Uma nova versão aprimorada e mais suculenta do aplicativo está disponível. Deseja baixá-lo?</string>
-<string name="infinity_error_no_connection">Parece não haver conexão com a Internet. Toque para tentar novamente.</string>
     <string name="dialog_android_unsupported_title">Recurso não suportado</string>
     <string name="dialog_android_unsupported_text">Desculpe, mas sua versão do sistema Android é muito antiga para usar esse recurso :(</string>
 
@@ -391,7 +383,6 @@
     <string name="no_dating_ads_title">Nenhum anúncio de encontro localizado</string>
     <string name="no_dating_ads_text">Nenhum anúncio de encontro localizado para o filtro selecionado.</string>
 
-    <string name="dating_reply_button_send">Enviar resposta</string>
     <string name="dating_reply_hint">Sua resposta</string>
     <string name="toast_dating_reply_sent">Resposta enviada</string>
     <string name="dating_reply_picture_attached">Foto anexada</string>
@@ -438,7 +429,6 @@
     <string name="filter_album_not_viewed">Não visto</string>
 
     <string name="notifications_ignored">Ignorar lista</string>
-    <string name="notifications_my_account_content_settings">Configurações de conteúdo</string>
     <string name="notifications_my_account">Minha conta</string>
     <string name="notifications_albums">Álbuns</string>
     <string name="notifications_videos">Vídeos</string>
@@ -604,10 +594,7 @@
     <string name="toast_copied_message_text">A mensagem foi copiada para sua área de transferência!</string>
     <string name="message_date_today">Hoje</string>
     <string name="message_date_yesterday">Ontem</string>
-    <string name="message_seen">Lido</string>
-    <string name="message_unseen">Não lido</string>
     <string name="message_send_failure">Lamentamos, porece que ocorreu um problema de rede e sua mensagem não foi enviada.</string>
-    <string name="new_message_info">Você tem um nova mensagem</string>
     <string name="message_write_hint">Escrever uma mensagem</string>
     <string name="take_a_picture">Tirar uma foto</string>
     <string name="pick_from_gallery">Selecionar da galeria</string>
@@ -853,10 +840,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">Você ainda não tem salas de bate-papo favoritas.</string>
     <string name="chat_dashboard_newest_chatrooms">Novas salas de bate-papo</string>
 
-    <string name="chat_room_access_not_allowed_default">Você não tem permissão para entrar nesta sala.</string>
-    <string name="chat_room_access_not_allowed_locked">Esta sala está bloqueada.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Esta sala é apenas para usuários verificados.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Esta sala é apenas para usuários com conteúdo.</string>
     <string name="chat_room_empty">Esta sala está vazia.</string>
     <string name="chat_room_empty_button_disable_filter_try_again">Desative o filtro e tente novamente</string>
     <string name="dialog_chat_room_leave_title">Deseja sair da sala?</string>
@@ -1005,7 +988,6 @@
     <string name="chat_room_settings_font_size_normal">Pequena</string>
     <string name="chat_room_settings_font_size_bigger">Média</string>
     <string name="chat_room_settings_font_size_biggest">Grande</string>
-    <string name="chat_room_settings_webcam_sound_title">Som das transmissões</string>
     <string name="chat_room_settings_webcam_sound_default_option">Ativar por padrão</string>
     <string name="chat_room_settings_camera_permission_title">Quem pode assistir minha transmissão</string>
 
@@ -1069,4 +1051,4 @@
     <string name="chat_room_settings_admin_handover_dialog_text">Deseja transferir os direitos de administrador para o usuário %s?</string>
     <string name="chat_room_settings_admin_handover_dialog_button_confirm">Sim, transferir</string>
     <string name="toast_chat_room_settings_admin_rights_handed_over">Os direitos de administrador foram transferidos para o usário %s.</string>
-    </resources>
+</resources>

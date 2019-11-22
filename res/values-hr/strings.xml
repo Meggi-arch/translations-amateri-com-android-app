@@ -22,7 +22,6 @@
     <string name="tab_best">Najbolje</string>
 
     <string name="title_comments">Komentari</string>
-    <string name="title_next_comments">Više komentara</string>
     <string name="title_next_albums">Više album</string>
 
     <string name="menu_notification">Obavijesti</string>
@@ -94,7 +93,6 @@
     <string name="notifications_title">Obavijest</string>
     <string name="notifications_visits">Posjeta</string>
     <string name="notifications_messages">Poruke</string>
-    <string name="notifications_dating_messages">Odgovori na vaše oglase</string>
     <string name="notifications_requests">Zahtjevi za prijateljstvom</string>
     <string name="notifications_favourites">Favoriti</string>
 
@@ -167,10 +165,8 @@
         <item quantity="other">Prikaži %s videozapisa</item>
     </plurals>
     <string name="title_videos">Videozapisi</string>
-    <string name="album_comment_fail">Ne može se poslati komentar</string>
 
     <string name="title_next_videos">Još videozapisa</string>
-    <string name="video_comment_fail">Ne može se poslati komentar</string>
 
     <string name="tab_videos">Videozapisi</string>
     <string name="tab_video">Videozapisi</string>
@@ -196,8 +192,6 @@
     <string name="profile_photo_library">Odaberite u biblioteci</string>
     <string name="profile_photo_processing">Prenošenje fotografije</string>
     <string name="profile_photo_change">Promjena fotografije profila</string>
-    <string name="profile_photo_fail">Ne može se prenijeti fotografija profila</string>
-    <string name="profile_photo_camera_fail">Ne može se naći aplikacija kamere</string>
 
     <string name="comment_write_hint">Napišite komentar</string>
     <string name="emoticon_dialog_close">Zatvori</string>
@@ -213,7 +207,6 @@
     <string name="title_settings">Postavke aplikacije</string>
     <string name="title_album_settings">Postavke albuma</string>
     <string name="title_video_settings">Postavke videozapisa</string>
-    <string name="title_profile_settings">Postavke sadržaja</string>
 
     <string name="album_comment_disallowed">Sada ne možete dodati komentar ovom albumu.</string>
 
@@ -376,7 +369,6 @@
     <string name="notification_video_approve_text">Vaš videozapis \"%s\" je odobren.</string>
 
     <string name="notification_update_text">Dostupna je nova poboljšana i sočnija verzija aplikacije. Želite li ju preuzeti?</string>
-<string name="infinity_error_no_connection">Čini se da nema veze s internetom. Dodirnite za ponovni pokušaj.</string>
     <string name="dialog_android_unsupported_title">Nepodržana funkcija</string>
     <string name="dialog_android_unsupported_text">Žao nam je, ali vaša verzija Android sustava je prestara za korištenje ove funkcije :(</string>
 
@@ -401,7 +393,6 @@
     <string name="no_dating_ads_title">Nema pronađenih oglasa za upoznavanje</string>
     <string name="no_dating_ads_text">Nema pronađenih oglasa za upoznavanje prema odabranom filtru.</string>
 
-    <string name="dating_reply_button_send">Pošalji odgovor</string>
     <string name="dating_reply_hint">Vaš odgovor</string>
     <string name="toast_dating_reply_sent">Odgovor je poslan</string>
     <string name="dating_reply_picture_attached">Fotografija je priložena</string>
@@ -448,7 +439,6 @@
     <string name="filter_album_not_viewed">Neviđeno</string>
 
     <string name="notifications_ignored">Popis zanemarenih</string>
-    <string name="notifications_my_account_content_settings">Postavke računa i sadržaja</string>
     <string name="notifications_my_account">Moj račun</string>
     <string name="notifications_albums">Albumi</string>
     <string name="notifications_videos">Videozapisi</string>
@@ -613,10 +603,7 @@
     <string name="toast_copied_message_text">Poruka je kopirana u vaš međuspremnik!</string>
     <string name="message_date_today">Danas</string>
     <string name="message_date_yesterday">Jučer</string>
-    <string name="message_seen">Pročitano</string>
-    <string name="message_unseen">Nepročitano</string>
     <string name="message_send_failure">Žao nam je, čini se da postoji problem s mrežom, vaša poruka nije poslana.</string>
-    <string name="new_message_info">Imate novu poruku</string>
     <string name="message_write_hint">Napiši poruku</string>
     <string name="take_a_picture">Napravi fotografiju</string>
     <string name="pick_from_gallery">Odaberi iz galerije</string>
@@ -797,10 +784,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">Još nemate omiljenih soba za čavrljanje.</string>
     <string name="chat_dashboard_newest_chatrooms">Najnovije sobe za čavrljanje</string>
 
-    <string name="chat_room_access_not_allowed_default">Nemate dozvolu za ulaz u ovu sobu.</string>
-    <string name="chat_room_access_not_allowed_locked">Ova soba je zaključana.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Ova soba namijenjena je samo potvrđenim korisnicima.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Ova soba namijenjena je samo korisnicima sa sadržajem.</string>
     <string name="chat_room_empty">Ova soba je prazna.</string>
     <string name="chat_room_category_all">Sve kategorije</string>
     <string name="toast_chat_room_favourited">Soba %s je dodana u vaše favorite.</string>
@@ -961,7 +944,6 @@
     <string name="chat_room_settings_font_size_normal">Malo</string>
     <string name="chat_room_settings_font_size_bigger">Srednje</string>
     <string name="chat_room_settings_font_size_biggest">Veliko</string>
-    <string name="chat_room_settings_webcam_sound_title">Zvuk strujanja</string>
     <string name="chat_room_settings_webcam_sound_default_option">Uključen po zadanim postavkama</string>
 
     <string name="chat_room_whisper_empty_title">Još nema poruka</string>
@@ -1082,4 +1064,4 @@
     <string name="chatroom_add_country_title">Država</string>
     <string name="chatroom_add_error_not_allowed">Trenutno ne možete dodati novu sobu za čavrljanje.</string>
 
-    </resources>
+</resources>

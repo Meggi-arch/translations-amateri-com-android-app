@@ -15,7 +15,6 @@
     <string name="tab_best">Najlepsze</string>
 
     <string name="title_comments">Komentarze</string>
-    <string name="title_next_comments">Więcej komentarzy</string>
     <string name="title_next_albums">Więcej albumów</string>
 
     <string name="menu_notification">Powiadomienia</string>
@@ -92,7 +91,6 @@
     <string name="notifications_title">Powiadomienia</string>
     <string name="notifications_visits">Odwiedziny</string>
     <string name="notifications_messages">Wiadomości</string>
-    <string name="notifications_dating_messages">Odpowiedzi na ogłoszenia</string>
     <string name="notifications_requests">Propozycje dodania do znajomych</string>
     <string name="notifications_favourites">Ulubieni</string>
 
@@ -165,10 +163,8 @@
         <item quantity="other">Wyświetlić %s wideo</item>
     </plurals>
     <string name="title_videos">Widea</string>
-    <string name="album_comment_fail">Nie można wysłać komentarza</string>
 
     <string name="title_next_videos">Więcej wideo</string>
-    <string name="video_comment_fail">Nie można wysłać komentarza</string>
 
     <string name="tab_videos">Widea</string>
     <string name="tab_video">Widea</string>
@@ -194,8 +190,6 @@
     <string name="profile_photo_library">Wybierz z biblioteki</string>
     <string name="profile_photo_processing">Wgrywam zdjęcie</string>
     <string name="profile_photo_change">Zmień zdjęcie profilowe</string>
-    <string name="profile_photo_fail">Nie można załadować zdjęcia profilowego</string>
-    <string name="profile_photo_camera_fail">Nie można znaleźć aplikacji fotograficznej</string>
 
     <string name="comment_write_hint">Napisać komentarz</string>
     <string name="emoticon_dialog_close">Zamknąć</string>
@@ -211,7 +205,6 @@
     <string name="title_settings">Ustawienia</string>
     <string name="title_album_settings">Ustawienie albumu</string>
     <string name="title_video_settings">Ustawienie wideo</string>
-    <string name="title_profile_settings">Ustawienie treści</string>
 
     <string name="album_comment_disallowed">Do tego albumu nie można obecnie dodawać komentarzy.</string>
 
@@ -374,7 +367,7 @@
     <string name="notification_video_approve_text">Twoje wideo \"%s\" zostało zatwierdzone.</string>
 
     <string name="notification_update_text">Mamy dla Ciebie lepsza bardziej soczystą wersję aplikacji. Czy chcesz ją pobrać?</string>
-<string name="dialog_android_unsupported_title">Ta funkcja nie jest wspierana</string>
+    <string name="dialog_android_unsupported_title">Ta funkcja nie jest wspierana</string>
     <string name="dialog_android_unsupported_text">Przepraszamy, ale wersja Twojego systemu operacyjnego jest zbyt stara, aby użyć tej funkcji :(</string>
 
     <string name="title_home">Strona domowa</string>
@@ -385,7 +378,6 @@
     <string name="title_application_settings">Ustawienia aplikacji</string>
     <string name="title_new_album">Dodaj nowy album</string>
     <string name="title_new_video">Dodaj nowe wideo</string>
-    <string name="infinity_error_no_connection">Wygląda na to, że nie masz połączenie z Internetem. Dotykając spróbuj ponownie.</string>
     <string name="title_my_account">Moje konto</string>
     <string name="title_profile">Profil</string>
     <string name="title_dating">Serwis randkowy</string>
@@ -399,7 +391,6 @@
     <string name="no_dating_ads_title">Nie znaleziono ogłoszeń</string>
     <string name="no_dating_ads_text">Dla wybranego filtra nie znaleziono żadnych ogłoszeń.</string>
 
-    <string name="dating_reply_button_send">Wyślij odpowiedź</string>
     <string name="dating_reply_hint">Twoja odpowiedź</string>
     <string name="toast_dating_reply_sent">Wysłano odpowiedź</string>
     <string name="dating_reply_picture_attached">Załączono zdjęcie</string>
@@ -450,7 +441,6 @@
     <string name="notifications_videos">Wideo</string>
     <string name="notifications_dating">Ogłoszenia</string>
 
-    <string name="notifications_my_account_content_settings">Ustawienia konta i treści</string>
     <string name="notifications_ignored">Lista ignorowanych</string>
     <string name="article_info_share">Podziel się z przyjaciółmi</string>
     <string name="blog_number">Numer blogu</string>
@@ -611,10 +601,7 @@
     <string name="toast_copied_message_text">Wiadomość została skopiowana do Twojej skrzynki!</string>
     <string name="message_date_today">Dzisiaj</string>
     <string name="message_date_yesterday">Wczoraj</string>
-    <string name="message_seen">Przeczytane</string>
-    <string name="message_unseen">Nieprzeczytane</string>
     <string name="message_send_failure">Przepraszamy, wygląda na to, że wystąpił błąd w sieci i Twoja wiadomość nie została wysłana.</string>
-    <string name="new_message_info">Masz nową wiadomość</string>
     <string name="message_write_hint">Napisz wiadomość</string>
     <string name="take_a_picture">Zrób zdjęcie</string>
     <string name="pick_from_gallery">Wybierz z galerii</string>
@@ -787,9 +774,6 @@
 
     <string name="chat_dashboard_online_friends">Przyjaciele na czacie</string>
     <string name="chat_dashboard_online_friends_empty">Obecnie nie ma żadnego przyjaciela na czacie.</string>
-    <string name="chat_room_access_not_allowed_locked">Ten pokój jest zamknięty.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Ten pokój jest tylko dla sprawdzonych użytkowników.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Ten pokój jest tylko dla użytkowników z treścią.</string>
     <string name="chat_room_empty">Ten pokój jest pusty.</string>
     <string name="chat_room_category_all">Wszystkie kategorie</string>
     <string name="toast_chat_room_favourited">Pokój %s został dodany do Twoich ulubionych.</string>
@@ -845,7 +829,6 @@
     <string name="dating_settings_toast_dating_ad_deleted">Ogłoszenie zostało usunięte.</string>
 
     <string name="success">Gotowe</string>
-    <string name="chat_room_access_not_allowed_default">Nie masz dostępu do tego pokoju.</string>
     <string name="chat_room_list_permanent">Stałe pokoje</string>
     <string name="chat_room_list_temporary">Tymczasowe pokoje</string>
 
@@ -957,7 +940,6 @@
     <string name="toast_chat_webcam_slot_unavailable">Więcej transmisji już się nie zmieści.</string>
     <string name="toast_webcam_permission_denied_webrtc_only">Ten użytkownik nie korzysta z transmisji WebRTC.</string>
     <string name="dialog_chat_room_knock_title_waiting">Czekam na odpowiedź od administratora pokoju…</string>
-    <string name="chat_room_settings_webcam_sound_title">Dźwięk transmisji</string>
     <string name="chat_room_settings_webcam_sound_default_option">Włączono dźwięk automatyczny</string>
     <string name="chat_room_settings_camera_permission_title">Śledzenie kamery sieciowej</string>
 
@@ -1078,4 +1060,4 @@
     <string name="chatroom_add_allowed_users_man">Mężczyzna</string>
     <string name="chatroom_add_allowed_users_woman">Kobieta</string>
     <string name="chatroom_add_allowed_users_couple">Para kobieta &amp; mężczyzna</string>
-    </resources>
+</resources>

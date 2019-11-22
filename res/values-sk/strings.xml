@@ -14,7 +14,6 @@
     <string name="tab_best">Najlepšie</string>
 
     <string name="title_comments">Komentáre</string>
-    <string name="title_next_comments">Ďalšie komentáre</string>
     <string name="title_next_albums">Ďalšie fotoalbumy</string>
 
     <string name="menu_notification">Upozornenie</string>
@@ -89,7 +88,6 @@
     <string name="notifications_title">Notifikácie</string>
     <string name="notifications_visits">Návštevy</string>
     <string name="notifications_messages">Pošta</string>
-    <string name="notifications_dating_messages">Odpovede na inzeráty</string>
     <string name="notifications_requests">Žiadosti o priateľstvo</string>
     <string name="notifications_favourites">Obľúbení</string>
 
@@ -161,10 +159,8 @@
         <item quantity="other">Zobraziť %s videí</item>
     </plurals>
     <string name="title_videos">Videá</string>
-    <string name="album_comment_fail">Nie je možné odoslať komentár</string>
 
     <string name="title_next_videos">Ďalšie videá</string>
-    <string name="video_comment_fail">Nie je možné odoslať komentár</string>
 
     <string name="tab_videos">Videá</string>
     <string name="tab_video">Videá</string>
@@ -190,8 +186,6 @@
     <string name="profile_photo_library">Vyberte z knižnice</string>
     <string name="profile_photo_processing">Fotografia sa nahráva</string>
     <string name="profile_photo_change">Zmeniť profilovku</string>
-    <string name="profile_photo_fail">Nie je možne nahrať profilovku</string>
-    <string name="profile_photo_camera_fail">Nie je možné nájsť fotoaplikáciu</string>
 
     <string name="comment_write_hint">Napísať komentár</string>
     <string name="emoticon_dialog_close">Zavrieť</string>
@@ -209,7 +203,6 @@
 
     <string name="title_album_settings">Nastavenia Albumu</string>
     <string name="title_video_settings">Nastavenia videa</string>
-    <string name="title_profile_settings">Nastavenia obsahu</string>
 
     <string name="album_comment_disallowed">K tomuto albumu nemôžete pridať komentár.</string>
     <string name="video_comment_disallowed">K tomuto videu nemôžete pridať komentár.</string>
@@ -379,7 +372,6 @@
     <string name="title_new_video">Pridať nové video</string>
     <string name="title_my_account">Môj účet</string>
 
-    <string name="notifications_my_account_content_settings">Nastavenia účtu a obsahu</string>
     <string name="notifications_my_account">Môj účet</string>
     <string name="notifications_albums">Fotoalbumy</string>
     <string name="notifications_videos">Videá</string>
@@ -498,7 +490,6 @@
 
     <string name="logout_during_uploading_dialog_title">Naozaj sa chcete odhlásiť?</string>
     <string name="logout_during_uploading_dialog_content">Všetky nahrané súbory budú stratené.</string>
-    <string name="infinity_error_no_connection">Zdá se, že nemáte pripojenie k internetu. Tapnutím skúste znovu.</string>
     <string name="title_blogs">Blogy</string>
     <string name="title_stories">Poviedky</string>
     <string name="title_next_blogs">Ďalšie články</string>
@@ -548,7 +539,6 @@
     <string name="no_dating_ads_title">Neboli nájdené inzeráty</string>
     <string name="no_dating_ads_text">Neboli nájdené žiadne inzeráty pre zvolený filter.</string>
 
-    <string name="dating_reply_button_send">Poslať odpoveď</string>
     <string name="dating_reply_hint">Vaša odpoveď</string>
     <string name="toast_dating_reply_sent">Odpoveď bola odoslaná</string>
     <string name="dating_reply_picture_attached">Fotografia priložená</string>
@@ -581,10 +571,7 @@
     <string name="toast_copied_message_text">Správa bola skopírovaná do schránky!</string>
     <string name="message_date_today">Dnes</string>
     <string name="message_date_yesterday">Včera</string>
-    <string name="message_seen">Prečítané</string>
-    <string name="message_unseen">Neprečítané</string>
     <string name="message_send_failure">Prepáčte, zdá sa že nastal problém s pripojením a vaša správa nebola odoslaná.</string>
-    <string name="new_message_info">Máte novú správu</string>
     <string name="message_write_hint">Napísať správu</string>
     <string name="buy_vip_title">Staň sa VIP členom</string>
     <string name="vip_promo_title">Špeciálna ponuka</string>
@@ -801,10 +788,6 @@
     <string name="chat_dashboard_favourite_chatrooms_empty">Zatiaľ nemáte žiadne obľúbené miestnosti.</string>
     <string name="chat_dashboard_newest_chatrooms">Najnovšie miestnosti</string>
 
-    <string name="chat_room_access_not_allowed_default">Do tejto miestnosti nemáte prístup.</string>
-    <string name="chat_room_access_not_allowed_locked">Táto miestnosť je zamknutá.</string>
-    <string name="chat_room_access_not_allowed_verified_only">Táto miestnosť je iba pre overených užívateľov.</string>
-    <string name="chat_room_access_not_allowed_with_content_only">Táto miestnosť je iba pre užívateľov s obsahom.</string>
     <string name="chat_room_empty">Táto miestnosť je prázdna.</string>
     <string name="chat_room_category_all">Všetky kategórie</string>
     <string name="toast_chat_room_favourited">Miestnosť %s bola pridaná medzi vaše obľúbené.</string>
@@ -892,11 +875,6 @@
         <item quantity="few">Prosím zadajte maximálne %d znaky</item>
         <item quantity="other">Prosím zadajte maximálne %d znakov</item>
     </plurals>
-
-    <!-- Update news dialog -->
-    <string-array name="update_news_dialog_items">
-        <item>Pridávanie a úpravy inzerátov v zoznamke</item>
-    </string-array>
 
     <string name="notification_channel_general">Všeobecné notifikácie</string>
     <string name="notification_channel_messages">Notifikácie so správami</string>
@@ -1085,7 +1063,6 @@
     <string name="dialog_webcam_data_connection_button_confirm">Zapnúť kameru</string>
     <string name="dialog_webcam_data_connection_button_cancel">Nechať kameru vypnutú</string>
 
-    <string name="chat_room_settings_webcam_sound_title">Zvuk vysielaní</string>
     <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnutý zvuk</string>
 
     <string name="janus_fragment_retry_text">Prerušené. Obnoviť?</string>
@@ -1210,9 +1187,7 @@
     <string name="new_note_dialog_backpress">Nová poznámka nebude vytvorená. Prevedené zmeny budú stratené.</string>
 
     <string name="chat_room_settings_about_me_messages_only">Správy o mne</string>
-    <string name="chat_room_settings_hide_time_title">Čas</string>
     <string name="chat_room_settings_hide_time_text">Skryť čas správ</string>
-    <string name="chat_room_settings_hide_avatar_title">Avatar</string>
     <string name="chat_room_settings_hide_avatar_text">Skryť avatary užívateľov</string>
 
     <string name="title_city">Mesto</string>
@@ -1321,4 +1296,4 @@
     <string name="home_section_visits_title">Posledné návštevy profilu</string>
 
     <string name="home_section_visits_footer_title">Všetky zobrazenia</string>
-    </resources>
+</resources>
