@@ -1223,4 +1223,16 @@
     <string name="dialog_profile_edit_leave_save_button">Änderungen speichern</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Änderungen verwerfen und verlassen</string>
 
-</resources>
+<string name="profile_add_friend_already_friend">Zuvor hinzugefügt</string>
+    <string name="profile_add_friend_already_requested">Zuvor angefordert</string>
+
+    <string name="toast_webcam_friend_enter">Ihr Freund %s ist gerade dem Chatraum beigetreten.</string>
+    <string name="toast_webcam_start_requested">Sie haben %s aufgefordert, die Kamera einzuschalten.</string>
+    <string name="chat_room_settings_notifications_section_title">Warnung</string>
+    <string name="chat_room_settings_webcam_knock">Aufforderung zum Einschalten der Kamera</string>
+    <string name="chat_room_settings_friend_enter">Freund betrat den Chatraum</string>
+    <string name="chat_room_whisper_user_left">%s hat den Raum verlassen …</string>
+    <string name="home_section_visits_title">Letzte Profilbesuche</string>
+
+    <string name="home_section_visits_footer_title">Alle Besuche</string>
+    </resources>
