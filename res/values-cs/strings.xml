@@ -17,6 +17,8 @@
     <string name="title_dating">Seznamka</string>
     <string name="title_events">Srazy</string>
     <string name="title_chat">Chat</string>
+    <string name="title_safe_mode_disabled">Zapnout slušný režim</string>
+    <string name="title_safe_mode_enabled">Vypnout slušný režim</string>
     <string name="title_logout">Odhlásit se</string>
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Odeslat feedback</string>
@@ -527,12 +529,15 @@
     <string name="fab_add_chatroom">Přidat chat místnost</string>
 
     <!--MyAccountSettingsFragment-->
+    <string name="my_account_content">Obsah</string>
     <string name="my_account_content_settings">Zdroj obsahu</string>
     <string name="my_account_other_settings">Další nastavení</string>
     <string name="my_account_content_source_max">Jsou povoleny nejvýše %d země</string>
     <string name="all_countries">Všechny země</string>
-
     <string name="my_account_hide_categories">Nezobrazovat kategorie</string>
+    <string name="my_account_social_login">Přihlášení sociální sítí</string>
+    <string name="my_account_social_login_connect">Nastavit</string>
+    <string name="my_account_social_login_disconnect">Odpojit</string>
 
     <!--NewAlbumActivity-->
     <string name="new_album_save">Uložit a pokračovat</string>
@@ -1020,6 +1025,16 @@
     <string name="blogs_settings_delete_confirm">Smazat</string>
     <string name="blogs_settings_delete_toast">Článek byl úspešně smazán.</string>
 
+    <!-- MessagesSettingsFragment -->
+    <string name="messages_settings_title">Kdo mě může kontaktovat</string>
+    <string name="messages_settings_info_description">Aby vás uživatelé mohli kontaktovat, musí být splněny všechny podmínky.\n
+        \nPřátelé vám mohou psát vždy bez ohledu na podmínky, které jste nastavili.</string>
+    <string name="messages_settings_everyone">Všichni užívatelé</string>
+    <string name="messages_settings_content_users">S alby/videi</string>
+    <string name="messages_settings_vip">VIP uživatelé</string>
+    <string name="messages_settings_verified">Ověření uživatelé</string>
+    <string name="messages_settings_friends_only">Pouze přátelé</string>
+
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
     <string name="dating_settings_no_dating_ads_text">Přidat inzerát je snadné a můžete začít hned teď.</string>
@@ -1374,9 +1389,10 @@
 
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
+        <item>Nový slušný režim</item>
+        <item>Přihlášení přes sociální sítě</item>
+        <item>Nastavení soukromí ve vzkazníku</item>
         <item>Vylepšení chatu</item>
-        <item>Poslední návštěvy profilu na uvodní obrazovce</item>
-        <item>Oprava chyb</item>
     </string-array>
 
 </resources>
