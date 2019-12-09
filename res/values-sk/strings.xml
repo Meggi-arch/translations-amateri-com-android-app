@@ -1304,4 +1304,24 @@
         <item>Oprava chýb</item>
     </string-array>
 
-</resources>
+<string name="title_safe_mode_disabled">Zapnúť slušný režím</string>
+    <string name="title_safe_mode_enabled">Vypnúť slušný režím</string>
+    <string name="title_messages">Pošta</string>
+    <string name="my_account_content">Obsah</string>
+    <string name="my_account_social_login">Prihlásenie sociálnej siete</string>
+    <string name="my_account_social_login_connect">Nastaviť</string>
+    <string name="my_account_social_login_disconnect">Odpojiť</string>
+    <string name="social_login_error">Chyba</string>
+    <string name="my_account_disconnect_dialog_title">Odpojiť prihlásenie cez sociálne siete?</string>
+    <string name="my_account_disconnect_dialog">Naozaj chcete odpojiť prihlásenie cez sociálne siete?</string>
+    <string name="my_account_disconnect">Odpojiť</string>
+
+    <string name="messages_settings_title">Kto ma môže kontaktovať</string>
+    <string name="messages_settings_info_description">Aby vás užívatelia mohli kontaktovať, musia byť splnené všetky podmienky.↵\n ↵\nPriatelia vám môžu písať vždy bez ohľadu na podmienky, ktoré ste nastavili.</string>
+    <string name="messages_settings_everyone">Všetci užívatelia</string>
+    <string name="messages_settings_content_users">S albami/videami</string>
+    <string name="messages_settings_vip">VIP užívatelia</string>
+    <string name="messages_settings_verified">Overení užívatelia</string>
+    <string name="messages_settings_friends_only">Iba priatelia</string>
+
+    </resources>
