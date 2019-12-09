@@ -1395,4 +1395,10 @@
         <item>Vylepšení chatu</item>
     </string-array>
 
-</resources>
+<string name="my_account_disconnect">Odpojit</string>
+
+    <string name="title_messages">Vzkazy</string>
+    <string name="social_login_error">Chyba</string>
+    <string name="my_account_disconnect_dialog">Opravdu chcete toto přihlášení sociální sítí odpojit?</string>
+    <string name="my_account_disconnect_dialog_title">Odpojit přihlášení sociální sítí?</string>
+    </resources>
