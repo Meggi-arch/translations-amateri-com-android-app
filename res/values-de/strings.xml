@@ -1235,4 +1235,24 @@
     <string name="home_section_visits_title">Letzte Profilbesuche</string>
 
     <string name="home_section_visits_footer_title">Alle Besuche</string>
+    <string name="title_safe_mode_disabled">Anständigen Modus einschalten</string>
+    <string name="title_safe_mode_enabled">Anständigen Modus ausschalten</string>
+    <string name="title_messages">Nachrichten</string>
+    <string name="my_account_content">Inhalt</string>
+    <string name="my_account_social_login">Anmeldung über soziale Netzwerke</string>
+    <string name="my_account_social_login_connect">Einstellen</string>
+    <string name="my_account_social_login_disconnect">Trennen</string>
+    <string name="social_login_error">Fehler</string>
+    <string name="my_account_disconnect_dialog_title">Anmeldung über soziale Netzwerke abschalten?</string>
+    <string name="my_account_disconnect_dialog">Wollen Sie wirklich Anmeldung über soziale Netzwerke abschalten?</string>
+    <string name="my_account_disconnect">Trennen</string>
+
+    <string name="messages_settings_title">Wer mich kontaktieren kann</string>
+    <string name="messages_settings_info_description">Alle Bedingungen müssen erfüllt sein, damit Benutzer Sie kontaktieren können\n  ↵\nFreunde können Ihnen immer schreiben, egal welche Bedingungen Sie einstellen.</string>
+    <string name="messages_settings_everyone">Alle Benutzer</string>
+    <string name="messages_settings_content_users">Mit Alben/Videen</string>
+    <string name="messages_settings_vip">VIP Benutzer</string>
+    <string name="messages_settings_verified">Verifizierte Benutzer</string>
+    <string name="messages_settings_friends_only">Nur Freunde</string>
+
     </resources>
