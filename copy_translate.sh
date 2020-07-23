@@ -1,4 +1,4 @@
-# ./smlink.sh /Users/michalks/Documents/Gitlab2/translations-amateri-com-android-app/res /Users/michalks/Documents/Gitlab2/amateri-app/mobile/src/main/res
+# ./copy_translate.sh ./res ../mobile/src/main/res
 if (( $# < 2 )); then
     echo "usage: ./smlink.sh <from /res> <to /res>"
     exit 1
@@ -40,8 +40,8 @@ for d in values* ; do
 		    rm -f $target_file
 		fi
 
-		echo "ln -s $source_file $target_file"
-		ln -s $source_file $target_file
+		echo "cp $source_file $target_file"
+		cp $source_file $target_file
 	fi
 
 done
