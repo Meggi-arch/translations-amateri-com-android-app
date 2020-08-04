@@ -1,42 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="yes">да</string>
     <string name="no">Нет</string>
-
     <string name="general_error">Ой!</string>
     <string name="general_error_no_connection">Кажется, у вас нет соединения с интернетом. Пожалуйста, попробуйте позже.</string>
     <string name="general_loading">Пожалуйста, подождите, данные загружаются</string>
-
     <string name="title_album">Альбомы</string>
     <string name="title_people">Люди</string>
     <string name="title_logout">Выход</string>
     <string name="title_version">Версия %s</string>
     <string name="title_feedback">Отправить отзыв</string>
     <string name="title_new_version">Новая версия!</string>
-
     <string name="tab_latest">Новое</string>
     <string name="tab_best">Лучшее</string>
-
     <string name="title_comments">Комментарии</string>
     <string name="title_next_albums">Другие альбомы</string>
-
     <string name="menu_notification">Оповещения</string>
     <string name="menu_badges">Теги</string>
     <string name="menu_reset">Сбросить</string>
-
     <string name="action_try_again">Попробовать снова</string>
-
     <string name="hint_username">Псевдоним</string>
     <string name="hint_password">Пароль</string>
-
     <string name="tab_albums">Альбомы</string>
     <string name="tab_info">Информация</string>
     <string name="tab_user">Пользователи</string>
     <string name="tab_album">Альбомы</string>
-
     <string name="filter_advanced">Расширенный фильтр</string>
     <string name="filter_sort_by">Сортировать по</string>
-
     <string name="title_personal_info">Личная информация</string>
     <string name="title_sex">Пол</string>
     <string name="title_age">Возраст</string>
@@ -64,19 +54,15 @@
     <string name="profile_male">Мужчина</string>
     <string name="profile_female">Женщина</string>
     <string name="profile_group">Группа</string>
-
     <string name="title_filter">Поиск</string>
-
     <string name="user_country_all">Все страны</string>
     <string name="user_region_all">Все регионы</string>
     <string name="user_sexual_orientation_all">Все сексуальные ориентации</string>
     <string name="user_marital_status_all">Любое семейное положение</string>
     <string name="no_users_found">Пользователи не найдены</string>
-
     <string name="album_theme_all">Все темы</string>
     <string name="album_contest_all">Конкурс не был выбран</string>
     <string name="no_albums_found">Альбомы не найдены</string>
-
     <string name="author">Автор</string>
     <string name="category">Категория</string>
     <string name="photo_count">Количество фотографий</string>
@@ -88,50 +74,38 @@
     <string name="added">Добавлено</string>
     <string name="album_number">ID альбома</string>
     <string name="album_address">URL-адрес альбома</string>
-
     <string name="notifications_title">Нотификация</string>
     <string name="notifications_visits">Просмотры профиля</string>
     <string name="notifications_messages">Сообщения</string>
     <string name="notifications_requests">Запросы на добавление в друзья</string>
     <string name="notifications_favourites">Избранное</string>
-
     <string name="update_dialog_title">Новая версия</string>
     <string name="update_dialog_content">У нас есть новая, более интересная версия приложения. Хотите скачать её?</string>
     <string name="update_dialog_later">Позже</string>
     <string name="update_dialog_download">Скачать</string>
-
     <string name="old_dialog_title">Старая версия</string>
     <string name="old_dialog_content">К сожалению, вы используете версию приложения, которая больше не поддерживается. Мы сделали для вас новую, более интересную и улучшенную версию. Хотите скачать?</string>
     <string name="old_dialog_exit">Уйти</string>
-
     <string name="timeout_dialog_title">Сессия устарела</string>
     <string name="timeout_dialog_content">Пожалуйста, войдите снова.</string>
-
     <string name="redirect_dialog_title">Вы будете перенаправлены</string>
     <string name="redirect_dialog_content">Эта часть приложения доступна только через веб-интерфейс. Вы хотите перейти на веб-сайт?</string>
-
     <string name="unauthorized_dialog_title">Вы не вошли</string>
     <string name="unauthorized_dialog_content">Вам нужно авторизоваться, чтобы использовать эту функцию.</string>
     <string name="unauthorized_dialog_register">Зарегистрироваться</string>
-
     <string name="lists_error_dialog_title">Ошибка соединения</string>
     <string name="lists_error_dialog_content">Пожалуйста, проверьте соединение с интернетом.</string>
     <string name="lists_error_dialog_retry">Повторить попытку</string>
-
     <string name="button_login">Войти</string>
     <string name="button_registration">Регистрация</string>
     <string name="button_entry">Войти без логина</string>
-
     <string name="title_filter_results">Результаты поиска</string>
-
     <string name="invalid_login_dialog_title">Неверный логин</string>
     <string name="invalid_login_dialog_content">Вы ввели неверную информацию.</string>
     <string name="invalid_login_dialog_retry">Попробовать снова</string>
     <string name="invalid_login_dialog_forgot_password">Я не помню пароль</string>
-
     <string name="feedback_dialog_title">Отзыв</string>
     <string name="feedback_dialog_text">Спасибо за то, что вы помогаете нам в разработке приложения. Мы будем рады получить ваш отзыв, пожалуйста, перейдите по ссылке в левом меню.</string>
-
     <!-- plurals -->
     <plurals name="people">
         <item quantity="one">%s человеку понравилось</item>
@@ -164,59 +138,44 @@
         <item quantity="other">Показать %s видео</item>
     </plurals>
     <string name="title_videos">Видео</string>
-
     <string name="title_next_videos">Больше видео</string>
-
     <string name="tab_videos">Видео</string>
     <string name="tab_video">Видео</string>
-
     <string name="video_contest_all">Конкурс не был выбран</string>
     <string name="no_videos_found">Видео не найдено</string>
-
     <string name="video_duration">Продолжительность</string>
-
     <string name="vip_dialog_title">Извините, но только VIP-пользователи могут использовать данную функцию бесплатно.</string>
     <string name="vip_dialog_activate">Я хочу стать VIP-пользователем</string>
     <string name="vip_dialog_login">Войти</string>
     <string name="vip_dialog_register">Зарегистрироваться</string>
-
     <string name="title_activity_feedback">Отправить отзыв</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">категория</string>
     <string name="feedback_message">ваше сообщение</string>
     <string name="feedback_send">Отправить</string>
     <string name="feedback_category_default">Выберите категорию</string>
-
     <string name="profile_photo_camera">Сделать фото</string>
     <string name="profile_photo_library">Выбрать из библиотеки</string>
     <string name="profile_photo_processing">Фотография загружается</string>
     <string name="profile_photo_change">Изменить фото профиля</string>
-
     <string name="comment_write_hint">Написать комментарий</string>
     <string name="emoticon_dialog_close">Закрыть</string>
     <string name="emoticon_no_emoticons">Без смайликов</string>
-
     <string name="search_hint">Поиск</string>
     <string name="search_album_hint">Поиск по альбомам</string>
     <string name="search_video_hint">Поиск по видео</string>
     <string name="search_user_hint">Поиск по пользователям</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
-
     <string name="title_settings">Настройки приложения</string>
     <string name="title_album_settings">Настройки альбома</string>
     <string name="title_video_settings">Настройки видео</string>
-
     <string name="album_comment_disallowed">Сейчас Вы не можете добавить комментарий к этому альбому.</string>
-
     <string name="video_comment_disallowed">Сейчас Вы не можете добавить комментарий к этому видео.</string>
-
     <string name="album_filter_show_all">Показать альбомы</string>
     <string name="video_filter_show_all">Показать видео</string>
-
     <string name="video_number">ID видео</string>
     <string name="video_address">URL-адрес видео</string>
-
     <string name="verify_button">Подтвердить профиль</string>
     <string name="verify_title">Получить более надежный профиль прямо сейчас</string>
     <string name="verify_chooser_title">Выберите фотографию</string>
@@ -225,7 +184,6 @@
     <string name="verify_send">Загрузить фотографию для проверки</string>
     <string name="verify_done_text">Новая фотография была загружена. Фотография будет проверена администратором. Спасибо.</string>
     <string name="done">Готово!</string>
-
     <string name="setup_notifications">Нотификации</string>
     <string name="setup_notification_new_message">Новое сообщение</string>
     <string name="setup_notification_advert_reply">Новый ответ на объявление о знакомстве</string>
@@ -246,7 +204,6 @@
     <string name="setup_current_version">Текущая версия</string>
     <string name="setup_update_check">Проверить обновления</string>
     <string name="setup_no_updates">Нет доступных обновлений</string>
-
     <string name="locked_unlock">Разблокировать</string>
     <string name="locked_forgot_pin">Вспомнить PIN-код</string>
     <string name="locked_pin_hint">PIN-код</string>
@@ -254,10 +211,8 @@
     <string name="locked_bad_pin_title">Неверный PIN-код</string>
     <string name="locked_bad_pin_retry">Попробуйте снова</string>
     <string name="locked_bad_pin_forgot">Вспомнить PIN-код</string>
-
     <string name="forgot_pin_forgot_password">Вспомнить пароль</string>
     <string name="forgot_pin_title">Пожалуйста, войдите снова.</string>
-
     <string name="dialog_pin_title_new">Введите новый PIN-код</string>
     <string name="dialog_pin_title_old">Введите текущий PIN-код</string>
     <string name="dialog_pin_text_setup">Введите 4-значный PIN-код.</string>
@@ -268,7 +223,6 @@
     <string name="dialog_pin_hint_2">Введите PIN-код снова</string>
     <string name="dialog_pin_remove">Удалить</string>
     <string name="dialog_pin_create">Создать</string>
-
     <string name="album_settings_title">Название</string>
     <string name="album_settings_title_hint">Введите название</string>
     <string name="album_settings_description">Описание</string>
@@ -294,7 +248,6 @@
     <string name="album_not_vip_confirm">Выключить пароль блокировки?</string>
     <string name="album_not_vip_main_button">Выключить</string>
     <string name="album_not_vip_other_button">Отмена</string>
-
     <string name="video_settings_title">Название</string>
     <string name="video_settings_title_hint">Введите название</string>
     <string name="video_settings_description">Описание</string>
@@ -318,19 +271,16 @@
     <string name="video_not_vip_confirm">Выключить пароль блокировки?</string>
     <string name="video_not_vip_main_button">Выключить</string>
     <string name="video_not_vip_other_button">Отмена</string>
-
     <string name="profile_album_settings_edit_error">Вы не можете редактировать этот альбом</string>
     <string name="visibility_on">Включено</string>
     <string name="visibility_off">Отключено</string>
     <string name="no_album_title">У Вас еще нет альбомов.</string>
     <string name="no_album_text">Добавить альбом легко, Вы можете начать прямо сейчас.</string>
     <string name="add_album">Добавить новый альбом</string>
-
     <string name="profile_video_settings_edit_error">Вы не можете редактировать это видео</string>
     <string name="no_video_title">У Вас еще нет видео.</string>
     <string name="no_video_text">Добавить видео легко, Вы можете начать прямо сейчас.</string>
     <string name="add_video">Добавить новое видео</string>
-
     <string name="notification_profile">Профиль</string>
     <string name="notification_message">Сообщение</string>
     <string name="notification_album">Альбом</string>
@@ -340,33 +290,23 @@
     <string name="notification_friendship_accept">Принять</string>
     <string name="notification_dating_respond">Ответить</string>
     <string name="notification_more_info">Узнать больше</string>
-
     <string name="notification_profile_view_title">Новое посещение профиля</string>
     <string name="notification_profile_view_text">%s только что посетил(-а) Ваш профиль.</string>
-
     <string name="notification_dating_ad_title">Новый ответ на объявление о знакомстве</string>
-
     <string name="notification_friendship_request_title">Новый запрос на добавление в друзья</string>
     <string name="notification_friendship_request_text">Пользователь %s хочет быть Вашим другом!</string>
-
     <string name="notification_friendship_approve_title">Запрос на добавление в друзья принят</string>
     <string name="notification_friendship_approve_text">Поздравляем, Вы и %s теперь друзья.</string>
-
     <string name="notification_favourite_add_title">Вы были добавлены в избранное</string>
     <string name="notification_favourite_add_text">Пользователь %s добавил Вас в избранное.</string>
-
     <string name="notification_album_comment_add_title">Новый комментарий к альбому</string>
     <string name="notification_album_comment_add_text">%1$s добавил комментарий к Вашему альбому \"%2$s\": %3$s</string>
-
     <string name="notification_video_comment_add_title">Новый комментарий к видео</string>
     <string name="notification_video_comment_add_text">%1$s добавил комментарий к Вашему видео \"%2$s\": %3$s</string>
-
     <string name="notification_album_approve_title">Альбом утвержден</string>
     <string name="notification_album_approve_text">Ваш альбом \"%s\" был утвержден.</string>
-
     <string name="notification_video_approve_title">Видео утверждено</string>
     <string name="notification_video_approve_text">Ваше видео \"%s\" было утверждено.</string>
-
     <string name="notification_update_text">У нас есть новая, более интересная версия приложения. Хотите скачать ее?</string>
     <string name="title_blogs">Блоги</string>
     <string name="title_stories">Истории</string>
@@ -375,28 +315,21 @@
     <string name="title_new_video">Добавить видео</string>
     <string name="title_my_account">Мой профиль</string>
     <string name="title_dating">Знакомства</string>
-
     <string name="title_next_blogs">Читать далее</string>
     <string name="blog_comment_disallowed">К данному материалу невозможно добавить комментарий в данный момент.</string>
-
     <string name="title_next_story">Больше историй</string>
     <string name="story_comment_disallowed">Вы не можете в данный момент добавить комментарий к этой истории.</string>
-
     <string name="no_dating_ads_title">Объявления не найдены</string>
     <string name="no_dating_ads_text">Не было найдено объявлений в соответствии с фильтром.</string>
-
     <string name="dating_reply_hint">Ваш ответ</string>
     <string name="toast_dating_reply_sent">Ответ был отправлен</string>
     <string name="dating_reply_picture_attached">Фото добавлено</string>
     <string name="dialog_delete_attachment_title">Удалить вложение</string>
     <string name="dialog_delete_attachment_text">Вы действительно хотите удалить вложение?</string>
-
     <string name="dialog_report_ad_title">Пожаловаться</string>
-
     <string name="tab_blogs">Блог</string>
     <string name="tab_stories">Истории</string>
     <string name="tab_dating">Знакомства</string>
-
     <string name="title_filter_height">Рост [см]</string>
     <string name="title_filter_weight">Вес [кг]</string>
     <string name="user_with_albums">С альбомами</string>
@@ -411,7 +344,6 @@
     <string name="filter_show_only">Показывать только</string>
     <string name="filter_user_online">Онлайн</string>
     <string name="filter_user_verified">Проверенные</string>
-
     <string name="album_contest_unavailable">Нет конкурсов</string>
     <string name="date_less_than_1_day">24ч</string>
     <string name="date_less_than_7_days">7 дней</string>
@@ -419,21 +351,17 @@
     <string name="date_less_than_3_months">3 месяца</string>
     <string name="date_start">Дата старта</string>
     <string name="date_end">Дата окончания</string>
-
     <string name="video_theme_all">Все темы</string>
     <string name="video_contest_unavailable">Конкурсы не найдены</string>
     <string name="filter_album_not_viewed">Не просмотрено</string>
-
     <string name="notifications_my_account">Мой профиль</string>
     <string name="notifications_albums">Альбомы</string>
     <string name="notifications_videos">Видео</string>
-
     <string name="article_info_share">Расскажите друзьям</string>
     <string name="blog_number">Номер блога</string>
     <string name="blog_url">URL-адрес блога</string>
     <string name="story_number">Номер истории</string>
     <string name="story_url">URL-адрес истории</string>
-
     <string name="dating_reply">Ответить</string>
     <string name="dating_highlight">Подними объявление наверх</string>
     <string name="dating_buy_top_dialog_title">Подними объявление наверх</string>
@@ -448,7 +376,6 @@
     <string name="dating_buy_top_dialog_send_sms">Отправить подготовленную смс</string>
     <string name="dating_buy_top_dialog_no_sms_data">Недоступно в данной стране</string>
     <string name="dating_buy_top_dialog_network_error">Ошибка соединения</string>
-
     <string name="setup_stories_and_blogs_title">Блоги и истории</string>
     <string name="setup_text_size">Размер текста</string>
     <string name="setup_background_color">Цвет фона</string>
@@ -457,7 +384,6 @@
     <string name="text_size_big">Большой</string>
     <string name="color_theme_dark">Темный</string>
     <string name="color_theme_light">Белый</string>
-
     <string name="video_settings_topic">Тема</string>
     <string name="video_settings_topic_default">Выберите тему</string>
     <string name="no_album_for_state_title">У вас нет альбомов в статусе \"%s\".</string>
@@ -466,21 +392,15 @@
     <string name="no_video_for_state_title">У вас нет видео в статусе \"%s\".</string>
     <string name="fab_add_album">Добавить альбом</string>
     <string name="fab_add_video">Добавить видео</string>
-
     <string name="my_account_content_settings">Содержимое</string>
     <string name="my_account_other_settings">Больше настроек</string>
     <string name="my_account_content_source_max">Максимальное количество - %d стран</string>
     <string name="all_countries">Все страны</string>
-
     <string name="new_album_save">Сохранить и продолжить</string>
     <string name="warning">Внимание</string>
     <string name="dialog_new_album_back_press">Пока в альбом не будут добавлены фотографии - все изменения не будут сохранены.</string>
-
     <string name="dialog_album_settings_back_press">Все изменение не будут сохранены.</string>
-
-
     <string name="new_video_save">Сохранить и продолжить</string>
-
     <string name="album_upload_choose_photo">Закачать фотографии</string>
     <string name="album_upload_send_to_review">Отправить на рассмотрение</string>
     <string name="photo_delete_dialog_title">Удалить фото?</string>
@@ -508,9 +428,7 @@
     <string name="photos_limit_reached">Превышен лимит. Пожалуйста, удалите %s фото</string>
     <string name="album_no_description">Альбом без описания</string>
     <string name="cant_leave_while_uploading">В течении закачивания нельзя выйти</string>
-
     <string name="dialog_new_video_back_press">Видео не было создано. Все изменения не будут сохранены.</string>
-
     <string name="video_upload_choose_video">Закачать видео</string>
     <string name="delete_video">Удалить видео</string>
     <string name="cancel_upload">Отменить загрузку</string>
@@ -532,31 +450,24 @@
     <string name="admin_message">Сообщение от администратора</string>
     <string name="toast_cant_load_video">Ошибка при скачивании видео</string>
     <string name="video_loading">Пожалуйста подождите, пока идёт скачивание видео…</string>
-
     <string name="uploading_video">Закачивание видео</string>
     <string name="video_uploaded_percentage">Процесс загрузки: %s %%</string>
     <string name="tap_to_retry">Нажмите, чтобы повторить</string>
-
     <string name="photo_upload_notification_title">Закачивание фото</string>
     <string name="photo_upload_notification_progress">Процесс закачки: %1$d/%2$d</string>
-
     <string name="album_delete_dialog_title">Удалить альбом?</string>
     <string name="album_delete_dialog">Вы действительно хотите удалить альбом?</string>
     <string name="delete">Удалить</string>
     <string name="filter_all">Все</string>
-
     <string name="video_delete_dialog_title">Удалить видео?</string>
     <string name="video_delete_dialog">Вы действительно хотите удалить видео?</string>
     <string name="video_delete_dialog_uploading">Видео в данный момент закачивается. Вы действительно хотите удалить видео?</string>
-
     <string name="logout_during_uploading_dialog_title">Вы действительно хотите выйти?</string>
     <string name="logout_during_uploading_dialog_content">Все файлы которые не были закачаны будут потеряны.</string>
-
     <string name="report_dialog_text">Выберите причину</string>
     <string name="report_dialog_send">Отправить</string>
     <string name="report_dialog_toast_no_reason">Сначала выберите причину</string>
     <string name="report_dialog_toast_sent">Отчёт отправлен. Благодарим Вас.</string>
-
     <string name="message_popup_copy">Копировать текст</string>
     <string name="message_popup_delete">Удалить сообщение</string>
     <string name="message_popup_report">Жалоба</string>
@@ -583,10 +494,8 @@
     <string name="vip_unsuccessful_payment_title">Оплата отменена</string>
     <string name="thank_you">Благодарим Вас.</string>
     <string name="notification_vip_payment">К вашему аккаунту было добавлено %d дней VIP членства.</string>
-
     <string name="sms_price">Цена одного принятого сообщения - %s включая НДС.</string>
     <string name="vip_send_sms_instructions">Отправьте смс в формате %1$s на номер %2$s</string>
-
     <string name="vip_get_one_day_for_free">Получите 1 день VIP членства бесплатно</string>
     <string name="vip_recurring_paymenthod_question">Предпочитаете тарифный план со скидкой или единоразовый платёж?</string>
     <string name="vip_recurring_payment_button_title">Автоматическое продление</string>
@@ -594,7 +503,6 @@
     <string name="vip_normal_payment_button_title">Единоразовый платёж</string>
     <string name="vip_recurring_payment_advantages">Подписка на VIP-членство удобней тем, что Вам нет необходимости каждый раз заново создавать платёж и осуществлять оплату. Каждый раз при обновлении платежа вы получите информацию и подтверждение оплаты.</string>
     <string name="no_users_message_general">Пользователи не найдены</string>
-
     <string name="title_friends">Друзья</string>
     <string name="tab_friends_list">Друзья</string>
     <string name="online_users_only">Только онлайн</string>
@@ -614,7 +522,6 @@
     <string name="no_friend_requests_message">У вас нет запросов на дружбу</string>
     <string name="dialog_reject_friend_request_title">Отклонить запрос</string>
     <string name="dialog_reject_friend_request_content">Вы действительно хотите отклонить запрос дружбы?</string>
-
     <string name="title_favourites">Избранное</string>
     <string name="tab_favourites_my_favourites">Мое избранное</string>
     <string name="tab_favourites_favourited_me">Добавили меня в избранное</string>
@@ -622,17 +529,14 @@
     <string name="dialog_remove_favourite_content">Вы действительно хотите удалить %s из избранных?</string>
     <string name="dialog_remove_favourite_confirm">Удалить</string>
     <string name="toast_favourite_removed">Пользователь %s удалил вас из избранных</string>
-
     <string name="no_favourited_users_title">Избранное не найдено</string>
     <string name="no_favourited_users_message">У вас нет избранных пользователей</string>
     <string name="no_favourited_me_users_message">Вас еще никто не добавил в избранное</string>
-
     <string name="title_visits">Посетители</string>
     <string name="close">Закрыть</string>
     <string name="no_visits_title">Нет посетителей</string>
     <string name="no_visits_message">Ваш профиль ещё никто посетил</string>
     <string name="update_news_dialog_title">Новое в этой версии</string>
-
     <string name="me">Я</string>
     <string name="popup_conversation_mark_read">Отметить как прочитанное</string>
     <string name="popup_conversation_delete">Удалить переписку</string>
@@ -649,21 +553,16 @@
     <string name="toast_no_camera_app">Не было найдено приложение для фото</string>
     <string name="add_attachment">Добавить фото</string>
     <string name="notification_message_received">У вас новое сообщение</string>
-
     <string name="user_sent_a_photo">%s отправил(-а) фото</string>
     <string name="i_sent_a_photo">Фото отправлено</string>
     <string name="title_events">События</string>
     <string name="title_chat">Чат</string>
     <string name="tab_friends">Друзья</string>
-
     <string name="notification_add_to_calendar">Добавить в календарь</string>
     <string name="notification_event_detail">Детали события</string>
-
     <string name="conversation_empty">Напишите сообщение, отправьте фотку или смайлик</string>
     <string name="conversation_dating_reply">Ответить</string>
-
     <string name="toolbar_share">Поделиться…</string>
-
     <string name="stories_offline_mode">Вы просматриваете записи в оффлайн-режиме.</string>
     <string name="blogs_offline_mode">Вы просматриваете блоги в оффлайн-режиме.</string>
     <string name="go_online_to_load_content">Подключите интернет для получения новых данных.</string>
@@ -674,7 +573,6 @@
     <string name="no_blogs_title">Блоги не найдены</string>
     <string name="no_blogs_text_online">Блоги не найдены</string>
     <string name="no_blogs_text_offline">Нет сохраненных блогов. Подключитесь к интернету для загрузки новых.</string>
-
     <string name="tab_events_upcoming">Предстоящие</string>
     <string name="tab_events_past">Прошедшие</string>
     <string name="no_events_title">Нет мероприятий</string>
@@ -685,7 +583,6 @@
     <string name="tab_event_info">Информация</string>
     <string name="tab_event_people">Люди</string>
     <string name="tab_event_content">Фото и видео</string>
-
     <string name="event_i_will_attend_as">Зарегистрироваться как</string>
     <string name="event_i_attended">Был(-а) там</string>
     <string name="event_organizer">Организатор</string>
@@ -693,35 +590,28 @@
     <string name="event_date">Дата</string>
     <string name="event_time">Время</string>
     <string name="event_capacity">Вместимость</string>
-
     <string name="event_attendee_count">Участники</string>
     <string name="event_entry">Вход</string>
     <string name="event_address">Адрес</string>
     <string name="event_description">Описание мероприятия</string>
     <string name="event_participants">Участники</string>
-
     <string name="toast_event_signed_in">Поздравляем с успешной регистрацией</string>
     <string name="toast_event_signed_out">Вы отказались от участия в мероприятии</string>
     <string name="event_comment_disallowed">Вы не можете комментировать данное мероприятие.</string>
-
     <string name="event_button_man">Мужчина</string>
     <string name="event_button_woman">Женщина</string>
     <string name="event_button_couple">Пара</string>
-
     <string name="event_no_people_title">Нет участников</string>
     <string name="event_no_people_text">На данное мероприятие еще никто не зарегистрировался</string>
-
     <string name="event_availability_everyone">Мероприятие открыто для всех</string>
     <string name="event_availability_users_with_content">Только для пользователей с контентом</string>
     <string name="event_availability_verified_users">Только для верифицированных пользователей</string>
     <string name="event_type_chat_room">Мероприятие чат-группы %s</string>
     <string name="event_type_users">Пользовательское мероприятие</string>
     <string name="event_type_official">Официальное мероприятие</string>
-
     <string name="title_event">Мероприятие</string>
     <string name="notification_upcoming_event_start">Старт: %s.</string>
     <string name="notification_upcoming_event_looking_forward">Не забудьте посетить, ждем вас!</string>
-
     <string name="dialog_fingerprint_setup__title">Отпечаток пальца</string>
     <string name="dialog_fingerprint_setup_description">Прикоснитесь к сенсору пальцем для авторизации</string>
     <string name="toast_fingerprint_not_supported">Ваше устройство не поддерживает разблокировку отпечатком пальца</string>
@@ -733,54 +623,42 @@
     <string name="fingerprint_authentication_failed">Отпечаток пальца не был распознан</string>
     <string name="dialog_fingerprint_unavailable_title">Отпечаток пальца недоступен</string>
     <string name="dialog_fingerprint_unavailable_button">Перейти в настройки</string>
-
     <string name="title_fingerprint_unlock">Разблокировать отпечатком пальца</string>
     <string name="subtitle_fingerprint_unlock">Используйте палец для разблокировки</string>
     <string name="use_pin_instead">Используйте PIN-код</string>
-
     <string name="tab_chat_board">Чаты</string>
     <string name="tab_chat_rooms">Комнаты</string>
-
     <string name="chat_dashboard_online_friends">Друзья в чатах</string>
     <string name="chat_dashboard_online_friends_empty">Никого из ваших друзей сейчас нет в чатах.</string>
     <string name="chat_dashboard_most_popular_webcams">Самые популярные вебкамеры</string>
     <string name="chat_dashboard_favourite_chatrooms">Ваши избранные комнаты</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">У вас нет избранных комнат.</string>
     <string name="chat_dashboard_newest_chatrooms">Новые чат-комнаты</string>
-
     <string name="chat_room_empty">Эта чат-комната пуста.</string>
     <string name="chat_room_category_all">Все категории</string>
     <string name="toast_chat_room_favourited">Комната %s была добавлена в избранное.</string>
     <string name="toast_chat_room_unfavourited">Чат-комната %s была удалена из избранного.</string>
     <string name="chat_room_list_permanent">Постоянные чат-комнаты</string>
     <string name="chat_room_list_temporary">Временные чат-комнаты</string>
-
     <string name="chat_avatar_popup_button_chat">Общаться</string>
     <string name="chat_avatar_popup_button_profile">Профиль</string>
     <string name="chat_room_filter_show_empty">Показывать пустые комнаты</string>
     <string name="chat_room_filter_show_locked">Показывать закрытые комнаты</string>
     <string name="no_chat_rooms_text">Нет чат-комнат согласно фильтра.</string>
-
     <string name="chat_online_friends_title">Друзья в чате</string>
     <string name="chat_most_popular_webcams_title">Самые популярные вебкамеры</string>
-
     <string name="tab_chat_room_info">Детали комнаты</string>
     <string name="tab_chat_room_people">Люди в чате</string>
-
     <string name="chat_room_info_description">Описание чат-комнаты</string>
     <string name="chat_room_info_category">Категория</string>
     <string name="chat_room_info_access">Доступ</string>
     <string name="chat_room_info_temp_admin">Временный администратор</string>
     <string name="chat_room_info_permanent_admins">Постоянные администраторы</string>
     <string name="chat_room_info_enter_button">Войти в чат-комнату</string>
-
     <string name="chat_room_people_empty">Никого нет в чат-комнате.</string>
-
     <string name="setup_fingerprint">Разблокировать отпечатком пальца</string>
     <string name="notifications_dating">Знакомства</string>
-
     <string name="fab_add_dating">Добавить объявление</string>
-
     <string name="title_dating_add">Новое объявление</string>
     <string name="dating_add_category_title">Категория</string>
     <string name="dating_add_category_hint">Выберите категорию</string>
@@ -793,14 +671,11 @@
     <string name="dating_add_toast_created">Объявление было создано.</string>
     <string name="dating_add_dialog_backpress">Объявление не добавлено. Все изменения будут потеряны.</string>
     <string name="dating_add_toast_empty_fields">Все поля обязательны к заполнению.</string>
-
     <string name="dating_add_dialog_forbidden_title">Разрешено 1 объявление за %d часа</string>
     <string name="dating_add_dialog_forbidden_content">Сегодня вы уже добавляли объявление. Следующее сможете добавить только завтра.</string>
-
     <string name="dating_settings_no_dating_ads_title">У вас нет объявлений</string>
     <string name="dating_settings_no_dating_ads_text">Добавить объявление легко, попробуйте сами.</string>
     <string name="dating_settings_no_dating_ads_button">Добавить объявление</string>
-
     <string name="dating_settings_status_enabled">На сайте</string>
     <string name="dating_settings_status_disabled">Отменено</string>
     <string name="dating_settings_status_expired">Истек срок действия</string>
@@ -808,30 +683,23 @@
     <string name="dating_settings_button_extend">Продлить</string>
     <string name="dating_settings_button_edit">Редактировать</string>
     <string name="dating_settings_status_edited">Отредактировано</string>
-
     <string name="dating_settings_dialog_delete_title">Удалить объявление?</string>
     <string name="dating_settings_dialog_delete_text">Вы действительно хотите удалить?</string>
     <string name="dating_settings_dialog_delete_button_confirm">Удалить</string>
     <string name="dating_settings_toast_dating_ad_deleted">Объявление удалено.</string>
-
     <string name="dialog_dating_extend_title">Продлить срок действия</string>
     <string name="dialog_dating_extend_text">У вашего объявления закончился срок действия. Продлите и оно снова будет показываться.</string>
     <string name="dialog_dating_extend_button_text">Продлить на %s</string>
     <string name="dialog_dating_extend_toast_successful">Срок действия объявление продлен.</string>
-
     <string name="title_dating_edit">Редактировать</string>
     <string name="dating_edit_button_text">Сохранить изменения</string>
     <string name="dating_edit_toast_saved">Изменения сохранены.</string>
     <string name="dating_edit_toast_empty_fields">Все поля должны быть заполнены.</string>
-
     <string name="edittext_invalid_input_empty">Поле %s должно быть заполнено</string>
-
     <string name="notification_channel_general">Общие уведомления</string>
     <string name="notification_channel_messages">Уведомления о сообщениях</string>
     <string name="notification_channel_upload">Уведомления о загрузке контента</string>
-
     <string name="menu_chat_room">Меню чат-комнаты</string>
-
     <string name="chat_room_empty_title">Нет сообщений</string>
     <string name="chat_room_empty_text">Нет сообщение в данной комнате.</string>
     <string name="chat_room_empty_text_friend_filter">У вас включен фильтр \"Сообщения только от друзей\" или \"сообщение обо мне\".</string>
@@ -868,7 +736,6 @@
     <string name="chat_room_knock_ask_reject_button">Отказать</string>
     <string name="chat_room_knock_ask_allow_button">Принять</string>
     <string name="chat_room_knock_ask_profile_button">Профиль</string>
-
     <string name="dialog_chat_room_knock_title_main">Это закрытая комната</string>
     <string name="dialog_chat_room_knock_title_waiting">Жду ответа администратора комнаты…</string>
     <string name="dialog_chat_room_knock_text_main">Вы можете запросить доступ до комнаты или вернуться.</string>
@@ -877,7 +744,6 @@
     <string name="dialog_chat_room_knock_button_request">Запросить доступ</string>
     <string name="dialog_chat_room_knock_button_cancel">Вернуться</string>
     <string name="toast_chat_room_knock_access_refused">Администратор не предоставил вам доступ до комнаты.</string>
-
     <string name="chat_room_settings_friends_messages_only">Только сообщения друзей</string>
     <string name="chat_room_settings_admin_handover_title">Передать права администрирования</string>
     <string name="chat_room_settings_admin_handover_chooser_title">Выбрать пользователя</string>
@@ -890,10 +756,8 @@
     <string name="chat_room_settings_font_size_normal">Маленький</string>
     <string name="chat_room_settings_font_size_bigger">Средний</string>
     <string name="chat_room_settings_font_size_biggest">Большой</string>
-
     <string name="chat_room_whisper_empty_title">Нет сообщений</string>
     <string name="chat_room_whisper_empty_text">Напишите сообщение или смайлик :)</string>
-
     <string name="title_profile">Профиль</string>
     <string name="setup_notification_new_blog_comment">Новый комментарий в блоге</string>
     <string name="setup_notification_new_story_comment">Новый комментарий к истории</string>
@@ -902,23 +766,19 @@
     <string name="notification_story">История</string>
     <string name="notification_blog_comment_add_title">Новый комментарий в блоге</string>
     <string name="notification_blog_comment_add_text">%1$s прокомментировал/а вашу запись в блоге \"%2$s\": %3$s</string>
-
     <string name="notification_story_comment_add_title">Новый комментарий к истории</string>
     <string name="notification_story_comment_add_text">%1$s прокомментировал/а вашу запись \"%2$s\": %3$s</string>
-
     <string name="notification_mention_title">Новое упоминание</string>
     <string name="notification_mention_text_album">%1$s Вас упомянул/а в комментарии к альбому \"%2$s\": %3$s</string>
     <string name="notification_mention_text_video">%1$s вас упомянул/а в комментарии к видео \"%2$s\": %3$s</string>
     <string name="notification_mention_text_story">%1$s вас упомянул/а в комментарии к записи \"%2$s\": %3$s</string>
     <string name="notification_mention_text_blog">%1$s вас упомянул/а в комментарии к записи \"%2$s\": %3$s</string>
-
     <string name="profile_edit_section_profile_info">Основная информация</string>
     <string name="profile_edit_sex_hobbies_title">Сексуальные хобби</string>
     <string name="profile_edit_sex_search_title">Поиск</string>
     <string name="profile_edit_sex_search_purpose_title">Цель поиска</string>
     <string name="profile_edit_personal_description_title">Личное описание</string>
     <string name="profile_edit_personal_description_hint">Напишите ваше персональное описание…</string>
-
     <string name="profile_edit_section_personal_info">Личная информация</string>
     <string name="profile_edit_section_personal_info_his">Информация о нём</string>
     <string name="profile_edit_section_personal_info_her">Информация о ней</string>
@@ -936,18 +796,14 @@
     <string name="profile_edit_skype_hint">Введите ваш логин скайп…</string>
     <string name="profile_edit_phone_number_title">Номер телефона</string>
     <string name="profile_edit_phone_number_hint">Введите ваш номер телефона…</string>
-
     <string name="profile_edit_chooser_not_filled">Не заполнено</string>
     <string name="profile_edit_button_save">Сохранить изменения</string>
     <string name="toast_profile_edit_changes_saved">Изменения были сохранены.</string>
-
     <string name="dialog_android_unsupported_title">Неподдерживаемая функция</string>
     <string name="dialog_android_unsupported_text">Извините, но ваша версия Android не поддерживает данную функцию</string>
-
     <string name="title_home">Главная</string>
     <string name="menu_profile_meatballs">Опции профиля</string>
     <string name="menu_chat_room_webcam">Включить камеру</string>
-
     <string name="notifications_ignored">Игнорируемые</string>
     <string name="conversation_list_filter_all">Все пользователи</string>
     <string name="conversation_list_filter_unread">Непрочитанное</string>
@@ -955,7 +811,6 @@
     <string name="popup_conversation_ignore">Добавить в игнор</string>
     <string name="no_conversations_message_with_filter">Не найдены переписки согласно выбранного фильтра.</string>
     <string name="notification_channel_webcams">Нотификации вебкамер</string>
-
     <string name="chat_room_users_category_my_webcam_watchers">Зрители</string>
     <string name="popup_chat_message_copy_text">Копировать</string>
     <string name="popup_chat_message_delete_message">Удалить сообщение</string>
@@ -980,11 +835,8 @@
     <string name="dialog_webcam_data_connection_text">Вы используете мобильный интернет. Вебкамеры могут использовать большое количество трафика.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Включить камеру</string>
     <string name="dialog_webcam_data_connection_button_cancel">Оставить камеру выключенной</string>
-
     <string name="chat_room_settings_webcam_sound_default_option">Звук по-умолчанию включен</string>
-
     <string name="chat_room_whisper_webcam_placeholder_title">Включить: %s</string>
-
     <string name="home_section_videos_title">Последние видео</string>
     <string name="home_section_albums_title">Последние альбомы</string>
     <string name="home_section_chat_title">Чат</string>
@@ -992,7 +844,6 @@
     <string name="home_section_events_title">События</string>
     <string name="home_section_stories_title">Истории</string>
     <string name="home_section_blogs_title">Блоги</string>
-
     <string name="home_section_videos_footer_title">Все видео</string>
     <string name="home_section_albums_footer_title">Все альбомы</string>
     <string name="home_section_chat_rooms_footer_title">Все чат-комнаты</string>
@@ -1000,7 +851,6 @@
     <string name="home_section_events_footer_title">Все события</string>
     <string name="home_section_stories_footer_title">Все истории</string>
     <string name="home_section_blogs_footer_title">Все блоги</string>
-
     <string name="title_ignore_list">Игнорируемые</string>
     <string name="ignore_list_empty_title">Нет игнорируемых</string>
     <string name="ignore_list_empty_text">Нет никого в игнорируемых.</string>
@@ -1008,7 +858,6 @@
     <string name="dialog_ignore_list_remove_text">Вы хотите удалить %s из игнорируемых?</string>
     <string name="dialog_ignore_list_remove_button_confirm">Удалить</string>
     <string name="toast_ignore_list_user_removed">%s был удален из игнорируемых.</string>
-
     <string name="profile_options_add_favourite">Добавить в избранное</string>
     <string name="profile_options_add_friend">Добавить в друзья</string>
     <string name="profile_options_mesage">Отправить сообщение</string>
@@ -1016,9 +865,7 @@
     <string name="dialog_ignore_list_add_title">Добавить в игнорируемые</string>
     <string name="dialog_ignore_list_add_text">Вы действительно хотите добавит %s в игнорируемые?</string>
     <string name="dialog_ignore_list_add_button_confirm">Добавить в игнорируемые</string>
-
     <string name="conversation_options_delete_conversation">Удалить переписку</string>
-
     <string name="janus_fragment_retry_text">Остановлено. Повторить?</string>
     <string name="janus_fragment_hangup_text">Камера выключена</string>
     <string name="janus_error_hangup">Пользователь %s выключил/а камеру.</string>
@@ -1029,74 +876,54 @@
     <string name="janus_broadcast_service_notification_title">Вы ведете трансляцию</string>
     <string name="janus_broadcast_service_notification_text">Чат-комната: %s</string>
     <string name="janus_broadcast_service_notification_action_turn_off">Выключить камеру</string>
-
     <string name="bottomsheet_webcam_broadcast_title">Моя камера</string>
     <string name="bottomsheet_webcam_broadcast_switch_camera">Переключить камеру</string>
     <string name="bottomsheet_webcam_broadcast_mute">Выключить звук</string>
     <string name="bottomsheet_webcam_broadcast_unmute">Включить звук</string>
     <string name="bottomsheet_webcam_broadcast_turn_off">Выключить камеру</string>
-
     <string name="bottomsheet_webcam_listener_title">Камера пользователя %s</string>
     <string name="bottomsheet_webcam_listener_maximize">Увеличить</string>
     <string name="bottomsheet_webcam_listener_whisper">Личное сообщение</string>
     <string name="bottomsheet_webcam_listener_mute">Выключить звук</string>
     <string name="bottomsheet_webcam_listener_unmute">Включить звук</string>
     <string name="bottomsheet_webcam_listener_turn_off">Выключить камеру</string>
-
     <string name="webcam_detail_toolbar_title">Камеры: %s</string>
-
     <string name="save">Сохранить</string>
     <string name="general_empty_title">Тут ничего нет</string>
     <string name="general_empty_text">Нечего показать :(</string>
-
     <string name="title_notes">Заметки</string>
     <string name="title_forum">Форум</string>
-
     <string name="empty_notes_title">Тут ничего нет</string>
     <string name="empty_notes_text">Вы можете добавить заметки в профилях пользователей.</string>
-
     <string name="menu_homepage">Настройки</string>
     <string name="menu_forum_topics">Сортировать</string>
-
     <string name="tab_notes">Мои заметки</string>
-
     <string name="title_sex_search">Поиск</string>
     <string name="title_sex_search_purpose">Цель поиска</string>
     <string name="profile_add_note">Добавить новую заметку</string>
-
     <string name="notifications_notes">Заметки</string>
-
     <string name="setup_default_homescreen_title">Домашний экран по-умолчанию</string>
     <string name="setup_default_homescreen_dialog_title">Выберите ваш домашний экран</string>
-
     <string name="setup_default_language_title">Язык приложения</string>
     <string name="setup_default_language_dialog_title">Выберите язык приложения</string>
-
     <string name="language_default">Такой же как и системный язык</string>
-
     <string name="fab_add_chatroom">Добавить чат-комнату</string>
-
     <string name="my_account_hide_categories">Не показывать категории</string>
-
     <string name="toast_camera_permissions_revoked">Пожалуйста предоставьте доступ к камере.</string>
     <string name="conversation_user_ignored_error">Пользователь %s не хочет, чтобы вы посылали ему сообщения.</string>
-
     <string name="new_note_add_note">Добавить заметку</string>
     <string name="new_note_add_hint">Напишите текст…</string>
     <string name="new_note_error">Текст не может быть пустым.</string>
     <string name="new_note_created">Заметка успешно создана.</string>
     <string name="new_note_dialog_backpress">Заметка не сохранена. Все изменения будут потеряны.</string>
-
     <string name="toast_chatroom_logout_warning">Напишите пожалуйста что-нибудь в чат, иначе вы будете автоматически отсоединены из-за неактивности.</string>
     <string name="dialog_chat_room_timeout_title">Временной лимит бездействия</string>
     <string name="chat_room_settings_about_me_messages_only">Сообщение обо мне</string>
     <string name="chat_room_settings_camera_permission_title">Кто может смотреть мою камеру</string>
     <string name="chat_room_settings_hide_time_text">Скрыть время сообщений</string>
     <string name="chat_room_settings_hide_avatar_text">Скрыть аватары пользователей</string>
-
     <string name="home_menu_edit_homepage">Редактировать главную страницу</string>
     <string name="home_menu_change_home_screen">Изменить главный экран по-умолчанию</string>
-
     <string name="title_add_chat_room">Добавить новую чат-комнату</string>
     <string name="chatroom_add_title_title">Название</string>
     <string name="chatroom_add_title_hint">Введите название</string>
@@ -1113,27 +940,20 @@
     <string name="chatroom_add_allowed_users_couple">Пары женщина/мужчина</string>
     <string name="chatroom_add_country_title">Страна</string>
     <string name="chatroom_add_error_not_allowed">Вы не можете создать новую чат-комнату сейчас.</string>
-
     <string name="home_settings_title">Редактировать главную страницу</string>
     <string name="toast_home_settings_invalid_input">Как минимум одна категория должна быть выбрана.</string>
-
     <string name="forum_tab_dashboard">Рабочий стол</string>
     <string name="forum_tab_topics">Темы</string>
     <string name="forum_tab_posts">Записи</string>
-
     <string name="forum_dashboard_section_main_topics">Главные темы</string>
     <string name="forum_dashboard_section_newly_updated_topics">Новые записи</string>
     <string name="forum_dashboard_section_popular_topics">Популярные темы</string>
-
     <string name="forum_topics_filter_all">Все темы</string>
     <string name="forum_topics_sort_time_desc">Самые новые</string>
     <string name="forum_topics_sort_count_desc">По количеству записей</string>
     <string name="forum_topics_sort_lastupdate_desc">По последним записям</string>
-
     <string name="bottomsheet_video_player_settings_title">Настройки качества видео</string>
-
     <string name="dialog_chat_room_timeout_text">Вы были отключены из-за отсутствия активности. Можете вернуться или выбрать другую комнату.</string>
-
     <string name="title_city">Город</string>
     <string name="user_with_dating">С объявлением</string>
     <string name="fab_add_blog">Добавить запись в блог</string>
@@ -1143,7 +963,6 @@
     <string name="note_delete_dialog_backpress_title">Удалить заметку?</string>
     <string name="note_delete_dialog_backpress_text">Вы действительно хотите удалить эту заметку?</string>
     <string name="note_delete_dialog_backpress_button">Удалить</string>
-
     <string name="popup_chat_room_user_filter_content_dating">С объявлением</string>
     <string name="toast_webcam_permission_denied_men">Пользователь отключил камеру для мужчин.</string>
     <string name="toast_webcam_permission_denied_women">Пользователь отключил камеру для женщин.</string>
@@ -1152,7 +971,6 @@
     <string name="chat_room_settings_webcam_allow_women">Женщины</string>
     <string name="chat_room_settings_webcam_allow_couples">Пары</string>
     <string name="chat_room_settings_webcam_allow_uncheck_warning">Как минимум 1 категория должна быть разрешена</string>
-
     <string name="notifications_blogs">Записи в блоге</string>
     <string name="new_blog_header">Добавить новую запись в блог</string>
     <string name="new_blog_title">Название</string>
@@ -1168,7 +986,6 @@
     <string name="new_blog_sent_for_approval">Запись в блоге была успешно опубликована.</string>
     <string name="new_blog_empty_fields">Все поля должны быть заполнены.</string>
     <string name="new_blog_dialog_backpress">Запись в блоге не была сохранена. Все изменения будут потеряны.</string>
-
     <string name="blog_menu_delete">Удалить запись</string>
     <string name="blog_delete_content">Действительно хотите удалить запись?</string>
     <string name="blog_deleted_successfully">Запись в блоге была успешно удалена.</string>
@@ -1179,7 +996,6 @@
     <string name="blog_edit_send_for_approval_content">Вы действительно хотите удалить запись?</string>
     <string name="blog_edit_send_for_approval_confirm">Да</string>
     <string name="blog_edit_send_for_approval_cancel">Проверю еще раз.</string>
-
     <string name="blogs_settings_no_blogs_for_state_title">У вас нет записей в состоянии \"%s\".</string>
     <string name="blogs_settings_no_blogs_title">У вас еще нет записей в блоге.</string>
     <string name="blogs_settings_no_blogs_text">Добавить запись очень просто и вы можете начать прямо сейчас.</string>
@@ -1189,10 +1005,12 @@
     <string name="blogs_settings_delete_text">Вы действительно хотите удалить запись?</string>
     <string name="blogs_settings_delete_confirm">Удалить</string>
     <string name="blogs_settings_delete_toast">Запись была успешно удалена.</string>
-
     <string name="conversation_options_add_favourite">Добавить в избранное</string>
     <string name="conversation_options_remove_favourite">Убрать из избранного</string>
     <string name="conversation_to_favourites_added_toast">Переписка была добавлена в избранное.</string>
     <string name="conversation_from_favourites_removed_toast">Переписка была удалена из избранного.</string>
-
+    <string name="tab_favourites">Из избранного</string>
+    <string name="title_messages">Сообщения</string>
+    <string name="title_safe_mode_enabled">Выключить скромный режим</string>
+    <string name="title_safe_mode_disabled">Включить скромный режим</string>
 </resources>
