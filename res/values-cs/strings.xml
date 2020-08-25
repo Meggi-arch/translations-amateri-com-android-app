@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="general_error">Ouvej!</string>
     <string name="general_error_no_connection">Zdá se, že nemáte připojení k internetu. Zkuste to prosím později.</string>
@@ -7,7 +7,6 @@
     <string name="dialog_android_unsupported_text">Omlouváme se, ale verze vašeho operačního systému Android je moc stará pro použití této funkce :(</string>
     <string name="general_empty_title">Nic tu není</string>
     <string name="general_empty_text">Nemáme co ukázat :(</string>
-
     <!--MainActivity-->
     <string name="title_home">Úvodní stránka</string>
     <string name="title_album">Fotoalba</string>
@@ -25,20 +24,16 @@
     <string name="title_new_version">Nová verze!</string>
     <string name="title_notes">Poznámky</string>
     <string name="title_forum">Fórum</string>
-
     <!--Notes empty screen-->
     <string name="empty_notes_title">Nic tu není</string>
     <string name="empty_notes_text">Můžete si je přidávat v profilech uživatelů.</string>
-
     <!--AlbumFragment-->
     <string name="tab_latest">Nejnovější</string>
     <string name="tab_best">Nejlepší</string>
     <string name="tab_favourites">Od oblíbených</string>
-
     <!--AlbumDetailActivity-->
     <string name="title_comments">Komentáře</string>
     <string name="title_next_albums">Další fotoalba</string>
-
     <!--Menu-->
     <string name="menu_notification">Upozornění</string>
     <string name="menu_badges">Štítky</string>
@@ -48,12 +43,9 @@
     <string name="menu_chat_room_webcam">Zapnout kameru</string>
     <string name="menu_homepage">Nastavení</string>
     <string name="menu_forum_topics">Seřadit podle</string>
-
     <string name="action_try_again">Zkusit znovu</string>
-
     <string name="hint_username">Nick</string>
     <string name="hint_password">Heslo</string>
-
     <string name="tab_albums">Fotoalba</string>
     <string name="tab_info">Info</string>
     <string name="tab_blogs">Blog</string>
@@ -62,10 +54,8 @@
     <string name="tab_album">Fotoalba</string>
     <string name="tab_friends">Přátelé</string>
     <string name="tab_notes">Moje poznámky</string>
-
     <string name="filter_advanced">Pokročilý filtr</string>
     <string name="filter_sort_by">Seřadit podle</string>
-
     <!--ProfileInfoFragment-->
     <string name="title_personal_info">Osobní údaje</string>
     <string name="title_sex">Pohlaví</string>
@@ -103,9 +93,7 @@
     <string name="profile_add_note">Přidat novou poznámku</string>
     <string name="profile_add_friend_already_friend">Již dříve přidán</string>
     <string name="profile_add_friend_already_requested">Již dříve požádán</string>
-
     <string name="title_filter">Hledat</string>
-
     <!--FilterUserFragment-->
     <string name="user_country_all">Všechny země</string>
     <string name="user_region_all">Všechny regiony</string>
@@ -127,7 +115,6 @@
     <string name="filter_user_online">Online</string>
     <string name="filter_user_favourites">Od oblíbených</string>
     <string name="filter_user_verified">Ověřeno</string>
-
     <!--FilterAlbumFragment-->
     <string name="album_theme_all">Všechna témata</string>
     <string name="album_contest_all">Soutěž nezvolena</string>
@@ -140,7 +127,6 @@
     <string name="date_less_than_3_months">3 měsíce</string>
     <string name="date_start">Počáteční datum</string>
     <string name="date_end">Koncové datum</string>
-
     <!--AlbumInfoActivity-->
     <string name="author">Autor</string>
     <string name="category">Kategorie</string>
@@ -155,7 +141,6 @@
     <string name="album_address">URL fotoalba</string>
     <string name="yes">Ano</string>
     <string name="no">Ne</string>
-
     <!--Notification menu-->
     <string name="notifications_title">Upozornění</string>
     <string name="notifications_visits">Návštěvy</string>
@@ -171,44 +156,35 @@
     <string name="notifications_notes">Poznámky</string>
     <string name="notification_add_to_calendar">Přidat do kalendáře</string>
     <string name="notification_event_detail">Detail srazu</string>
-
     <!--Update dialog-->
     <string name="update_dialog_title">Nová verze</string>
     <string name="update_dialog_content">Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
     <string name="update_dialog_later">Později</string>
     <string name="update_dialog_download">Stáhnout</string>
-
     <!--Old version dialog-->
     <string name="old_dialog_title">Zastaralá verze</string>
     <string name="old_dialog_content">Bohužel používáte verzi, která již není podporována. Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
     <string name="old_dialog_exit">Odejít</string>
-
     <!--Timeout dialog-->
     <string name="timeout_dialog_title">Platnost přihlášení vypršela</string>
     <string name="timeout_dialog_content">Přihlaste se prosím znovu.</string>
-
     <!--Redirect dialog-->
     <string name="redirect_dialog_title">Budete přesměrováni</string>
     <string name="redirect_dialog_content">Tato část aplikace je přístupná pouze přes webové rozhraní. Chcete přesměrovat na webové stránky?</string>
-
     <!--Unauthorized dialog-->
     <string name="unauthorized_dialog_title">Nejste přihlášeni</string>
     <string name="unauthorized_dialog_content">Pro použití této funkce se musíte přihlásit.</string>
     <string name="unauthorized_dialog_register">Registrovat se</string>
-
     <!--Lists error dialog-->
     <string name="lists_error_dialog_title">Chyba připojení</string>
     <string name="lists_error_dialog_content">Zkontrolujte prosím připojení k internetu.</string>
     <string name="lists_error_dialog_retry">Opakovat</string>
-
     <!--LoginActivity-->
     <string name="button_login">Přihlásit se</string>
     <string name="button_registration">Registrace</string>
     <string name="button_entry">Vstup bez přihlášení</string>
-
     <!--FilterAlbumActivity | FilterUserActivity-->
     <string name="title_filter_results">Výsledky hledání</string>
-
     <!--MyProfileActivity-->
     <string name="verify_button">Ověřit profil</string>
     <string name="verify_title">Získejte důvěryhodnější ověřený profil hned teď</string>
@@ -218,27 +194,22 @@
     <string name="verify_send">Nahrát ověřovací fotku</string>
     <string name="verify_done_text">Nový obrázek byl úspěšně nahrán. Ověrovací fotka bude zkontrolována správcem. Děkujeme vám.</string>
     <string name="done">Hotovo!</string>
-
     <!--ProfileActivity-->
     <string name="profile_user_chat_rooms">Místnosti na chatu</string>
-
     <!-- ArticleInfoActivity -->
     <string name="article_info_share">Sdílejte s přáteli</string>
     <string name="blog_number">Číslo blogu</string>
     <string name="blog_url">URL Blogu</string>
     <string name="story_number">Číslo povídky</string>
     <string name="story_url">URL povídky</string>
-
     <!--Invalid login dialog-->
     <string name="invalid_login_dialog_title">Neplatné přihlášení</string>
     <string name="invalid_login_dialog_content">Zadali jste neplatné přihlašovací údaje.</string>
     <string name="invalid_login_dialog_retry">Zkusit znovu</string>
     <string name="invalid_login_dialog_forgot_password">Zapomněl jsem heslo</string>
-
     <!--Feedback dialog-->
     <string name="feedback_dialog_title">Zpětná vazba</string>
     <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na ni najdete dole v levém menu.</string>
-
     <!--plurals-->
     <plurals name="people">
         <item quantity="one">%s člověku se líbí</item>
@@ -290,33 +261,25 @@
         <item quantity="few">%d příspěvky</item>
         <item quantity="other">%d příspěvků</item>
     </plurals>
-
     <string name="title_videos">Videa</string>
     <string name="tab_videos">Videa</string>
     <string name="tab_video">Videa</string>
-
     <string name="video_theme_all">Všechna témata</string>
     <string name="video_contest_all">Soutěž nezvolena</string>
     <string name="video_contest_unavailable">Soutěže nejsou dostupné</string>
     <string name="no_videos_found">Žádná videa nenalezena</string>
-
     <string name="video_duration">Délka</string>
-
     <string name="title_activity_feedback">Poslat zpětnou vazbu</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">kategorie</string>
-
     <string name="emoticon_dialog_close">Zavřít</string>
     <string name="search_hint">Hledat</string>
     <string name="search_user_hint">Hledat v uživatelích</string>
-
     <string name="title_next_videos">Další videa</string>
-
     <string name="vip_dialog_title">Je nám líto, ale tuto funkci mohou používat pouze VIP členové.</string>
     <string name="vip_dialog_activate">Chci se stát VIP členem</string>
     <string name="vip_dialog_login">Přihlásit se</string>
     <string name="vip_dialog_register">Registrovat se</string>
-
     <string name="feedback_message">Váš vzkaz</string>
     <string name="feedback_send">Odeslat</string>
     <string name="feedback_category_default">Vyberte si kategorii</string>
@@ -324,29 +287,23 @@
     <string name="profile_photo_library">Vyberte z knihovny</string>
     <string name="profile_photo_processing">Fotka se nahrává</string>
     <string name="profile_photo_change">Změnit profilovku</string>
-
     <string name="comment_write_hint">Napsat komentář</string>
     <string name="emoticon_no_emoticons">Žádné emotikony</string>
-
     <string name="search_album_hint">Hledat v albech</string>
     <string name="search_video_hint">Hledat ve videích</string>
     <string name="ok">OK</string>
     <string name="cancel">Zrušit</string>
     <string name="save">Uložit</string>
-
     <string name="title_album_settings">Nastavení alba</string>
     <string name="title_video_settings">Nastavení videa</string>
     <string name="title_new_album">Přidat nové album</string>
     <string name="title_new_video">Přidat nové video</string>
     <string name="title_my_account">Můj účet</string>
     <string name="title_profile">Profil</string>
-
     <string name="album_filter_show_all">Zobrazit alba</string>
     <string name="video_filter_show_all">Zobrazit videa</string>
-
     <string name="video_number">Video ID</string>
     <string name="video_address">Video URL</string>
-
     <string name="setup_notifications">Push notifikace</string>
     <string name="setup_notification_new_message">Nová zpráva</string>
     <string name="setup_notification_advert_reply">Nová odpověd na inzerát v seznamce</string>
@@ -367,7 +324,6 @@
     <string name="setup_update_check">Zkontrolovat aktualizace</string>
     <string name="setup_no_updates">Žádné aktualizace nejsou k dispozici</string>
     <string name="setup_update_unsupported_sdk">Omlouváme se, ale verze vašeho operačního systému Android je moc stará pro instalaci nové verze aplikace :(</string>
-
     <string name="locked_unlock">Odemknout</string>
     <string name="locked_forgot_pin">Zapomenutý PIN kód</string>
     <string name="locked_pin_hint">PIN kód</string>
@@ -375,10 +331,8 @@
     <string name="locked_bad_pin_title">Neplatný PIN kód</string>
     <string name="locked_bad_pin_retry">Zkusit znovu</string>
     <string name="locked_bad_pin_forgot">Zapomenutý PIN kód</string>
-
     <string name="forgot_pin_forgot_password">Zapomenuté heslo</string>
     <string name="forgot_pin_title">Prosím přihlaste se znovu.</string>
-
     <string name="dialog_pin_title_new">Zadejte nový PIN kód</string>
     <string name="dialog_pin_title_old">Zadejte současný PIN kód</string>
     <string name="dialog_pin_text_setup">Zadejte 4-místný PIN kód.</string>
@@ -389,7 +343,6 @@
     <string name="dialog_pin_hint_2">Zadejte znovu PIN kód</string>
     <string name="dialog_pin_remove">Odstranit</string>
     <string name="dialog_pin_create">Vytvořit</string>
-
     <string name="album_settings_title">Název</string>
     <string name="album_settings_title_hint">Zadejte název</string>
     <string name="album_settings_description">Popis</string>
@@ -411,7 +364,6 @@
     <string name="album_settings_missing_password">Prosím vyplňte heslo</string>
     <string name="album_not_vip_main_button">Vypnout</string>
     <string name="album_not_vip_other_button">Zrušit</string>
-
     <string name="video_settings_title">Název</string>
     <string name="video_settings_title_hint">Zadejte název</string>
     <string name="video_settings_description">Popis</string>
@@ -433,7 +385,6 @@
     <string name="video_settings_missing_password">Prosím zadejte heslo</string>
     <string name="video_not_vip_main_button">Vypnout</string>
     <string name="video_not_vip_other_button">Zrušit</string>
-
     <string name="profile_album_settings_edit_error">Toto album nemůžete upravit</string>
     <string name="profile_video_settings_edit_error">Toto video nemůžete upravit</string>
     <string name="profile_video_converting_edit_error">Toto video nemůžete upravovat během konverze. Počkejte, prosím.</string>
@@ -444,12 +395,10 @@
     <string name="no_album_title">Nemáte žádná alba.</string>
     <string name="no_album_text">Přidat album je snadné a můžete začít hned teď.</string>
     <string name="add_album">Přidat nové album</string>
-
     <string name="no_video_for_state_title">Nemáte žádná videa ve stavu \"%s\".</string>
     <string name="no_video_title">Nemáte žádná videa.</string>
     <string name="no_video_text">Přidat video je snadné a můžete začít hned teď.</string>
     <string name="add_video">Přidat nové video</string>
-
     <string name="notification_profile">Profil</string>
     <string name="notification_message">Zpráva</string>
     <string name="notification_album">Album</string>
@@ -461,24 +410,18 @@
     <string name="notification_friendship_accept">Přijmout</string>
     <string name="notification_dating_respond">Odpovědět</string>
     <string name="notification_more_info">Více informací</string>
-
     <string name="notification_profile_view_title">Nová návštěva profilu</string>
     <string name="notification_profile_view_text">%s zrovna navštívil/a váš profil.</string>
-
     <plurals name="notification_message_new_summary">
         <item quantity="one">Nová zpráva</item>
         <item quantity="few">%s nové zprávy</item>
         <item quantity="other">%s nových zpráv</item>
     </plurals>
-
     <string name="notification_dating_ad_title">Nová odpověd na inzerát v seznamce</string>
-
     <string name="notification_friendship_request_title">Nová žádost o přátelství</string>
     <string name="notification_friendship_approve_title">Žádost o přátelství přijmuta</string>
     <string name="notification_friendship_approve_text">Gratulujeme, vy a %s jste nyní přátelé.</string>
-
     <string name="notification_favourite_add_text">Uživatel/ka %s si vás přidal/a ke svým oblíbeným.</string>
-
     <string name="notification_album_comment_add_title">Nový komentář k albu</string>
     <string name="notification_video_comment_add_title">Nový komentář k videu</string>
     <string name="notification_blog_comment_add_title">Nový komentář k blogu</string>
@@ -486,10 +429,8 @@
     <string name="notification_mention_title">Nové zmínění</string>
     <string name="notification_album_approve_title">Schválené album</string>
     <string name="notification_album_approve_text">Vaše album \"%s\" bylo schváleno.</string>
-
     <string name="notification_video_approve_title">Schválené video</string>
     <string name="notification_video_approve_text">Vaše video \"%s\" bylo schváleno.</string>
-
     <string name="notification_update_text">Máme pro vás lepší, šťavnatější verzi aplikace. Chcete si ji stáhnout?</string>
     <string name="setup_notification_friend_request">Nová žádost o přátelství</string>
     <string name="setup_notification_friend_request_reply">Žádost o přátelství byla přijata</string>
@@ -501,12 +442,10 @@
     <string name="notification_mention_text_video">%1$s se o vás zmínil/a v komentáři u videa \"%2$s\": %3$s</string>
     <string name="notification_mention_text_story">%1$s se o vás zmínil/a v komentáři u povídky \"%2$s\": %3$s</string>
     <string name="notification_mention_text_blog">%1$s se o vás zmínil/a v komentáři u článku \"%2$s\": %3$s</string>
-
     <string name="title_settings">Nastavení</string>
     <string name="title_application_settings">Nastavení aplikace</string>
     <string name="album_comment_disallowed">K tomuto albu nyní nemůžete přidat komentář.</string>
     <string name="video_comment_disallowed">K tomuto videu nyní nemůžete přidat komentář.</string>
-
     <string name="setup_notification_new_favourite">Přidání do oblíbených</string>
     <string name="setup_auto_logout">Uzamčení PIN kódem</string>
     <string name="album_settings_password_text">Uzamčení heslem</string>
@@ -517,17 +456,14 @@
     <string name="video_not_vip_text">VIP vypršelo. Nebudete moci znovu použít uzamčení heslem.</string>
     <string name="video_not_vip_confirm">Vypnout uzamčení heslem?</string>
     <string name="notification_friendship_request_text">Uživatel/ka %s by chtěl/a být váš přítel!</string>
-
     <string name="notification_favourite_add_title">Přidání do oblíbených</string>
     <string name="video_not_vip_title">VIP vypršelo</string>
-
     <!--Floating action button-->
     <string name="fab_add_album">Přidat album</string>
     <string name="fab_add_video">Přidat video</string>
     <string name="fab_add_blog">Přidat článek do blogu</string>
     <string name="fab_add_dating">Přidat inzerát</string>
     <string name="fab_add_chatroom">Přidat chat místnost</string>
-
     <!--MyAccountSettingsFragment-->
     <string name="my_account_content">Obsah</string>
     <string name="my_account_content_settings">Zdroj obsahu</string>
@@ -538,18 +474,14 @@
     <string name="my_account_social_login">Přihlášení sociální sítí</string>
     <string name="my_account_social_login_connect">Nastavit</string>
     <string name="my_account_social_login_disconnect">Odpojit</string>
-
     <!--NewAlbumActivity-->
     <string name="new_album_save">Uložit a pokračovat</string>
     <string name="warning">Upozornění</string>
     <string name="dialog_new_album_back_press">Album je považováno za kompletní jen s nahranými fotkami a doposud provedené změny nebudou uloženy.</string>
-
     <!--AlbumSettingsActivity-->
     <string name="dialog_album_settings_back_press">Doposud provedené změny nebudou uloženy.</string>
-
     <!--NewVideoActivity-->
     <string name="new_video_save">Uložit a pokračovat</string>
-
     <!--AlbumUploadActivity-->
     <string name="album_upload_choose_photo">Nahrát fotky</string>
     <string name="album_upload_send_to_review">Odeslat ke schválení</string>
@@ -578,10 +510,8 @@
     <string name="photos_limit_reached">Limit překročen, prosím smažte %s fotek</string>
     <string name="album_no_description">Album bez popisku</string>
     <string name="cant_leave_while_uploading">Nelze odejít během nahrávání</string>
-
     <!--NewVideoActivity-->
     <string name="dialog_new_video_back_press">Video nebude vytvořeno. Doposud provedené změny nebudou uloženy.</string>
-
     <!--VideoUploadActivity-->
     <string name="video_upload_choose_video">Nahrát video</string>
     <string name="delete_video">Smazat video</string>
@@ -602,33 +532,27 @@
     <string name="video_no_description">Video bez popisku</string>
     <string name="video_not_found">Vaše video bylo nahráno, ale nyní jej nelze přehrat. Soubor s videem nebyl nalezen na tomto zařízení.</string>
     <string name="admin_message">Zpráva administrátora</string>
-
     <!--VideoUploadService-->
     <string name="uploading_video">Nahrávaní videa</string>
     <string name="video_uploaded_percentage">Průběh nahrávání: %s %%</string>
     <string name="tap_to_retry">Tapnutím začnete znovu</string>
-
     <!--PhotoIntentService-->
     <string name="photo_upload_notification_title">Nahrávání fotek</string>
     <string name="photo_upload_notification_progress">Probíhá nahrávání fotky: %1$d/%2$d</string>
-
     <!-- ProfileAlbumSettingsFragment -->
     <string name="album_delete_dialog_title">Smazat album?</string>
     <string name="album_delete_dialog">Opravdu chcete smazat toto album?</string>
     <string name="delete">Smazat</string>
     <string name="filter_all">Vše</string>
-
     <!-- ProfileVideoSettingsFragment -->
     <string name="video_delete_dialog_title">Smazat video?</string>
     <string name="video_delete_dialog">Opravdu chcete smazat toto video?</string>
     <string name="video_delete_dialog_uploading">Video se právě nahrává. Opravdu chcete smazat toto video?</string>
-
     <!-- Logout while uploading dialog -->
     <string name="logout_during_uploading_dialog_title">Opravdu se chcete odhlásit?</string>
     <string name="logout_during_uploading_dialog_content">Veškerý nenahraný obsah bude ztracen.</string>
     <string name="title_next_story">Další povídky</string>
     <string name="story_comment_disallowed">K této povídce nyní nemůžete přidat komentář.</string>
-
     <string name="setup_stories_and_blogs_title">Povídky a blogy</string>
     <string name="setup_text_size">Velikost textu</string>
     <string name="setup_background_color">Barva pozadí</string>
@@ -636,25 +560,18 @@
     <string name="text_size_medium">Střední</string>
     <string name="text_size_big">Velký</string>
     <string name="blog_comment_disallowed">K tomuto článku nyní nemůžete přidat komentář.</string>
-
     <string name="color_theme_dark">Tmavá</string>
     <string name="color_theme_light">Bílá</string>
-
     <string name="title_next_blogs">Další články</string>
-
     <string name="no_dating_ads_title">Inzeráty nenalezeny</string>
     <string name="no_dating_ads_text">Nebyly nalezeny žádné inzeráty pro zvolený filtr.</string>
-
     <string name="dating_reply_hint">Vaše odpověď</string>
     <string name="toast_dating_reply_sent">Odpověd byla odeslána</string>
     <string name="dating_reply_picture_attached">Fotka připojena</string>
     <string name="dialog_delete_attachment_title">Smazat přilohu</string>
     <string name="dialog_delete_attachment_text">Opravdu chcete smazat přílohu?</string>
-
     <string name="dialog_report_ad_title">Nahlásit inzerát</string>
-
     <string name="tab_dating">Seznamka</string>
-
     <string name="dating_reply">Odpovědět</string>
     <string name="dating_highlight">Topuj inzerát</string>
     <string name="dating_buy_top_dialog_title">Topuj inzerát</string>
@@ -668,18 +585,14 @@
     <string name="dating_buy_top_dialog_send_sms">Poslat předvyplněnou SMS</string>
     <string name="dating_buy_top_dialog_no_sms_data">V této zemi nedostupné</string>
     <string name="dating_buy_top_dialog_network_error">Chyba připojení</string>
-
     <string name="toast_cant_load_video">Nepodařilo se načíst video</string>
     <string name="video_loading">Prosím strpení, načítáme vaše video…</string>
-
     <string name="dating_buy_top_dialog_country_picker_title">Země</string>
-
     <!--ReportDatingAdDialog-->
     <string name="report_dialog_text">Zvolte důvod</string>
     <string name="report_dialog_send">Odeslat</string>
     <string name="report_dialog_toast_no_reason">Nejprve zvolte důvod</string>
     <string name="report_dialog_toast_sent">Hlášení bylo odesláno. Děkujeme vám.</string>
-
     <!-- Messaging -->
     <string name="message_popup_copy">Kopírovat text</string>
     <string name="message_popup_delete">Smazat zprávu</string>
@@ -701,7 +614,6 @@
     <string name="conversation_dating_reply">Odpověď na inzerát</string>
     <string name="toast_camera_permissions_revoked">Prosím, povolte aplikaci využívání fotoaparátu.</string>
     <string name="conversation_user_ignored_error">Uživatel %s si nepřeje, abyste mu psali jakékoliv zprávy.</string>
-
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
     <string name="vip_promo_title">Speciální nabídka</string>
@@ -717,17 +629,14 @@
     <string name="vip_unsuccessful_payment_title">Zrušená platba</string>
     <string name="thank_you">Děkujeme vám.</string>
     <string name="notification_vip_payment">Bylo vám připsáno %d dní VIP členství.</string>
-
     <plurals name="vip_days_remaining">
         <item quantity="one">zbývá %d den</item>
         <item quantity="few">zbývají %d dny</item>
         <item quantity="other">zbývá %d dní</item>
     </plurals>
-
     <!-- BuyVipSmsPaymentDetails -->
     <string name="sms_price">Cena jedné přijaté zprávy je %s vč. DPH.</string>
     <string name="vip_send_sms_instructions">Pošlete sms ve tvaru %1$s na číslo %2$s</string>
-
     <!-- Single/Recurring payment chooser activity -->
     <string name="vip_get_one_day_for_free">Získej 1 den VIP členství zdarma</string>
     <string name="vip_recurring_paymenthod_question">Přejete si zvýhodněné předplatné nebo jednorázovou platbu?</string>
@@ -735,11 +644,9 @@
     <string name="vip_plus_one_day_free">+ 1 den zdarma</string>
     <string name="vip_normal_payment_button_title">Koupit jednorázově</string>
     <string name="vip_recurring_payment_advantages">Výhodou automatického prodlužování VIP členství je, že nemusíte pokaždé znovu definovat a potvrzovat další platbu. Vždy na začátku následujícího období obdržíte informací o prodloužení.</string>
-
     <!-- UserGridFragment -->
     <string name="no_users_title_general">Žádní uživatelé</string>
     <string name="no_users_message_general">Nebyli nalezeni žádní uživatelé</string>
-
     <!-- FriendsActivity -->
     <string name="title_friends">Přátelé</string>
     <string name="tab_friends_list">Přátelé</string>
@@ -759,7 +666,6 @@
     <string name="no_friend_requests_message">Nemáte žádné nové žádosti o přátelství</string>
     <string name="dialog_reject_friend_request_title">Odmítnout žádost</string>
     <string name="dialog_reject_friend_request_content">Opravdu chcete odmítnout tuto žádost o přátelství?</string>
-
     <!-- FavouritesActivity -->
     <string name="title_favourites">Oblíbení</string>
     <string name="tab_favourites_my_favourites">Mí oblíbení</string>
@@ -768,20 +674,16 @@
     <string name="dialog_remove_favourite_content">Opravdu chcete odebrat užívatele %s z oblíbených?</string>
     <string name="dialog_remove_favourite_confirm">Odebrat</string>
     <string name="toast_favourite_removed">Užívatel %s byl odebrán z oblíbených</string>
-
     <string name="no_favourited_users_title">Žádní oblíbení</string>
     <string name="no_favourited_users_message">Nemáte žádné oblíbené uživatele</string>
     <string name="no_favourited_me_users_message">Ještě si vás nikdo nepřidal do oblíbených</string>
-
     <!-- VisitsActivity -->
     <string name="title_visits">Návštěvy</string>
     <string name="close">Zavřít</string>
     <string name="no_visits_title">Žádné návštěvy</string>
     <string name="no_visits_message">Váš profil ješte nikdo nenavštívil</string>
-
     <!-- Update news dialog -->
     <string name="update_news_dialog_title">Novinky v této verzi</string>
-
     <!-- ConversationListActivity -->
     <string name="conversation_list_filter_all">Všichni uživatelé</string>
     <string name="conversation_list_filter_unread">Nepřečtené</string>
@@ -802,7 +704,6 @@
     <string name="user_sent_a_photo">%s vám poslal(a) fotku</string>
     <string name="i_sent_a_photo">Poslal(a) jste fotku</string>
     <string name="toolbar_share">Sdílet…</string>
-
     <!-- Stories / Blogs fragment -->
     <string name="stories_offline_mode">Prohlížite si povídky v offline módu.</string>
     <string name="blogs_offline_mode">Prohlížite si blogy v offline módu.</string>
@@ -814,7 +715,6 @@
     <string name="no_blogs_title">Žádné blogy</string>
     <string name="no_blogs_text_online">Nebyly nalezeny žádné blogy</string>
     <string name="no_blogs_text_offline">Nemáte uložené žádné offline blogy. Připojte se na internet pro načtení blogů.</string>
-
     <!-- EventsActivity -->
     <string name="tab_events_upcoming">Plán</string>
     <string name="tab_events_past">Historie</string>
@@ -826,7 +726,6 @@
     <string name="tab_event_info">Info</string>
     <string name="tab_event_people">Lidé</string>
     <string name="tab_event_content">Fotky a videa</string>
-
     <!-- EventInfoFragment -->
     <string name="event_i_will_attend_as">Zvolte, koho přihlašujete</string>
     <string name="event_i_attended">Byl(a) jsem tam</string>
@@ -835,49 +734,40 @@
     <string name="event_date">Datum</string>
     <string name="event_time">Čas</string>
     <string name="event_capacity">Kapacita</string>
-
     <plurals name="event_capacity_people_number">
         <item quantity="one">%d člověk</item>
         <item quantity="few">%d lidé</item>
         <item quantity="other">%d lidí</item>
     </plurals>
-
     <plurals name="event_attended_people">
         <item quantity="one">Účastnil se %d člověk</item>
         <item quantity="few">Účastnili se %d lidi</item>
         <item quantity="other">Účastnilo se %d lidí</item>
     </plurals>
-
     <string name="event_attendee_count">Účastníci</string>
     <string name="event_entry">Vstupné</string>
     <string name="event_address">Adresa</string>
     <string name="event_description">Popis akce</string>
     <string name="event_participants">Účastníci</string>
-
     <plurals name="event_participants_total">
         <item quantity="one">%d člověk</item>
         <item quantity="few">%d lidé</item>
         <item quantity="other">%d lidí</item>
     </plurals>
-
     <string name="toast_event_signed_in">Byli jste úspěšně přihlášeni</string>
     <string name="toast_event_signed_out">Byli jste úspěšně odhlášeni</string>
     <string name="event_comment_disallowed">K tomuto srazu nyní nemůžete přidat komentář.</string>
-
     <string name="event_button_man">Muž</string>
     <string name="event_button_woman">Žena</string>
     <string name="event_button_couple">Pár</string>
-
     <!-- EventUsersFragment -->
     <plurals name="event_signed_in_people">
         <item quantity="one">Přihlášen %d člověk</item>
         <item quantity="few">Přihlášeni %d lidi</item>
         <item quantity="other">Přihlášeno %d lidí</item>
     </plurals>
-
     <string name="event_no_people_title">Žádní účastníci</string>
     <string name="event_no_people_text">Na tento sraz se ješte nikdo nepřihlásil</string>
-
     <!-- EventTypeTranslator -->
     <string name="event_availability_everyone">Sraz je přístupný pro všechny</string>
     <string name="event_availability_users_with_content">Pouze pro uživatele s obsahem</string>
@@ -885,18 +775,15 @@
     <string name="event_type_chat_room">Sraz místnosti %s</string>
     <string name="event_type_users">Sraz uživatelů</string>
     <string name="event_type_official">Oficialní sraz</string>
-
     <!-- Event notificaion -->
     <string name="title_event">Sraz</string>
     <string name="notification_upcoming_event_start">Začátek akce: %s.</string>
     <string name="notification_upcoming_event_looking_forward">Nezapomeňte se zastavit, těšíme se na Vás!</string>
-
     <plurals name="notification_upcoming_event_signed_users">
         <item quantity="one">Přihlásil se již %d člověk.</item>
         <item quantity="few">Přihlásili se již %d lidi.</item>
         <item quantity="other">Přihlásilo se již %d lidí.</item>
     </plurals>
-
     <!-- Fingerprint -->
     <string name="dialog_fingerprint_setup__title">Otisk prstu</string>
     <string name="dialog_fingerprint_setup_description">Dotkněte se senzoru pro autentifikaci otiskem prstu</string>
@@ -910,52 +797,42 @@
     <string name="fingerprint_authentication_failed">Otisk prstu nebyl rozpoznán</string>
     <string name="dialog_fingerprint_unavailable_title">Otisk prstu není dostupný</string>
     <string name="dialog_fingerprint_unavailable_button">Jít do nastavení</string>
-
     <!-- LockedActivity - fingerprint -->
     <string name="title_fingerprint_unlock">Odemknutí otiskem prstu</string>
     <string name="subtitle_fingerprint_unlock">Použijte váš prst pro odemčení</string>
     <string name="use_pin_instead">Použít PIN kód</string>
-
     <!-- ChatActivity -->
     <string name="tab_chat_board">Rozcestník</string>
     <string name="tab_chat_rooms">Místnosti</string>
-
     <string name="chat_dashboard_online_friends">Přátelé na chatu</string>
     <string name="chat_dashboard_online_friends_empty">Nemáte nyní žádné přátele na chatu.</string>
     <string name="chat_dashboard_most_popular_webcams">Nejpopulárnější vysílání</string>
     <string name="chat_dashboard_favourite_chatrooms">Vaše oblíbené místnosti</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Zatím nemáte žádné oblíbené místnosti.</string>
     <string name="chat_dashboard_newest_chatrooms">Nejnovější místnosti</string>
-
     <string name="chat_room_empty">Tato místnost je prázdná.</string>
     <string name="chat_room_category_all">Všechny kategorie</string>
     <string name="toast_chat_room_favourited">Místnost %s byla přidaná mezi vaše oblíbené.</string>
     <string name="toast_chat_room_unfavourited">Místnost %s byla odebrána z vašich oblíbených.</string>
     <string name="chat_room_list_permanent">Stálé místnosti</string>
     <string name="chat_room_list_temporary">Dočasné místnosti</string>
-
     <string name="chat_avatar_popup_button_chat">Chatovat</string>
     <string name="chat_avatar_popup_button_profile">Profil</string>
     <string name="chat_room_filter_show_empty">Zobrazit prázdné místnosti</string>
     <string name="chat_room_filter_show_locked">Zobrazit zamčené místnosti</string>
     <string name="no_chat_rooms_text">Pro zadaný výběr nejsou žádné místnosti.</string>
-
     <string name="chat_online_friends_title">Přátelé na chatu</string>
     <string name="chat_most_popular_webcams_title">Nejpopulárnější vysílání</string>
-
     <!-- ChatRoomInfoActivity -->
     <string name="tab_chat_room_info">Detail místnosti</string>
     <string name="tab_chat_room_people">Lidé v místnosti</string>
-
     <string name="chat_room_info_description">Popis místnosti</string>
     <string name="chat_room_info_category">Kategorie</string>
     <string name="chat_room_info_access">Přístup</string>
     <string name="chat_room_info_temp_admin">Dočasný správce</string>
     <string name="chat_room_info_permanent_admins">Stálí správci</string>
     <string name="chat_room_info_enter_button">Vstoupit do místnosti</string>
-
     <string name="chat_room_people_empty">V této místnosti nikdo není.</string>
-
     <!-- NewDatingActivity -->
     <string name="title_dating_add">Nový inzerát</string>
     <string name="dating_add_category_title">Kategorie</string>
@@ -969,10 +846,8 @@
     <string name="dating_add_toast_created">Inzerát byl vytvořen.</string>
     <string name="dating_add_dialog_backpress">Inzerát nebude vytvořen. Provedené změny budou ztraceny.</string>
     <string name="dating_add_toast_empty_fields">Musí být vyplněna všechna pole.</string>
-
     <string name="dating_add_dialog_forbidden_title">Pouze jeden inzerát za %d hodin</string>
     <string name="dating_add_dialog_forbidden_content">Dnes jste již jeden inzerát přidal(a). Další můžete přidat opět zítra.</string>
-
     <!-- NewNoteActivity -->
     <string name="new_note_add_note">Přidat poznámku</string>
     <string name="new_note_add_hint">Napište text…</string>
@@ -985,7 +860,6 @@
     <string name="note_delete_dialog_backpress_title">Smazat tuto poznámku?</string>
     <string name="note_delete_dialog_backpress_text">Opravdu chcete smazat tuto poznámku?</string>
     <string name="note_delete_dialog_backpress_button">Smazat</string>
-
     <!-- NewBlogActivity -->
     <string name="new_blog_header">Přidat nový článek</string>
     <string name="new_blog_title">Název</string>
@@ -1001,7 +875,6 @@
     <string name="new_blog_send_for_approval">Zveřejnit článek</string>
     <string name="new_blog_empty_fields">Musí být vyplněna všechna pole.</string>
     <string name="new_blog_dialog_backpress">Článek nebude uložen. Provedené změny budou ztraceny.</string>
-
     <!-- NewBlogActivity edit blog -->
     <string name="blog_menu_delete">Smazat článek</string>
     <string name="blog_delete_content">Opravdu chcete smazat tento článek?</string>
@@ -1013,7 +886,6 @@
     <string name="blog_edit_send_for_approval_content">Opravdu chcete článek zveřejnit?</string>
     <string name="blog_edit_send_for_approval_confirm">Ano</string>
     <string name="blog_edit_send_for_approval_cancel">Ještě si to zkontroluji.</string>
-
     <!-- Blog list settings -->
     <string name="blogs_settings_no_blogs_for_state_title">Nemáte žádný článek ve stavu \"%s\".</string>
     <string name="blogs_settings_no_blogs_title">Nemáte žádné články v blogu.</string>
@@ -1024,7 +896,6 @@
     <string name="blogs_settings_delete_text">Opravdu chcete smazat tento článek z blogu?</string>
     <string name="blogs_settings_delete_confirm">Smazat</string>
     <string name="blogs_settings_delete_toast">Článek byl úspešně smazán.</string>
-
     <!-- MessagesSettingsFragment -->
     <string name="messages_settings_title">Kdo mě může kontaktovat</string>
     <string name="messages_settings_info_description">Aby vás uživatelé mohli kontaktovat, musí být splněny všechny podmínky.\n
@@ -1034,12 +905,10 @@
     <string name="messages_settings_vip">VIP uživatelé</string>
     <string name="messages_settings_verified">Ověření uživatelé</string>
     <string name="messages_settings_friends_only">Pouze přátelé</string>
-
     <!-- ProfileDatingSettingsFragment -->
     <string name="dating_settings_no_dating_ads_title">Nemáte žádné inzeráty</string>
     <string name="dating_settings_no_dating_ads_text">Přidat inzerát je snadné a můžete začít hned teď.</string>
     <string name="dating_settings_no_dating_ads_button">Přidat inzerát</string>
-
     <string name="dating_settings_status_enabled">Na webu</string>
     <string name="dating_settings_status_disabled">Zrušeno</string>
     <string name="dating_settings_status_expired">Exspirováno</string>
@@ -1047,45 +916,37 @@
     <string name="dating_settings_button_extend">Prodloužit</string>
     <string name="dating_settings_button_edit">Upravit</string>
     <string name="dating_settings_status_edited">Upraveno</string>
-
     <string name="dating_settings_dialog_delete_title">Smazat inzerát?</string>
     <string name="dating_settings_dialog_delete_text">Opravdu chcete smazat tento inzerát?</string>
     <string name="dating_settings_dialog_delete_button_confirm">Smazat</string>
     <string name="dating_settings_toast_dating_ad_deleted">Inzerát byl smazán.</string>
-
     <!-- DatingExtendDialog -->
     <string name="dialog_dating_extend_title">Prodloužit platnost inzerátu</string>
     <string name="dialog_dating_extend_text">Váš inzerát exspiroval. Prodloužením se opět zobrazí mezi ostatními inzeráty.</string>
     <string name="dialog_dating_extend_button_text">Prodloužit o %s</string>
     <string name="dialog_dating_extend_toast_successful">Platnost inzerátu byla prodloužena.</string>
-
     <!-- DatingEditActivity -->
     <string name="title_dating_edit">Upravit inzerát</string>
     <string name="dating_edit_button_text">Uložit změny</string>
     <string name="dating_edit_toast_saved">Změny byly uloženy.</string>
     <string name="dating_edit_toast_empty_fields">Musí být vyplněna všechna pole.</string>
-
     <!-- EditText validators -->
     <string name="edittext_invalid_input_empty">Pole %s musí být vyplněno</string>
-
     <plurals name="edittext_invalid_input_short">
         <item quantity="one">Prosím zadejte aspoň %d znak</item>
         <item quantity="few">Prosím zadejte aspoň %d znaky</item>
         <item quantity="other">Prosím zadejte aspoň %d znaků</item>
     </plurals>
-
     <plurals name="edittext_invalid_input_long">
         <item quantity="one">Prosím zadejte maximálně %d znak</item>
         <item quantity="few">Prosím zadejte maximálně %d znaky</item>
         <item quantity="other">Prosím zadejte maximálně %d znaků</item>
     </plurals>
-
     <!-- Android Notification channels - these strings will be shown in Android Oreo app's notification settings -->
     <string name="notification_channel_general">Všeobecné notifikace</string>
     <string name="notification_channel_messages">Notifikace vzkazníku</string>
     <string name="notification_channel_upload">Notifikace o nahrávání obsahu</string>
     <string name="notification_channel_webcams">Notifikace kamery</string>
-
     <!-- Chat Room -->
     <string name="chat_room_empty_title">Žádné zprávy</string>
     <string name="chat_room_empty_text">V této místnosti nejsou žádné zprávy.</string>
@@ -1161,7 +1022,6 @@
         <item quantity="few">%s lidi vás žádájí, abyste zapnul/a svou kameru!</item>
         <item quantity="other">%s lidí vás žádá, abyste zapnul/a svou kameru!</item>
     </plurals>
-
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
     <string name="dialog_chat_room_knock_title_waiting">Čekám na odpověď od správce místnosti…</string>
@@ -1171,12 +1031,10 @@
     <string name="dialog_chat_room_knock_button_request">Požádat o vstup</string>
     <string name="dialog_chat_room_knock_button_cancel">Jít zpět</string>
     <string name="toast_chat_room_knock_access_refused">Správce vám nepovolil vstup do této místnosti.</string>
-
     <!-- Chat Room Enter dialog -->
     <string name="dialog_chat_room_enter_title_main">Vstupuju do chat místnosti…</string>
     <string name="dialog_chat_room_enter_button_cancel">Jít zpět</string>
     <string name="dialog_chat_room_enter_forbidden">Vstup nebyl povolen</string>
-
     <!-- Chat Room Settings -->
     <string name="chat_room_settings_friends_messages_only">Jen texty přátel</string>
     <string name="chat_room_settings_room_management_section_title">Nastavení správce</string>
@@ -1194,12 +1052,10 @@
     <string name="chat_room_settings_admin_handover_dialog_text">Opravdu chcete předat správcovství uživateli %s?</string>
     <string name="chat_room_settings_admin_handover_dialog_button_confirm">Ano, předat správcovství</string>
     <string name="toast_chat_room_settings_admin_rights_handed_over">Správcovství bylo předáno uživateli %s.</string>
-
     <string name="chat_room_settings_font_size_title">Velikost písma</string>
     <string name="chat_room_settings_font_size_normal">Malé</string>
     <string name="chat_room_settings_font_size_bigger">Střední</string>
     <string name="chat_room_settings_font_size_biggest">Velké</string>
-
     <string name="chat_room_settings_webcam_sound_default_option">Automaticky zapnout zvuk</string>
     <string name="chat_room_settings_camera_permission_title">Sledovaní webkamery</string>
     <string name="chat_room_settings_hide_time_text">Skrýt čas zpráv</string>
@@ -1210,13 +1066,11 @@
     <string name="chat_room_settings_webcam_allow_women">Ženy</string>
     <string name="chat_room_settings_webcam_allow_couples">Páry</string>
     <string name="chat_room_settings_webcam_allow_uncheck_warning">Alespoň 1 kategorie musí zůstat povolena</string>
-
     <!-- Chat room whisper -->
     <string name="chat_room_whisper_user_left">%s opustil/a místnost …</string>
     <string name="chat_room_whisper_empty_title">Zatím žádné zprávy</string>
     <string name="chat_room_whisper_empty_text">Napište zprávu nebo jen smajlíka :)</string>
     <string name="chat_room_whisper_webcam_placeholder_title">Zapnout: %s</string>
-
     <!-- ProfileEditFragment -->
     <string name="profile_edit_section_profile_info">Úvodní informace</string>
     <string name="profile_edit_sex_hobbies_title">Sexuální záliby</string>
@@ -1224,12 +1078,10 @@
     <string name="profile_edit_sex_search_purpose_title">Účel hledání</string>
     <string name="profile_edit_personal_description_title">Osobní popisek</string>
     <string name="profile_edit_personal_description_hint">Vložte osobní popisek…</string>
-
     <string name="profile_edit_section_location_title">Lokace</string>
     <string name="profile_edit_section_location_country">Země</string>
     <string name="profile_edit_section_location_region">Region</string>
     <string name="profile_edit_section_location_city">Město</string>
-
     <string name="profile_edit_section_personal_info">Osobní info</string>
     <string name="profile_edit_section_personal_info_his">Jeho informace</string>
     <string name="profile_edit_section_personal_info_her">Její informace</string>
@@ -1247,16 +1099,13 @@
     <string name="profile_edit_skype_hint">Vložte své skype ID…</string>
     <string name="profile_edit_phone_number_title">Telefonní číslo</string>
     <string name="profile_edit_phone_number_hint">Vyplňte své telefonní číslo…</string>
-
     <string name="profile_edit_chooser_not_filled">Nevyplněno</string>
     <string name="profile_edit_button_save">Uložit změny</string>
     <string name="toast_profile_edit_changes_saved">Změny byly uloženy.</string>
-
     <string name="dialog_profile_edit_leave_title">Upozornění</string>
     <string name="dialog_profile_edit_leave_subtitle">Máte neuložené změny v profilu. Přejete si je uložit?</string>
     <string name="dialog_profile_edit_leave_save_button">Uložit změny</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Zahodit změny a odejít</string>
-
     <!-- Homepage -->
     <string name="home_section_favourites_videos_title">Videa mých oblíbených</string>
     <string name="home_section_favourites_albums_title">Fotoalba mých oblíbených</string>
@@ -1269,7 +1118,6 @@
     <string name="home_section_stories_title">Povídky</string>
     <string name="home_section_blogs_title">Blogy</string>
     <string name="home_section_visits_title">Poslední návštěvy profilu</string>
-
     <string name="home_section_favourites_videos_footer_title">Všechna videa mých oblíbených</string>
     <string name="home_section_favourites_albums_footer_title">Všechna alba mých oblíbených</string>
     <string name="home_section_videos_footer_title">Všechna videa</string>
@@ -1282,7 +1130,6 @@
     <string name="home_section_visits_footer_title">Všechna zobrazení</string>
     <string name="home_menu_edit_homepage">Upravit hlavní stránku</string>
     <string name="home_menu_change_home_screen">Změnit výchozí úvodní obrazovku</string>
-
     <!-- Ignore list -->
     <string name="title_ignore_list">Ignorace</string>
     <string name="ignore_list_empty_title">Žádné ignorace</string>
@@ -1291,7 +1138,6 @@
     <string name="dialog_ignore_list_remove_text">Opravdu chcete odebrat uživatele %s z ignorace?</string>
     <string name="dialog_ignore_list_remove_button_confirm">Odebrat</string>
     <string name="toast_ignore_list_user_removed">Uživatel %s byl odebrán z ignorace.</string>
-
     <!-- Profile options bottomsheet -->
     <string name="profile_options_add_favourite">Přidat k oblíbeným</string>
     <string name="profile_options_add_friend">Přidat přítele</string>
@@ -1300,14 +1146,12 @@
     <string name="dialog_ignore_list_add_title">Přidat do ignorace</string>
     <string name="dialog_ignore_list_add_text">Opravdu chcete přidat uživatele %s do ignorace?</string>
     <string name="dialog_ignore_list_add_button_confirm">Přidat do ignorace</string>
-
     <!-- Conversation options bottomsheet -->
     <string name="conversation_options_delete_conversation">Smazat konverzaci</string>
     <string name="conversation_options_add_favourite">Přidat k oblíbeným</string>
     <string name="conversation_options_remove_favourite">Odebrat z oblíbených</string>
     <string name="conversation_to_favourites_added_toast">Konverzace byla přidána mezi vaše oblíbené.</string>
     <string name="conversation_from_favourites_removed_toast">Konverzace byla odebrána z vašich oblíbených.</string>
-
     <!-- Chat webcams -->
     <string name="janus_fragment_retry_text">Přerušeno.  Obnovit?</string>
     <string name="janus_fragment_hangup_text">Kamera vypnuta</string>
@@ -1319,24 +1163,20 @@
     <string name="janus_broadcast_service_notification_title">Vysílate</string>
     <string name="janus_broadcast_service_notification_text">Chat místnost: %s</string>
     <string name="janus_broadcast_service_notification_action_turn_off">Vypnout vysílání</string>
-
     <!-- Chat room webcam bottom sheets -->
     <string name="bottomsheet_webcam_broadcast_title">Moje kamera</string>
     <string name="bottomsheet_webcam_broadcast_switch_camera">Přepnout kameru</string>
     <string name="bottomsheet_webcam_broadcast_mute">Vypnout zvuk</string>
     <string name="bottomsheet_webcam_broadcast_unmute">Zapnout zvuk</string>
     <string name="bottomsheet_webcam_broadcast_turn_off">Vypnout kameru</string>
-
     <string name="bottomsheet_webcam_listener_title">Vysílání uživatele %s</string>
     <string name="bottomsheet_webcam_listener_maximize">Zobrazit v plné velikosti</string>
     <string name="bottomsheet_webcam_listener_whisper">Šeptat</string>
     <string name="bottomsheet_webcam_listener_mute">Vypnout zvuk</string>
     <string name="bottomsheet_webcam_listener_unmute">Zapnout zvuk</string>
     <string name="bottomsheet_webcam_listener_turn_off">Zavřít vysílání</string>
-
     <!-- Chat room webcam detail -->
     <string name="webcam_detail_toolbar_title">Vysílání: %s</string>
-
     <!-- NewChatRoomActivity -->
     <string name="title_add_chat_room">Založit novou místnost</string>
     <string name="chatroom_add_title_title">Název</string>
@@ -1354,39 +1194,30 @@
     <string name="chatroom_add_country_title">Země</string>
     <string name="chatroom_add_error_not_allowed">Nyní nemůžete přidat novou chatovací místnost.</string>
     <string name="chatroom_add_submit_button_text">Vytvořit chatovací místnost</string>
-
     <!-- ProfileSettingsFragment -->
     <string name="setup_default_homescreen_title">Výchozí úvodní obrazovka</string>
     <string name="setup_default_homescreen_dialog_title">Zvolte si svou úvodní obrazovku</string>
-
     <string name="setup_default_language_title">Jazyk aplikace</string>
     <string name="setup_default_language_dialog_title">Zvolte jazyk aplikace</string>
-
     <string name="language_default">Stejný jako systémový jazyk</string>
-
     <!-- HomeSettingsActivity -->
     <string name="home_settings_title">Upravit hlavní stránku</string>
     <string name="toast_home_settings_invalid_input">Alespoň jedna kategorie musí být vybrána.</string>
-
     <!-- ForumActivity -->
     <string name="forum_tab_dashboard">Rozcestník</string>
     <string name="forum_tab_topics">Témata</string>
     <string name="forum_tab_posts">Příspěvky</string>
-
     <!-- ForumDashboardFragment -->
     <string name="forum_dashboard_section_main_topics">Hlavní témata</string>
     <string name="forum_dashboard_section_newly_updated_topics">Nejnovější příspěvky</string>
     <string name="forum_dashboard_section_popular_topics">Oblíbená témata</string>
-
     <!-- ForumTopicsFragment -->
     <string name="forum_topics_filter_all">Všechna témata</string>
     <string name="forum_topics_sort_time_desc">Od nejnovějších</string>
     <string name="forum_topics_sort_count_desc">Podle počtu příspěvků</string>
     <string name="forum_topics_sort_lastupdate_desc">Podle nejnovějších příspěvků</string>
-
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Nastavení kvality videa</string>
-
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
         <item>Nový slušný režim</item>
@@ -1394,11 +1225,50 @@
         <item>Nastavení soukromí ve vzkazníku</item>
         <item>Vylepšení chatu</item>
     </string-array>
-
-<string name="my_account_disconnect">Odpojit</string>
-
+    <string name="my_account_disconnect">Odpojit</string>
     <string name="title_messages">Vzkazy</string>
     <string name="social_login_error">Chyba</string>
     <string name="my_account_disconnect_dialog">Opravdu chcete toto přihlášení sociální sítí odpojit?</string>
     <string name="my_account_disconnect_dialog_title">Odpojit přihlášení sociální sítí?</string>
-    </resources>
+    <string name="chat_room_settings_other_phone_sleep">Zakázat uspání telefonu</string>
+    <string name="chat_room_settings_other_settings_section_title">Ostatní</string>
+    <string name="messages_settings_country_all">Všechny země</string>
+    <string name="messages_settings_country_title">Vyberte povolené země</string>
+    <string name="my_account_preferred_language_not_set">Preferovaný jazyk obsahu nesmí být prázdný</string>
+    <string name="my_account_preferred_language">Preferovaný jazyk obsahu</string>
+    <string name="comment_sort_by_language">Podle jazyka</string>
+    <string name="comment_sort_by_date">Podle data</string>
+    <string name="comment_sort_dialog_title">Pořadí komentářů</string>
+    <string name="comment_sort_title">Pořadí komentářů</string>
+    <string name="video_settings_missing_category">Prosím vyberte kategorii</string>
+    <string name="album_settings_missing_category">Prosím vyberte kategorii</string>
+    <string name="dating_filter_profile">S fotkou</string>
+    <string name="dating_filter_verified">Ověřeno</string>
+    <string name="dating_filter_stars">Uloženo</string>
+    <string name="dating_filter_notop">Bez topování</string>
+    <string name="dating_region">Region</string>
+    <string name="dating_country">Země</string>
+    <string name="dating_showonly">Pouze</string>
+    <string name="dating_category">Kategorie</string>
+    <plurals name="profile_last_online_days">
+        <item quantity="one">včera</item>
+        <item quantity="few">před %d dny</item>
+        <item quantity="other">před %d dny</item>
+    </plurals>
+    <plurals name="profile_last_online_hours">
+        <item quantity="one">před hodinou</item>
+        <item quantity="few">před %d hodinami</item>
+        <item quantity="other">před %d hodinami</item>
+    </plurals>
+    <plurals name="profile_last_online_minutes">
+        <item quantity="one">před minutou</item>
+        <item quantity="few">před %d minutami</item>
+        <item quantity="other">před %d minutami</item>
+    </plurals>
+    <plurals name="profile_last_online_seconds">
+        <item quantity="one">právě teď</item>
+        <item quantity="few">před %d sekundami</item>
+        <item quantity="other">před %d sekundami</item>
+    </plurals>
+    <string name="profile_last_online">Naposledy online</string>
+</resources>
