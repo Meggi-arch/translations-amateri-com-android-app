@@ -332,8 +332,8 @@
 	</plurals>
 
 	<plurals name="profile_last_online_hours">
-		<item quantity="one">minute ago</item>
-		<item quantity="other">%d minutes ago</item>
+		<item quantity="one">hour ago</item>
+		<item quantity="other">%d hours ago</item>
 	</plurals>
 
 	<plurals name="profile_last_online_days">
