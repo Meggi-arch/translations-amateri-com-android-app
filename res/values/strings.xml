@@ -1,1400 +1,1445 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="general_error">Ouch!</string>
-    <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
-    <string name="general_loading">Please wait while we load the data</string>
-    <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="dialog_android_unsupported_title">Unsupported feature</string>
-    <string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
-    <string name="general_empty_title">Nothing is here</string>
-    <string name="general_empty_text">There\'s nothing to show :(</string>
-
-    <!--MainActivity-->
-    <string name="title_home">Homepage</string>
-    <string name="title_album">Albums</string>
-    <string name="title_videos">Videos</string>
-    <string name="title_people">People</string>
-    <string name="title_blogs">Blogs</string>
-    <string name="title_stories">Stories</string>
-    <string name="title_events">Events</string>
-    <string name="title_chat">Chat</string>
-    <string name="title_settings">Settings</string>
-    <string name="title_application_settings">Application settings</string>
-    <string name="title_safe_mode_disabled">Enable decent mode</string>
-    <string name="title_safe_mode_enabled">Disable decent mode</string>
-    <string name="title_logout">Log out</string>
-    <string name="title_version">Version %s</string>
-    <string name="title_feedback">Send feedback</string>
-    <string name="title_new_version">New version!</string>
-    <string name="title_album_settings">Album settings</string>
-    <string name="title_video_settings">Video settings</string>
-    <string name="title_new_album">Add new album</string>
-    <string name="title_new_video">Add new video</string>
-    <string name="title_my_account">My account</string>
-    <string name="title_profile">Profile</string>
-    <string name="title_dating">Dating</string>
-    <string name="title_notes">Notes</string>
-    <string name="title_messages">Messages</string>
-    <string name="title_forum">Forum</string>
-
-    <!--Notes empty screen-->
-    <string name="empty_notes_title">Nothing is here</string>
-    <string name="empty_notes_text">You can add notes in user\'s profile.</string>
-
-    <!--AlbumFragment-->
-    <string name="tab_latest">Latest</string>
-    <string name="tab_best">Best</string>
-    <string name="tab_favourites">From favourites</string>
-
-    <!--AlbumDetailActivity-->
-    <string name="title_comments">Comments</string>
-    <string name="title_next_albums">More albums</string>
-    <string name="album_comment_disallowed">You cannot add a comment to this album now.</string>
-
-    <!--VideoDetailActivity-->
-    <string name="title_next_videos">More videos</string>
-    <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
-
-    <!--BlogDetailActivity-->
-    <string name="title_next_blogs">More posts</string>
-    <string name="blog_comment_disallowed">You cannot add a comment to this blog post now.</string>
-
-    <!--StoryDetailActivity-->
-    <string name="title_next_story">More stories</string>
-    <string name="story_comment_disallowed">You cannot add a comment to this story now.</string>
-
-    <!--FilterDatingActivity-->
-    <string name="no_dating_ads_title">No dating ads found</string>
-    <string name="no_dating_ads_text">No dating ads found for selected filter.</string>
-
-    <!--DatingReplyActivity-->
-    <string name="dating_reply_hint">Your reply</string>
-    <string name="toast_dating_reply_sent">Reply has been sent</string>
-    <string name="dating_reply_picture_attached">Photo attached</string>
-    <string name="dialog_delete_attachment_title">Delete attachment</string>
-    <string name="dialog_delete_attachment_text">Do you really want to delete the attachment?</string>
-
-    <!--ReportDatingAdDialog-->
-    <string name="dialog_report_ad_title">Report dating ad</string>
-
-    <!--Menu-->
-    <string name="menu_notification">Notifications</string>
-    <string name="menu_badges">Tags</string>
-    <string name="menu_profile_meatballs">Profile options</string>
-    <string name="menu_reset">Reset</string>
-    <string name="menu_chat_room">Chat room menu</string>
-    <string name="menu_chat_room_webcam">Turn on the camera</string>
-    <string name="menu_homepage">Settings</string>
-    <string name="menu_forum_topics">List sorted by</string>
-
-    <string name="action_try_again">Try again</string>
-
-    <string name="hint_username">Nickname</string>
-    <string name="hint_password">Password</string>
-
-    <string name="tab_albums">Albums</string>
-    <string name="tab_videos">Videos</string>
-    <string name="tab_blogs">Blog</string>
-    <string name="tab_stories">Stories</string>
-    <string name="tab_info">Info</string>
-    <string name="tab_user">Users</string>
-    <string name="tab_album">Albums</string>
-    <string name="tab_video">Videos</string>
-    <string name="tab_dating">Dating</string>
-    <string name="tab_friends">Friends</string>
-    <string name="tab_notes">My notes</string>
-
-    <string name="filter_advanced">Advanced filter</string>
-    <string name="filter_sort_by">List sorted by</string>
-    <string name="album_filter_show_all">Show albums</string>
-    <string name="video_filter_show_all">Show videos</string>
-
-    <!--ProfileInfoFragment-->
-    <string name="title_personal_info">Personal details</string>
-    <string name="title_sex">Sex</string>
-    <string name="title_age">Age</string>
-    <string name="title_location">Location</string>
-    <string name="title_country">Country</string>
-    <string name="title_region">Region</string>
-    <string name="title_city">City</string>
-    <string name="title_marital_status">Marital status</string>
-    <string name="title_sexual_orientation">Sexual orientation</string>
-    <string name="title_height">Height</string>
-    <string name="title_weight">Weight</string>
-    <string name="title_filter_height">Height [cm]</string>
-    <string name="title_filter_weight">Weight [kg]</string>
-    <string name="title_eye_color">Eye colour</string>
-    <string name="title_hair_color">Hair colour</string>
-    <string name="title_statistics">Statistics</string>
-    <string name="title_registration_date">Registration date</string>
-    <string name="title_chat_time">Time on chat</string>
-    <string name="title_attended_events">Events attended</string>
-    <string name="title_views">Views</string>
-    <string name="title_hobbies">Sexual preferences and interests</string>
-    <string name="title_sex_search">Searching</string>
-    <string name="title_sex_search_purpose">Purpose of search</string>
-    <string name="title_personal_descr">Personal description</string>
-    <string name="title_profile_address">Profile URL</string>
-    <string name="title_unknown">N/A</string>
-    <string name="title_centimeters">cm</string>
-    <string name="title_kilograms">kg</string>
-    <string name="toast_copied_text">The url has been copied to your clipboard!</string>
-    <string name="title_share">Share</string>
-    <string name="profile_male">Man</string>
-    <string name="profile_female">Woman</string>
-    <string name="profile_group">Group</string>
-    <string name="profile_add_note">Add a new note</string>
-    <string name="profile_add_friend_already_friend">Previously added</string>
-    <string name="profile_add_friend_already_requested">Previously requested</string>
-
-    <string name="title_filter">Search</string>
-
-    <!--plurals-->
-    <plurals name="people">
-        <item quantity="one">%s person likes</item>
-        <item quantity="other">%s people like</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="one">hour</item>
-        <item quantity="other">hours</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="one">%s day</item>
-        <item quantity="other">%s days</item>
-    </plurals>
-    <plurals name="months">
-        <item quantity="one">%s month</item>
-        <item quantity="other">%s months</item>
-    </plurals>
-    <plurals name="years">
-        <item quantity="one">%s year</item>
-        <item quantity="other">%s years</item>
-    </plurals>
-    <plurals name="user_filter_show">
-        <item quantity="one">Show %s profile</item>
-        <item quantity="other">Show %s profiles</item>
-    </plurals>
-    <plurals name="album_filter_show">
-        <item quantity="one">Show %s album</item>
-        <item quantity="other">Show %s albums</item>
-    </plurals>
-    <plurals name="video_filter_show">
-        <item quantity="one">Show %s video</item>
-        <item quantity="other">Show %s videos</item>
-    </plurals>
-    <plurals name="topics">
-        <item quantity="one">%d topic</item>
-        <item quantity="other">%d topics</item>
-    </plurals>
-    <plurals name="posts">
-        <item quantity="one">%d post</item>
-        <item quantity="other">%d posts</item>
-    </plurals>
-
-    <!--FilterUserFragment-->
-    <string name="user_country_all">All countries</string>
-    <string name="user_region_all">All regions</string>
-    <string name="user_with_albums">With albums</string>
-    <string name="user_with_videos">With videos</string>
-    <string name="user_with_photo">With photo</string>
-    <string name="user_with_dating">With dating ads</string>
-    <string name="user_sexual_orientation_all">All sexual orientations</string>
-    <string name="user_marital_status_all">All family statuses</string>
-    <string name="user_sex_search_all">All sex searches</string>
-    <string name="user_sex_search_purpose_all">All sex search purposes</string>
-    <string name="user_sexual_hobbies_all">All sexual hobbies</string>
-    <string name="user_zodiac_sign_all">All zodiac signs</string>
-    <string name="user_hair_color_all">All hair colors</string>
-    <string name="user_eye_color_all">All eye colors</string>
-    <string name="no_users_found">No users found</string>
-    <string name="button_filter_connection_error">Connection error</string>
-    <string name="filter_show_only">Show only</string>
-    <string name="filter_user_online">Online</string>
-    <string name="filter_user_favourites">From favourites</string>
-    <string name="filter_user_verified">Verified</string>
-
-    <!--FilterAlbumFragment-->
-    <string name="album_theme_all">All topics</string>
-    <string name="album_contest_all">Contest not selected</string>
-    <string name="album_contest_unavailable">No contests available</string>
-    <string name="no_albums_found">No albums found</string>
-    <string name="date_less_than_1_day">24h</string>
-    <string name="date_less_than_7_days">7 days</string>
-    <string name="date_less_than_1_month">1 month</string>
-    <string name="date_less_than_3_months">3 months</string>
-    <string name="date_start">Start date</string>
-    <string name="date_end">End date</string>
-
-    <!--FilterVideoFragment-->
-    <string name="video_theme_all">All topics</string>
-    <string name="video_contest_all">Contest not selected</string>
-    <string name="video_contest_unavailable">No contests available</string>
-    <string name="no_videos_found">No videos found</string>
-    <string name="filter_album_not_viewed">Unseen</string>
-
-    <!--AlbumInfoActivity-->
-    <string name="author">Author</string>
-    <string name="category">Category</string>
-    <string name="photo_count">Number of photos</string>
-    <string name="vip">VIP</string>
-    <string name="certificated">Verified</string>
-    <string name="views">Views</string>
-    <string name="rating">Rating</string>
-    <string name="comments">Comments</string>
-    <string name="added">Added</string>
-    <string name="album_number">Album ID</string>
-    <string name="album_address">Album URL</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-
-    <!--VideoInfoActivity-->
-    <string name="video_duration">Duration</string>
-    <string name="video_number">Video ID</string>
-    <string name="video_address">Video URL</string>
-
-    <!--Notification menu-->
-    <string name="notifications_title">Notification</string>
-    <string name="notifications_visits">Visits</string>
-    <string name="notifications_messages">Messages</string>
-    <string name="notifications_requests">Friend requests</string>
-    <string name="notifications_favourites">Favourites</string>
-    <string name="notifications_ignored">Ignore list</string>
-    <string name="notifications_my_account">My account</string>
-    <string name="notifications_albums">Albums</string>
-    <string name="notifications_videos">Videos</string>
-    <string name="notifications_blogs">Blog posts</string>
-    <string name="notifications_dating">Dating</string>
-    <string name="notifications_notes">Notes</string>
-
-    <!--Update dialog-->
-    <string name="update_dialog_title">New version</string>
-    <string name="update_dialog_content">New enhanced and juicier version of the application is available. Do you want to download it?</string>
-    <string name="update_dialog_later">Later</string>
-    <string name="update_dialog_download">Download</string>
-
-    <!--Old version dialog-->
-    <string name="old_dialog_title">Old version</string>
-    <string name="old_dialog_content">Unfortunately you’re using a version which is no longer supported. New enhanced version of the application is available. Do you want to download it?</string>
-    <string name="old_dialog_exit">Leave</string>
-
-    <!--Timeout dialog-->
-    <string name="timeout_dialog_title">Session expired</string>
-    <string name="timeout_dialog_content">Please log in again.</string>
-
-    <!--Redirect dialog-->
-    <string name="redirect_dialog_title">You will be redirected</string>
-    <string name="redirect_dialog_content">This part of the application is only accessible via the web interface. Want to be redirected to the website?</string>
-
-    <!--Unauthorized dialog-->
-    <string name="unauthorized_dialog_title">You aren’t logged in</string>
-    <string name="unauthorized_dialog_content">You need to log in to use this function.</string>
-    <string name="unauthorized_dialog_register">Sign up</string>
-
-    <!--Lists error dialog-->
-    <string name="lists_error_dialog_title">Connection error</string>
-    <string name="lists_error_dialog_content">Please check your internet connection.</string>
-    <string name="lists_error_dialog_retry">Repeat</string>
-
-    <!--LoginActivity-->
-    <string name="button_login">Log in</string>
-    <string name="button_registration">Sign up</string>
-    <string name="button_entry">Enter without login</string>
-
-    <!--FilterAlbumActivity | FilterUserActivity-->
-    <string name="title_filter_results">Search results</string>
-
-    <!--MyProfileActivity-->
-    <string name="verify_button">Verify profile</string>
-    <string name="verify_title">Get more trustworthy verified profile right now</string>
-    <string name="verify_chooser_title">Choose a photo</string>
-    <string name="verify_text">Write your nick, current date, name amateri.com on the paper and take a photo with it. If you are using the profile as a pair, we need a verification photo from you both.</string>
-    <string name="verify_more_info">More information</string>
-    <string name="verify_send">Upload verification photo</string>
-    <string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
-    <string name="done">Done!</string>
-
-    <!--ProfileActivity-->
-    <string name="profile_user_chat_rooms">Chat rooms</string>
-
-    <!-- ArticleInfoActivity -->
-    <string name="article_info_share">Share with friends</string>
-    <string name="blog_number">Blog number</string>
-    <string name="blog_url">Blog URL</string>
-    <string name="story_number">Story number</string>
-    <string name="story_url">Story URL</string>
-
-    <!-- FilterDatingActivity -->
-    <string name="dating_reply">Reply</string>
-    <string name="dating_highlight">Top ad</string>
-    <string name="dating_buy_top_dialog_title">Top ad</string>
-    <string name="dating_buy_top_dialog_main_text_first">You can Top the ad to the 1st place right now.</string>
-    <string name="dating_buy_top_dialog_main_text_second">Using the Top feature makes the dating ad more visible and it will maintain a top position in its category for %d days.</string>
-    <string name="dating_buy_top_dialog_main_text_third">Repeated use of the Top feature adds up the days, dating ads with more cumulated days will gain higher position in the list.</string>
-    <string name="dating_buy_top_dialog_info_text_1">The price of one single message received is %s including VAT.</string>
-    <string name="dating_buy_top_dialog_info_text_2">Technically provided by %s.</string>
-    <string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
-    <string name="dating_buy_top_dialog_country_picker_title">Country</string>
-    <string name="dating_buy_top_dialog_country_picker_placeholder">Select country</string>
-    <string name="dating_buy_top_dialog_send_sms">Send autofilled SMS</string>
-    <string name="dating_buy_top_dialog_no_sms_data">Not available in this country</string>
-    <string name="dating_buy_top_dialog_network_error">Connection error</string>
-
-    <!--Invalid login dialog-->
-    <string name="invalid_login_dialog_title">Invalid login</string>
-    <string name="invalid_login_dialog_content">Incorrect login details entered.</string>
-    <string name="invalid_login_dialog_retry">Try again</string>
-    <string name="invalid_login_dialog_forgot_password">I’ve forgotten my password</string>
-
-    <!--Feedback dialog-->
-    <string name="feedback_dialog_title">Feedback</string>
-    <string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
-
-    <!--Buy VIP dialog-->
-    <string name="vip_dialog_title">We are sorry, but only VIP members can use this feature.</string>
-    <string name="vip_dialog_activate">I want to become a VIP member</string>
-    <string name="vip_dialog_login">Log in</string>
-    <string name="vip_dialog_register">Register</string>
-
-    <!--FeedbackActivity-->
-    <string name="title_activity_feedback">Send feedback</string>
-    <string name="feedback_email">e-mail</string>
-    <string name="feedback_category">category</string>
-    <string name="feedback_message">your message</string>
-    <string name="feedback_send">Send</string>
-    <string name="feedback_category_default">Choose a category</string>
-
-    <!--Change profile photo-->
-    <string name="profile_photo_camera">Take a photo</string>
-    <string name="profile_photo_library">Select from library</string>
-    <string name="profile_photo_processing">Uploading photo</string>
-    <string name="profile_photo_change">Change profile photo</string>
-
-    <!--Comment adding-->
-    <string name="comment_write_hint">Write a comment</string>
-    <string name="emoticon_dialog_close">Close</string>
-    <string name="emoticon_no_emoticons">No emoticons</string>
-
-    <!--Search-->
-    <string name="search_hint">Search</string>
-    <string name="search_album_hint">Search in albums</string>
-    <string name="search_video_hint">Search in videos</string>
-    <string name="search_user_hint">Search in users</string>
-
-    <!--ApplicationSettingsFragment-->
-    <string name="setup_notifications">Notifications</string>
-    <string name="setup_notification_new_message">New message</string>
-    <string name="setup_notification_advert_reply">New dating ad response</string>
-    <string name="setup_notification_friend_request">New friendship request</string>
-    <string name="setup_notification_new_favourite">You were favourited</string>
-    <string name="setup_notification_new_visit">New profile visit</string>
-    <string name="setup_notification_friend_request_reply">Friendship request accepted</string>
-    <string name="setup_notification_new_album_comment">New album comment</string>
-    <string name="setup_notification_new_video_comment">New video comment</string>
-    <string name="setup_notification_new_blog_comment">New blog post comment</string>
-    <string name="setup_notification_new_story_comment">New story comment</string>
-    <string name="setup_notification_album_approval">New album approval</string>
-    <string name="setup_notification_video_approval">New video approval</string>
-    <string name="setup_notification_advertisement">Newsletters</string>
-    <string name="setup_notification_mention">Mentions</string>
-    <string name="setup_privacy">Security</string>
-    <string name="setup_auto_logout">PIN code lock</string>
-    <string name="change_pin">Change PIN code</string>
-    <string name="next">Next</string>
-    <string name="setup_about_app">About application</string>
-    <string name="setup_current_version">Current version</string>
-    <string name="setup_update_check">Check for updates</string>
-    <string name="setup_no_updates">No updates available</string>
-    <string name="setup_update_unsupported_sdk">We are sorry, but your Android system version is too old to install new version :(</string>
-    <string name="setup_stories_and_blogs_title">Stories and blogs</string>
-    <string name="setup_text_size">Text size</string>
-    <string name="setup_background_color">Background color</string>
-    <string name="text_size_small">Small</string>
-    <string name="text_size_medium">Medium</string>
-    <string name="text_size_big">Big</string>
-    <string name="color_theme_dark">Dark</string>
-    <string name="color_theme_light">White</string>
-
-    <string name="setup_default_homescreen_title">Default home screen</string>
-    <string name="setup_default_homescreen_dialog_title">Choose your default screen</string>
-
-    <string name="setup_default_language_title">Application language</string>
-    <string name="setup_default_language_dialog_title">Choose the application language</string>
-
-    <string name="language_default">Same as system language</string>
-
-    <!--LockedActivity-->
-    <string name="locked_unlock">Unlock</string>
-    <string name="locked_forgot_pin">Forgotten PIN code</string>
-    <string name="locked_pin_hint">PIN code</string>
-    <string name="locked_pin_missing">Enter PIN code</string>
-    <string name="locked_bad_pin_title">Invalid PIN code</string>
-    <string name="locked_bad_pin_retry">Try again</string>
-    <string name="locked_bad_pin_forgot">Forgotten PIN code</string>
-
-    <!--ForgotPinActivity-->
-    <string name="forgot_pin_forgot_password">Forgotten password</string>
-    <string name="forgot_pin_title">Please log in again.</string>
-
-    <!--Pin Dialogs-->
-    <string name="dialog_pin_title_new">Enter new PIN code</string>
-    <string name="dialog_pin_title_old">Enter current PIN code</string>
-    <string name="dialog_pin_text_setup">Enter 4-digit PIN code.</string>
-    <string name="dialog_pin_text_forgot">Enter new 4-digit PIN coder or remove it.</string>
-    <string name="dialog_pin_text_old">Enter current PIN code.</string>
-    <string name="dialog_pin_text_change_fail">Invalid PIN code</string>
-    <string name="dialog_pin_hint_1">Enter PIN code</string>
-    <string name="dialog_pin_hint_2">Re-enter PIN code</string>
-    <string name="dialog_pin_remove">Remove</string>
-    <string name="dialog_pin_create">Create</string>
-
-    <!--AlbumSettingsActivity-->
-    <string name="album_settings_title">Title</string>
-    <string name="album_settings_title_hint">Enter title</string>
-    <string name="album_settings_description">Description</string>
-    <string name="album_settings_description_hint">Enter description</string>
-    <string name="album_settings_category">Category</string>
-    <string name="album_settings_category_default">Select category</string>
-    <string name="album_settings_comment">Comment settings</string>
-    <string name="album_settings_topic">Topic</string>
-    <string name="album_settings_topic_default">Select topic</string>
-    <string name="album_settings_contest">Contest</string>
-    <string name="album_settings_contest_default">Select contest</string>
-    <string name="album_settings_vote">Voting enabled</string>
-    <string name="album_settings_password_text">Password lock</string>
-    <string name="album_settings_password_hint">Enter password</string>
-    <string name="album_settings_save">Submit</string>
-    <string name="album_settings_save_success">Changes saved</string>
-    <string name="album_settings_submit">Submit for approval</string>
-    <string name="album_settings_submit_success">Changes have been sent for approval</string>
-    <string name="album_settings_missing_name">Please enter the title</string>
-    <string name="album_settings_missing_password">Please enter the password</string>
-    <string name="album_not_vip_title">VIP expired</string>
-    <string name="album_not_vip_text">VIP expired. You won\'t be able to turn the password lock back on.</string>
-    <string name="album_not_vip_confirm">Turn off password lock?</string>
-    <string name="album_not_vip_main_button">Turn off</string>
-    <string name="album_not_vip_other_button">Cancel</string>
-
-    <!--VideoSettingsActivity-->
-    <string name="video_settings_title">Title</string>
-    <string name="video_settings_title_hint">Enter title</string>
-    <string name="video_settings_description">Description</string>
-    <string name="video_settings_description_hint">Enter description</string>
-    <string name="video_settings_category">Category</string>
-    <string name="video_settings_category_default">Select category</string>
-    <string name="video_settings_comment">Comment settings</string>
-    <string name="video_settings_topic">Topic</string>
-    <string name="video_settings_topic_default">Select topic</string>
-    <string name="video_settings_contest">Contest</string>
-    <string name="video_settings_contest_default">Select contest</string>
-    <string name="video_settings_vote">Voting enabled</string>
-    <string name="video_settings_password_text">Password lock</string>
-    <string name="video_settings_password_hint">Enter password</string>
-    <string name="video_settings_save">Submit</string>
-    <string name="video_settings_save_success">Changes saved</string>
-    <string name="video_settings_submit">Submit for approval</string>
-    <string name="video_settings_submit_success">Changes have been sent for approval</string>
-    <string name="video_settings_missing_name">Please enter the title</string>
-    <string name="video_settings_missing_password">Please enter the password</string>
-    <string name="video_not_vip_title">VIP expired</string>
-    <string name="video_not_vip_text">VIP expired. You won\'t be able to turn the password lock back on.</string>
-    <string name="video_not_vip_confirm">Turn off password lock?</string>
-    <string name="video_not_vip_main_button">Turn off</string>
-    <string name="video_not_vip_other_button">Cancel</string>
-
-    <!--ProfileAlbumSettingsFragment-->
-    <string name="profile_album_settings_edit_error">You cannot edit this album</string>
-    <string name="visibility_on">Enabled</string>
-    <string name="visibility_off">Disabled</string>
-    <string name="no_album_for_state_title">You have no albums in state \"%s\".</string>
-    <string name="no_album_title">You have no albums.</string>
-    <string name="no_album_text">To add an album is easy and you can start right now.</string>
-    <string name="add_album">Add new album</string>
-
-    <!--ProfileVideoSettingsFragment-->
-    <string name="profile_video_settings_edit_error">You cannot edit this video</string>
-    <string name="profile_video_converting_edit_error">You cannot edit this video during the encoding process. Please wait.</string>
-    <string name="profile_video_disabled_edit_error">You cannot edit this video anymore</string>
-    <string name="no_video_for_state_title">You have no videos in state \"%s\".</string>
-    <string name="no_video_title">You have no videos.</string>
-    <string name="no_video_text">To add a video is easy and you can start right now.</string>
-    <string name="add_video">Add new video</string>
-
-    <!--Notification Actions-->
-    <string name="notification_profile">Profile</string>
-    <string name="notification_message">Message</string>
-    <string name="notification_album">Album</string>
-    <string name="notification_video">Video</string>
-    <string name="notification_blog">Blog</string>
-    <string name="notification_story">Story</string>
-    <string name="notification_update">Download</string>
-    <string name="notification_update_later">Later</string>
-    <string name="notification_friendship_accept">Accept</string>
-    <string name="notification_dating_respond">Reply</string>
-    <string name="notification_more_info">Learn more</string>
-    <string name="notification_add_to_calendar">Add to calendar</string>
-    <string name="notification_event_detail">Event detail</string>
-
-    <!--Notification Texts-->
-    <string name="notification_profile_view_title">New profile visit</string>
-    <string name="notification_profile_view_text">%s has just visited your profile.</string>
-
-    <plurals name="notification_message_new_summary">
-        <item quantity="one">New message</item>
-        <item quantity="other">%s new messages</item>
-    </plurals>
-
-    <string name="notification_dating_ad_title">New dating ad response</string>
-
-    <string name="notification_friendship_request_title">New friendship request</string>
-    <string name="notification_friendship_request_text">User %s would like to be your friend!</string>
-
-    <string name="notification_friendship_approve_title">Friendship request accepted</string>
-    <string name="notification_friendship_approve_text">Congratulations, you and %s are now friends.</string>
-
-    <string name="notification_favourite_add_title">You were favourited</string>
-    <string name="notification_favourite_add_text">User %s has added you to his favourites.</string>
-
-    <string name="notification_album_comment_add_title">New album comment</string>
-    <string name="notification_album_comment_add_text">%1$s has added a comment to your album \"%2$s\": %3$s</string>
-
-    <string name="notification_video_comment_add_title">New video comment</string>
-    <string name="notification_video_comment_add_text">%1$s has added a comment to your video \"%2$s\": %3$s</string>
-
-    <string name="notification_blog_comment_add_title">New blog post comment</string>
-    <string name="notification_blog_comment_add_text">%1$s has added a comment to your blog post \"%2$s\": %3$s</string>
-
-    <string name="notification_story_comment_add_title">New story comment</string>
-    <string name="notification_story_comment_add_text">%1$s has added a comment to your story \"%2$s\": %3$s</string>
-
-    <string name="notification_mention_title">New mention</string>
-    <string name="notification_mention_text_album">%1$s has mentioned you in the \"%2$s\" album comment: %3$s</string>
-    <string name="notification_mention_text_video">%1$s has mentioned you in the \"%2$s\" video comment: %3$s</string>
-    <string name="notification_mention_text_story">%1$s has mentioned you in the \"%2$s\" story comment: %3$s</string>
-    <string name="notification_mention_text_blog">%1$s has mentioned you in the \"%2$s\" blog post comment: %3$s</string>
-
-    <string name="notification_album_approve_title">Album approved</string>
-    <string name="notification_album_approve_text">Your album \"%s\" has been approved.</string>
-
-    <string name="notification_video_approve_title">Video approved</string>
-    <string name="notification_video_approve_text">Your video \"%s\" has been approved.</string>
-
-    <string name="notification_update_text">New enhanced and juicier version of the application is available. Do you want to download it?</string>
-
-    <!--Floating action button-->
-    <string name="fab_add_album">Add album</string>
-    <string name="fab_add_video">Add video</string>
-    <string name="fab_add_blog">Add blog post</string>
-    <string name="fab_add_dating">Add dating ad</string>
-    <string name="fab_add_chatroom">Add chat room</string>
-
-    <!--MyAccountSettingsFragment-->
-    <string name="my_account_content">Content</string>
-    <string name="my_account_content_settings">Content source</string>
-    <string name="my_account_other_settings">More settings</string>
-    <string name="my_account_content_source_max">Maximum %d countries allowed</string>
-    <string name="all_countries">All countries</string>
-    <string name="my_account_hide_categories">Do not show categories</string>
-    <string name="my_account_social_login">Social login</string>
-    <string name="my_account_social_login_connect">Setup</string>
-    <string name="my_account_social_login_disconnect">Disconnect</string>
-    <string name="social_login_error">Error</string>
-    <string name="my_account_disconnect_dialog_title">Disconnect social login?</string>
-    <string name="my_account_disconnect_dialog">Do you really want to disconnect this social login?</string>
-    <string name="my_account_disconnect">Disconnect</string>
-
-    <!--NewAlbumActivity-->
-    <string name="new_album_save">Save and continue</string>
-    <string name="warning">Warning</string>
-    <string name="dialog_new_album_back_press">Album is considered to be complete with uploaded images only. All changes you\'ve made will be discarded.</string>
-
-    <!--AlbumSettingsActivity-->
-    <string name="dialog_album_settings_back_press">All changes you\'ve made will be discarded.</string>
-
-    <!--NewVideoActivity-->
-    <string name="new_video_save">Save and continue</string>
-
-    <!--AlbumUploadActivity-->
-    <string name="album_upload_choose_photo">Upload photos</string>
-    <string name="album_upload_send_to_review">Send for approval</string>
-    <string name="photo_delete_dialog_title">Delete this photo?</string>
-    <string name="photo_delete_dialog">Are you sure you want to delete this photo?</string>
-    <string name="toast_thumbnail_photo_changed">You successfully changed the cover photo</string>
-    <string name="dialog_guidelines_title">Help</string>
-    <string name="photo_guidelines_1">You can upload %1$s – %2$s photos.</string>
-    <string name="photo_guidelines_2">Change the order of your photos using drag and drop.</string>
-    <string name="toast_add_more_photos">Please, add at least %d photos</string>
-    <string name="toast_too_much_photos">Maximum %d photos allowed</string>
-    <string name="toast_cant_send_uploading">Cannot send for approval during upload</string>
-    <string name="toast_photo_already_exists">Photo already exists</string>
-    <string name="toast_cant_load_photo">Failed to load image</string>
-    <string name="toast_photo_too_large">Cannot upload photo larger than %s MB</string>
-    <string name="toast_photo_too_small">Cannot upload photo smaller than %s px</string>
-    <string name="upload_failed">Upload failed</string>
-    <string name="tap_try_again">Tap to try again</string>
-    <string name="dialog_connection_data_title">Mobile data</string>
-    <string name="dialog_connection_data_content">You are about to upload content via mobile data connection. Depending on your operator, additional charges may be applied. Do you wish to continue?</string>
-    <string name="dialog_continue">Continue</string>
-    <string name="processing_photos">Processing photos: %1$s/%2$s</string>
-    <string name="processing_photos_text">We are processing your photos…</string>
-    <string name="photos_uploaded">Uploaded photos: %s</string>
-    <string name="photos_to_upload">Photos to upload: %s</string>
-    <string name="photos_limit_reached">Limit exceeded, please delete %s photos</string>
-    <string name="album_no_description">Album without description</string>
-    <string name="cant_leave_while_uploading">Cannot leave while uploading</string>
-
-    <!--NewVideoActivity-->
-    <string name="dialog_new_video_back_press">Video will not be created. All changes you\'ve made will be discarded.</string>
-
-    <!--VideoUploadActivity-->
-    <string name="video_upload_choose_video">Upload a video</string>
-    <string name="delete_video">Delete video</string>
-    <string name="cancel_upload">Cancel the upload</string>
-    <string name="toast_thumbnail_error">Failed to set the video thumbnail</string>
-    <string name="video_guidelines_1">You can upload only one video at once.</string>
-    <string name="video_guidelines_2">Minimum video length: %s seconds.</string>
-    <string name="toast_video_too_short">Minimum video length is %s seconds. Please upload longer video.</string>
-    <string name="toast_video_too_big">Video is too big. Maximum size allowed is %s MB. Please upload a smaller file.</string>
-    <string name="video_upload_progress">%1$s %% of %2$s MB</string>
-    <string name="dialog_video_upload_cancel_title">Cancel upload?</string>
-    <string name="dialog_video_upload_cancel_content">Do you really want to cancel the video upload?</string>
-    <string name="upload_complete">Upload completed</string>
-    <string name="video_upload_complete_text">Tap to check your video.</string>
-    <string name="toast_cant_send_no_video">Please, upload a video first</string>
-    <string name="toast_one_video_at_once">You can upload only one video at once. Please wait until the upload is complete.</string>
-    <string name="upload_in_progress">Uploading…</string>
-    <string name="video_no_description">Video without description</string>
-    <string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
-    <string name="admin_message">Administrator message</string>
-    <string name="toast_cant_load_video">Failed to load video</string>
-    <string name="video_loading">Please wait while we load the video…</string>
-
-    <!--VideoUploadService -->
-    <string name="uploading_video">Uploading video</string>
-    <string name="video_uploaded_percentage">Uploading progress: %s %%</string>
-    <string name="tap_to_retry">Tap to try again</string>
-
-    <!--PhotoIntentService-->
-    <string name="photo_upload_notification_title">Photo upload</string>
-    <string name="photo_upload_notification_progress">Upload in progress: %1$d/%2$d</string>
-
-    <!-- ProfileAlbumSettingsFragment -->
-    <string name="album_delete_dialog_title">Delete album?</string>
-    <string name="album_delete_dialog">Are you sure you want to delete this album?</string>
-    <string name="delete">Delete</string>
-    <string name="filter_all">All</string>
-
-    <!-- ProfileVideoSettingsFragment -->
-    <string name="video_delete_dialog_title">Delete video?</string>
-    <string name="video_delete_dialog">Are you sure you want to delete this video?</string>
-    <string name="video_delete_dialog_uploading">The video is currently being uploaded. Are you sure you want to delete this video?</string>
-
-    <!-- Logout while uploading dialog -->
-    <string name="logout_during_uploading_dialog_title">Do you want to logout?</string>
-    <string name="logout_during_uploading_dialog_content">All of your unuploaded files will be lost.</string>
-
-    <!--ReportDatingAdDialog-->
-    <string name="report_dialog_text">Choose a reason</string>
-    <string name="report_dialog_send">Send</string>
-    <string name="report_dialog_toast_no_reason">Choose a reason first</string>
-    <string name="report_dialog_toast_sent">The report has been sent. Thank you.</string>
-
-    <!-- Messaging -->
-    <string name="message_popup_copy">Copy to clipboard</string>
-    <string name="message_popup_delete">Delete message</string>
-    <string name="message_popup_report">Report</string>
-    <string name="message_popup_received">Received %s</string>
-    <string name="dialog_report_message_title">Report message</string>
-    <string name="toast_message_deleted">Message deleted</string>
-    <string name="toast_copied_message_text">The message has been copied to your clipboard!</string>
-    <string name="message_date_today">Today</string>
-    <string name="message_date_yesterday">Yesterday</string>
-    <string name="message_send_failure">Sorry, it seems there has been a network problem and your message was not sent.</string>
-    <string name="message_write_hint">Write a message</string>
-    <string name="take_a_picture">Take a picture</string>
-    <string name="pick_from_gallery">Pick from gallery</string>
-    <string name="toast_no_camera_app">No camera app found</string>
-    <string name="add_attachment">Add a photo</string>
-    <string name="notification_message_received">You\'ve got a new message</string>
-    <string name="conversation_empty">Write a message, send a photo, or just a smiley :)</string>
-    <string name="conversation_dating_reply">Dating reply</string>
-    <string name="toast_camera_permissions_revoked">Please grant the app access to the camera.</string>
-    <string name="conversation_user_ignored_error">User %s does not want you to send him/her any messages.</string>
-
-    <!-- Buy VIP -->
-    <string name="buy_vip_title">Become a VIP member</string>
-    <string name="vip_promo_title">Special offer</string>
-    <string name="vip_promo_title_ends_today">Special offer (ends today)</string>
-    <string name="vip_promo_subtitle">We give away up to 1 month free VIP membership</string>
-    <string name="buy">Buy</string>
-    <string name="vip_sms_only">(SMS only)</string>
-    <string name="vip_discount_text">%d %% discount</string>
-    <string name="vip_choose_paymethod">Choose a payment method</string>
-    <string name="vip_most_popular_offer">Most popular offer</string>
-    <string name="vip_membership_advantages">VIP members benefits</string>
-    <string name="vip_successful_payment_title">Successful payment</string>
-    <string name="vip_unsuccessful_payment_title">Cancelled payment</string>
-    <string name="thank_you">Thank you.</string>
-    <string name="notification_vip_payment">%d days of VIP membership have been credited to your account.</string>
-
-    <plurals name="vip_days_remaining">
-        <item quantity="one">%d day remaining</item>
-        <item quantity="other">%d days remaining</item>
-    </plurals>
-
-    <!-- BuyVipSmsPaymentDetails -->
-    <string name="sms_price">The price of one single message received is %s including VAT.</string>
-    <string name="vip_send_sms_instructions">Send an SMS with the text %1$s to %2$s</string>
-
-    <!-- Single/Recurring payment chooser activity -->
-    <string name="vip_get_one_day_for_free">Get 1 day of VIP membership for free</string>
-    <string name="vip_recurring_paymenthod_question">Do you want discounted plan or one-time payment?</string>
-    <string name="vip_recurring_payment_button_title">Automatically renew</string>
-    <string name="vip_plus_one_day_free">+ 1 day free</string>
-    <string name="vip_normal_payment_button_title">One-time payment</string>
-    <string name="vip_recurring_payment_advantages">The advantage of a recurring VIP membership is that you do not have to create and confirm every single payment. You will receive a renewal confirmation each time a new period starts.</string>
-
-    <!-- UserGridFragment -->
-    <string name="no_users_title_general">No users</string>
-    <string name="no_users_message_general">No users were found</string>
-
-    <!-- FriendsActivity -->
-    <string name="title_friends">Friends</string>
-    <string name="tab_friends_list">Friends</string>
-    <string name="tab_friends_requests">New requests</string>
-    <string name="online_users_only">Online users only</string>
-    <string name="no_friends_title">No friends</string>
-    <string name="no_friends_message">You have no friends yet</string>
-    <string name="no_friends_online_message">You have no friends online</string>
-    <string name="dialog_remove_friend_title">Remove from friends</string>
-    <string name="dialog_remove_friend_content">Do you really want to remove %s from your friends?</string>
-    <string name="dialog_remove_friend_confirm">Remove</string>
-    <string name="toast_friend_removed">User %s was removed from your friends</string>
-    <string name="button_friend_request_accept">Accept</string>
-    <string name="button_friend_request_reject">Reject</string>
-    <string name="toast_friend_request_accepted">You are now friends with %s</string>
-    <string name="no_friend_requests_title">No friend requests</string>
-    <string name="no_friend_requests_message">You have no new friend requests</string>
-    <string name="dialog_reject_friend_request_title">Reject friend request</string>
-    <string name="dialog_reject_friend_request_content">Do you really want to reject this friend request?</string>
-
-    <!-- FavouritesActivity -->
-    <string name="title_favourites">Favourites</string>
-    <string name="tab_favourites_my_favourites">My favourites</string>
-    <string name="tab_favourites_favourited_me">Favourited me</string>
-    <string name="dialog_remove_favourite_title">Remove from favourites</string>
-    <string name="dialog_remove_favourite_content">Do you really want to remove %s from favourites?</string>
-    <string name="dialog_remove_favourite_confirm">Remove</string>
-    <string name="toast_favourite_removed">User %s was removed from your favourites</string>
-
-    <string name="no_favourited_users_title">No favourites</string>
-    <string name="no_favourited_users_message">You have no favourite users</string>
-    <string name="no_favourited_me_users_message">No one has favourited you yet</string>
-
-    <!-- VisitsActivity -->
-    <string name="title_visits">Visits</string>
-    <string name="close">Close</string>
-    <string name="no_visits_title">No visits</string>
-    <string name="no_visits_message">Nobody has visited your profile yet</string>
-
-    <!-- Update news dialog -->
-    <string name="update_news_dialog_title">New in this version</string>
-
-    <!-- ConversationListActivity -->
-    <string name="conversation_list_filter_all">All users</string>
-    <string name="conversation_list_filter_unread">Unread</string>
-    <string name="conversation_list_filter_friends">From friends</string>
-    <string name="me">Me</string>
-    <string name="popup_conversation_ignore">Ignore user</string>
-    <string name="popup_conversation_mark_read">Mark as read</string>
-    <string name="popup_conversation_delete">Delete conversation</string>
-    <string name="dialog_conversation_delete_title">Delete conversation</string>
-    <string name="dialog_conversation_delete_content">Do you really want to delete your conversation with %s?</string>
-    <string name="dialog_conversation_delete_confirm">Delete</string>
-    <string name="toast_conversation_deleted">Conversation with %s was deleted</string>
-    <string name="no_conversations_title">No conversations</string>
-    <string name="no_conversations_message">You have no conversations yet</string>
-    <string name="no_conversations_message_with_filter">You have no conversations for the selected filter.</string>
-    <string name="no_users_found_title">No users</string>
-    <string name="no_users_found_message">No users found</string>
-    <string name="user_sent_a_photo">%s sent you a photo</string>
-    <string name="i_sent_a_photo">You sent a photo</string>
-    <string name="toolbar_share">Share…</string>
-
-    <!-- Stories / Blogs fragment -->
-    <string name="stories_offline_mode">You are viewing stories in offline mode.</string>
-    <string name="blogs_offline_mode">You are viewing blogs in offline mode.</string>
-    <string name="go_online_to_load_content">Go online to load the latest content.</string>
-    <string name="refresh_to_load_content">Pull down to refresh content.</string>
-    <string name="no_stories_title">No stories found</string>
-    <string name="no_stories_text_online">There are no stories</string>
-    <string name="no_stories_text_offline">There are no offline stories. Go online to load new stories.</string>
-    <string name="no_blogs_title">No blogs found</string>
-    <string name="no_blogs_text_online">There are no blogs</string>
-    <string name="no_blogs_text_offline">There are no offline blogs. Go online to load new blogs.</string>
-
-    <!-- EventsActivity -->
-    <string name="tab_events_upcoming">Plan</string>
-    <string name="tab_events_past">History</string>
-    <string name="no_events_title">No events</string>
-    <string name="no_events_upcoming_message">There are no upcoming events</string>
-    <string name="no_events_passed_message">There are no past events</string>
-    <string name="no_events_attended_message">You haven\'t attended any event yet</string>
-    <string name="events_attended">Events I attended only</string>
-    <string name="tab_event_info">Info</string>
-    <string name="tab_event_people">People</string>
-    <string name="tab_event_content">Albums and videos</string>
-
-    <!-- EventInfoFragment -->
-    <string name="event_i_will_attend_as">Select who do you sign in</string>
-    <string name="event_i_attended">I was there</string>
-    <string name="event_organizer">Organizer</string>
-    <string name="event_type">Event type</string>
-    <string name="event_date">Date</string>
-    <string name="event_time">Time</string>
-    <string name="event_capacity">Capacity</string>
-
-    <plurals name="event_capacity_people_number">
-        <item quantity="one">%d person</item>
-        <item quantity="other">%d people</item>
-    </plurals>
-
-    <string name="event_attendee_count">Attendees</string>
-    <string name="event_entry">Entry</string>
-    <string name="event_address">Address</string>
-    <string name="event_description">Event description</string>
-    <string name="event_participants">Participants</string>
-
-    <plurals name="event_participants_total">
-        <item quantity="one">%d person</item>
-        <item quantity="other">%d people</item>
-    </plurals>
-
-    <string name="toast_event_signed_in">You\'ve been signed in successfully</string>
-    <string name="toast_event_signed_out">You\'ve been signed out successfully</string>
-    <string name="event_comment_disallowed">You cannot comment this event now.</string>
-
-    <string name="event_button_man">Man</string>
-    <string name="event_button_woman">Woman</string>
-    <string name="event_button_couple">Couple</string>
-
-    <!-- EventUsersFragment -->
-    <plurals name="event_signed_in_people">
-        <item quantity="one">%d person has signed in</item>
-        <item quantity="other">%d people have signed in</item>
-    </plurals>
-
-    <plurals name="event_attended_people">
-        <item quantity="one">%d person attended</item>
-        <item quantity="other">%d people attended</item>
-    </plurals>
-
-    <string name="event_no_people_title">No participants</string>
-    <string name="event_no_people_text">No one has signed in yet</string>
-
-    <!-- EventTypeTranslator -->
-    <string name="event_availability_everyone">Event is open for everyone</string>
-    <string name="event_availability_users_with_content">For users with content only</string>
-    <string name="event_availability_verified_users">For verified users only</string>
-    <string name="event_type_chat_room">%s chat room event</string>
-    <string name="event_type_users">Users event</string>
-    <string name="event_type_official">Official event</string>
-
-    <!-- Event notificaion -->
-    <string name="title_event">Event</string>
-    <string name="notification_upcoming_event_start">Event start: %s.</string>
-    <string name="notification_upcoming_event_looking_forward">Don\'t forget to stop by, we are looking forward to see you!</string>
-
-    <plurals name="notification_upcoming_event_signed_users">
-        <item quantity="one">There is %d person signed in.</item>
-        <item quantity="other">There are %d people signed in.</item>
-    </plurals>
-
-    <!-- Fingerprint -->
-    <string name="dialog_fingerprint_setup__title">Fingerprint</string>
-    <string name="dialog_fingerprint_setup_description">Touch the sensor to authenticate with your fingerprint</string>
-    <string name="setup_fingerprint">Fingerprint lock</string>
-    <string name="toast_fingerprint_not_supported">Your device does not support fingerprint authentication</string>
-    <string name="toast_not_pin_protected">You need to enable PIN code lock to use this feature</string>
-    <string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings.</string>
-    <string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings.</string>
-    <string name="error_fingerprints_invalidated">Fingerprint unavailable. It looks like you have recently enrolled a new fingerprint. You can re-enable fingerprint lock in settings.</string>
-    <string name="success">Success</string>
-    <string name="fingerprint_authentication_failed">Fingerprint not recognized</string>
-    <string name="dialog_fingerprint_unavailable_title">Fingerprint unavailable</string>
-    <string name="dialog_fingerprint_unavailable_button">Go to settings</string>
-
-    <!-- LockedActivity - fingerprint -->
-    <string name="title_fingerprint_unlock">Fingerprint unlock</string>
-    <string name="subtitle_fingerprint_unlock">Use your finger to unlock</string>
-    <string name="use_pin_instead">Use PIN</string>
-
-    <!-- ChatActivity -->
-    <string name="tab_chat_board">Dashboard</string>
-    <string name="tab_chat_rooms">Rooms</string>
-
-    <string name="chat_dashboard_online_friends">Friends on chat</string>
-    <string name="chat_dashboard_online_friends_empty">There are no chatting friends now.</string>
-    <string name="chat_dashboard_most_popular_webcams">Most popular streams</string>
-    <string name="chat_dashboard_favourite_chatrooms">Your favourite chat rooms</string>
-    <string name="chat_dashboard_favourite_chatrooms_empty">You have no favourite chat rooms yet.</string>
-    <string name="chat_dashboard_newest_chatrooms">Newest chat rooms</string>
-
-    <string name="chat_room_empty">This room is empty.</string>
-    <string name="chat_room_category_all">All categories</string>
-    <string name="toast_chat_room_favourited">Room %s was added to your favourites.</string>
-    <string name="toast_chat_room_unfavourited">Room %s was removed from your favourites.</string>
-    <string name="chat_room_list_permanent">Permanent chat rooms</string>
-    <string name="chat_room_list_temporary">Temporary chat rooms</string>
-
-    <string name="chat_avatar_popup_button_chat">Chat</string>
-    <string name="chat_avatar_popup_button_profile">Profile</string>
-    <string name="chat_room_filter_show_empty">Show empty rooms</string>
-    <string name="chat_room_filter_show_locked">Show locked rooms</string>
-    <string name="no_chat_rooms_text">There are no rooms for selected filter.</string>
-
-    <string name="chat_online_friends_title">Friends on chat</string>
-    <string name="chat_most_popular_webcams_title">Most popular streams</string>
-
-    <!-- ChatRoomInfoActivity -->
-    <string name="tab_chat_room_info">Room details</string>
-    <string name="tab_chat_room_people">People in room</string>
-
-    <string name="chat_room_info_description">Room description</string>
-    <string name="chat_room_info_category">Category</string>
-    <string name="chat_room_info_access">Access</string>
-    <string name="chat_room_info_temp_admin">Temporary admin</string>
-    <string name="chat_room_info_permanent_admins">Permanent admins</string>
-    <string name="chat_room_info_enter_button">Enter the chat room</string>
-
-    <string name="chat_room_people_empty">There is nobody in this room.</string>
-
-    <!-- NewDatingActivity -->
-    <string name="title_dating_add">New dating ad</string>
-    <string name="dating_add_category_title">Category</string>
-    <string name="dating_add_category_hint">Select category</string>
-    <string name="dating_add_title_title">Title</string>
-    <string name="dating_add_title_hint">Enter a title</string>
-    <string name="dating_add_text_title">Text</string>
-    <string name="dating_add_text_hint">Enter dating ad text…</string>
-    <string name="dating_add_validity_title">Validity</string>
-    <string name="dating_add_button_text">Create dating ad</string>
-    <string name="dating_add_toast_created">Dating ad has been created.</string>
-    <string name="dating_add_dialog_backpress">Dating ad will not be created. All changes you\'ve made will be lost.</string>
-    <string name="dating_add_toast_empty_fields">All fields must be filled.</string>
-
-    <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
-    <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
-
-    <!-- NewNoteActivity -->
-    <string name="new_note_add_note">Add a note</string>
-    <string name="new_note_add_hint">Enter the text…</string>
-    <string name="new_note_error">The text cannot be empty.</string>
-    <string name="new_note_created">The note was created successfully.</string>
-    <string name="new_note_dialog_backpress">New note will not be created. All changes you\'ve made will be lost.</string>
-    <string name="note_edit_title">Edit the note</string>
-    <string name="note_edit">Edit</string>
-    <string name="note_edited">Note has been edited successfully.</string>
-    <string name="note_delete_dialog_backpress_title">Delete this note?</string>
-    <string name="note_delete_dialog_backpress_text">Do you really want to delete this note?</string>
-    <string name="note_delete_dialog_backpress_button">Delete</string>
-
-    <!-- NewBlogActivity -->
-    <string name="new_blog_header">Add new blog post</string>
-    <string name="new_blog_title">Title</string>
-    <string name="new_blog_title_hint">Enter title</string>
-    <string name="new_blog_content">Blog formatting</string>
-    <string name="new_blog_hint">Hint</string>
-    <string name="new_blog_markdown">Use markdown formatting</string>
-    <string name="new_blog_preview">Preview</string>
-    <string name="new_blog_text">Enter the article text</string>
-    <string name="new_blog_save">Save and continue</string>
-    <string name="new_blog_send_for_approval">Publish blog post</string>
-    <string name="new_blog_created">New blog post has been successfully created.</string>
-    <string name="new_blog_sent_for_approval">Blog post has been successfully published.</string>
-    <string name="new_blog_empty_fields">All fields must be filled.</string>
-    <string name="new_blog_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
-
-    <!-- NewBlogActivity edit blog -->
-    <string name="blog_menu_delete">Delete blog post</string>
-    <string name="blog_delete_content">Do you really want to delete this blog post?</string>
-    <string name="blog_deleted_successfully">Blog has been successfully deleted.</string>
-    <string name="blog_edit_header">Edit blog post</string>
-    <string name="blog_edited">Blog post has been successfully saved.</string>
-    <string name="blog_edit_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
-    <string name="blog_edit_send_for_approval_title">Publish blog post</string>
-    <string name="blog_edit_send_for_approval_content">Do you really want to publish this blog post?</string>
-    <string name="blog_edit_send_for_approval_confirm">Yes</string>
-    <string name="blog_edit_send_for_approval_cancel">I\'ll check it once again.</string>
-
-    <!-- Blog list settings -->
-    <string name="blogs_settings_no_blogs_for_state_title">You have no blogs in state \"%s\".</string>
-    <string name="blogs_settings_no_blogs_title">You have no blogs.</string>
-    <string name="blogs_settings_no_blogs_text">Adding a new blog is easy and you can start right now.</string>
-    <string name="blogs_settings_empty_button_text">Add a new blog</string>
-    <string name="blogs_settings_edit_button">Edit</string>
-    <string name="blogs_settings_delete_title">Delete blog post?</string>
-    <string name="blogs_settings_delete_text">Do you really want to delete this blog post?</string>
-    <string name="blogs_settings_delete_confirm">Delete</string>
-    <string name="blogs_settings_delete_toast">Blog post has been successfully deleted.</string>
-
-    <!-- MessagesSettingsFragment -->
-    <string name="messages_settings_title">Who can contact me</string>
-    <string name="messages_settings_info_description">All conditions must be met for users to contact you.\n
-        \nFriends can always write to you regardless of the conditions you set.</string>
-    <string name="messages_settings_everyone">All users</string>
-    <string name="messages_settings_content_users">With albums/videos</string>
-    <string name="messages_settings_vip">VIP users</string>
-    <string name="messages_settings_verified">Verified users</string>
-    <string name="messages_settings_friends_only">Friends only</string>
-
-    <!-- ProfileDatingSettingsFragment -->
-    <string name="dating_settings_no_dating_ads_title">You have no dating ads</string>
-    <string name="dating_settings_no_dating_ads_text">Adding a new dating ad is easy, try it now.</string>
-    <string name="dating_settings_no_dating_ads_button">Add dating ad</string>
-
-    <string name="dating_settings_status_enabled">On web</string>
-    <string name="dating_settings_status_disabled">Canceled</string>
-    <string name="dating_settings_status_expired">Expired</string>
-    <string name="dating_settings_button_topup">Top ad</string>
-    <string name="dating_settings_button_extend">Extend</string>
-    <string name="dating_settings_button_edit">Edit</string>
-    <string name="dating_settings_status_edited">Edited</string>
-
-    <string name="dating_settings_dialog_delete_title">Delete dating ad?</string>
-    <string name="dating_settings_dialog_delete_text">Do you really want to delete this dating ad?</string>
-    <string name="dating_settings_dialog_delete_button_confirm">Delete</string>
-    <string name="dating_settings_toast_dating_ad_deleted">Dating ad has been deleted.</string>
-
-    <!-- DatingExtendDialog -->
-    <string name="dialog_dating_extend_title">Extend dating ad validity</string>
-    <string name="dialog_dating_extend_text">Your dating ad has expired. You can extend its validity.</string>
-    <string name="dialog_dating_extend_button_text">Extend by %s</string>
-    <string name="dialog_dating_extend_toast_successful">Dating ad validity has been extended.</string>
-
-    <!-- DatingEditActivity -->
-    <string name="title_dating_edit">Edit dating ad</string>
-    <string name="dating_edit_button_text">Save changes</string>
-    <string name="dating_edit_toast_saved">Changes have been saved.</string>
-    <string name="dating_edit_toast_empty_fields">All fields must be filled.</string>
-
-    <!-- EditText validators -->
-    <string name="edittext_invalid_input_empty">%s must be filled</string>
-
-    <plurals name="edittext_invalid_input_short">
-        <item quantity="one">Please enter at least %d character</item>
-        <item quantity="other">Please enter at least %d characters</item>
-    </plurals>
-
-    <plurals name="edittext_invalid_input_long">
-        <item quantity="one">Please enter %d character at most</item>
-        <item quantity="other">Please enter %d characters at most</item>
-    </plurals>
-
-    <!-- Android Notification channels - these strings will be shown in Android Oreo app's notification settings -->
-    <string name="notification_channel_general">General notifications</string>
-    <string name="notification_channel_messages">Message notifications</string>
-    <string name="notification_channel_upload">Content upload notifications</string>
-    <string name="notification_channel_webcams">Chat webcam notifications</string>
-
-    <!-- Chat Room -->
-    <string name="chat_room_empty_title">No messages</string>
-    <string name="chat_room_empty_text">There are no messages in this room.</string>
-    <string name="chat_room_empty_text_friend_filter">You have enabled \"Friend messages only\" or \"Messages about me\" filter.</string>
-    <string name="chat_room_empty_button_disable_filter_try_again">Disable filters and try again</string>
-    <string name="dialog_chat_room_leave_title">Do you want to leave the room?</string>
-    <string name="dialog_chat_room_leave_text">You will stay in the room for the next 10 minutes after choosing the \"I\'ll be right back\" option.</string>
-    <string name="dialog_chat_room_leave_button_leave">Yes, leave</string>
-    <string name="dialog_chat_room_leave_button_brb">I\'ll be right back</string>
-    <string name="dialog_chat_room_forbidden_title">Connection timeout</string>
-    <string name="dialog_chat_room_forbidden_text">You are probably not in the room anymore, you will be redirected out of the chat room, from where you can return, or you can choose another room.</string>
-    <string name="popup_chat_room_menu_info">Room info</string>
-    <string name="popup_chat_room_menu_fav_add">Add to favourites</string>
-    <string name="popup_chat_room_menu_fav_remove">Remove from favourites</string>
-    <string name="popup_chat_room_menu_settings">Settings</string>
-    <string name="avatarbar_empty_text">There is no other person in this room :-(</string>
-    <string name="chat_room_users_category_chatties">Chatters</string>
-    <string name="chat_room_users_category_friends">Friends</string>
-    <string name="chat_room_users_category_my_webcam_watchers">Viewers</string>
-    <string name="chat_room_users_category_others">Users</string>
-    <string name="chat_room_users_filter_empty_title">No users</string>
-    <string name="chat_room_users_filter_empty_text">No users found for selected filter.</string>
-    <string name="popup_chat_room_user_filter_content">With albums/videos</string>
-    <string name="popup_chat_room_user_filter_content_dating">With dating ads</string>
-    <string name="chat_room_users_filter_all_countries">All countries</string>
-    <string name="chat_room_users_filter_all_regions">All regions</string>
-    <string name="toast_chat_room_admin_rights_gained">You are now a temporary admin of this room</string>
-    <string name="dialog_chat_room_kick_user_title">Kick the user out of the room?</string>
-    <string name="dialog_chat_room_kick_user_content">User: %s</string>
-    <string name="dialog_chat_room_kick_user_choose_reason">Select a reason</string>
-    <string name="dialog_chat_room_kick_user_reason_hint">Reason</string>
-    <string name="dialog_chat_room_kick_user_button_confirm">Yes, kick out</string>
-    <string name="toast_chat_room_user_kicked">User %s has been kicked out</string>
-    <string name="dialog_chat_room_kicked_me_title">You\'ve been kicked out</string>
-    <string name="dialog_chat_room_kicked_me_content">You have been kicked out of the room for %1$d minutes! Reason: %2$s. Try again later.</string>
-    <string name="chat_room_knock_ask_title">User %s requests access to this room</string>
-    <string name="chat_room_knock_ask_reject_button">Reject</string>
-    <string name="chat_room_knock_ask_allow_button">Allow</string>
-    <string name="chat_room_knock_ask_profile_button">Profile</string>
-    <string name="popup_chat_message_copy_text">Copy to clipboard</string>
-    <string name="popup_chat_message_delete_message">Delete message</string>
-    <string name="dialog_delete_chat_message_title">Delete message?</string>
-    <string name="dialog_delete_chat_message_text">Do you really want to delete this message for all users?</string>
-    <string name="dialog_delete_chat_message_button_confirm">Yes, delete</string>
-    <string name="toast_chat_message_deleted">Message has been deleted.</string>
-    <string name="toast_chat_webcam_slot_unavailable">The next stream won\'t fit in here anymore.</string>
-    <string name="dialog_turn_off_webcam_title">Turn off the camera?</string>
-    <string name="dialog_turn_off_webcam_text_broadcast">This will turn off your camera</string>
-    <string name="dialog_turn_off_webcam_text_listener">This will turn off %s\' camera</string>
-    <string name="dialog_turn_off_webcam_confirm">Turn off</string>
-    <string name="toast_webcam_duplicate_stream">You are already watching this user.</string>
-    <string name="toast_webcam_permission_denied_webrtc_only">This user does not use WebRTC streaming.</string>
-    <string name="toast_webcam_permission_denied_album_video_vip_only">Get a VIP membership or upload at least one album/video to watch this stream.</string>
-    <string name="toast_webcam_permission_denied_verified_vip_only">Get a VIP membership or verify your profile to watch this stream.</string>
-    <string name="toast_webcam_permission_denied_vip_only">To watch this stream, you need to be a VIP member.</string>
-    <string name="toast_webcam_permission_denied_friends_only">This user only broadcast to his/her friends.</string>
-    <string name="toast_webcam_permission_denied_men">This user does not broadcast for men.</string>
-    <string name="toast_webcam_permission_denied_women">This user does not broadcast for women.</string>
-    <string name="toast_webcam_permission_denied_couples">This user does not broadcast for couples.</string>
-    <string name="toast_chat_camera_permissions_denied">You must grant permission to turn on the camera.</string>
-    <string name="dialog_webcam_data_connection_title_broadcast">Turn on the camera?</string>
-    <string name="dialog_webcam_data_connection_title_listen">Watch the user\'s stream?</string>
-    <string name="dialog_webcam_data_connection_text">You are using mobile data connection. Watching streams can consume a lot of data.</string>
-    <string name="dialog_webcam_data_connection_button_confirm">Turn on the camera</string>
-    <string name="dialog_webcam_data_connection_button_cancel">Leave the camera off</string>
-    <string name="toast_chatroom_logout_warning">Please write something into the chat, otherwise you will be automatically disconnected for inactivity.</string>
-    <string name="dialog_chat_room_timeout_title">Inactivity timeout</string>
-    <string name="dialog_chat_room_timeout_text">You have been logged out due to inactivity. You can either come back or choose another room.</string>
-    <string name="toast_webcam_friend_enter">Your friend %s just entered this room.</string>
-    <string name="toast_webcam_start_requested">You\'ve asked %s to turn the camera on.</string>
-    <plurals name="toast_webcam_start_request_received">
-        <item quantity="one">%s is asking you to turn your camera on!</item>
-        <item quantity="other">%s users are asking you to turn your camera on!</item>
-    </plurals>
-
-    <!-- Chat Room knock dialog -->
-    <string name="dialog_chat_room_knock_title_main">This chat room is locked</string>
-    <string name="dialog_chat_room_knock_title_waiting">Waiting for the chat room admin\'s response…</string>
-    <string name="dialog_chat_room_knock_text_main">You can ask for chat room access or go back.</string>
-    <string name="dialog_chat_room_knock_text_waiting">If the admin does not respond within 2 minutes, you will be redirected back.</string>
-    <string name="dialog_chat_room_knock_text_forbidden">Sorry, the admin has not allowed you to enter this room.</string>
-    <string name="dialog_chat_room_knock_button_request">Ask for access</string>
-    <string name="dialog_chat_room_knock_button_cancel">Go back</string>
-    <string name="toast_chat_room_knock_access_refused">The admin has not allowed you to enter this room.</string>
-
-    <!-- Chat Room Enter dialog -->
-    <string name="dialog_chat_room_enter_title_main">Entering chat room …</string>
-    <string name="dialog_chat_room_enter_button_cancel">Go back</string>
-    <string name="dialog_chat_room_enter_forbidden">Entry not allowed</string>
-
-    <!-- Chat Room Settings -->
-    <string name="chat_room_settings_friends_messages_only">Friends messages only</string>
-    <string name="chat_room_settings_message_filtering_section_title">Message filtering</string>
-    <string name="chat_room_settings_notifications_section_title">Notifications</string>
-    <string name="chat_room_settings_webcam_knock">Requests to turn on the camera</string>
-    <string name="chat_room_settings_friend_enter">Friend entered the chat room</string>
-    <string name="chat_room_settings_room_management_section_title">Admin settings</string>
-    <string name="chat_room_settings_chat_design_section__title">Chat appearance</string>
-    <string name="chat_room_settings_webcam_settings_section_title">Camera settings</string>
-    <string name="chat_room_settings_about_me_messages_only">Messages about me</string>
-    <string name="chat_room_settings_admin_handover_title">Hand over admin\'s rights</string>
-    <string name="chat_room_settings_admin_handover_chooser_title">Select a user</string>
-    <string name="chat_room_settings_admin_handover_chooser_title_disabled">No users</string>
-    <string name="chat_room_settings_admin_handover_dialog_title">Hand over admin\'s rights?</string>
-    <string name="chat_room_settings_admin_handover_dialog_text">Do you want to hand over admin\'s rights to user %s?</string>
-    <string name="chat_room_settings_admin_handover_dialog_button_confirm">Yes, hand over</string>
-    <string name="toast_chat_room_settings_admin_rights_handed_over">Admin rights have been handed over to user %s.</string>
-
-    <string name="chat_room_settings_font_size_title">Font size</string>
-    <string name="chat_room_settings_font_size_normal">Small</string>
-    <string name="chat_room_settings_font_size_bigger">Medium</string>
-    <string name="chat_room_settings_font_size_biggest">Large</string>
-    <string name="chat_room_settings_webcam_sound_default_option">Turn on sound by default</string>
-    <string name="chat_room_settings_camera_permission_title">Who can watch my stream</string>
-    <string name="chat_room_settings_hide_time_text">Hide time of messages</string>
-
-    <string name="chat_room_settings_hide_avatar_text">Hide user avatars</string>
-    <string name="chat_room_settings_gender_colors_text">Colors by sex</string>
-
-    <string name="chat_room_settings_camera_permission_genders">By sex</string>
-    <string name="chat_room_settings_webcam_allow_men">Men</string>
-    <string name="chat_room_settings_webcam_allow_women">Women</string>
-    <string name="chat_room_settings_webcam_allow_couples">Couples</string>
-    <string name="chat_room_settings_webcam_allow_uncheck_warning">At least 1 category must be allowed</string>
-
-    <!-- Chat room whisper -->
-    <string name="chat_room_whisper_user_left">%s left the chat room…</string>
-    <string name="chat_room_whisper_empty_title">No messages yet</string>
-    <string name="chat_room_whisper_empty_text">Write a message or just a smiley :)</string>
-    <string name="chat_room_whisper_webcam_placeholder_title">Turn on: %s</string>
-
-    <!-- ProfileEditFragment -->
-    <string name="profile_edit_section_profile_info">General information</string>
-    <string name="profile_edit_sex_hobbies_title">Sexual hobbies</string>
-    <string name="profile_edit_sex_search_title">Searching</string>
-    <string name="profile_edit_sex_search_purpose_title">Purpose of search</string>
-    <string name="profile_edit_personal_description_title">Personal description</string>
-    <string name="profile_edit_personal_description_hint">Enter your personal description…</string>
-
-    <string name="profile_edit_section_location_title">Location</string>
-    <string name="profile_edit_section_location_country">Country</string>
-    <string name="profile_edit_section_location_region">Region</string>
-    <string name="profile_edit_section_location_city">City</string>
-
-    <string name="profile_edit_section_personal_info">Personal information</string>
-    <string name="profile_edit_section_personal_info_his">His information</string>
-    <string name="profile_edit_section_personal_info_her">Her information</string>
-    <string name="profile_edit_section_personal_info_first_person">First person</string>
-    <string name="profile_edit_section_personal_info_second_person">Second person</string>
-    <string name="profile_edit_birth_date_title">Date of birth</string>
-    <string name="profile_edit_zodiac_sign_title">Zodiac sign</string>
-    <string name="profile_edit_sex_orientation">Sexual orientation</string>
-    <string name="profile_edit_family_status_title">Marital status</string>
-    <string name="profile_edit_eye_color_title">Eye colour</string>
-    <string name="profile_edit_hair_color_title">Hair colour</string>
-    <string name="profile_edit_height_title">Height</string>
-    <string name="profile_edit_weight_title">Weight</string>
-    <string name="profile_edit_skype_title">Skype ID</string>
-    <string name="profile_edit_skype_hint">Enter your skype ID…</string>
-    <string name="profile_edit_phone_number_title">Phone number</string>
-    <string name="profile_edit_phone_number_hint">Enter your phone number…</string>
-
-    <string name="profile_edit_chooser_not_filled">Not filled</string>
-    <string name="profile_edit_button_save">Save changes</string>
-    <string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
-
-    <string name="dialog_profile_edit_leave_title">Warning</string>
-    <string name="dialog_profile_edit_leave_subtitle">You\'ve made some changes to your profile. Do you want to save them?</string>
-    <string name="dialog_profile_edit_leave_save_button">Save changes</string>
-    <string name="dialog_profile_edit_leave_dismiss_button">Discard changes and leave</string>
-
-    <!-- Homepage -->
-    <string name="home_section_favourites_videos_title">Videos of my favourites</string>
-    <string name="home_section_favourites_albums_title">Photo albums of my favourites</string>
-    <string name="home_favourites_section_empty_text">My favorites have not added anything yet</string>
-    <string name="home_section_videos_title">Latest videos</string>
-    <string name="home_section_albums_title">Latest albums</string>
-    <string name="home_section_chat_title">Chat</string>
-    <string name="home_section_dating_title">Dating ads</string>
-    <string name="home_section_events_title">Events</string>
-    <string name="home_section_stories_title">Stories</string>
-    <string name="home_section_blogs_title">Blogs</string>
-    <string name="home_section_visits_title">Latest profile visits</string>
-
-    <string name="home_section_favourites_videos_footer_title">All videos of my favourites</string>
-    <string name="home_section_favourites_albums_footer_title">All albums of my favourites</string>
-    <string name="home_section_videos_footer_title">All videos</string>
-    <string name="home_section_albums_footer_title">All albums</string>
-    <string name="home_section_chat_rooms_footer_title">All chat rooms</string>
-    <string name="home_section_dating_footer_title">All dating ads</string>
-    <string name="home_section_events_footer_title">All events</string>
-    <string name="home_section_stories_footer_title">All stories</string>
-    <string name="home_section_blogs_footer_title">All blogs</string>
-    <string name="home_section_visits_footer_title">All visits</string>
-    <string name="home_menu_edit_homepage">Edit homepage</string>
-    <string name="home_menu_change_home_screen">Change default home screen</string>
-
-    <!-- Ignore list -->
-    <string name="title_ignore_list">Ignore list</string>
-    <string name="ignore_list_empty_title">No ignored users</string>
-    <string name="ignore_list_empty_text">Your ignore list is empty.</string>
-    <string name="dialog_ignore_list_remove_title">Remove from ignore list</string>
-    <string name="dialog_ignore_list_remove_text">Do you want to remove %s from ignore list?</string>
-    <string name="dialog_ignore_list_remove_button_confirm">Remove</string>
-    <string name="toast_ignore_list_user_removed">%s has been removed from your ignore list.</string>
-
-    <!-- Profile options bottomsheet -->
-    <string name="profile_options_add_favourite">Add to favourites</string>
-    <string name="profile_options_add_friend">Add a friend</string>
-    <string name="profile_options_mesage">Send a message</string>
-    <string name="profile_options_add_to_ignore">Ignore user</string>
-    <string name="dialog_ignore_list_add_title">Add to ignore list</string>
-    <string name="dialog_ignore_list_add_text">Do you really want to add %s to ignore list?</string>
-    <string name="dialog_ignore_list_add_button_confirm">Add to ignore list</string>
-
-    <!-- Conversation options bottomsheet -->
-    <string name="conversation_options_delete_conversation">Delete conversation</string>
-    <string name="conversation_options_add_favourite">Add to favourites</string>
-    <string name="conversation_options_remove_favourite">Remove from favourites</string>
-    <string name="conversation_to_favourites_added_toast">Conversation was added to your favourites.</string>
-    <string name="conversation_from_favourites_removed_toast">Conversation was removed from your favourites.</string>
-
-    <!-- Chat webcams -->
-    <string name="janus_fragment_retry_text">Interrupted. Retry?</string>
-    <string name="janus_fragment_hangup_text">Camera turned off</string>
-    <string name="janus_error_hangup">User %s turned off the camera.</string>
-    <string name="janus_error_connection">Failed to establish a connection with the server.</string>
-    <string name="janus_error_unsupported">Your device does not support camera streaming.</string>
-    <string name="janus_error_camera_unavailable">Camera is not available.</string>
-    <string name="janus_error_video_not_receiving">It looks like your device is not sending any video.</string>
-    <string name="janus_broadcast_service_notification_title">You are broadcasting</string>
-    <string name="janus_broadcast_service_notification_text">Chat room: %s</string>
-    <string name="janus_broadcast_service_notification_action_turn_off">Turn off the camera</string>
-
-    <!-- Chat room webcam bottom sheets -->
-    <string name="bottomsheet_webcam_broadcast_title">My camera</string>
-    <string name="bottomsheet_webcam_broadcast_switch_camera">Switch camera</string>
-    <string name="bottomsheet_webcam_broadcast_mute">Mute</string>
-    <string name="bottomsheet_webcam_broadcast_unmute">Unmute</string>
-    <string name="bottomsheet_webcam_broadcast_turn_off">Turn off the camera</string>
-
-    <string name="bottomsheet_webcam_listener_title">%s\'s stream</string>
-    <string name="bottomsheet_webcam_listener_maximize">Maximize</string>
-    <string name="bottomsheet_webcam_listener_whisper">Whisper</string>
-    <string name="bottomsheet_webcam_listener_mute">Mute</string>
-    <string name="bottomsheet_webcam_listener_unmute">Unmute</string>
-    <string name="bottomsheet_webcam_listener_turn_off">Close the stream</string>
-
-    <!-- Chat room webcam detail -->
-    <string name="webcam_detail_toolbar_title">Streams: %s</string>
-
-    <!-- NewChatRoomActivity -->
-    <string name="title_add_chat_room">Add new chat room</string>
-    <string name="chatroom_add_title_title">Title</string>
-    <string name="chatroom_add_title_hint">Enter title</string>
-    <string name="chatroom_add_description_title">Description</string>
-    <string name="chatroom_add_description_hint">Enter description</string>
-    <string name="chatroom_add_category_title">Category</string>
-    <string name="chatroom_add_category_hint">Select category</string>
-    <string name="chatroom_add_access_title">Access</string>
-    <string name="chatroom_add_submit_button_text">Create chat room</string>
-    <string name="chatroom_add_toast_empty_fields">All fields must be filled.</string>
-    <string name="chatroom_add_allowed_users_title">Allowed users</string>
-    <string name="chatroom_add_allowed_users_man">Man</string>
-    <string name="chatroom_add_allowed_users_woman">Woman</string>
-    <string name="chatroom_add_allowed_users_couple">Couple woman &amp; man</string>
-    <string name="chatroom_add_country_title">Country</string>
-    <string name="chatroom_add_error_not_allowed">You cannot add new chat room right now.</string>
-
-    <!-- HomeSettingsActivity -->
-    <string name="home_settings_title">Edit homepage</string>
-    <string name="toast_home_settings_invalid_input">At least one category has to be selected.</string>
-
-    <!-- ForumActivity -->
-    <string name="forum_tab_dashboard">Dashboard</string>
-    <string name="forum_tab_topics">Topics</string>
-    <string name="forum_tab_posts">Posts</string>
-
-    <!-- ForumDashboardFragment -->
-    <string name="forum_dashboard_section_main_topics">Main topics</string>
-    <string name="forum_dashboard_section_newly_updated_topics">Latest posts</string>
-    <string name="forum_dashboard_section_popular_topics">Popular topics</string>
-
-    <!-- ForumTopicsFragment -->
-    <string name="forum_topics_filter_all">All topics</string>
-    <string name="forum_topics_sort_time_desc">By latest topics</string>
-    <string name="forum_topics_sort_count_desc">By post count</string>
-    <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
-
-    <!-- VideoPlayerSettingsBottomSheet -->
-    <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
-
-    <string-array name="update_news_dialog_items">
-        <item>New decent mode</item>
-        <item>Login via social network</item>
-        <item>Messenger privacy settings</item>
-        <item>Chat enhancements</item>
-    </string-array>
+	<string name="general_error">Ouch!</string>
+	<string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
+	<string name="general_loading">Please wait while we load the data</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="save">Save</string>
+	<string name="dialog_android_unsupported_title">Unsupported feature</string>
+	<string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
+	<string name="general_empty_title">Nothing is here</string>
+	<string name="general_empty_text">There\'s nothing to show :(</string>
+
+	<!--MainActivity-->
+	<string name="title_home">Homepage</string>
+	<string name="title_album">Albums</string>
+	<string name="title_videos">Videos</string>
+	<string name="title_people">People</string>
+	<string name="title_blogs">Blogs</string>
+	<string name="title_stories">Stories</string>
+	<string name="title_events">Events</string>
+	<string name="title_chat">Chat</string>
+	<string name="title_settings">Settings</string>
+	<string name="title_application_settings">Application settings</string>
+	<string name="title_safe_mode_disabled">Enable decent mode</string>
+	<string name="title_safe_mode_enabled">Disable decent mode</string>
+	<string name="title_logout">Log out</string>
+	<string name="title_version">Version %s</string>
+	<string name="title_feedback">Send feedback</string>
+	<string name="title_new_version">New version!</string>
+	<string name="title_album_settings">Album settings</string>
+	<string name="title_video_settings">Video settings</string>
+	<string name="title_new_album">Add new album</string>
+	<string name="title_new_video">Add new video</string>
+	<string name="title_my_account">My account</string>
+	<string name="title_profile">Profile</string>
+	<string name="title_dating">Dating</string>
+	<string name="title_notes">Notes</string>
+	<string name="title_messages">Messages</string>
+	<string name="title_forum">Forum</string>
+
+	<!--Notes empty screen-->
+	<string name="empty_notes_title">Nothing is here</string>
+	<string name="empty_notes_text">You can add notes in user\'s profile.</string>
+
+	<!--AlbumFragment-->
+	<string name="tab_latest">Latest</string>
+	<string name="tab_best">Best</string>
+	<string name="tab_favourites">From favourites</string>
+
+	<!--AlbumDetailActivity-->
+	<string name="title_comments">Comments</string>
+	<string name="title_next_albums">More albums</string>
+	<string name="album_comment_disallowed">You cannot add a comment to this album now.</string>
+
+	<!--VideoDetailActivity-->
+	<string name="title_next_videos">More videos</string>
+	<string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
+
+	<!--BlogDetailActivity-->
+	<string name="title_next_blogs">More posts</string>
+	<string name="blog_comment_disallowed">You cannot add a comment to this blog post now.</string>
+
+	<!--StoryDetailActivity-->
+	<string name="title_next_story">More stories</string>
+	<string name="story_comment_disallowed">You cannot add a comment to this story now.</string>
+
+	<!--FilterDatingActivity-->
+	<string name="no_dating_ads_title">No dating ads found</string>
+	<string name="no_dating_ads_text">No dating ads found for selected filter.</string>
+
+	<!--DatingReplyActivity-->
+	<string name="dating_reply_hint">Your reply</string>
+	<string name="toast_dating_reply_sent">Reply has been sent</string>
+	<string name="dating_reply_picture_attached">Photo attached</string>
+	<string name="dialog_delete_attachment_title">Delete attachment</string>
+	<string name="dialog_delete_attachment_text">Do you really want to delete the attachment?</string>
+
+	<!--ReportDatingAdDialog-->
+	<string name="dialog_report_ad_title">Report dating ad</string>
+
+	<!--Menu-->
+	<string name="menu_notification">Notifications</string>
+	<string name="menu_badges">Tags</string>
+	<string name="menu_profile_meatballs">Profile options</string>
+	<string name="menu_reset">Reset</string>
+	<string name="menu_chat_room">Chat room menu</string>
+	<string name="menu_chat_room_webcam">Turn on the camera</string>
+	<string name="menu_chat_room_tap">Ask to turn camera on</string>
+	<string name="menu_homepage">Settings</string>
+	<string name="menu_filter">Filter</string>
+	<string name="menu_forum_topics">List sorted by</string>
+
+	<string name="action_try_again">Try again</string>
+
+	<string name="hint_username">Nickname</string>
+	<string name="hint_password">Password</string>
+
+	<string name="tab_albums">Albums</string>
+	<string name="tab_videos">Videos</string>
+	<string name="tab_blogs">Blog</string>
+	<string name="tab_stories">Stories</string>
+	<string name="tab_info">Info</string>
+	<string name="tab_user">Users</string>
+	<string name="tab_album">Albums</string>
+	<string name="tab_video">Videos</string>
+	<string name="tab_dating">Dating</string>
+	<string name="tab_friends">Friends</string>
+	<string name="tab_notes">My notes</string>
+
+	<string name="filter_advanced">Advanced filter</string>
+	<string name="filter_sort_by">List sorted by</string>
+	<string name="album_filter_show_all">Show albums</string>
+	<string name="video_filter_show_all">Show videos</string>
+
+	<!--ProfileInfoFragment-->
+	<string name="title_personal_info">Personal details</string>
+	<string name="title_sex">Sex</string>
+	<string name="title_age">Age</string>
+	<string name="title_location">Location</string>
+	<string name="title_country">Country</string>
+	<string name="title_region">Region</string>
+	<string name="title_city">City</string>
+	<string name="title_marital_status">Marital status</string>
+	<string name="title_sexual_orientation">Sexual orientation</string>
+	<string name="title_height">Height</string>
+	<string name="title_weight">Weight</string>
+	<string name="title_filter_height">Height [cm]</string>
+	<string name="title_filter_weight">Weight [kg]</string>
+	<string name="title_eye_color">Eye colour</string>
+	<string name="title_hair_color">Hair colour</string>
+	<string name="title_statistics">Statistics</string>
+	<string name="title_registration_date">Registration date</string>
+	<string name="title_chat_time">Time on chat</string>
+	<string name="title_attended_events">Events attended</string>
+	<string name="title_views">Views</string>
+	<string name="title_hobbies">Sexual preferences and interests</string>
+	<string name="title_sex_search">Searching</string>
+	<string name="title_sex_search_purpose">Purpose of search</string>
+	<string name="title_personal_descr">Personal description</string>
+	<string name="title_profile_address">Profile URL</string>
+	<string name="title_unknown">N/A</string>
+	<string name="title_centimeters">cm</string>
+	<string name="title_kilograms">kg</string>
+	<string name="toast_copied_text">The url has been copied to your clipboard!</string>
+	<string name="title_share">Share</string>
+	<string name="profile_male">Man</string>
+	<string name="profile_female">Woman</string>
+	<string name="profile_group">Group</string>
+	<string name="profile_add_note">Add a new note</string>
+	<string name="profile_add_friend_already_friend">Previously added</string>
+	<string name="profile_add_friend_already_requested">Previously requested</string>
+
+	<string name="title_filter">Search</string>
+
+	<!--plurals-->
+	<plurals name="people">
+		<item quantity="one">%s person likes</item>
+		<item quantity="other">%s people like</item>
+	</plurals>
+	<plurals name="hours">
+		<item quantity="one">hour</item>
+		<item quantity="other">hours</item>
+	</plurals>
+	<plurals name="days">
+		<item quantity="one">%s day</item>
+		<item quantity="other">%s days</item>
+	</plurals>
+	<plurals name="months">
+		<item quantity="one">%s month</item>
+		<item quantity="other">%s months</item>
+	</plurals>
+	<plurals name="years">
+		<item quantity="one">%s year</item>
+		<item quantity="other">%s years</item>
+	</plurals>
+	<plurals name="user_filter_show">
+		<item quantity="one">Show %s profile</item>
+		<item quantity="other">Show %s profiles</item>
+	</plurals>
+	<plurals name="album_filter_show">
+		<item quantity="one">Show %s album</item>
+		<item quantity="other">Show %s albums</item>
+	</plurals>
+	<plurals name="video_filter_show">
+		<item quantity="one">Show %s video</item>
+		<item quantity="other">Show %s videos</item>
+	</plurals>
+	<plurals name="topics">
+		<item quantity="one">%d topic</item>
+		<item quantity="other">%d topics</item>
+	</plurals>
+	<plurals name="posts">
+		<item quantity="one">%d post</item>
+		<item quantity="other">%d posts</item>
+	</plurals>
+
+	<!--FilterUserFragment-->
+	<string name="user_country_all">All countries</string>
+	<string name="user_region_all">All regions</string>
+	<string name="user_with_albums">With albums</string>
+	<string name="user_with_videos">With videos</string>
+	<string name="user_with_photo">With photo</string>
+	<string name="user_with_dating">With dating ads</string>
+	<string name="user_sexual_orientation_all">All sexual orientations</string>
+	<string name="user_marital_status_all">All family statuses</string>
+	<string name="user_sex_search_all">All sex searches</string>
+	<string name="user_sex_search_purpose_all">All sex search purposes</string>
+	<string name="user_sexual_hobbies_all">All sexual hobbies</string>
+	<string name="user_zodiac_sign_all">All zodiac signs</string>
+	<string name="user_hair_color_all">All hair colors</string>
+	<string name="user_eye_color_all">All eye colors</string>
+	<string name="no_users_found">No users found</string>
+	<string name="button_filter_connection_error">Connection error</string>
+	<string name="filter_show_only">Show only</string>
+	<string name="filter_user_online">Online</string>
+	<string name="filter_user_favourites">From favourites</string>
+	<string name="filter_user_verified">Verified</string>
+
+	<!--FilterAlbumFragment-->
+	<string name="album_theme_all">All topics</string>
+	<string name="album_contest_all">Contest not selected</string>
+	<string name="album_contest_unavailable">No contests available</string>
+	<string name="no_albums_found">No albums found</string>
+	<string name="date_less_than_1_day">24h</string>
+	<string name="date_less_than_7_days">7 days</string>
+	<string name="date_less_than_1_month">1 month</string>
+	<string name="date_less_than_3_months">3 months</string>
+	<string name="date_start">Start date</string>
+	<string name="date_end">End date</string>
+
+	<!--FilterVideoFragment-->
+	<string name="video_theme_all">All topics</string>
+	<string name="video_contest_all">Contest not selected</string>
+	<string name="video_contest_unavailable">No contests available</string>
+	<string name="no_videos_found">No videos found</string>
+	<string name="filter_album_not_viewed">Unseen</string>
+
+	<!--AlbumInfoActivity-->
+	<string name="author">Author</string>
+	<string name="category">Category</string>
+	<string name="photo_count">Number of photos</string>
+	<string name="vip">VIP</string>
+	<string name="certificated">Verified</string>
+	<string name="views">Views</string>
+	<string name="rating">Rating</string>
+	<string name="comments">Comments</string>
+	<string name="added">Added</string>
+	<string name="album_number">Album ID</string>
+	<string name="album_address">Album URL</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+
+	<!--VideoInfoActivity-->
+	<string name="video_duration">Duration</string>
+	<string name="video_number">Video ID</string>
+	<string name="video_address">Video URL</string>
+
+	<!--Notification menu-->
+	<string name="notifications_title">Notification</string>
+	<string name="notifications_visits">Visits</string>
+	<string name="notifications_messages">Messages</string>
+	<string name="notifications_requests">Friend requests</string>
+	<string name="notifications_favourites">Favourites</string>
+	<string name="notifications_ignored">Ignore list</string>
+	<string name="notifications_my_account">My account</string>
+	<string name="notifications_albums">Albums</string>
+	<string name="notifications_videos">Videos</string>
+	<string name="notifications_blogs">Blog posts</string>
+	<string name="notifications_dating">Dating</string>
+	<string name="notifications_notes">Notes</string>
+
+	<!--Update dialog-->
+	<string name="update_dialog_title">New version</string>
+	<string name="update_dialog_content">New enhanced and juicier version of the application is available. Do you want to download it?</string>
+	<string name="update_dialog_later">Later</string>
+	<string name="update_dialog_download">Download</string>
+
+	<!--Old version dialog-->
+	<string name="old_dialog_title">Old version</string>
+	<string name="old_dialog_content">Unfortunately you’re using a version which is no longer supported. New enhanced version of the application is available. Do you want to download it?</string>
+	<string name="old_dialog_exit">Leave</string>
+
+	<!--Timeout dialog-->
+	<string name="timeout_dialog_title">Session expired</string>
+	<string name="timeout_dialog_content">Please log in again.</string>
+
+	<!--Redirect dialog-->
+	<string name="redirect_dialog_title">You will be redirected</string>
+	<string name="redirect_dialog_content">This part of the application is only accessible via the web interface. Want to be redirected to the website?</string>
+
+	<!--Unauthorized dialog-->
+	<string name="unauthorized_dialog_title">You aren’t logged in</string>
+	<string name="unauthorized_dialog_content">You need to log in to use this function.</string>
+	<string name="unauthorized_dialog_register">Sign up</string>
+
+	<!--Lists error dialog-->
+	<string name="lists_error_dialog_title">Connection error</string>
+	<string name="lists_error_dialog_content">Please check your internet connection.</string>
+	<string name="lists_error_dialog_retry">Repeat</string>
+
+	<!--LoginActivity-->
+	<string name="button_login">Log in</string>
+	<string name="button_registration">Sign up</string>
+	<string name="button_entry">Enter without login</string>
+
+	<!--FilterAlbumActivity | FilterUserActivity-->
+	<string name="title_filter_results">Search results</string>
+
+	<!--MyProfileActivity-->
+	<string name="verify_button">Verify profile</string>
+	<string name="verify_title">Get more trustworthy verified profile right now</string>
+	<string name="verify_chooser_title">Choose a photo</string>
+	<string name="verify_text">Write your nick, current date, name amateri.com on the paper and take a photo with it. If you are using the profile as a pair, we need a verification photo from you both.</string>
+	<string name="verify_more_info">More information</string>
+	<string name="verify_send">Upload verification photo</string>
+	<string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
+	<string name="done">Done!</string>
+
+	<!--ProfileActivity-->
+	<string name="profile_user_chat_rooms">Chat rooms</string>
+	<string name="profile_last_online">Last online</string>
+
+	<plurals name="profile_last_online_seconds">
+		<item quantity="one">now</item>
+		<item quantity="other">%d seconds ago</item>
+	</plurals>
+
+	<plurals name="profile_last_online_minutes">
+		<item quantity="one">minute ago</item>
+		<item quantity="other">%d minutes ago</item>
+	</plurals>
+
+	<plurals name="profile_last_online_hours">
+		<item quantity="one">minute ago</item>
+		<item quantity="other">%d minutes ago</item>
+	</plurals>
+
+	<plurals name="profile_last_online_days">
+		<item quantity="one">yesterday</item>
+		<item quantity="other">%d days ago</item>
+	</plurals>
+
+	<!-- ArticleInfoActivity -->
+	<string name="article_info_share">Share with friends</string>
+	<string name="blog_number">Blog number</string>
+	<string name="blog_url">Blog URL</string>
+	<string name="story_number">Story number</string>
+	<string name="story_url">Story URL</string>
+
+	<!-- FilterDatingActivity -->
+	<string name="dating_category">Category</string>
+	<string name="dating_showonly">Show only</string>
+	<string name="dating_country">Country</string>
+	<string name="dating_region">Region</string>
+
+	<string name="dating_filter_notop">No ad highlighting</string>
+	<string name="dating_filter_stars">Saved</string>
+	<string name="dating_filter_verified">Verified</string>
+	<string name="dating_filter_profile">With photo</string>
+
+	<string name="dating_reply">Reply</string>
+	<string name="dating_highlight">Top ad</string>
+	<string name="dating_buy_top_dialog_title">Top ad</string>
+	<string name="dating_buy_top_dialog_main_text_first">You can Top the ad to the 1st place right now.</string>
+	<string name="dating_buy_top_dialog_main_text_second">Using the Top feature makes the dating ad more visible and it will maintain a top position in its category for %d days.</string>
+	<string name="dating_buy_top_dialog_main_text_third">Repeated use of the Top feature adds up the days, dating ads with more cumulated days will gain higher position in the list.</string>
+	<string name="dating_buy_top_dialog_info_text_1">The price of one single message received is %s including VAT.</string>
+	<string name="dating_buy_top_dialog_info_text_2">Technically provided by %s.</string>
+	<string name="dating_buy_top_dialog_info_text_3">SMS hotline: %s.</string>
+	<string name="dating_buy_top_dialog_country_picker_title">Country</string>
+	<string name="dating_buy_top_dialog_country_picker_placeholder">Select country</string>
+	<string name="dating_buy_top_dialog_send_sms">Send autofilled SMS</string>
+	<string name="dating_buy_top_dialog_no_sms_data">Not available in this country</string>
+	<string name="dating_buy_top_dialog_network_error">Connection error</string>
+
+	<!--Invalid login dialog-->
+	<string name="invalid_login_dialog_title">Invalid login</string>
+	<string name="invalid_login_dialog_content">Incorrect login details entered.</string>
+	<string name="invalid_login_dialog_retry">Try again</string>
+	<string name="invalid_login_dialog_forgot_password">I’ve forgotten my password</string>
+
+	<!--Feedback dialog-->
+	<string name="feedback_dialog_title">Feedback</string>
+	<string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
+
+	<!--Buy VIP dialog-->
+	<string name="vip_dialog_title">We are sorry, but only VIP members can use this feature.</string>
+	<string name="vip_dialog_activate">I want to become a VIP member</string>
+	<string name="vip_dialog_login">Log in</string>
+	<string name="vip_dialog_register">Register</string>
+
+	<!--FeedbackActivity-->
+	<string name="title_activity_feedback">Send feedback</string>
+	<string name="feedback_email">e-mail</string>
+	<string name="feedback_category">category</string>
+	<string name="feedback_message">your message</string>
+	<string name="feedback_send">Send</string>
+	<string name="feedback_category_default">Choose a category</string>
+
+	<!--Change profile photo-->
+	<string name="profile_photo_camera">Take a photo</string>
+	<string name="profile_photo_library">Select from library</string>
+	<string name="profile_photo_processing">Uploading photo</string>
+	<string name="profile_photo_change">Change profile photo</string>
+
+	<!--Comment adding-->
+	<string name="comment_write_hint">Write a comment</string>
+	<string name="emoticon_dialog_close">Close</string>
+	<string name="emoticon_no_emoticons">No emoticons</string>
+
+	<!--Search-->
+	<string name="search_hint">Search</string>
+	<string name="search_album_hint">Search in albums</string>
+	<string name="search_video_hint">Search in videos</string>
+	<string name="search_user_hint">Search in users</string>
+
+	<!--ApplicationSettingsFragment-->
+	<string name="setup_notifications">Notifications</string>
+	<string name="setup_notification_new_message">New message</string>
+	<string name="setup_notification_advert_reply">New dating ad response</string>
+	<string name="setup_notification_friend_request">New friendship request</string>
+	<string name="setup_notification_new_favourite">You were favourited</string>
+	<string name="setup_notification_new_visit">New profile visit</string>
+	<string name="setup_notification_friend_request_reply">Friendship request accepted</string>
+	<string name="setup_notification_new_album_comment">New album comment</string>
+	<string name="setup_notification_new_video_comment">New video comment</string>
+	<string name="setup_notification_new_blog_comment">New blog post comment</string>
+	<string name="setup_notification_new_story_comment">New story comment</string>
+	<string name="setup_notification_album_approval">New album approval</string>
+	<string name="setup_notification_video_approval">New video approval</string>
+	<string name="setup_notification_advertisement">Newsletters</string>
+	<string name="setup_notification_mention">Mentions</string>
+	<string name="setup_privacy">Security</string>
+	<string name="setup_auto_logout">PIN code lock</string>
+	<string name="change_pin">Change PIN code</string>
+	<string name="next">Next</string>
+	<string name="setup_about_app">About application</string>
+	<string name="setup_current_version">Current version</string>
+	<string name="setup_update_check">Check for updates</string>
+	<string name="setup_no_updates">No updates available</string>
+	<string name="setup_update_unsupported_sdk">We are sorry, but your Android system version is too old to install new version :(</string>
+	<string name="setup_stories_and_blogs_title">Stories and blogs</string>
+	<string name="setup_text_size">Text size</string>
+	<string name="setup_background_color">Background color</string>
+	<string name="text_size_small">Small</string>
+	<string name="text_size_medium">Medium</string>
+	<string name="text_size_big">Big</string>
+	<string name="color_theme_dark">Dark</string>
+	<string name="color_theme_light">White</string>
+
+	<string name="setup_default_homescreen_title">Default home screen</string>
+	<string name="setup_default_homescreen_dialog_title">Choose your default screen</string>
+
+	<string name="setup_default_language_title">Application language</string>
+	<string name="setup_default_language_dialog_title">Choose the application language</string>
+
+	<string name="language_default">Same as system language</string>
+
+	<!--LockedActivity-->
+	<string name="locked_unlock">Unlock</string>
+	<string name="locked_forgot_pin">Forgotten PIN code</string>
+	<string name="locked_pin_hint">PIN code</string>
+	<string name="locked_pin_missing">Enter PIN code</string>
+	<string name="locked_bad_pin_title">Invalid PIN code</string>
+	<string name="locked_bad_pin_retry">Try again</string>
+	<string name="locked_bad_pin_forgot">Forgotten PIN code</string>
+
+	<!--ForgotPinActivity-->
+	<string name="forgot_pin_forgot_password">Forgotten password</string>
+	<string name="forgot_pin_title">Please log in again.</string>
+
+	<!--Pin Dialogs-->
+	<string name="dialog_pin_title_new">Enter new PIN code</string>
+	<string name="dialog_pin_title_old">Enter current PIN code</string>
+	<string name="dialog_pin_text_setup">Enter 4-digit PIN code.</string>
+	<string name="dialog_pin_text_forgot">Enter new 4-digit PIN coder or remove it.</string>
+	<string name="dialog_pin_text_old">Enter current PIN code.</string>
+	<string name="dialog_pin_text_change_fail">Invalid PIN code</string>
+	<string name="dialog_pin_hint_1">Enter PIN code</string>
+	<string name="dialog_pin_hint_2">Re-enter PIN code</string>
+	<string name="dialog_pin_remove">Remove</string>
+	<string name="dialog_pin_create">Create</string>
+
+	<!--AlbumSettingsActivity-->
+	<string name="album_settings_title">Title</string>
+	<string name="album_settings_title_hint">Enter title</string>
+	<string name="album_settings_description">Description</string>
+	<string name="album_settings_description_hint">Enter description</string>
+	<string name="album_settings_category">Category</string>
+	<string name="album_settings_category_default">Select category</string>
+	<string name="album_settings_comment">Comment settings</string>
+	<string name="album_settings_topic">Topic</string>
+	<string name="album_settings_topic_default">Select topic</string>
+	<string name="album_settings_contest">Contest</string>
+	<string name="album_settings_contest_default">Select contest</string>
+	<string name="album_settings_vote">Voting enabled</string>
+	<string name="album_settings_password_text">Password lock</string>
+	<string name="album_settings_password_hint">Enter password</string>
+	<string name="album_settings_save">Submit</string>
+	<string name="album_settings_save_success">Changes saved</string>
+	<string name="album_settings_submit">Submit for approval</string>
+	<string name="album_settings_submit_success">Changes have been sent for approval</string>
+	<string name="album_settings_missing_name">Please enter the title</string>
+	<string name="album_settings_missing_category">Please select the category</string>
+	<string name="album_settings_missing_password">Please enter the password</string>
+	<string name="album_not_vip_title">VIP expired</string>
+	<string name="album_not_vip_text">VIP expired. You won\'t be able to turn the password lock back on.</string>
+	<string name="album_not_vip_confirm">Turn off password lock?</string>
+	<string name="album_not_vip_main_button">Turn off</string>
+	<string name="album_not_vip_other_button">Cancel</string>
+
+	<!--VideoSettingsActivity-->
+	<string name="video_settings_title">Title</string>
+	<string name="video_settings_title_hint">Enter title</string>
+	<string name="video_settings_description">Description</string>
+	<string name="video_settings_description_hint">Enter description</string>
+	<string name="video_settings_category">Category</string>
+	<string name="video_settings_category_default">Select category</string>
+	<string name="video_settings_comment">Comment settings</string>
+	<string name="video_settings_topic">Topic</string>
+	<string name="video_settings_topic_default">Select topic</string>
+	<string name="video_settings_contest">Contest</string>
+	<string name="video_settings_contest_default">Select contest</string>
+	<string name="video_settings_vote">Voting enabled</string>
+	<string name="video_settings_password_text">Password lock</string>
+	<string name="video_settings_password_hint">Enter password</string>
+	<string name="video_settings_save">Submit</string>
+	<string name="video_settings_save_success">Changes saved</string>
+	<string name="video_settings_submit">Submit for approval</string>
+	<string name="video_settings_submit_success">Changes have been sent for approval</string>
+	<string name="video_settings_missing_name">Please enter the title</string>
+	<string name="video_settings_missing_password">Please enter the password</string>
+	<string name="video_settings_missing_category">Please select the category</string>
+	<string name="video_not_vip_title">VIP expired</string>
+	<string name="video_not_vip_text">VIP expired. You won\'t be able to turn the password lock back on.</string>
+	<string name="video_not_vip_confirm">Turn off password lock?</string>
+	<string name="video_not_vip_main_button">Turn off</string>
+	<string name="video_not_vip_other_button">Cancel</string>
+
+	<string name="comment_sort_title">Comment order</string>
+	<string name="comment_sort_dialog_title">Comment order</string>
+	<string name="comment_sort_by_date">By date</string>
+	<string name="comment_sort_by_language">By language</string>
+
+	<!--ProfileAlbumSettingsFragment-->
+	<string name="profile_album_settings_edit_error">You cannot edit this album</string>
+	<string name="visibility_on">Enabled</string>
+	<string name="visibility_off">Disabled</string>
+	<string name="no_album_for_state_title">You have no albums in state \"%s\".</string>
+	<string name="no_album_title">You have no albums.</string>
+	<string name="no_album_text">To add an album is easy and you can start right now.</string>
+	<string name="add_album">Add new album</string>
+
+	<!--ProfileVideoSettingsFragment-->
+	<string name="profile_video_settings_edit_error">You cannot edit this video</string>
+	<string name="profile_video_converting_edit_error">You cannot edit this video during the encoding process. Please wait.</string>
+	<string name="profile_video_disabled_edit_error">You cannot edit this video anymore</string>
+	<string name="no_video_for_state_title">You have no videos in state \"%s\".</string>
+	<string name="no_video_title">You have no videos.</string>
+	<string name="no_video_text">To add a video is easy and you can start right now.</string>
+	<string name="add_video">Add new video</string>
+
+	<!--Notification Actions-->
+	<string name="notification_profile">Profile</string>
+	<string name="notification_message">Message</string>
+	<string name="notification_album">Album</string>
+	<string name="notification_video">Video</string>
+	<string name="notification_blog">Blog</string>
+	<string name="notification_story">Story</string>
+	<string name="notification_update">Download</string>
+	<string name="notification_update_later">Later</string>
+	<string name="notification_friendship_accept">Accept</string>
+	<string name="notification_dating_respond">Reply</string>
+	<string name="notification_more_info">Learn more</string>
+	<string name="notification_add_to_calendar">Add to calendar</string>
+	<string name="notification_event_detail">Event detail</string>
+
+	<!--Notification Texts-->
+	<string name="notification_profile_view_title">New profile visit</string>
+	<string name="notification_profile_view_text">%s has just visited your profile.</string>
+
+	<plurals name="notification_message_new_summary">
+		<item quantity="one">New message</item>
+		<item quantity="other">%s new messages</item>
+	</plurals>
+
+	<string name="notification_dating_ad_title">New dating ad response</string>
+
+	<string name="notification_friendship_request_title">New friendship request</string>
+	<string name="notification_friendship_request_text">User %s would like to be your friend!</string>
+
+	<string name="notification_friendship_approve_title">Friendship request accepted</string>
+	<string name="notification_friendship_approve_text">Congratulations, you and %s are now friends.</string>
+
+	<string name="notification_favourite_add_title">You were favourited</string>
+	<string name="notification_favourite_add_text">User %s has added you to his favourites.</string>
+
+	<string name="notification_album_comment_add_title">New album comment</string>
+	<string name="notification_album_comment_add_text">%1$s has added a comment to your album \"%2$s\": %3$s</string>
+
+	<string name="notification_video_comment_add_title">New video comment</string>
+	<string name="notification_video_comment_add_text">%1$s has added a comment to your video \"%2$s\": %3$s</string>
+
+	<string name="notification_blog_comment_add_title">New blog post comment</string>
+	<string name="notification_blog_comment_add_text">%1$s has added a comment to your blog post \"%2$s\": %3$s</string>
+
+	<string name="notification_story_comment_add_title">New story comment</string>
+	<string name="notification_story_comment_add_text">%1$s has added a comment to your story \"%2$s\": %3$s</string>
+
+	<string name="notification_mention_title">New mention</string>
+	<string name="notification_mention_text_album">%1$s has mentioned you in the \"%2$s\" album comment: %3$s</string>
+	<string name="notification_mention_text_video">%1$s has mentioned you in the \"%2$s\" video comment: %3$s</string>
+	<string name="notification_mention_text_story">%1$s has mentioned you in the \"%2$s\" story comment: %3$s</string>
+	<string name="notification_mention_text_blog">%1$s has mentioned you in the \"%2$s\" blog post comment: %3$s</string>
+
+	<string name="notification_album_approve_title">Album approved</string>
+	<string name="notification_album_approve_text">Your album \"%s\" has been approved.</string>
+
+	<string name="notification_video_approve_title">Video approved</string>
+	<string name="notification_video_approve_text">Your video \"%s\" has been approved.</string>
+
+	<string name="notification_update_text">New enhanced and juicier version of the application is available. Do you want to download it?</string>
+
+	<!--Floating action button-->
+	<string name="fab_add_album">Add album</string>
+	<string name="fab_add_video">Add video</string>
+	<string name="fab_add_blog">Add blog post</string>
+	<string name="fab_add_dating">Add dating ad</string>
+	<string name="fab_add_chatroom">Add chat room</string>
+
+	<!--MyAccountSettingsFragment-->
+	<string name="my_account_content">Content</string>
+	<string name="my_account_content_settings">Content source</string>
+	<string name="my_account_other_settings">More settings</string>
+	<string name="my_account_content_source_max">Maximum %d countries allowed</string>
+	<string name="all_countries">All countries</string>
+	<string name="my_account_hide_categories">Do not show categories</string>
+	<string name="my_account_social_login">Social login</string>
+	<string name="my_account_social_login_connect">Setup</string>
+	<string name="my_account_social_login_disconnect">Disconnect</string>
+	<string name="social_login_error">Error</string>
+	<string name="my_account_disconnect_dialog_title">Disconnect social login?</string>
+	<string name="my_account_disconnect_dialog">Do you really want to disconnect this social login?</string>
+	<string name="my_account_disconnect">Disconnect</string>
+	<string name="my_account_preferred_language">Preferred content languages</string>
+	<string name="my_account_preferred_language_not_set">Preferred content languages must be set</string>
+
+	<!--NewAlbumActivity-->
+	<string name="new_album_save">Save and continue</string>
+	<string name="warning">Warning</string>
+	<string name="dialog_new_album_back_press">Album is considered to be complete with uploaded images only. All changes you\'ve made will be discarded.</string>
+
+	<!--AlbumSettingsActivity-->
+	<string name="dialog_album_settings_back_press">All changes you\'ve made will be discarded.</string>
+
+	<!--NewVideoActivity-->
+	<string name="new_video_save">Save and continue</string>
+
+	<!--AlbumUploadActivity-->
+	<string name="album_upload_choose_photo">Upload photos</string>
+	<string name="album_upload_send_to_review">Send for approval</string>
+	<string name="photo_delete_dialog_title">Delete this photo?</string>
+	<string name="photo_delete_dialog">Are you sure you want to delete this photo?</string>
+	<string name="toast_thumbnail_photo_changed">You successfully changed the cover photo</string>
+	<string name="dialog_guidelines_title">Help</string>
+	<string name="photo_guidelines_1">You can upload %1$s – %2$s photos.</string>
+	<string name="photo_guidelines_2">Change the order of your photos using drag and drop.</string>
+	<string name="toast_add_more_photos">Please, add at least %d photos</string>
+	<string name="toast_too_much_photos">Maximum %d photos allowed</string>
+	<string name="toast_cant_send_uploading">Cannot send for approval during upload</string>
+	<string name="toast_photo_already_exists">Photo already exists</string>
+	<string name="toast_cant_load_photo">Failed to load image</string>
+	<string name="toast_photo_too_large">Cannot upload photo larger than %s MB</string>
+	<string name="toast_photo_too_small">Cannot upload photo smaller than %s px</string>
+	<string name="upload_failed">Upload failed</string>
+	<string name="tap_try_again">Tap to try again</string>
+	<string name="dialog_connection_data_title">Mobile data</string>
+	<string name="dialog_connection_data_content">You are about to upload content via mobile data connection. Depending on your operator, additional charges may be applied. Do you wish to continue?</string>
+	<string name="dialog_continue">Continue</string>
+	<string name="processing_photos">Processing photos: %1$s/%2$s</string>
+	<string name="processing_photos_text">We are processing your photos…</string>
+	<string name="photos_uploaded">Uploaded photos: %s</string>
+	<string name="photos_to_upload">Photos to upload: %s</string>
+	<string name="photos_limit_reached">Limit exceeded, please delete %s photos</string>
+	<string name="album_no_description">Album without description</string>
+	<string name="cant_leave_while_uploading">Cannot leave while uploading</string>
+
+	<!--NewVideoActivity-->
+	<string name="dialog_new_video_back_press">Video will not be created. All changes you\'ve made will be discarded.</string>
+
+	<!--VideoUploadActivity-->
+	<string name="video_upload_choose_video">Upload a video</string>
+	<string name="delete_video">Delete video</string>
+	<string name="cancel_upload">Cancel the upload</string>
+	<string name="toast_thumbnail_error">Failed to set the video thumbnail</string>
+	<string name="video_guidelines_1">You can upload only one video at once.</string>
+	<string name="video_guidelines_2">Minimum video length: %s seconds.</string>
+	<string name="toast_video_too_short">Minimum video length is %s seconds. Please upload longer video.</string>
+	<string name="toast_video_too_big">Video is too big. Maximum size allowed is %s MB. Please upload a smaller file.</string>
+	<string name="video_upload_progress">%1$s %% of %2$s MB</string>
+	<string name="dialog_video_upload_cancel_title">Cancel upload?</string>
+	<string name="dialog_video_upload_cancel_content">Do you really want to cancel the video upload?</string>
+	<string name="upload_complete">Upload completed</string>
+	<string name="video_upload_complete_text">Tap to check your video.</string>
+	<string name="toast_cant_send_no_video">Please, upload a video first</string>
+	<string name="toast_one_video_at_once">You can upload only one video at once. Please wait until the upload is complete.</string>
+	<string name="upload_in_progress">Uploading…</string>
+	<string name="video_no_description">Video without description</string>
+	<string name="video_not_found">Your video is uploaded, but cannot be played now. The video file was not found on this device.</string>
+	<string name="admin_message">Administrator message</string>
+	<string name="toast_cant_load_video">Failed to load video</string>
+	<string name="video_loading">Please wait while we load the video…</string>
+
+	<!--VideoUploadService -->
+	<string name="uploading_video">Uploading video</string>
+	<string name="video_uploaded_percentage">Uploading progress: %s %%</string>
+	<string name="tap_to_retry">Tap to try again</string>
+
+	<!--PhotoIntentService-->
+	<string name="photo_upload_notification_title">Photo upload</string>
+	<string name="photo_upload_notification_progress">Upload in progress: %1$d/%2$d</string>
+
+	<!-- ProfileAlbumSettingsFragment -->
+	<string name="album_delete_dialog_title">Delete album?</string>
+	<string name="album_delete_dialog">Are you sure you want to delete this album?</string>
+	<string name="delete">Delete</string>
+	<string name="filter_all">All</string>
+
+	<!-- ProfileVideoSettingsFragment -->
+	<string name="video_delete_dialog_title">Delete video?</string>
+	<string name="video_delete_dialog">Are you sure you want to delete this video?</string>
+	<string name="video_delete_dialog_uploading">The video is currently being uploaded. Are you sure you want to delete this video?</string>
+
+	<!-- Logout while uploading dialog -->
+	<string name="logout_during_uploading_dialog_title">Do you want to logout?</string>
+	<string name="logout_during_uploading_dialog_content">All of your unuploaded files will be lost.</string>
+
+	<!--ReportDatingAdDialog-->
+	<string name="report_dialog_text">Choose a reason</string>
+	<string name="report_dialog_send">Send</string>
+	<string name="report_dialog_toast_no_reason">Choose a reason first</string>
+	<string name="report_dialog_toast_sent">The report has been sent. Thank you.</string>
+
+	<!-- Messaging -->
+	<string name="message_popup_copy">Copy to clipboard</string>
+	<string name="message_popup_delete">Delete message</string>
+	<string name="message_popup_report">Report</string>
+	<string name="message_popup_received">Received %s</string>
+	<string name="dialog_report_message_title">Report message</string>
+	<string name="toast_message_deleted">Message deleted</string>
+	<string name="toast_copied_message_text">The message has been copied to your clipboard!</string>
+	<string name="message_date_today">Today</string>
+	<string name="message_date_yesterday">Yesterday</string>
+	<string name="message_send_failure">Sorry, it seems there has been a network problem and your message was not sent.</string>
+	<string name="message_write_hint">Write a message</string>
+	<string name="take_a_picture">Take a picture</string>
+	<string name="pick_from_gallery">Pick from gallery</string>
+	<string name="toast_no_camera_app">No camera app found</string>
+	<string name="add_attachment">Add a photo</string>
+	<string name="notification_message_received">You\'ve got a new message</string>
+	<string name="conversation_empty">Write a message, send a photo, or just a smiley :)</string>
+	<string name="conversation_dating_reply">Dating reply</string>
+	<string name="toast_camera_permissions_revoked">Please grant the app access to the camera.</string>
+	<string name="conversation_user_ignored_error">User %s does not want you to send him/her any messages.</string>
+
+	<!-- Buy VIP -->
+	<string name="buy_vip_title">Become a VIP member</string>
+	<string name="vip_promo_title">Special offer</string>
+	<string name="vip_promo_title_ends_today">Special offer (ends today)</string>
+	<string name="vip_promo_subtitle">We give away up to 1 month free VIP membership</string>
+	<string name="buy">Buy</string>
+	<string name="vip_sms_only">(SMS only)</string>
+	<string name="vip_discount_text">%d %% discount</string>
+	<string name="vip_choose_paymethod">Choose a payment method</string>
+	<string name="vip_most_popular_offer">Most popular offer</string>
+	<string name="vip_membership_advantages">VIP members benefits</string>
+	<string name="vip_successful_payment_title">Successful payment</string>
+	<string name="vip_unsuccessful_payment_title">Cancelled payment</string>
+	<string name="thank_you">Thank you.</string>
+	<string name="notification_vip_payment">%d days of VIP membership have been credited to your account.</string>
+
+	<plurals name="vip_days_remaining">
+		<item quantity="one">%d day remaining</item>
+		<item quantity="other">%d days remaining</item>
+	</plurals>
+
+	<!-- BuyVipSmsPaymentDetails -->
+	<string name="sms_price">The price of one single message received is %s including VAT.</string>
+	<string name="vip_send_sms_instructions">Send an SMS with the text %1$s to %2$s</string>
+
+	<!-- Single/Recurring payment chooser activity -->
+	<string name="vip_get_one_day_for_free">Get 1 day of VIP membership for free</string>
+	<string name="vip_recurring_paymenthod_question">Do you want discounted plan or one-time payment?</string>
+	<string name="vip_recurring_payment_button_title">Automatically renew</string>
+	<string name="vip_plus_one_day_free">+ 1 day free</string>
+	<string name="vip_normal_payment_button_title">One-time payment</string>
+	<string name="vip_recurring_payment_advantages">The advantage of a recurring VIP membership is that you do not have to create and confirm every single payment. You will receive a renewal confirmation each time a new period starts.</string>
+
+	<!-- UserGridFragment -->
+	<string name="no_users_title_general">No users</string>
+	<string name="no_users_message_general">No users were found</string>
+
+	<!-- FriendsActivity -->
+	<string name="title_friends">Friends</string>
+	<string name="tab_friends_list">Friends</string>
+	<string name="tab_friends_requests">New requests</string>
+	<string name="online_users_only">Online users only</string>
+	<string name="no_friends_title">No friends</string>
+	<string name="no_friends_message">You have no friends yet</string>
+	<string name="no_friends_online_message">You have no friends online</string>
+	<string name="dialog_remove_friend_title">Remove from friends</string>
+	<string name="dialog_remove_friend_content">Do you really want to remove %s from your friends?</string>
+	<string name="dialog_remove_friend_confirm">Remove</string>
+	<string name="toast_friend_removed">User %s was removed from your friends</string>
+	<string name="button_friend_request_accept">Accept</string>
+	<string name="button_friend_request_reject">Reject</string>
+	<string name="toast_friend_request_accepted">You are now friends with %s</string>
+	<string name="no_friend_requests_title">No friend requests</string>
+	<string name="no_friend_requests_message">You have no new friend requests</string>
+	<string name="dialog_reject_friend_request_title">Reject friend request</string>
+	<string name="dialog_reject_friend_request_content">Do you really want to reject this friend request?</string>
+
+	<!-- FavouritesActivity -->
+	<string name="title_favourites">Favourites</string>
+	<string name="tab_favourites_my_favourites">My favourites</string>
+	<string name="tab_favourites_favourited_me">Favourited me</string>
+	<string name="dialog_remove_favourite_title">Remove from favourites</string>
+	<string name="dialog_remove_favourite_content">Do you really want to remove %s from favourites?</string>
+	<string name="dialog_remove_favourite_confirm">Remove</string>
+	<string name="toast_favourite_removed">User %s was removed from your favourites</string>
+
+	<string name="no_favourited_users_title">No favourites</string>
+	<string name="no_favourited_users_message">You have no favourite users</string>
+	<string name="no_favourited_me_users_message">No one has favourited you yet</string>
+
+	<!-- VisitsActivity -->
+	<string name="title_visits">Visits</string>
+	<string name="close">Close</string>
+	<string name="no_visits_title">No visits</string>
+	<string name="no_visits_message">Nobody has visited your profile yet</string>
+
+	<!-- Update news dialog -->
+	<string name="update_news_dialog_title">New in this version</string>
+
+	<!-- ConversationListActivity -->
+	<string name="conversation_list_filter_all">All users</string>
+	<string name="conversation_list_filter_unread">Unread</string>
+	<string name="conversation_list_filter_friends">From friends</string>
+	<string name="me">Me</string>
+	<string name="popup_conversation_ignore">Ignore user</string>
+	<string name="popup_conversation_mark_read">Mark as read</string>
+	<string name="popup_conversation_delete">Delete conversation</string>
+	<string name="dialog_conversation_delete_title">Delete conversation</string>
+	<string name="dialog_conversation_delete_content">Do you really want to delete your conversation with %s?</string>
+	<string name="dialog_conversation_delete_confirm">Delete</string>
+	<string name="toast_conversation_deleted">Conversation with %s was deleted</string>
+	<string name="no_conversations_title">No conversations</string>
+	<string name="no_conversations_message">You have no conversations yet</string>
+	<string name="no_conversations_message_with_filter">You have no conversations for the selected filter.</string>
+	<string name="no_users_found_title">No users</string>
+	<string name="no_users_found_message">No users found</string>
+	<string name="user_sent_a_photo">%s sent you a photo</string>
+	<string name="i_sent_a_photo">You sent a photo</string>
+	<string name="toolbar_share">Share…</string>
+
+	<!-- Stories / Blogs fragment -->
+	<string name="stories_offline_mode">You are viewing stories in offline mode.</string>
+	<string name="blogs_offline_mode">You are viewing blogs in offline mode.</string>
+	<string name="go_online_to_load_content">Go online to load the latest content.</string>
+	<string name="refresh_to_load_content">Pull down to refresh content.</string>
+	<string name="no_stories_title">No stories found</string>
+	<string name="no_stories_text_online">There are no stories</string>
+	<string name="no_stories_text_offline">There are no offline stories. Go online to load new stories.</string>
+	<string name="no_blogs_title">No blogs found</string>
+	<string name="no_blogs_text_online">There are no blogs</string>
+	<string name="no_blogs_text_offline">There are no offline blogs. Go online to load new blogs.</string>
+
+	<!-- EventsActivity -->
+	<string name="tab_events_upcoming">Plan</string>
+	<string name="tab_events_past">History</string>
+	<string name="no_events_title">No events</string>
+	<string name="no_events_upcoming_message">There are no upcoming events</string>
+	<string name="no_events_passed_message">There are no past events</string>
+	<string name="no_events_attended_message">You haven\'t attended any event yet</string>
+	<string name="events_attended">Events I attended only</string>
+	<string name="tab_event_info">Info</string>
+	<string name="tab_event_people">People</string>
+	<string name="tab_event_content">Albums and videos</string>
+
+	<!-- EventInfoFragment -->
+	<string name="event_i_will_attend_as">Select who do you sign in</string>
+	<string name="event_i_attended">I was there</string>
+	<string name="event_organizer">Organizer</string>
+	<string name="event_type">Event type</string>
+	<string name="event_date">Date</string>
+	<string name="event_time">Time</string>
+	<string name="event_capacity">Capacity</string>
+
+	<plurals name="event_capacity_people_number">
+		<item quantity="one">%d person</item>
+		<item quantity="other">%d people</item>
+	</plurals>
+
+	<string name="event_attendee_count">Attendees</string>
+	<string name="event_entry">Entry</string>
+	<string name="event_address">Address</string>
+	<string name="event_description">Event description</string>
+	<string name="event_participants">Participants</string>
+
+	<plurals name="event_participants_total">
+		<item quantity="one">%d person</item>
+		<item quantity="other">%d people</item>
+	</plurals>
+
+	<string name="toast_event_signed_in">You\'ve been signed in successfully</string>
+	<string name="toast_event_signed_out">You\'ve been signed out successfully</string>
+	<string name="event_comment_disallowed">You cannot comment this event now.</string>
+
+	<string name="event_button_man">Man</string>
+	<string name="event_button_woman">Woman</string>
+	<string name="event_button_couple">Couple</string>
+
+	<!-- EventUsersFragment -->
+	<plurals name="event_signed_in_people">
+		<item quantity="one">%d person has signed in</item>
+		<item quantity="other">%d people have signed in</item>
+	</plurals>
+
+	<plurals name="event_attended_people">
+		<item quantity="one">%d person attended</item>
+		<item quantity="other">%d people attended</item>
+	</plurals>
+
+	<string name="event_no_people_title">No participants</string>
+	<string name="event_no_people_text">No one has signed in yet</string>
+
+	<!-- EventTypeTranslator -->
+	<string name="event_availability_everyone">Event is open for everyone</string>
+	<string name="event_availability_users_with_content">For users with content only</string>
+	<string name="event_availability_verified_users">For verified users only</string>
+	<string name="event_type_chat_room">%s chat room event</string>
+	<string name="event_type_users">Users event</string>
+	<string name="event_type_official">Official event</string>
+
+	<!-- Event notificaion -->
+	<string name="title_event">Event</string>
+	<string name="notification_upcoming_event_start">Event start: %s.</string>
+	<string name="notification_upcoming_event_looking_forward">Don\'t forget to stop by, we are looking forward to see you!</string>
+
+	<plurals name="notification_upcoming_event_signed_users">
+		<item quantity="one">There is %d person signed in.</item>
+		<item quantity="other">There are %d people signed in.</item>
+	</plurals>
+
+	<!-- Fingerprint -->
+	<string name="dialog_fingerprint_setup__title">Fingerprint</string>
+	<string name="dialog_fingerprint_setup_description">Touch the sensor to authenticate with your fingerprint</string>
+	<string name="setup_fingerprint">Fingerprint lock</string>
+	<string name="toast_fingerprint_not_supported">Your device does not support fingerprint authentication</string>
+	<string name="toast_not_pin_protected">You need to enable PIN code lock to use this feature</string>
+	<string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings.</string>
+	<string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings.</string>
+	<string name="error_fingerprints_invalidated">Fingerprint unavailable. It looks like you have recently enrolled a new fingerprint. You can re-enable fingerprint lock in settings.</string>
+	<string name="success">Success</string>
+	<string name="fingerprint_authentication_failed">Fingerprint not recognized</string>
+	<string name="dialog_fingerprint_unavailable_title">Fingerprint unavailable</string>
+	<string name="dialog_fingerprint_unavailable_button">Go to settings</string>
+
+	<!-- LockedActivity - fingerprint -->
+	<string name="title_fingerprint_unlock">Fingerprint unlock</string>
+	<string name="subtitle_fingerprint_unlock">Use your finger to unlock</string>
+	<string name="use_pin_instead">Use PIN</string>
+
+	<!-- ChatActivity -->
+	<string name="tab_chat_board">Dashboard</string>
+	<string name="tab_chat_rooms">Rooms</string>
+
+	<string name="chat_dashboard_online_friends">Friends on chat</string>
+	<string name="chat_dashboard_online_friends_empty">There are no chatting friends now.</string>
+	<string name="chat_dashboard_most_popular_webcams">Most popular streams</string>
+	<string name="chat_dashboard_favourite_chatrooms">Your favourite chat rooms</string>
+	<string name="chat_dashboard_favourite_chatrooms_empty">You have no favourite chat rooms yet.</string>
+	<string name="chat_dashboard_newest_chatrooms">Newest chat rooms</string>
+
+	<string name="chat_room_empty">This room is empty.</string>
+	<string name="chat_room_category_all">All categories</string>
+	<string name="toast_chat_room_favourited">Room %s was added to your favourites.</string>
+	<string name="toast_chat_room_unfavourited">Room %s was removed from your favourites.</string>
+	<string name="chat_room_list_permanent">Permanent chat rooms</string>
+	<string name="chat_room_list_temporary">Temporary chat rooms</string>
+
+	<string name="chat_avatar_popup_button_chat">Chat</string>
+	<string name="chat_avatar_popup_button_profile">Profile</string>
+	<string name="chat_room_filter_show_empty">Show empty rooms</string>
+	<string name="chat_room_filter_show_locked">Show locked rooms</string>
+	<string name="no_chat_rooms_text">There are no rooms for selected filter.</string>
+
+	<string name="chat_online_friends_title">Friends on chat</string>
+	<string name="chat_most_popular_webcams_title">Most popular streams</string>
+
+	<!-- ChatRoomInfoActivity -->
+	<string name="tab_chat_room_info">Room details</string>
+	<string name="tab_chat_room_people">People in room</string>
+
+	<string name="chat_room_info_description">Room description</string>
+	<string name="chat_room_info_category">Category</string>
+	<string name="chat_room_info_access">Access</string>
+	<string name="chat_room_info_temp_admin">Temporary admin</string>
+	<string name="chat_room_info_permanent_admins">Permanent admins</string>
+	<string name="chat_room_info_enter_button">Enter the chat room</string>
+
+	<string name="chat_room_people_empty">There is nobody in this room.</string>
+
+	<!-- NewDatingActivity -->
+	<string name="title_dating_add">New dating ad</string>
+	<string name="dating_add_category_title">Category</string>
+	<string name="dating_add_category_hint">Select category</string>
+	<string name="dating_add_title_title">Title</string>
+	<string name="dating_add_title_hint">Enter a title</string>
+	<string name="dating_add_text_title">Text</string>
+	<string name="dating_add_text_hint">Enter dating ad text…</string>
+	<string name="dating_add_validity_title">Validity</string>
+	<string name="dating_add_button_text">Create dating ad</string>
+	<string name="dating_add_toast_created">Dating ad has been created.</string>
+	<string name="dating_add_dialog_backpress">Dating ad will not be created. All changes you\'ve made will be lost.</string>
+	<string name="dating_add_toast_empty_fields">All fields must be filled.</string>
+
+	<string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
+	<string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
+
+	<!-- NewNoteActivity -->
+	<string name="new_note_add_note">Add a note</string>
+	<string name="new_note_add_hint">Enter the text…</string>
+	<string name="new_note_error">The text cannot be empty.</string>
+	<string name="new_note_created">The note was created successfully.</string>
+	<string name="new_note_dialog_backpress">New note will not be created. All changes you\'ve made will be lost.</string>
+	<string name="note_edit_title">Edit the note</string>
+	<string name="note_edit">Edit</string>
+	<string name="note_edited">Note has been edited successfully.</string>
+	<string name="note_delete_dialog_backpress_title">Delete this note?</string>
+	<string name="note_delete_dialog_backpress_text">Do you really want to delete this note?</string>
+	<string name="note_delete_dialog_backpress_button">Delete</string>
+
+	<!-- NewBlogActivity -->
+	<string name="new_blog_header">Add new blog post</string>
+	<string name="new_blog_title">Title</string>
+	<string name="new_blog_title_hint">Enter title</string>
+	<string name="new_blog_content">Blog formatting</string>
+	<string name="new_blog_hint">Hint</string>
+	<string name="new_blog_markdown">Use markdown formatting</string>
+	<string name="new_blog_preview">Preview</string>
+	<string name="new_blog_text">Enter the article text</string>
+	<string name="new_blog_save">Save and continue</string>
+	<string name="new_blog_send_for_approval">Publish blog post</string>
+	<string name="new_blog_created">New blog post has been successfully created.</string>
+	<string name="new_blog_sent_for_approval">Blog post has been successfully published.</string>
+	<string name="new_blog_empty_fields">All fields must be filled.</string>
+	<string name="new_blog_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
+
+	<!-- NewBlogActivity edit blog -->
+	<string name="blog_menu_delete">Delete blog post</string>
+	<string name="blog_delete_content">Do you really want to delete this blog post?</string>
+	<string name="blog_deleted_successfully">Blog has been successfully deleted.</string>
+	<string name="blog_edit_header">Edit blog post</string>
+	<string name="blog_edited">Blog post has been successfully saved.</string>
+	<string name="blog_edit_dialog_backpress">Blog post will not be saved. All changes you\'ve made will be lost.</string>
+	<string name="blog_edit_send_for_approval_title">Publish blog post</string>
+	<string name="blog_edit_send_for_approval_content">Do you really want to publish this blog post?</string>
+	<string name="blog_edit_send_for_approval_confirm">Yes</string>
+	<string name="blog_edit_send_for_approval_cancel">I\'ll check it once again.</string>
+
+	<!-- Blog list settings -->
+	<string name="blogs_settings_no_blogs_for_state_title">You have no blogs in state \"%s\".</string>
+	<string name="blogs_settings_no_blogs_title">You have no blogs.</string>
+	<string name="blogs_settings_no_blogs_text">Adding a new blog is easy and you can start right now.</string>
+	<string name="blogs_settings_empty_button_text">Add a new blog</string>
+	<string name="blogs_settings_edit_button">Edit</string>
+	<string name="blogs_settings_delete_title">Delete blog post?</string>
+	<string name="blogs_settings_delete_text">Do you really want to delete this blog post?</string>
+	<string name="blogs_settings_delete_confirm">Delete</string>
+	<string name="blogs_settings_delete_toast">Blog post has been successfully deleted.</string>
+
+	<!-- MessagesSettingsFragment -->
+	<string name="messages_settings_title">Who can contact me</string>
+	<string name="messages_settings_info_description">All conditions must be met for users to contact you.
+        Friends can always write to you regardless of the conditions you set.</string>
+	<string name="messages_settings_everyone">All users</string>
+	<string name="messages_settings_content_users">With albums/videos</string>
+	<string name="messages_settings_vip">VIP users</string>
+	<string name="messages_settings_verified">Verified users</string>
+	<string name="messages_settings_friends_only">Friends only</string>
+	<string name="messages_settings_country_title">Select allowed countries</string>
+	<string name="messages_settings_country_all">All countries</string>
+
+	<!-- ProfileDatingSettingsFragment -->
+	<string name="dating_settings_no_dating_ads_title">You have no dating ads</string>
+	<string name="dating_settings_no_dating_ads_text">Adding a new dating ad is easy, try it now.</string>
+	<string name="dating_settings_no_dating_ads_button">Add dating ad</string>
+
+	<string name="dating_settings_status_enabled">On web</string>
+	<string name="dating_settings_status_disabled">Canceled</string>
+	<string name="dating_settings_status_expired">Expired</string>
+	<string name="dating_settings_button_topup">Top ad</string>
+	<string name="dating_settings_button_extend">Extend</string>
+	<string name="dating_settings_button_edit">Edit</string>
+	<string name="dating_settings_status_edited">Edited</string>
+
+	<string name="dating_settings_dialog_delete_title">Delete dating ad?</string>
+	<string name="dating_settings_dialog_delete_text">Do you really want to delete this dating ad?</string>
+	<string name="dating_settings_dialog_delete_button_confirm">Delete</string>
+	<string name="dating_settings_toast_dating_ad_deleted">Dating ad has been deleted.</string>
+
+	<!-- DatingExtendDialog -->
+	<string name="dialog_dating_extend_title">Extend dating ad validity</string>
+	<string name="dialog_dating_extend_text">Your dating ad has expired. You can extend its validity.</string>
+	<string name="dialog_dating_extend_button_text">Extend by %s</string>
+	<string name="dialog_dating_extend_toast_successful">Dating ad validity has been extended.</string>
+
+	<!-- DatingEditActivity -->
+	<string name="title_dating_edit">Edit dating ad</string>
+	<string name="dating_edit_button_text">Save changes</string>
+	<string name="dating_edit_toast_saved">Changes have been saved.</string>
+	<string name="dating_edit_toast_empty_fields">All fields must be filled.</string>
+
+	<!-- EditText validators -->
+	<string name="edittext_invalid_input_empty">%s must be filled</string>
+
+	<plurals name="edittext_invalid_input_short">
+		<item quantity="one">Please enter at least %d character</item>
+		<item quantity="other">Please enter at least %d characters</item>
+	</plurals>
+
+	<plurals name="edittext_invalid_input_long">
+		<item quantity="one">Please enter %d character at most</item>
+		<item quantity="other">Please enter %d characters at most</item>
+	</plurals>
+
+	<!-- Android Notification channels - these strings will be shown in Android Oreo app's notification settings -->
+	<string name="notification_channel_general">General notifications</string>
+	<string name="notification_channel_messages">Message notifications</string>
+	<string name="notification_channel_upload">Content upload notifications</string>
+	<string name="notification_channel_webcams">Chat webcam notifications</string>
+
+	<!-- Chat Room -->
+	<string name="chat_room_empty_title">No messages</string>
+	<string name="chat_room_empty_text">There are no messages in this room.</string>
+	<string name="chat_room_empty_text_friend_filter">You have enabled \"Friend messages only\" or \"Messages about me\" filter.</string>
+	<string name="chat_room_empty_button_disable_filter_try_again">Disable filters and try again</string>
+	<string name="dialog_chat_room_leave_title">Do you want to leave the room?</string>
+	<string name="dialog_chat_room_leave_text">You will stay in the room for the next 10 minutes after choosing the \"I\'ll be right back\" option.</string>
+	<string name="dialog_chat_room_leave_button_leave">Yes, leave</string>
+	<string name="dialog_chat_room_leave_button_brb">I\'ll be right back</string>
+	<string name="dialog_chat_room_forbidden_title">Connection timeout</string>
+	<string name="dialog_chat_room_forbidden_text">You are probably not in the room anymore, you will be redirected out of the chat room, from where you can return, or you can choose another room.</string>
+	<string name="popup_chat_room_menu_info">Room info</string>
+	<string name="popup_chat_room_menu_fav_add">Add to favourites</string>
+	<string name="popup_chat_room_menu_fav_remove">Remove from favourites</string>
+	<string name="popup_chat_room_menu_settings">Settings</string>
+	<string name="avatarbar_empty_text">There is no other person in this room :-(</string>
+	<string name="chat_room_users_category_chatties">Chatters</string>
+	<string name="chat_room_users_category_friends">Friends</string>
+	<string name="chat_room_users_category_my_webcam_watchers">Viewers</string>
+	<string name="chat_room_users_category_others">Users</string>
+	<string name="chat_room_users_filter_empty_title">No users</string>
+	<string name="chat_room_users_filter_empty_text">No users found for selected filter.</string>
+	<string name="popup_chat_room_user_filter_content">With albums/videos</string>
+	<string name="popup_chat_room_user_filter_content_dating">With dating ads</string>
+	<string name="chat_room_users_filter_all_countries">All countries</string>
+	<string name="chat_room_users_filter_all_regions">All regions</string>
+	<string name="toast_chat_room_admin_rights_gained">You are now a temporary admin of this room</string>
+	<string name="dialog_chat_room_kick_user_title">Kick the user out of the room?</string>
+	<string name="dialog_chat_room_kick_user_content">User: %s</string>
+	<string name="dialog_chat_room_kick_user_choose_reason">Select a reason</string>
+	<string name="dialog_chat_room_kick_user_reason_hint">Reason</string>
+	<string name="dialog_chat_room_kick_user_button_confirm">Yes, kick out</string>
+	<string name="toast_chat_room_user_kicked">User %s has been kicked out</string>
+	<string name="dialog_chat_room_kicked_me_title">You\'ve been kicked out</string>
+	<string name="dialog_chat_room_kicked_me_content">You have been kicked out of the room for %1$d minutes! Reason: %2$s. Try again later.</string>
+	<string name="chat_room_knock_ask_title">User %s requests access to this room</string>
+	<string name="chat_room_knock_ask_reject_button">Reject</string>
+	<string name="chat_room_knock_ask_allow_button">Allow</string>
+	<string name="chat_room_knock_ask_profile_button">Profile</string>
+	<string name="popup_chat_message_copy_text">Copy to clipboard</string>
+	<string name="popup_chat_message_delete_message">Delete message</string>
+	<string name="dialog_delete_chat_message_title">Delete message?</string>
+	<string name="dialog_delete_chat_message_text">Do you really want to delete this message for all users?</string>
+	<string name="dialog_delete_chat_message_button_confirm">Yes, delete</string>
+	<string name="toast_chat_message_deleted">Message has been deleted.</string>
+	<string name="toast_chat_webcam_slot_unavailable">The next stream won\'t fit in here anymore.</string>
+	<string name="dialog_turn_off_webcam_title">Turn off the camera?</string>
+	<string name="dialog_turn_off_webcam_text_broadcast">This will turn off your camera</string>
+	<string name="dialog_turn_off_webcam_text_listener">This will turn off %s\' camera</string>
+	<string name="dialog_turn_off_webcam_confirm">Turn off</string>
+	<string name="toast_webcam_duplicate_stream">You are already watching this user.</string>
+	<string name="toast_webcam_permission_denied_webrtc_only">This user does not use WebRTC streaming.</string>
+	<string name="toast_webcam_permission_denied_album_video_vip_only">Get a VIP membership or upload at least one album/video to watch this stream.</string>
+	<string name="toast_webcam_permission_denied_verified_vip_only">Get a VIP membership or verify your profile to watch this stream.</string>
+	<string name="toast_webcam_permission_denied_vip_only">To watch this stream, you need to be a VIP member.</string>
+	<string name="toast_webcam_permission_denied_friends_only">This user only broadcast to his/her friends.</string>
+	<string name="toast_webcam_permission_denied_men">This user does not broadcast for men.</string>
+	<string name="toast_webcam_permission_denied_women">This user does not broadcast for women.</string>
+	<string name="toast_webcam_permission_denied_couples">This user does not broadcast for couples.</string>
+	<string name="toast_chat_camera_permissions_denied">You must grant permission to turn on the camera.</string>
+	<string name="dialog_webcam_data_connection_title_broadcast">Turn on the camera?</string>
+	<string name="dialog_webcam_data_connection_title_listen">Watch the user\'s stream?</string>
+	<string name="dialog_webcam_data_connection_text">You are using mobile data connection. Watching streams can consume a lot of data.</string>
+	<string name="dialog_webcam_data_connection_button_confirm">Turn on the camera</string>
+	<string name="dialog_webcam_data_connection_button_cancel">Leave the camera off</string>
+	<string name="toast_chatroom_logout_warning">Please write something into the chat, otherwise you will be automatically disconnected for inactivity.</string>
+	<string name="dialog_chat_room_timeout_title">Inactivity timeout</string>
+	<string name="dialog_chat_room_timeout_text">You have been logged out due to inactivity. You can either come back or choose another room.</string>
+	<string name="toast_webcam_friend_enter">Your friend %s just entered this room.</string>
+	<string name="toast_webcam_start_requested">You\'ve asked %s to turn the camera on.</string>
+	<plurals name="toast_webcam_start_request_received">
+		<item quantity="one">%s is asking you to turn your camera on!</item>
+		<item quantity="other">%s users are asking you to turn your camera on!</item>
+	</plurals>
+
+	<!-- Chat Room knock dialog -->
+	<string name="dialog_chat_room_knock_title_main">This chat room is locked</string>
+	<string name="dialog_chat_room_knock_title_waiting">Waiting for the chat room admin\'s response…</string>
+	<string name="dialog_chat_room_knock_text_main">You can ask for chat room access or go back.</string>
+	<string name="dialog_chat_room_knock_text_waiting">If the admin does not respond within 2 minutes, you will be redirected back.</string>
+	<string name="dialog_chat_room_knock_text_forbidden">Sorry, the admin has not allowed you to enter this room.</string>
+	<string name="dialog_chat_room_knock_button_request">Ask for access</string>
+	<string name="dialog_chat_room_knock_button_cancel">Go back</string>
+	<string name="toast_chat_room_knock_access_refused">The admin has not allowed you to enter this room.</string>
+
+	<!-- Chat Room Enter dialog -->
+	<string name="dialog_chat_room_enter_title_main">Entering chat room …</string>
+	<string name="dialog_chat_room_enter_button_cancel">Go back</string>
+	<string name="dialog_chat_room_enter_forbidden">Entry not allowed</string>
+
+	<!-- Chat Room Settings -->
+	<string name="chat_room_settings_friends_messages_only">Friends messages only</string>
+	<string name="chat_room_settings_message_filtering_section_title">Message filtering</string>
+	<string name="chat_room_settings_notifications_section_title">Notifications</string>
+	<string name="chat_room_settings_webcam_knock">Requests to turn on the camera</string>
+	<string name="chat_room_settings_friend_enter">Friend entered the chat room</string>
+	<string name="chat_room_settings_room_management_section_title">Admin settings</string>
+	<string name="chat_room_settings_chat_design_section__title">Chat appearance</string>
+	<string name="chat_room_settings_webcam_settings_section_title">Camera settings</string>
+	<string name="chat_room_settings_about_me_messages_only">Messages about me</string>
+	<string name="chat_room_settings_admin_handover_title">Hand over admin\'s rights</string>
+	<string name="chat_room_settings_admin_handover_chooser_title">Select a user</string>
+	<string name="chat_room_settings_admin_handover_chooser_title_disabled">No users</string>
+	<string name="chat_room_settings_admin_handover_dialog_title">Hand over admin\'s rights?</string>
+	<string name="chat_room_settings_admin_handover_dialog_text">Do you want to hand over admin\'s rights to user %s?</string>
+	<string name="chat_room_settings_admin_handover_dialog_button_confirm">Yes, hand over</string>
+	<string name="toast_chat_room_settings_admin_rights_handed_over">Admin rights have been handed over to user %s.</string>
+	<string name="chat_room_settings_other_settings_section_title">Other</string>
+
+
+	<string name="chat_room_settings_font_size_title">Font size</string>
+	<string name="chat_room_settings_font_size_normal">Small</string>
+	<string name="chat_room_settings_font_size_bigger">Medium</string>
+	<string name="chat_room_settings_font_size_biggest">Large</string>
+	<string name="chat_room_settings_webcam_sound_default_option">Turn on sound by default</string>
+	<string name="chat_room_settings_camera_permission_title">Who can watch my stream</string>
+	<string name="chat_room_settings_hide_time_text">Hide time of messages</string>
+
+	<string name="chat_room_settings_hide_avatar_text">Hide user avatars</string>
+	<string name="chat_room_settings_gender_colors_text">Colors by sex</string>
+
+	<string name="chat_room_settings_camera_permission_genders">By sex</string>
+	<string name="chat_room_settings_webcam_allow_men">Men</string>
+	<string name="chat_room_settings_webcam_allow_women">Women</string>
+	<string name="chat_room_settings_webcam_allow_couples">Couples</string>
+	<string name="chat_room_settings_webcam_allow_uncheck_warning">At least 1 category must be allowed</string>
+
+	<string name="chat_room_settings_other_phone_sleep">Disable phone sleep when chat is open</string>
+
+	<!-- Chat room whisper -->
+	<string name="chat_room_whisper_user_left">%s left the chat room…</string>
+	<string name="chat_room_whisper_empty_title">No messages yet</string>
+	<string name="chat_room_whisper_empty_text">Write a message or just a smiley :)</string>
+	<string name="chat_room_whisper_webcam_placeholder_title">Turn on: %s</string>
+
+	<!-- ProfileEditFragment -->
+	<string name="profile_edit_section_profile_info">General information</string>
+	<string name="profile_edit_sex_hobbies_title">Sexual hobbies</string>
+	<string name="profile_edit_sex_search_title">Searching</string>
+	<string name="profile_edit_sex_search_purpose_title">Purpose of search</string>
+	<string name="profile_edit_personal_description_title">Personal description</string>
+	<string name="profile_edit_personal_description_hint">Enter your personal description…</string>
+
+	<string name="profile_edit_section_location_title">Location</string>
+	<string name="profile_edit_section_location_country">Country</string>
+	<string name="profile_edit_section_location_region">Region</string>
+	<string name="profile_edit_section_location_city">City</string>
+
+	<string name="profile_edit_section_personal_info">Personal information</string>
+	<string name="profile_edit_section_personal_info_his">His information</string>
+	<string name="profile_edit_section_personal_info_her">Her information</string>
+	<string name="profile_edit_section_personal_info_first_person">First person</string>
+	<string name="profile_edit_section_personal_info_second_person">Second person</string>
+	<string name="profile_edit_birth_date_title">Date of birth</string>
+	<string name="profile_edit_zodiac_sign_title">Zodiac sign</string>
+	<string name="profile_edit_sex_orientation">Sexual orientation</string>
+	<string name="profile_edit_family_status_title">Marital status</string>
+	<string name="profile_edit_eye_color_title">Eye colour</string>
+	<string name="profile_edit_hair_color_title">Hair colour</string>
+	<string name="profile_edit_height_title">Height</string>
+	<string name="profile_edit_weight_title">Weight</string>
+	<string name="profile_edit_skype_title">Skype ID</string>
+	<string name="profile_edit_skype_hint">Enter your skype ID…</string>
+	<string name="profile_edit_phone_number_title">Phone number</string>
+	<string name="profile_edit_phone_number_hint">Enter your phone number…</string>
+
+	<string name="profile_edit_chooser_not_filled">Not filled</string>
+	<string name="profile_edit_button_save">Save changes</string>
+	<string name="toast_profile_edit_changes_saved">Changes have been saved.</string>
+
+	<string name="dialog_profile_edit_leave_title">Warning</string>
+	<string name="dialog_profile_edit_leave_subtitle">You\'ve made some changes to your profile. Do you want to save them?</string>
+	<string name="dialog_profile_edit_leave_save_button">Save changes</string>
+	<string name="dialog_profile_edit_leave_dismiss_button">Discard changes and leave</string>
+
+	<!-- Homepage -->
+	<string name="home_section_favourites_videos_title">Videos of my favourites</string>
+	<string name="home_section_favourites_albums_title">Photo albums of my favourites</string>
+	<string name="home_favourites_section_empty_text">My favorites have not added anything yet</string>
+	<string name="home_section_videos_title">Latest videos</string>
+	<string name="home_section_albums_title">Latest albums</string>
+	<string name="home_section_chat_title">Chat</string>
+	<string name="home_section_dating_title">Dating ads</string>
+	<string name="home_section_events_title">Events</string>
+	<string name="home_section_stories_title">Stories</string>
+	<string name="home_section_blogs_title">Blogs</string>
+	<string name="home_section_visits_title">Latest profile visits</string>
+
+	<string name="home_section_favourites_videos_footer_title">All videos of my favourites</string>
+	<string name="home_section_favourites_albums_footer_title">All albums of my favourites</string>
+	<string name="home_section_videos_footer_title">All videos</string>
+	<string name="home_section_albums_footer_title">All albums</string>
+	<string name="home_section_chat_rooms_footer_title">All chat rooms</string>
+	<string name="home_section_dating_footer_title">All dating ads</string>
+	<string name="home_section_events_footer_title">All events</string>
+	<string name="home_section_stories_footer_title">All stories</string>
+	<string name="home_section_blogs_footer_title">All blogs</string>
+	<string name="home_section_visits_footer_title">All visits</string>
+	<string name="home_menu_edit_homepage">Edit homepage</string>
+	<string name="home_menu_change_home_screen">Change default home screen</string>
+
+	<!-- Ignore list -->
+	<string name="title_ignore_list">Ignore list</string>
+	<string name="ignore_list_empty_title">No ignored users</string>
+	<string name="ignore_list_empty_text">Your ignore list is empty.</string>
+	<string name="dialog_ignore_list_remove_title">Remove from ignore list</string>
+	<string name="dialog_ignore_list_remove_text">Do you want to remove %s from ignore list?</string>
+	<string name="dialog_ignore_list_remove_button_confirm">Remove</string>
+	<string name="toast_ignore_list_user_removed">%s has been removed from your ignore list.</string>
+
+	<!-- Profile options bottomsheet -->
+	<string name="profile_options_add_favourite">Add to favourites</string>
+	<string name="profile_options_add_friend">Add a friend</string>
+	<string name="profile_options_mesage">Send a message</string>
+	<string name="profile_options_add_to_ignore">Ignore user</string>
+	<string name="dialog_ignore_list_add_title">Add to ignore list</string>
+	<string name="dialog_ignore_list_add_text">Do you really want to add %s to ignore list?</string>
+	<string name="dialog_ignore_list_add_button_confirm">Add to ignore list</string>
+
+	<!-- Conversation options bottomsheet -->
+	<string name="conversation_options_delete_conversation">Delete conversation</string>
+	<string name="conversation_options_add_favourite">Add to favourites</string>
+	<string name="conversation_options_remove_favourite">Remove from favourites</string>
+	<string name="conversation_to_favourites_added_toast">Conversation was added to your favourites.</string>
+	<string name="conversation_from_favourites_removed_toast">Conversation was removed from your favourites.</string>
+
+	<!-- Chat webcams -->
+	<string name="janus_fragment_retry_text">Interrupted. Retry?</string>
+	<string name="janus_fragment_hangup_text">Camera turned off</string>
+	<string name="janus_error_hangup">User %s turned off the camera.</string>
+	<string name="janus_error_connection">Failed to establish a connection with the server.</string>
+	<string name="janus_error_unsupported">Your device does not support camera streaming.</string>
+	<string name="janus_error_camera_unavailable">Camera is not available.</string>
+	<string name="janus_error_video_not_receiving">It looks like your device is not sending any video.</string>
+	<string name="janus_broadcast_service_notification_title">You are broadcasting</string>
+	<string name="janus_broadcast_service_notification_text">Chat room: %s</string>
+	<string name="janus_broadcast_service_notification_action_turn_off">Turn off the camera</string>
+
+	<!-- Chat room webcam bottom sheets -->
+	<string name="bottomsheet_webcam_broadcast_title">My camera</string>
+	<string name="bottomsheet_webcam_broadcast_switch_camera">Switch camera</string>
+	<string name="bottomsheet_webcam_broadcast_mute">Mute</string>
+	<string name="bottomsheet_webcam_broadcast_unmute">Unmute</string>
+	<string name="bottomsheet_webcam_broadcast_turn_off">Turn off the camera</string>
+
+	<string name="bottomsheet_webcam_listener_title">%s\'s stream</string>
+	<string name="bottomsheet_webcam_listener_maximize">Maximize</string>
+	<string name="bottomsheet_webcam_listener_whisper">Whisper</string>
+	<string name="bottomsheet_webcam_listener_mute">Mute</string>
+	<string name="bottomsheet_webcam_listener_unmute">Unmute</string>
+	<string name="bottomsheet_webcam_listener_turn_off">Close the stream</string>
+
+	<!-- Chat room webcam detail -->
+	<string name="webcam_detail_toolbar_title">Streams: %s</string>
+
+	<!-- NewChatRoomActivity -->
+	<string name="title_add_chat_room">Add new chat room</string>
+	<string name="chatroom_add_title_title">Title</string>
+	<string name="chatroom_add_title_hint">Enter title</string>
+	<string name="chatroom_add_description_title">Description</string>
+	<string name="chatroom_add_description_hint">Enter description</string>
+	<string name="chatroom_add_category_title">Category</string>
+	<string name="chatroom_add_category_hint">Select category</string>
+	<string name="chatroom_add_access_title">Access</string>
+	<string name="chatroom_add_submit_button_text">Create chat room</string>
+	<string name="chatroom_add_toast_empty_fields">All fields must be filled.</string>
+	<string name="chatroom_add_allowed_users_title">Allowed users</string>
+	<string name="chatroom_add_allowed_users_man">Man</string>
+	<string name="chatroom_add_allowed_users_woman">Woman</string>
+	<string name="chatroom_add_allowed_users_couple">Couple woman &amp; man</string>
+	<string name="chatroom_add_country_title">Country</string>
+	<string name="chatroom_add_error_not_allowed">You cannot add new chat room right now.</string>
+
+	<!-- HomeSettingsActivity -->
+	<string name="home_settings_title">Edit homepage</string>
+	<string name="toast_home_settings_invalid_input">At least one category has to be selected.</string>
+
+	<!-- ForumActivity -->
+	<string name="forum_tab_dashboard">Dashboard</string>
+	<string name="forum_tab_topics">Topics</string>
+	<string name="forum_tab_posts">Posts</string>
+
+	<!-- ForumDashboardFragment -->
+	<string name="forum_dashboard_section_main_topics">Main topics</string>
+	<string name="forum_dashboard_section_newly_updated_topics">Latest posts</string>
+	<string name="forum_dashboard_section_popular_topics">Popular topics</string>
+
+	<!-- ForumTopicsFragment -->
+	<string name="forum_topics_filter_all">All topics</string>
+	<string name="forum_topics_sort_time_desc">By latest topics</string>
+	<string name="forum_topics_sort_count_desc">By post count</string>
+	<string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
+
+	<!-- VideoPlayerSettingsBottomSheet -->
+	<string name="bottomsheet_video_player_settings_title">Video quality setting</string>
+
+	<string-array name="update_news_dialog_items">
+		<item>Bug fixes</item>
+	</string-array>
 
 </resources>
