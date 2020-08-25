@@ -1,4 +1,4 @@
-# ./copy_translate.sh ./res ../mobile/src/main/res
+# ./copy_from_translate.sh ./res ../mobile/src/main/res
 if (( $# < 2 )); then
     echo "usage: ./smlink.sh <from /res> <to /res>"
     exit 1
