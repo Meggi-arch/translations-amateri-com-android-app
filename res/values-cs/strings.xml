@@ -20,7 +20,7 @@
     <string name="title_safe_mode_enabled">Vypnout slušný režim</string>
     <string name="title_logout">Odhlásit se</string>
     <string name="title_version">Verze %s</string>
-    <string name="title_feedback">Odeslat feedback</string>
+    <string name="title_feedback">Kontakt</string>
     <string name="title_new_version">Nová verze!</string>
     <string name="title_notes">Poznámky</string>
     <string name="title_forum">Fórum</string>
@@ -269,7 +269,7 @@
     <string name="video_contest_unavailable">Soutěže nejsou dostupné</string>
     <string name="no_videos_found">Žádná videa nenalezena</string>
     <string name="video_duration">Délka</string>
-    <string name="title_activity_feedback">Poslat zpětnou vazbu</string>
+    <string name="title_activity_feedback">Kontakt</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">kategorie</string>
     <string name="emoticon_dialog_close">Zavřít</string>
@@ -1271,4 +1271,5 @@
         <item quantity="other">před %d sekundami</item>
     </plurals>
     <string name="profile_last_online">Naposledy online</string>
+    <string name="menu_filter">Filtr</string>
 </resources>
