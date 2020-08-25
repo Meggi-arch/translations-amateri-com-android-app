@@ -26,7 +26,7 @@
 	<string name="title_safe_mode_enabled">Disable decent mode</string>
 	<string name="title_logout">Log out</string>
 	<string name="title_version">Version %s</string>
-	<string name="title_feedback">Send feedback</string>
+	<string name="title_feedback">Support</string>
 	<string name="title_new_version">New version!</string>
 	<string name="title_album_settings">Album settings</string>
 	<string name="title_video_settings">Video settings</string>
@@ -391,7 +391,7 @@
 	<string name="vip_dialog_register">Register</string>
 
 	<!--FeedbackActivity-->
-	<string name="title_activity_feedback">Send feedback</string>
+	<string name="title_activity_feedback">Support</string>
 	<string name="feedback_email">e-mail</string>
 	<string name="feedback_category">category</string>
 	<string name="feedback_message">your message</string>
