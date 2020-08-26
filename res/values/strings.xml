@@ -319,7 +319,7 @@
 
 	<!--ProfileActivity-->
 	<string name="profile_user_chat_rooms">Chat rooms</string>
-	<string name="profile_last_online">Last online</string>
+	<string name="profile_last_online">Last login</string>
 
 	<plurals name="profile_last_online_seconds">
 		<item quantity="one">now</item>

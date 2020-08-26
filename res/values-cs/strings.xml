@@ -1270,6 +1270,6 @@
         <item quantity="few">před %d sekundami</item>
         <item quantity="other">před %d sekundami</item>
     </plurals>
-    <string name="profile_last_online">Naposledy online</string>
+    <string name="profile_last_online">Poslední přihlášení</string>
     <string name="menu_filter">Filtr</string>
 </resources>
