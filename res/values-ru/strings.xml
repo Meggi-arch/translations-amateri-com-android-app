@@ -366,7 +366,7 @@
     <string name="dating_highlight">Подними объявление наверх</string>
     <string name="dating_buy_top_dialog_title">Подними объявление наверх</string>
     <string name="dating_buy_top_dialog_main_text_first">Поднятием - вы поместите объявление на первое место в списке.</string>
-    <string name="dating_buy_top_dialog_main_text_second">"Используя функцию \"поднятие\" ваше объявление будет на первой позиции  в категории в течении %d дней."</string>
+    <string name="dating_buy_top_dialog_main_text_second">При использовании функции \"поднятие\" ваше объявление будет на первой позиции в категории в течении %d дней.</string>
     <string name="dating_buy_top_dialog_main_text_third">При одинаковых условиях выше будет объявление, у которого больше оплаченный срок дней.</string>
     <string name="dating_buy_top_dialog_info_text_1">Цена сообщения - %s, включая НДС.</string>
     <string name="dating_buy_top_dialog_info_text_2">Технически обеспечено %s.</string>
@@ -977,7 +977,7 @@
     <string name="new_blog_title_hint">Введите название</string>
     <string name="new_blog_content">Форматирование</string>
     <string name="new_blog_hint">Подсказка</string>
-    <string name="new_blog_markdown">"Использовать  markdown форматирование"</string>
+    <string name="new_blog_markdown">Использовать markdown форматирование</string>
     <string name="new_blog_preview">Предпросмотр</string>
     <string name="new_blog_text">Введите текст записи</string>
     <string name="new_blog_save">Сохранить и продолжить</string>
@@ -1013,4 +1013,7 @@
     <string name="title_messages">Сообщения</string>
     <string name="title_safe_mode_enabled">Выключить скромный режим</string>
     <string name="title_safe_mode_disabled">Включить скромный режим</string>
+    <string name="profile_last_online">Последний раз в сети</string>
+    <string name="title_location">Локация</string>
+    <string name="menu_filter">Фильтр</string>
 </resources>
