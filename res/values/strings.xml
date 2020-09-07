@@ -108,6 +108,7 @@
 	<string name="tab_friends">Friends</string>
 	<string name="tab_notes">My notes</string>
 
+	<string name="basic_filter">Basic filter</string>
 	<string name="filter_advanced">Advanced filter</string>
 	<string name="filter_sort_by">List sorted by</string>
 	<string name="album_filter_show_all">Show albums</string>
