@@ -1230,7 +1230,7 @@
     <string name="social_login_error">Chyba</string>
     <string name="my_account_disconnect_dialog">Opravdu chcete toto přihlášení sociální sítí odpojit?</string>
     <string name="my_account_disconnect_dialog_title">Odpojit přihlášení sociální sítí?</string>
-    <string name="chat_room_settings_other_phone_sleep">Zakázat uspání telefonu</string>
+    <string name="chat_room_settings_other_phone_sleep">Nezhasínat obrazovku během chatování</string>
     <string name="chat_room_settings_other_settings_section_title">Ostatní</string>
     <string name="messages_settings_country_all">Všechny země</string>
     <string name="messages_settings_country_title">Vyberte povolené země</string>
@@ -1272,4 +1272,5 @@
     </plurals>
     <string name="profile_last_online">Poslední přihlášení</string>
     <string name="menu_filter">Filtr</string>
+    <string name="menu_chat_room_tap">Poproste o zapnutí kamery</string>
 </resources>
