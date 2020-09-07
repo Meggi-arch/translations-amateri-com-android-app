@@ -1273,4 +1273,5 @@
     <string name="profile_last_online">Poslední přihlášení</string>
     <string name="menu_filter">Filtr</string>
     <string name="menu_chat_room_tap">Poproste o zapnutí kamery</string>
+    <string name="basic_filter">Základní filtr</string>
 </resources>
