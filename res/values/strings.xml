@@ -1083,8 +1083,8 @@
 
 	<!-- MessagesSettingsFragment -->
 	<string name="messages_settings_title">Who can contact me</string>
-	<string name="messages_settings_info_description">All conditions must be met for users to contact you.
-        Friends can always write to you regardless of the conditions you set.</string>
+	<string name="messages_settings_info_description">All conditions must be met for users to contact you.\n
+        \nFriends can always write to you regardless of the conditions you set.</string>
 	<string name="messages_settings_everyone">All users</string>
 	<string name="messages_settings_content_users">With albums/videos</string>
 	<string name="messages_settings_vip">VIP users</string>
