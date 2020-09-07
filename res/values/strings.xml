@@ -114,6 +114,10 @@
 	<string name="album_filter_show_all">Show albums</string>
 	<string name="video_filter_show_all">Show videos</string>
 
+	<!--CommentsReporting-->
+	<string name="dialog_report_comment_title">Report comment</string>
+	<string name="report_comment_text">Report</string>
+
 	<!--ProfileInfoFragment-->
 	<string name="title_personal_info">Personal details</string>
 	<string name="title_sex">Sex</string>
