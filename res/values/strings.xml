@@ -86,7 +86,7 @@
 	<string name="menu_reset">Reset</string>
 	<string name="menu_chat_room">Chat room menu</string>
 	<string name="menu_chat_room_webcam">Turn on the camera</string>
-	<string name="menu_chat_room_tap">Ask to turn camera on</string>
+	<string name="menu_chat_room_tap">Ask to turn the camera on</string>
 	<string name="menu_homepage">Settings</string>
 	<string name="menu_filter">Filter</string>
 	<string name="menu_forum_topics">List sorted by</string>
@@ -327,12 +327,12 @@
 	</plurals>
 
 	<plurals name="profile_last_online_minutes">
-		<item quantity="one">minute ago</item>
+		<item quantity="one">%d minute ago</item>
 		<item quantity="other">%d minutes ago</item>
 	</plurals>
 
 	<plurals name="profile_last_online_hours">
-		<item quantity="one">hour ago</item>
+		<item quantity="one">%d hour ago</item>
 		<item quantity="other">%d hours ago</item>
 	</plurals>
 
@@ -1269,7 +1269,7 @@
 	<string name="chat_room_settings_webcam_allow_couples">Couples</string>
 	<string name="chat_room_settings_webcam_allow_uncheck_warning">At least 1 category must be allowed</string>
 
-	<string name="chat_room_settings_other_phone_sleep">Disable phone sleep when chat is open</string>
+	<string name="chat_room_settings_other_phone_sleep">Keep the screen on while chatting</string>
 
 	<!-- Chat room whisper -->
 	<string name="chat_room_whisper_user_left">%s left the chat room…</string>
@@ -1439,6 +1439,9 @@
 	<string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
 	<string-array name="update_news_dialog_items">
+		<item>Improved dating ad filter</item>
+		<item>Advanced messenger privacy settings</item>
+		<item>Keep the screen on while chatting</item>
 		<item>Bug fixes</item>
 	</string-array>
 
