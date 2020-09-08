@@ -222,14 +222,14 @@
         <item quantity="other">hodin</item>
     </plurals>
     <plurals name="days">
-        <item quantity="one">%s den</item>
-        <item quantity="few">%s dny</item>
-        <item quantity="other">%s dní</item>
+        <item quantity="one">%d den</item>
+        <item quantity="few">%d dny</item>
+        <item quantity="other">%d dní</item>
     </plurals>
     <plurals name="months">
-        <item quantity="one">%s měsíc</item>
-        <item quantity="few">%s měsíce</item>
-        <item quantity="other">%s měsíců</item>
+        <item quantity="one">%d měsíc</item>
+        <item quantity="few">%d měsíce</item>
+        <item quantity="other">%d měsíců</item>
     </plurals>
     <plurals name="years">
         <item quantity="one">%s rok</item>

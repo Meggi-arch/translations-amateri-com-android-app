@@ -168,16 +168,16 @@
 		<item quantity="other">hours</item>
 	</plurals>
 	<plurals name="days">
-		<item quantity="one">%s day</item>
-		<item quantity="other">%s days</item>
+		<item quantity="one">%d day</item>
+		<item quantity="other">%d days</item>
 	</plurals>
 	<plurals name="months">
-		<item quantity="one">%s month</item>
-		<item quantity="other">%s months</item>
+		<item quantity="one">%d month</item>
+		<item quantity="other">%d months</item>
 	</plurals>
 	<plurals name="years">
-		<item quantity="one">%s year</item>
-		<item quantity="other">%s years</item>
+		<item quantity="one">%d year</item>
+		<item quantity="other">%d years</item>
 	</plurals>
 	<plurals name="user_filter_show">
 		<item quantity="one">Show %s profile</item>
