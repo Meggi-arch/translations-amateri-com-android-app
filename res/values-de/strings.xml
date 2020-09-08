@@ -108,24 +108,24 @@
     <string name="timeout_dialog_content">Bitte melden Sie sich erneut an.</string>
     <!-- plurals -->
     <plurals name="people">
-        <item quantity="one">Gefällt %s Person</item>
-        <item quantity="other">Gefällt %s Personen</item>
+        <item quantity="one">Gefällt %d Person</item>
+        <item quantity="other">Gefällt %d Personen</item>
     </plurals>
     <plurals name="hours">
         <item quantity="one">Stunde</item>
         <item quantity="other">Stunden</item>
     </plurals>
     <plurals name="user_filter_show">
-        <item quantity="one">%s Profil anzeigen</item>
-        <item quantity="other">%s Profile anzeigen</item>
+        <item quantity="one">%d Profil anzeigen</item>
+        <item quantity="other">%d Profile anzeigen</item>
     </plurals>
     <plurals name="album_filter_show">
-        <item quantity="one">%s Album anzeigen</item>
-        <item quantity="other">%s Alben anzeigen</item>
+        <item quantity="one">%d Album anzeigen</item>
+        <item quantity="other">%d Alben anzeigen</item>
     </plurals>
     <plurals name="video_filter_show">
-        <item quantity="one">Show %s video</item>
-        <item quantity="other">Show %s videos</item>
+        <item quantity="one">Show %d video</item>
+        <item quantity="other">Show %d videos</item>
     </plurals>
     <string name="title_videos">Videos</string>
     <string name="title_next_videos">Mehr Videos</string>
