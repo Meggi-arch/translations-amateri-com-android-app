@@ -1219,10 +1219,9 @@
 	<string name="toast_webcam_start_requested">You\'ve asked %s to turn the camera on.</string>
 
 	<string name="toast_webcam_start_user_request_received">%s is asking you to turn your camera on!</string>
-
 	<plurals name="toast_webcam_start_request_received">
-		<item quantity="one"></item>
-		<item quantity="other">%s users are asking you to turn your camera on!</item>
+		<item quantity="other">%d user is asking you to turn your camera on!</item>
+		<item quantity="other">%d users are asking you to turn your camera on!</item>
 	</plurals>
 
 	<!-- Chat Room knock dialog -->

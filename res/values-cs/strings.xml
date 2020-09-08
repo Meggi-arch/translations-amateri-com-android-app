@@ -1019,8 +1019,9 @@
     <string name="toast_webcam_start_requested">Požádali jste %s, aby zapnul/a kameru.</string>
     <string name="toast_webcam_user_start_requested">%s vás žádá, abyste zapnul/a svou kameru!</string>
     <plurals name="toast_webcam_start_request_received">
-        <item quantity="few">%s lidi vás žádájí, abyste zapnul/a svou kameru!</item>
-        <item quantity="other">%s lidí vás žádá, abyste zapnul/a svou kameru!</item>
+        <item quantity="one">%d vás žádá, abyste zapnul/a svou kameru!</item>
+        <item quantity="few">%d lidi vás žádájí, abyste zapnul/a svou kameru!</item>
+        <item quantity="other">%d lidí vás žádá, abyste zapnul/a svou kameru!</item>
     </plurals>
     <!-- Chat Room knock dialog -->
     <string name="dialog_chat_room_knock_title_main">Tato místnost je zamčená</string>
