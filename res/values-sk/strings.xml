@@ -1165,4 +1165,6 @@
         <item quantity="other">pred %d minútami</item>
     </plurals>
     <string name="profile_last_online">Posledné prihlásenie</string>
+    <string name="report_comment_text">Nahlásiť</string>
+    <string name="dialog_report_comment_title">Nahlásiť komentár</string>
 </resources>
