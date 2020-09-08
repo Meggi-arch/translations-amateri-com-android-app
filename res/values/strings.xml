@@ -1217,8 +1217,11 @@
 	<string name="dialog_chat_room_timeout_text">You have been logged out due to inactivity. You can either come back or choose another room.</string>
 	<string name="toast_webcam_friend_enter">Your friend %s just entered this room.</string>
 	<string name="toast_webcam_start_requested">You\'ve asked %s to turn the camera on.</string>
+
+	<string name="toast_webcam_start_user_request_received">%s is asking you to turn your camera on!</string>
+
 	<plurals name="toast_webcam_start_request_received">
-		<item quantity="one">%s is asking you to turn your camera on!</item>
+		<item quantity="one"></item>
 		<item quantity="other">%s users are asking you to turn your camera on!</item>
 	</plurals>
 
