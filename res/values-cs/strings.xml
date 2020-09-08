@@ -212,9 +212,9 @@
     <string name="feedback_dialog_text">Děkujeme, že nám pomáháte vyvíjet naši appku. Budeme moc rádi za zpětnou vazbu, odkaz na ni najdete dole v levém menu.</string>
     <!--plurals-->
     <plurals name="people">
-        <item quantity="one">%s člověku se líbí</item>
-        <item quantity="few">%s lidem se líbí</item>
-        <item quantity="other">%s lidem se líbí</item>
+        <item quantity="one">%d člověku se líbí</item>
+        <item quantity="few">%d lidem se líbí</item>
+        <item quantity="other">%d lidem se líbí</item>
     </plurals>
     <plurals name="hours">
         <item quantity="one">hodina</item>
@@ -237,19 +237,19 @@
         <item quantity="other">%d let</item>
     </plurals>
     <plurals name="user_filter_show">
-        <item quantity="one">Zobrazit %s profil</item>
-        <item quantity="few">Zobrazit %s profily</item>
-        <item quantity="other">Zobrazit %s profilů</item>
+        <item quantity="one">Zobrazit %d profil</item>
+        <item quantity="few">Zobrazit %d profily</item>
+        <item quantity="other">Zobrazit %d profilů</item>
     </plurals>
     <plurals name="album_filter_show">
-        <item quantity="one">Zobrazit %s album</item>
-        <item quantity="few">Zobrazit %s alba</item>
-        <item quantity="other">Zobrazit %s alb</item>
+        <item quantity="one">Zobrazit %d album</item>
+        <item quantity="few">Zobrazit %d alba</item>
+        <item quantity="other">Zobrazit %d alb</item>
     </plurals>
     <plurals name="video_filter_show">
-        <item quantity="one">Zobrazit %s video</item>
-        <item quantity="few">Zobrazit %s videa</item>
-        <item quantity="other">Zobrazit %s videí</item>
+        <item quantity="one">Zobrazit %d video</item>
+        <item quantity="few">Zobrazit %d videa</item>
+        <item quantity="other">Zobrazit %d videí</item>
     </plurals>
     <plurals name="topics">
         <item quantity="one">%d téma</item>
