@@ -160,8 +160,8 @@
 
 	<!--plurals-->
 	<plurals name="people">
-		<item quantity="one">%s person likes</item>
-		<item quantity="other">%s people like</item>
+		<item quantity="one">%d person likes</item>
+		<item quantity="other">%d people like</item>
 	</plurals>
 	<plurals name="hours">
 		<item quantity="one">hour</item>
@@ -180,16 +180,16 @@
 		<item quantity="other">%d years</item>
 	</plurals>
 	<plurals name="user_filter_show">
-		<item quantity="one">Show %s profile</item>
-		<item quantity="other">Show %s profiles</item>
+		<item quantity="one">Show %d profile</item>
+		<item quantity="other">Show %d profiles</item>
 	</plurals>
 	<plurals name="album_filter_show">
-		<item quantity="one">Show %s album</item>
-		<item quantity="other">Show %s albums</item>
+		<item quantity="one">Show %d album</item>
+		<item quantity="other">Show %d albums</item>
 	</plurals>
 	<plurals name="video_filter_show">
-		<item quantity="one">Show %s video</item>
-		<item quantity="other">Show %s videos</item>
+		<item quantity="one">Show %d video</item>
+		<item quantity="other">Show %d videos</item>
 	</plurals>
 	<plurals name="topics">
 		<item quantity="one">%d topic</item>
