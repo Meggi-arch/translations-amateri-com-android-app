@@ -1274,4 +1274,6 @@
     <string name="menu_filter">Filtr</string>
     <string name="menu_chat_room_tap">Poproste o zapnutí kamery</string>
     <string name="basic_filter">Základní filtr</string>
+    <string name="report_comment_text">Nahlásit</string>
+    <string name="dialog_report_comment_title">Nahlásit komentář</string>
 </resources>
