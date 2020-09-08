@@ -1168,4 +1168,24 @@
     <string name="report_comment_text">Nahlásiť</string>
     <string name="dialog_report_comment_title">Nahlásiť komentár</string>
     <string name="toast_webcam_start_user_request_received">%s vás žiada, abyste zapol/a svoju kameru!</string>
+    <plurals name="years">
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="other">%d rokov</item>
+    </plurals>
+    <plurals name="toast_webcam_start_request_received">
+        <item quantity="one">%d človek vás žiada, aby ste zapol/a svoju kameru!</item>
+        <item quantity="few">%d ľudia vás žiadajú, aby ste zapol/a svoju kameru!</item>
+        <item quantity="other">%d ľudí vás žiada, aby ste zapol/a svoju kameru!</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d mesiac</item>
+        <item quantity="few">%d mesiace</item>
+        <item quantity="other">%d mesiacov</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="other">%d dní</item>
+    </plurals>
 </resources>
