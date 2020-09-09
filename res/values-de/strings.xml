@@ -124,8 +124,8 @@
         <item quantity="other">%d Alben anzeigen</item>
     </plurals>
     <plurals name="video_filter_show">
-        <item quantity="one">Show %d video</item>
-        <item quantity="other">Show %d videos</item>
+        <item quantity="one">%d Video Anzeigen</item>
+        <item quantity="other">%d Videen Anzeigen</item>
     </plurals>
     <string name="title_videos">Videos</string>
     <string name="title_next_videos">Mehr Videos</string>
@@ -138,7 +138,7 @@
     <string name="vip_dialog_activate">Ich möchte VIP-Mitglied werden</string>
     <string name="vip_dialog_login">Login</string>
     <string name="vip_dialog_register">Registrieren</string>
-    <string name="title_activity_feedback">Feedback senden</string>
+    <string name="title_activity_feedback">Support</string>
     <string name="feedback_email">E-Mail</string>
     <string name="feedback_category">Kategorie</string>
     <string name="feedback_message">Ihre Nachricht</string>
@@ -1023,7 +1023,7 @@
     <string name="chat_room_settings_gender_colors_text">Farben nach Geschlecht</string>
     <string name="chat_room_settings_camera_permission_genders">Nach Geschlecht</string>
     <string name="dialog_profile_edit_leave_title">Warnung</string>
-    <string name="dialog_profile_edit_leave_subtitle">Sie haben die Profiländerungen nicht gespeichert. Möchten sie sie speichern?</string>
+    <string name="dialog_profile_edit_leave_subtitle">Sie haben die Profiländerungen nicht gespeichert. Möchten Sie sie speichern\?</string>
     <string name="dialog_profile_edit_leave_save_button">Änderungen speichern</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Änderungen verwerfen und verlassen</string>
     <string name="profile_add_friend_already_friend">Zuvor hinzugefügt</string>
@@ -1048,7 +1048,9 @@
     <string name="my_account_disconnect_dialog">Wollen Sie wirklich Anmeldung über soziale Netzwerke abschalten?</string>
     <string name="my_account_disconnect">Trennen</string>
     <string name="messages_settings_title">Wer mich kontaktieren kann</string>
-    <string name="messages_settings_info_description">Alle Bedingungen müssen erfüllt sein, damit Benutzer Sie kontaktieren können\n  ↵\nFreunde können Ihnen immer schreiben, egal welche Bedingungen Sie einstellen.</string>
+    <string name="messages_settings_info_description">Alle Bedingungen müssen erfüllt sein, damit Benutzer Sie kontaktieren können.
+\n 
+\nFreunde können Ihnen jederzeit schreiben, unabhängig von den von Ihnen festgelegten Bedingungen.</string>
     <string name="messages_settings_everyone">Alle Benutzer</string>
     <string name="messages_settings_content_users">Mit Alben/Videen</string>
     <string name="messages_settings_vip">VIP Benutzer</string>
@@ -1091,4 +1093,70 @@
         <item quantity="one">%d Tag</item>
         <item quantity="other">%d Tage</item>
     </plurals>
+    <string name="chat_room_settings_other_phone_sleep">Den Bildschirm während des Chats eingeschaltet lassen</string>
+    <plurals name="toast_webcam_start_request_received">
+        <item quantity="one">%d Person bittet Sie, Ihre Kamera einzuschalten!</item>
+        <item quantity="other">%d Personen bitten Sie, Ihre Kamera einzuschalten!</item>
+    </plurals>
+    <plurals name="edittext_invalid_input_long">
+        <item quantity="one">Bitte geben Sie maximal %d Zeichen ein</item>
+        <item quantity="other">Bitte geben Sie maximal %d Zeichen ein</item>
+    </plurals>
+    <plurals name="edittext_invalid_input_short">
+        <item quantity="one">Bitte geben Sie mindestens %d Zeichen ein</item>
+        <item quantity="other">Bitte geben Sie mindestens %d Zeichen ein</item>
+    </plurals>
+    <string name="messages_settings_country_title">Zulässige Länder auswählen</string>
+    <plurals name="event_attended_people">
+        <item quantity="one">%d Person hat teilgenommen</item>
+        <item quantity="other">%d Personen haben teilgenommen</item>
+    </plurals>
+    <plurals name="event_signed_in_people">
+        <item quantity="one">%d Person angemeldet</item>
+        <item quantity="other">%d Personen angemeldet</item>
+    </plurals>
+    <plurals name="event_participants_total">
+        <item quantity="one">%d Person</item>
+        <item quantity="other">%d Personen</item>
+    </plurals>
+    <plurals name="event_capacity_people_number">
+        <item quantity="one">%d Person</item>
+        <item quantity="other">%d Personen</item>
+    </plurals>
+    <plurals name="vip_days_remaining">
+        <item quantity="one">noch %d Tag</item>
+        <item quantity="other">noch %d Tagen</item>
+    </plurals>
+    <string name="my_account_preferred_language_not_set">Die bevorzugte Inhaltssprache muss festgelegt werden</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">Neue Nachricht</item>
+        <item quantity="other">Neue Nachrichten</item>
+    </plurals>
+    <string name="comment_sort_by_language">Nach Sprache</string>
+    <string name="comment_sort_dialog_title">Kommentarreihenfolge</string>
+    <string name="video_settings_missing_category">Bitte wählen Sie die Kategorie</string>
+    <string name="album_settings_missing_category">Bitte wählen Sie die Kategorie</string>
+    <string name="dating_filter_verified">Verifiziert</string>
+    <string name="dating_region">Region</string>
+    <plurals name="profile_last_online_days">
+        <item quantity="one">Gestern</item>
+        <item quantity="other">vor %d Tagen</item>
+    </plurals>
+    <plurals name="profile_last_online_seconds">
+        <item quantity="one">Jetzt</item>
+        <item quantity="other">vor %d Sekunden</item>
+    </plurals>
+    <plurals name="posts">
+        <item quantity="one">%d Beitrag</item>
+        <item quantity="other">%d Beiträge</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d Jahr</item>
+        <item quantity="other">%d Jahre</item>
+    </plurals>
+    <string name="report_comment_text">Meldung</string>
+    <string name="dialog_report_comment_title">Kommentar melden</string>
+    <string name="basic_filter">Grundfilter</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_chat_room_tap">Bitten darum, die Kamera einzuschalten</string>
 </resources>
