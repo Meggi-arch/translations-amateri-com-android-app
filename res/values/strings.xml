@@ -1446,9 +1446,8 @@
 	<string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
 	<string-array name="update_news_dialog_items">
-		<item>Improved dating ad filter</item>
-		<item>Advanced messenger privacy settings</item>
-		<item>Keep the screen on while chatting</item>
+		<item>Performance and stability improvements</item>
+		<item>UI changes</item>
 		<item>Bug fixes</item>
 	</string-array>
 
