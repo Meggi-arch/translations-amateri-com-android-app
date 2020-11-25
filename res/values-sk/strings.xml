@@ -1087,12 +1087,6 @@
     <string name="home_section_visits_title">Posledné návštevy profilu</string>
     <string name="home_section_visits_footer_title">Všetky zobrazenia</string>
     <!-- Update news dialog -->
-    <string-array name="update_news_dialog_items">
-        <item>Vylepšený filter v zoznamke</item>
-        <item>Pokročilé nastavenia súkromia vo správách</item>
-        <item>Nezhasína obrazovku počas chatovanie</item>
-        <item>Oprava chýb</item>
-    </string-array>
     <string name="title_safe_mode_disabled">Zapnúť slušný režím</string>
     <string name="title_safe_mode_enabled">Vypnúť slušný režím</string>
     <string name="title_messages">Pošta</string>
