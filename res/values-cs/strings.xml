@@ -1219,7 +1219,12 @@
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Nastavení kvality videa</string>
     <!-- Update news dialog -->
-
+    <string-array name="update_news_dialog_items">
+        <item>Reportování komentářů</item>
+        <item>Zlepšení stability a výkonu</item>
+        <item>Zlepšení grafického rozhraní</item>
+        <item>Oprava drobných chyb</item>
+    </string-array>
     <string name="my_account_disconnect">Odpojit</string>
     <string name="title_messages">Vzkazy</string>
     <string name="social_login_error">Chyba</string>
