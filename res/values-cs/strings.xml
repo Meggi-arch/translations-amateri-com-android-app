@@ -1277,16 +1277,16 @@
     <string name="report_comment_text">Nahlásit</string>
     <string name="dialog_report_comment_title">Nahlásit komentář</string>
     <string name="toast_webcam_start_user_request_received">%s vás žádá, abyste zapnul/a svou kameru!</string>
-    <string name="no_collections_found">Sbírka nebyla nalezena</string>
+    <string name="no_collections_found">Nebyla nalezena žádná sbírka</string>
     <string name="home_section_collections_title">Nejnovější sbírky</string>
     <string name="search_collections_hint">Hledat ve sbírkách</string>
     <string name="collections_theme_all">Všechny témy</string>
     <plurals name="collections_filter_show">
-        <item quantity="one">Ukaž %d sbírku</item>
-        <item quantity="few">Ukaž %d sbírky</item>
-        <item quantity="other">Ukaž %d sbírek</item>
+        <item quantity="one">Zobrazit %d sbírku</item>
+        <item quantity="few">Zobrazit %d sbírky</item>
+        <item quantity="other">Zobrazit %d sbírek</item>
     </plurals>
-    <string name="collections_filter_show_all">Ukaž sbírky</string>
+    <string name="collections_filter_show_all">Zobrazit sbírky</string>
     <string name="tab_collections">Sbírky</string>
     <string name="tab_updated">Aktualizováno</string>
     <string name="title_collections">Sbírky</string>
