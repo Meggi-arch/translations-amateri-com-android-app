@@ -1188,4 +1188,18 @@
         <item quantity="few">%d dni</item>
         <item quantity="other">%d dní</item>
     </plurals>
+    <string name="no_collections_found">Zbierka nebola nájdená</string>
+    <string name="home_section_collections_title">Najnovšie zbierky</string>
+    <string name="search_collections_hint">Hľadať v zbierkach</string>
+    <string name="collections_theme_all">Všetky témy</string>
+    <plurals name="collections_filter_show">
+        <item quantity="one">Ukáž %d zbierku</item>
+        <item quantity="few">Ukáž %d zbierky</item>
+        <item quantity="other">Ukáž %d zbierok</item>
+    </plurals>
+    <string name="collections_filter_show_all">Ukáž zbierky</string>
+    <string name="tab_collections">Zbierky</string>
+    <string name="tab_updated">Aktualizované</string>
+    <string name="tab_most_commented">Najkomentovanejšie</string>
+    <string name="title_collections">Zbierky</string>
 </resources>
