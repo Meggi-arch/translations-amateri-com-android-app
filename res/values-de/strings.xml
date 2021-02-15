@@ -1159,4 +1159,17 @@
     <string name="basic_filter">Grundfilter</string>
     <string name="menu_filter">Filter</string>
     <string name="menu_chat_room_tap">Bitten darum, die Kamera einzuschalten</string>
+    <string name="home_section_collections_title">Neueste Sammlungen</string>
+    <string name="search_collections_hint">Suche in Sammlungen</string>
+    <string name="no_collections_found">Keine Sammlung gefunden</string>
+    <string name="collections_theme_all">alle Themen</string>
+    <plurals name="collections_filter_show">
+        <item quantity="one">%d Sammlung anzeigen</item>
+        <item quantity="other">%d Sammlungen anzeigen</item>
+    </plurals>
+    <string name="collections_filter_show_all">Sammlungen zeigen</string>
+    <string name="tab_collections">Sammlungen</string>
+    <string name="tab_updated">Aktualisiert</string>
+    <string name="tab_most_commented">Am meisten kommentiert</string>
+    <string name="title_collections">Sammlungen</string>
 </resources>
