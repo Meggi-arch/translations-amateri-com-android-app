@@ -1288,7 +1288,7 @@
     </plurals>
     <string name="collections_filter_show_all">Zobrazit sbírky</string>
     <string name="tab_collections">Sbírky</string>
-    <string name="tab_updated">Aktualizováno</string>
+    <string name="tab_updated">Aktualizované</string>
     <string name="title_collections">Sbírky</string>
     <string name="tab_most_commented">Nejkomentovanější</string>
 </resources>
