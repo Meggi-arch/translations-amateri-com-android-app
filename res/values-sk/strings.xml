@@ -1088,9 +1088,8 @@
     <string name="home_section_visits_footer_title">Všetky zobrazenia</string>
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Reportovanie komentárov</item>
+        <item>Zbierky</item>
         <item>Zlepšenie stability a výkonu</item>
-        <item>Zmena grafického rozhrania</item>
         <item>Oprava drobných chýb</item>
     </string-array>
     <string name="title_safe_mode_disabled">Zapnúť slušný režím</string>
