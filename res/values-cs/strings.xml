@@ -1290,4 +1290,10 @@
     <string name="tab_updated">Aktualizované</string>
     <string name="title_collections">Sbírky</string>
     <string name="tab_most_commented">Nejkomentovanější</string>
+    <string name="vip_sepa_price_info">Ceny jsou uvedeny včetně DPH.</string>
+    <string name="vip_sepa_reference">Reference:</string>
+    <string name="vip_sepa_price">Cena:</string>
+    <string name="vip_sepa_beneficiar_name">Jméno příjemce:</string>
+    <string name="vip_sepa_bic">BIC:</string>
+    <string name="vip_sepa_iban">IBAN:</string>
 </resources>
