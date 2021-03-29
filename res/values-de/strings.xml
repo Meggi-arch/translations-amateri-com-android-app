@@ -1172,7 +1172,7 @@
     <string name="tab_updated">Aktualisiert</string>
     <string name="tab_most_commented">Am meisten kommentiert</string>
     <string name="title_collections">Sammlungen</string>
-    <string name="vip_sepa_beneficiar_name">Nazwa beneficjenta:</string>
+    <string name="vip_sepa_beneficiar_name">Name des Begünstigten:</string>
     <string name="vip_sepa_price_info">Preise sind inklusive Mehrwertsteuer.</string>
     <string name="vip_sepa_reference">Referenz:</string>
     <string name="vip_sepa_price">Preis:</string>
