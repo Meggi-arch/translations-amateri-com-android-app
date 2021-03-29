@@ -1204,7 +1204,7 @@
     <string name="vip_sepa_price_info">Ceny sú uvedené vrátane DPH.</string>
     <string name="vip_sepa_reference">Referencia:</string>
     <string name="vip_sepa_price">Cena:</string>
-    <string name="vip_sepa_beneficiar_name">Menu príjemcu:</string>
+    <string name="vip_sepa_beneficiar_name">Meno príjemcu:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_iban">IBAN:</string>
 </resources>
