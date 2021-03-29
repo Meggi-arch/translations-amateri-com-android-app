@@ -1474,6 +1474,6 @@
     <string name="vip_sepa_price">Price:</string>
     <string name="vip_sepa_reference">Reference:</string>
 
-    <string name="vip_sepa_price_info">Prices are indicated including VAT.</string>
+    <string name="vip_sepa_price_info">Price is indicated including VAT.</string>
 
 </resources>
