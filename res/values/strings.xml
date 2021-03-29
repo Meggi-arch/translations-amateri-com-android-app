@@ -1468,4 +1468,12 @@
         <item>Bug fixes</item>
     </string-array>
 
+    <string name="vip_sepa_iban">IBAN:</string>
+    <string name="vip_sepa_bic">BIC:</string>
+    <string name="vip_sepa_beneficiar_name">Beneficiary name:</string>
+    <string name="vip_sepa_price">Price:</string>
+    <string name="vip_sepa_reference">Reference:</string>
+
+    <string name="vip_sepa_price_info">Price tax included</string>
+
 </resources>
