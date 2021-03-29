@@ -1470,7 +1470,7 @@
 
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
-    <string name="vip_sepa_beneficiar_name">Beneficiary's name:</string>
+    <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
     <string name="vip_sepa_price">Price:</string>
     <string name="vip_sepa_reference">Reference:</string>
 
