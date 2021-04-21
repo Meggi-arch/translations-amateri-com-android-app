@@ -1207,4 +1207,12 @@
     <string name="vip_sepa_beneficiar_name">Meno príjemcu:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_iban">IBAN:</string>
+    <string name="vip_qr_code_not_saved">Uložiť QR kód do vašej galérie sa nepodarilo</string>
+    <string name="vip_qr_code_saved">QR kód bol uložený do vašej galérie</string>
+    <string name="vip_save_qr_code">Stiahnúť QR kód</string>
+    <string name="vip_price_vat_info">Cena je uvedená vrátane DPH.</string>
+    <string name="vip_bank_transfer_additional_info">VYBERTE „OKAMŽITÚ PLATBU“ AK JE TO MOŽNÉ.</string>
+    <string name="vip_bank_transfer_cz_reference">Variabilný symbol:</string>
+    <string name="vip_bank_transfer_cz_price">Cena:</string>
+    <string name="vip_bank_transfer_cz_account_number">Číslo účtu:</string>
 </resources>
