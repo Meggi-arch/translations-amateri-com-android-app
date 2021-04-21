@@ -1463,7 +1463,6 @@
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
 
     <string-array name="update_news_dialog_items">
-        <item>Collections</item>
         <item>Performance and stability improvements</item>
         <item>Bug fixes</item>
     </string-array>
@@ -1474,6 +1473,15 @@
     <string name="vip_sepa_price">Price:</string>
     <string name="vip_sepa_reference">Reference:</string>
 
-    <string name="vip_sepa_price_info">Price is indicated including VAT.</string>
+    <string name="vip_bank_transfer_cz_account_number">Account number:</string>
+    <string name="vip_bank_transfer_cz_price">Price:</string>
+    <string name="vip_bank_transfer_cz_reference">Variable symbol:</string>
+    <string name="vip_bank_transfer_additional_info">SELECT „INSTANT PAYMENT“ IF POSSIBLE.</string>
+
+    <string name="vip_price_vat_info">Price is indicated including VAT.</string>
+
+    <string name="vip_save_qr_code">Download QR code</string>
+    <string name="vip_qr_code_saved">QR code saved to your gallery</string>
+    <string name="vip_qr_code_not_saved">Failed to save QR code to your gallery</string>
 
 </resources>
