@@ -1220,7 +1220,6 @@
     <string name="bottomsheet_video_player_settings_title">Nastavení kvality videa</string>
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Sbírky</item>
         <item>Zlepšení stability a výkonu</item>
         <item>Oprava drobných chyb</item>
     </string-array>
@@ -1290,7 +1289,6 @@
     <string name="tab_updated">Aktualizované</string>
     <string name="title_collections">Sbírky</string>
     <string name="tab_most_commented">Nejkomentovanější</string>
-    <string name="vip_sepa_price_info">Cena je uvedena včetně DPH.</string>
     <string name="vip_sepa_reference">Reference:</string>
     <string name="vip_sepa_price">Cena:</string>
     <string name="vip_sepa_beneficiar_name">Jméno příjemce:</string>

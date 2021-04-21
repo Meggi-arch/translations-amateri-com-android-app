@@ -1088,7 +1088,6 @@
     <string name="home_section_visits_footer_title">Všetky zobrazenia</string>
     <!-- Update news dialog -->
     <string-array name="update_news_dialog_items">
-        <item>Zbierky</item>
         <item>Zlepšenie stability a výkonu</item>
         <item>Oprava drobných chýb</item>
     </string-array>
@@ -1201,7 +1200,6 @@
     <string name="tab_updated">Aktualizované</string>
     <string name="tab_most_commented">Najkomentovanejšie</string>
     <string name="title_collections">Zbierky</string>
-    <string name="vip_sepa_price_info">Cena je uvedená vrátane DPH.</string>
     <string name="vip_sepa_reference">Referencia:</string>
     <string name="vip_sepa_price">Cena:</string>
     <string name="vip_sepa_beneficiar_name">Meno príjemcu:</string>
