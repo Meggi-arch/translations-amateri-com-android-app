@@ -1178,4 +1178,12 @@
     <string name="vip_sepa_price">Preis:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_iban">IBAN:</string>
+    <string name="vip_qr_code_not_saved">Fehlgeschlagen QR-Code in Ihrer Galerie zu speichern</string>
+    <string name="vip_qr_code_saved">QR-Code in Ihrer Galerie gespeichert</string>
+    <string name="vip_save_qr_code">Herunterladen QR Code</string>
+    <string name="vip_price_vat_info">Der Preis ist inklusive MwSt.</string>
+    <string name="vip_bank_transfer_additional_info">WÄHLEN SIE „SOFORTIGE ZAHLUNG“, WENN MÖGLICH.</string>
+    <string name="vip_bank_transfer_cz_reference">Variables Symbol:</string>
+    <string name="vip_bank_transfer_cz_price">Preis:</string>
+    <string name="vip_bank_transfer_cz_account_number">Kontonummer:</string>
 </resources>
