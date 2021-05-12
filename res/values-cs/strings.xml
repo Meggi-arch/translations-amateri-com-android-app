@@ -1302,4 +1302,9 @@
     <string name="vip_bank_transfer_cz_reference">Variabilní symbol:</string>
     <string name="vip_bank_transfer_cz_price">Cena:</string>
     <string name="vip_bank_transfer_cz_account_number">Číslo účtu:</string>
+    <string name="activity_mfa_bottomsheet_contact_support">Kontaktujte podporu</string>
+    <string name="dialog_mfa_close_text">Zavřít</string>
+    <string name="dialog_mfa_no_text">Ne</string>
+    <string name="dialog_mfa_yes_text">Ano</string>
+    <string name="title_wallet">Peněženka</string>
 </resources>
