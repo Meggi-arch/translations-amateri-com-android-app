@@ -14,6 +14,8 @@
     <!--MainActivity-->
     <string name="title_home">Homepage</string>
     <string name="title_album">Albums</string>
+    <string name="title_wallet">Wallet</string>
+
     <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
     <string name="title_blogs">Blogs</string>
@@ -98,6 +100,7 @@
 
     <string name="hint_username">Nickname</string>
     <string name="hint_password">Password</string>
+    <string name="hint_totp">Code</string>
 
     <string name="tab_albums">Albums</string>
     <string name="tab_videos">Videos</string>
@@ -587,6 +590,8 @@
     <string name="notification_album">Album</string>
     <string name="notification_video">Video</string>
     <string name="notification_blog">Blog</string>
+    <string name="notification_mfa">MFA</string>
+
     <string name="notification_story">Story</string>
     <string name="notification_update">Download</string>
     <string name="notification_update_later">Later</string>
@@ -624,6 +629,13 @@
 
     <string name="notification_blog_comment_add_title">New blog post comment</string>
     <string name="notification_blog_comment_add_text">%1$s has added a comment to your blog post \"%2$s\": %3$s</string>
+
+    <string name="notification_mfa_title">Verify new login</string>
+    <string name="notification_mfa_verify_text">New login to your account</string>
+
+    <string name="notification_mfa_app_registration_title">Register 2FA to your account</string>
+    <string name="notification_mfa_app_registration_text">New app registration for 2FA received</string>
+
 
     <string name="notification_story_comment_add_title">New story comment</string>
     <string name="notification_story_comment_add_text">%1$s has added a comment to your story \"%2$s\": %3$s</string>
@@ -1483,5 +1495,48 @@
     <string name="vip_save_qr_code">Download QR code</string>
     <string name="vip_qr_code_saved">QR code saved to your gallery</string>
     <string name="vip_qr_code_not_saved">Failed to save QR code to your gallery</string>
+
+    <!-- Mfa -->
+    <string name="dialog_mfa_countdown_progress_text">Countdown %s</string>
+    <string name="dialog_mfa_yes_text">Yes</string>
+    <string name="dialog_mfa_no_text">No</string>
+    <string name="dialog_mfa_close_text">Close</string>
+    <string name="dialog_mfa_dialog_cancel">Deny</string>
+    <string name="dialog_mfa_dialog_allow">Allow</string>
+
+    <string name="dialog_mfa_verify_title">New login to your account</string>
+    <string name="dialog_mfa_verify_body_text">New devices is trying to log in to your account. Device: %1$s. Country: %2$s.\nDo you want to login?</string>
+    <string name="dialog_mfa_verify_countdown_failed_text">Login expired</string>
+
+    <string name="dialog_mfa_wrong_code_title">Wrong code</string>
+    <string name="dialog_mfa_wrong_code_body_text">Entered authentication code was wrong or expired.</string>
+    <string name="dialog_mfa_wrong_code_button_enter_again">Enter again</string>
+
+    <string name="dialog_mfa_app_registration_dialog_title">Register app for login</string>
+    <string name="dialog_mfa_app_registration_dialog_content">Add this device for verification when logging in.</string>
+    <string name="dialog_mfa_app_registration_countdown_failed_text">Registration expired</string>
+
+    <string name="activity_mfa_bottomsheet_select_method_title">Select preferred method</string>
+    <string name="activity_mfa_bottomsheet_contact_support">Contact support</string>
+    <string name="activity_mfa_button_choose_different_method">Choose different method</string>
+    <string name="activity_mfa_choose_sms_title">SMS Authentication</string>
+    <string name="activity_mfa_choose_totp_title">Authenticator application</string>
+
+    <string name="activity_mfa_unsupported_method_toast">Authentication method is not currently supported</string>
+    <string name="activity_mfa_known_unsupported_method_toast">Authentication method %s is not currently supported</string>
+
+    <string name="fragment_mfa_totp_title">Two-factor login</string>
+    <string name="fragment_mfa_totp_subtitle">Login using Authentication code</string>
+    <string name="fragment_mfa_totp_enter_code">Enter code</string>
+    <string name="fragment_mfa_totp_info">Open your authenticator application and enter 6 digit code.</string>
+
+    <string name="fragment_mfa_sms_title">Two-factor login</string>
+    <string name="fragment_mfa_sms_subtitle">Login using SMS</string>
+    <string name="fragment_mfa_sms_enter_code">Enter code</string>
+    <string name="fragment_mfa_sms_info_code_not_sent">Click request code for your SMS 6-digit code.</string>
+    <string name="fragment_mfa_sms_info_code_sent_phonenumber">Authentication code has been sent to your phone &lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="fragment_mfa_sms_info_code_sent">Authentication code has been sent to your phone.</string>
+
+    <string name="fragment_mfa_sms_request_code_text">Request code</string>
 
 </resources>
