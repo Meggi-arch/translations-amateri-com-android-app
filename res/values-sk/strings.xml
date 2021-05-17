@@ -1213,15 +1213,15 @@
     <string name="vip_bank_transfer_cz_reference">Variabilný symbol:</string>
     <string name="vip_bank_transfer_cz_price">Cena:</string>
     <string name="vip_bank_transfer_cz_account_number">Číslo účtu:</string>
-    <string name="notification_mfa_app_registration_text">Nová registrácia aplikácie pre 2FA</string>
+    <string name="notification_mfa_app_registration_text">Potvrďte spárovanie tohto zariadenia s účtom.</string>
     <string name="fragment_mfa_sms_request_code_text">Požiadať o kód</string>
     <string name="fragment_mfa_sms_info_code_sent">Overovací kód bol poslaný na váš telefón.</string>
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">Na váš telefón %s bola odoslaná SMS s overovacím kódom.</string>
     <string name="fragment_mfa_sms_info_code_not_sent">Vyžiadajte si sms kód na prihlásenie.</string>
     <string name="fragment_mfa_sms_subtitle">Prihlásenie pomocou SMS kódu.</string>
     <string name="fragment_mfa_sms_title">Dvojfaktorové prihlásenie</string>
-    <string name="fragment_mfa_totp_info">Otvorte svoju overovaciu aplikáciu a vložte 6-miestny kód.</string>
-    <string name="fragment_mfa_totp_subtitle">Prihlásenie pomocou overovacieho kódu</string>
+    <string name="fragment_mfa_totp_info">Otvorte overovaciu aplikáciu a zadajte šesťmiestny kód.</string>
+    <string name="fragment_mfa_totp_subtitle">Prihlásenie pomocou overovacej aplikácie.</string>
     <string name="fragment_mfa_totp_title">Dvojfaktorové prihlásenie</string>
     <string name="activity_mfa_known_unsupported_method_toast">Metóda dvojfaktorového overovania %s nie je v súčasnosti podporovaná.</string>
     <string name="activity_mfa_unsupported_method_toast">Metóda dvojfaktorového overovania nie je v súčasnosti podporovaná.</string>
@@ -1230,8 +1230,8 @@
     <string name="activity_mfa_button_choose_different_method">Vyberte inú metódu</string>
     <string name="activity_mfa_bottomsheet_contact_support">Kontaktujte podporu</string>
     <string name="activity_mfa_bottomsheet_select_method_title">Vyberte inú metódu</string>
-    <string name="dialog_mfa_app_registration_countdown_failed_text">Registrácia vypršala</string>
-    <string name="dialog_mfa_app_registration_dialog_content">Pridajte toto zariadenie k overovaniu pri prihlásení.</string>
+    <string name="dialog_mfa_app_registration_countdown_failed_text">Platnosť spárovania vypršala.</string>
+    <string name="dialog_mfa_app_registration_dialog_content">Potvrďte spárovanie tohto zariadenia s účtom.</string>
     <string name="dialog_mfa_app_registration_dialog_title">Dvojfaktorové overenie</string>
     <string name="dialog_mfa_wrong_code_button_enter_again">Skúsiť znovu</string>
     <string name="dialog_mfa_wrong_code_body_text">Zadaný dvojfaktorový overovací kód bol nesprávny alebo jeho platnosť vypršala.</string>
@@ -1245,7 +1245,7 @@
     <string name="dialog_mfa_yes_text">Áno</string>
     <string name="dialog_mfa_countdown_progress_text">Vypršanie platnosti relácie</string>
     <string name="notification_mfa_app_registration_title">Dvojfaktorové overenie</string>
-    <string name="notification_mfa_verify_text">Nové prihlásenie k vašemu účtu</string>
+    <string name="notification_mfa_verify_text">Potvrďte prosím nový pokus o prihlásenie.</string>
     <string name="notification_mfa_title">Nové prihlásenie</string>
     <string name="title_wallet">Peňaženka</string>
 </resources>
