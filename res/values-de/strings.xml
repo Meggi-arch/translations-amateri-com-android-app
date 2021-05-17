@@ -853,7 +853,7 @@
     <string name="profile_options_mesage">Nachricht schicken</string>
     <string name="profile_options_add_to_ignore">Benutzer ignorieren</string>
     <string name="dialog_ignore_list_add_title">Benutzer ignorieren</string>
-    <string name="dialog_ignore_list_add_text">Wollen sie wirklich Benutzer in die Ignorier-Liste hinzufügen?</string>
+    <string name="dialog_ignore_list_add_text">Wollen sie wirklich %s in die Ignorier-Liste hinzufügen\?</string>
     <string name="dialog_ignore_list_add_button_confirm">Zu Ignorier-Liste hinzufügen</string>
     <string name="conversation_options_delete_conversation">Konversation löschen</string>
     <string name="janus_fragment_retry_text">Unterbrochen. Wiederholen?</string>
@@ -1060,8 +1060,8 @@
     <string name="toast_webcam_start_user_request_received">%s bittet Sie, Ihre Kamera einzuschalten!</string>
     <string name="messages_settings_country_all">Alle Länder</string>
     <plurals name="notification_upcoming_event_signed_users">
-        <item quantity="one">%s Person angemeldet.</item>
-        <item quantity="other">%s Personen angemeldet.</item>
+        <item quantity="one">%d Person angemeldet.</item>
+        <item quantity="other">%d Personen angemeldet.</item>
     </plurals>
     <string name="my_account_preferred_language">Bevorzugte Inhaltssprachen</string>
     <string name="comment_sort_by_date">Nach Datum</string>
@@ -1129,8 +1129,8 @@
     </plurals>
     <string name="my_account_preferred_language_not_set">Die bevorzugte Inhaltssprache muss festgelegt werden</string>
     <plurals name="notification_message_new_summary">
-        <item quantity="one">Neue Nachricht</item>
-        <item quantity="other">Neue Nachrichten</item>
+        <item quantity="one">%s Neue Nachricht</item>
+        <item quantity="other">%s Neue Nachrichten</item>
     </plurals>
     <string name="comment_sort_by_language">Nach Sprache</string>
     <string name="comment_sort_dialog_title">Kommentarreihenfolge</string>
@@ -1194,4 +1194,30 @@
     <string name="notification_mfa_verify_text">Bitte bestätigen Sie einen neuen Login-Versuch.</string>
     <string name="notification_mfa_title">neue Login</string>
     <string name="title_wallet">Brieftasche</string>
+    <string name="fragment_mfa_sms_request_code_text">Fordern Sie einen Code</string>
+    <string name="fragment_mfa_sms_info_code_sent">Der Authentifizierungscode wurde an Ihr Telefon gesendet.</string>
+    <string name="fragment_mfa_sms_info_code_sent_phonenumber">Eine SMS mit einem Bestätigungscode auf Ihr Telefon %s gesendet.</string>
+    <string name="fragment_mfa_sms_info_code_not_sent">Fordern Sie einen SMS-Code anmelden.</string>
+    <string name="fragment_mfa_sms_subtitle">Einloggen mit SMS-Code.</string>
+    <string name="fragment_mfa_sms_title">Zwei-Faktor-Login</string>
+    <string name="fragment_mfa_totp_info">Öffnen Sie die Authentifizierung App und geben Sie den 6-stelligen Code ein.</string>
+    <string name="fragment_mfa_totp_subtitle">Anmeldung mit Authentifizierung App.</string>
+    <string name="fragment_mfa_totp_title">Zwei-Faktor-Login</string>
+    <string name="activity_mfa_known_unsupported_method_toast">Die Zwei-Faktor-Authentifizierungsmethode %s wird derzeit nicht unterstützt.</string>
+    <string name="activity_mfa_unsupported_method_toast">Die Zwei-Faktor-Authentifizierungsmethode wird derzeit nicht unterstützt.</string>
+    <string name="activity_mfa_choose_totp_title">Authentifizierung App</string>
+    <string name="activity_mfa_choose_sms_title">SMS-Authentifizierung</string>
+    <string name="activity_mfa_button_choose_different_method">Wählen Sie eine andere Methode</string>
+    <string name="activity_mfa_bottomsheet_contact_support">Kontaktieren Sie Support</string>
+    <string name="activity_mfa_bottomsheet_select_method_title">Wählen Sie eine andere Methode</string>
+    <string name="dialog_mfa_app_registration_countdown_failed_text">Die Paarung ist abgelaufen.</string>
+    <string name="dialog_mfa_app_registration_dialog_content">Bestätigen Sie das Gerät mit Ihrem Konto paaren.</string>
+    <string name="dialog_mfa_app_registration_dialog_title">Zwei-Faktor-Authentifizierung</string>
+    <string name="dialog_mfa_wrong_code_button_enter_again">Versuchen Sie es nochmal</string>
+    <string name="dialog_mfa_wrong_code_body_text">Die Zwei-Faktor-Authentifizierung von Ihnen eingegebene Code ist falsch oder abgelaufen.</string>
+    <string name="dialog_mfa_wrong_code_title">Falscher Code</string>
+    <string name="dialog_mfa_verify_countdown_failed_text">Zwei-Faktor-Authentifizierung ist abgelaufen.</string>
+    <string name="dialog_mfa_verify_body_text">Ein neues Gerät versucht, auf Ihr Konto einzuloggen. Gerät: %1$s. Land: %2$s.
+\nMit dem Login fortfahren\?</string>
+    <string name="dialog_mfa_verify_title">Neuen Login-Versuch</string>
 </resources>
