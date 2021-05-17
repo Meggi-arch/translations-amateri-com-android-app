@@ -1,46 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="yes">Da</string>
     <string name="no">Ne</string>
-
     <string name="author">Autor</string>
     <string name="comments">Komentari</string>
     <string name="views">Pregleda</string>
-
     <string name="general_error">Ups!</string>
     <string name="general_error_no_connection">Čini se da nema veze s internetom. Pokušajte ponovno kasnije.</string>
     <string name="general_loading">Pričekajte dok učitavamo podatke</string>
-
     <string name="title_album">Albumi</string>
     <string name="title_people">Ljudi</string>
     <string name="title_logout">Odjava</string>
     <string name="title_version">Verzija %s</string>
-    <string name="title_feedback">Pošalji povratne informacije</string>
+    <string name="title_feedback">Podrška</string>
     <string name="title_new_version">Nova verzija!</string>
-
     <string name="tab_latest">Najnovije</string>
     <string name="tab_best">Najbolje</string>
-
     <string name="title_comments">Komentari</string>
     <string name="title_next_albums">Više album</string>
-
     <string name="menu_notification">Obavijesti</string>
     <string name="menu_badges">Oznake</string>
     <string name="menu_reset">Resetiraj</string>
-
     <string name="action_try_again">Pokušaj ponovno</string>
-
     <string name="hint_username">Nadimak</string>
     <string name="hint_password">Lozinka</string>
-
     <string name="tab_albums">Albumi</string>
     <string name="tab_info">Informacije</string>
     <string name="tab_user">Korisnici</string>
     <string name="tab_album">Albumi</string>
-
     <string name="filter_advanced">Napredni filtar</string>
     <string name="filter_sort_by">Popis je razvrstan prema</string>
-
     <string name="title_personal_info">Osobne pojedinosti</string>
     <string name="title_sex">Spol</string>
     <string name="title_age">Dob</string>
@@ -68,19 +57,15 @@
     <string name="profile_male">Muškarac</string>
     <string name="profile_female">Žena</string>
     <string name="profile_group">Grupa</string>
-
     <string name="title_filter">Traži</string>
-
     <string name="user_country_all">Sve zemlje</string>
     <string name="user_region_all">Sve regije</string>
     <string name="user_sexual_orientation_all">Sve seksualne orijentacije</string>
     <string name="user_marital_status_all">Svi obiteljski statusi</string>
     <string name="no_users_found">Nije pronađen nijedan korisnik</string>
-
     <string name="album_theme_all">Sve teme</string>
     <string name="album_contest_all">Natječaj nije odabran</string>
     <string name="no_albums_found">Nije pronađen nijedan album</string>
-
     <string name="category">Kategorija</string>
     <string name="photo_count">Broj fotografija</string>
     <string name="vip">VIP</string>
@@ -89,56 +74,43 @@
     <string name="added">Dodano</string>
     <string name="album_number">ID albuma</string>
     <string name="album_address">URL albuma</string>
-
     <string name="notifications_title">Obavijest</string>
     <string name="notifications_visits">Posjeta</string>
     <string name="notifications_messages">Poruke</string>
     <string name="notifications_requests">Zahtjevi za prijateljstvom</string>
     <string name="notifications_favourites">Favoriti</string>
-
     <string name="update_dialog_title">Nova verzija</string>
     <string name="update_dialog_content">Dostupna je nova, poboljšana i sadržajnija verzija aplikacije. Želite li je preuzeti?</string>
     <string name="update_dialog_later">Kasnije</string>
     <string name="update_dialog_download">Preuzmi</string>
-
     <string name="old_dialog_title">Stara verzija</string>
     <string name="old_dialog_content">Nažalost koristite verziju koja više nije podržana. Dostupna je nova, poboljšana verzija aplikacije. Želite li je preuzeti?</string>
     <string name="old_dialog_exit">Izađi</string>
-
     <string name="timeout_dialog_title">Sesija je istekla</string>
     <string name="timeout_dialog_content">Prijavite se ponovno.</string>
-
     <string name="redirect_dialog_title">Bit ćete preusmjereni</string>
     <string name="redirect_dialog_content">Ovom dijelu aplikacije može se pristupiti samo putem web sučelja. Želite li biti preusmjereni na web stranicu?</string>
-
     <string name="unauthorized_dialog_title">Niste prijavljeni</string>
     <string name="unauthorized_dialog_content">Za korištenje ove funkcije, morate se prijaviti.</string>
     <string name="unauthorized_dialog_register">Registracija</string>
-
     <string name="lists_error_dialog_title">Greška veze</string>
     <string name="lists_error_dialog_content">Provjerite vezu s internetom.</string>
     <string name="lists_error_dialog_retry">Ponovi</string>
-
     <string name="button_login">Prijava</string>
     <string name="button_registration">Registracija</string>
     <string name="button_entry">Ulaz bez prijave</string>
-
     <string name="title_filter_results">Rezultati pretraživanja</string>
-
     <string name="invalid_login_dialog_title">Neispravna prijava</string>
     <string name="invalid_login_dialog_content">Unijeli ste neispravne pojedinosti za prijavu.</string>
     <string name="invalid_login_dialog_retry">Pokušajte ponovno</string>
     <string name="invalid_login_dialog_forgot_password">Zaboravio sam lozinku</string>
-
     <string name="feedback_dialog_title">Povratne informacije</string>
     <string name="feedback_dialog_text">Hvala što nam pomažete u razvoju ove aplikacije. Željeli bismo dobiti vaše povratne informacije, molimo vas kliknite na poveznicu u lijevom izborniku.</string>
-
     <!-- plurals -->
     <plurals name="people">
-        <item quantity="one">%s osobi se sviđa</item>
-        <item quantity="few">%s osobe se sviđa</item>
-        <item quantity="many">%s osoba se sviđa</item>
-        <item quantity="other">%s osoba se sviđa</item>
+        <item quantity="one">%d osobi se sviđa</item>
+        <item quantity="few">%d osobe se sviđa</item>
+        <item quantity="other">%d osoba se sviđa</item>
     </plurals>
     <plurals name="hours">
         <item quantity="one" tools:ignore="ImpliedQuantity">sat</item>
@@ -147,77 +119,59 @@
         <item quantity="other">sati</item>
     </plurals>
     <plurals name="user_filter_show">
-        <item quantity="one">Prikaži %s profil</item>
-        <item quantity="few">Prikaži %s profila</item>
-        <item quantity="many">Prikaži %s profila</item>
-        <item quantity="other">Prikaži %s profila</item>
+        <item quantity="one">Prikaži %d profil</item>
+        <item quantity="few">Prikaži %d profila</item>
+        <item quantity="other">Prikaži %d profila</item>
     </plurals>
     <plurals name="album_filter_show">
-        <item quantity="one">Prikaži %s album</item>
-        <item quantity="few">Prikaži %s albuma</item>
-        <item quantity="many">Prikaži %s albuma</item>
-        <item quantity="other">Prikaži %s albuma</item>
+        <item quantity="one">Prikaži %d album</item>
+        <item quantity="few">Prikaži %d albuma</item>
+        <item quantity="other">Prikaži %d albuma</item>
     </plurals>
     <plurals name="video_filter_show">
-        <item quantity="one">Prikaži %s videozapis</item>
-        <item quantity="few">Prikaži %s videozapisa</item>
-        <item quantity="many">Prikaži %s videozapisa</item>
-        <item quantity="other">Prikaži %s videozapisa</item>
+        <item quantity="one">Prikaži %d videozapis</item>
+        <item quantity="few">Prikaži %d videozapisa</item>
+        <item quantity="other">Prikaži %d videozapisa</item>
     </plurals>
     <string name="title_videos">Videozapisi</string>
-
     <string name="title_next_videos">Još videozapisa</string>
-
     <string name="tab_videos">Videozapisi</string>
     <string name="tab_video">Videozapisi</string>
-
     <string name="video_contest_all">Natječaj nije odabran</string>
     <string name="no_videos_found">Nije pronađen nijedan videozapis</string>
-
     <string name="video_duration">Trajanje</string>
-
     <string name="vip_dialog_title">Žao nam je, ali ovu funkciju mogu besplatno koristiti samo VIP članovi.</string>
     <string name="vip_dialog_activate">Želim postati VIP član</string>
     <string name="vip_dialog_login">Prijava</string>
     <string name="vip_dialog_register">Registracija</string>
-
-    <string name="title_activity_feedback">Pošalji povratnu informaciju</string>
+    <string name="title_activity_feedback">Podrška</string>
     <string name="feedback_email">e-pošta</string>
     <string name="feedback_category">kategorija</string>
     <string name="feedback_message">vaša poruka</string>
     <string name="feedback_send">Šalji</string>
     <string name="feedback_category_default">Odaberite kategoriju</string>
-
     <string name="profile_photo_camera">Snimite fotografiju</string>
     <string name="profile_photo_library">Odaberite u biblioteci</string>
     <string name="profile_photo_processing">Prenošenje fotografije</string>
     <string name="profile_photo_change">Promjena fotografije profila</string>
-
     <string name="comment_write_hint">Napišite komentar</string>
     <string name="emoticon_dialog_close">Zatvori</string>
     <string name="emoticon_no_emoticons">Bez emotikona</string>
-
     <string name="search_hint">Traži</string>
     <string name="search_album_hint">Traži u albumima</string>
     <string name="search_video_hint">Traži u videozapisima</string>
     <string name="search_user_hint">Traži u korisnicima</string>
     <string name="ok">U redu</string>
     <string name="cancel">odustani</string>
-
     <string name="title_settings">Postavke aplikacije</string>
     <string name="title_album_settings">Postavke albuma</string>
     <string name="title_video_settings">Postavke videozapisa</string>
-
     <string name="album_comment_disallowed">Sada ne možete dodati komentar ovom albumu.</string>
-
     <string name="video_comment_disallowed">Sada nemožete dodati komentar za ovaj videozapis.</string>
-
     <string name="album_filter_show_all">Prikaži albume</string>
     <string name="video_filter_show_all">Prikaži videozapise</string>
-
     <string name="video_number">ID videozapisa</string>
     <string name="video_address">URL videozapisa</string>
-
     <string name="verify_button">Potvrdi profil</string>
     <string name="verify_title">Osigurajte si odmah povjerljiv i verificirani profil</string>
     <string name="verify_chooser_title">Odaberite fotografiju</string>
@@ -226,7 +180,6 @@
     <string name="verify_send">Prenesite fotografiju za verifikaciju</string>
     <string name="verify_done_text">Poslana je nova slika. Administrator će provjeriti fotografiju za verifikaciju. Hvala vam.</string>
     <string name="done">Gotovo!</string>
-
     <string name="setup_notifications">Obavijesti</string>
     <string name="setup_notification_new_message">Nova poruka</string>
     <string name="setup_notification_advert_reply">Odgovor na novi oglas za sastanak</string>
@@ -247,7 +200,6 @@
     <string name="setup_current_version">Trenutna verzija</string>
     <string name="setup_update_check">Potraži nova ažuriranja</string>
     <string name="setup_no_updates">Nema dostupnih ažuriranja</string>
-
     <string name="locked_unlock">Otključaj</string>
     <string name="locked_forgot_pin">Zaboravljeni PIN</string>
     <string name="locked_pin_hint">PIN</string>
@@ -255,10 +207,8 @@
     <string name="locked_bad_pin_title">Neispravan PIN</string>
     <string name="locked_bad_pin_retry">Pokušajte opet</string>
     <string name="locked_bad_pin_forgot">Zaboravljeni PIN</string>
-
     <string name="forgot_pin_forgot_password">Zaboravljena lozinka</string>
     <string name="forgot_pin_title">Prijavite se opet.</string>
-
     <string name="dialog_pin_title_new">Unesite novi PIN</string>
     <string name="dialog_pin_title_old">Unesite trenutni PIN</string>
     <string name="dialog_pin_text_setup">Unesite četveroznamenkasti PIN.</string>
@@ -269,7 +219,6 @@
     <string name="dialog_pin_hint_2">Ponovno unesite PIN</string>
     <string name="dialog_pin_remove">Ukloni</string>
     <string name="dialog_pin_create">Izradi</string>
-
     <string name="album_settings_title">Naslov</string>
     <string name="album_settings_title_hint">Unesite naslov</string>
     <string name="album_settings_description">Opis</string>
@@ -295,7 +244,6 @@
     <string name="album_not_vip_confirm">Isključiti zaključavanje lozinkom?</string>
     <string name="album_not_vip_main_button">Isključi</string>
     <string name="album_not_vip_other_button">Otkaži</string>
-
     <string name="video_settings_title">Naslov</string>
     <string name="video_settings_title_hint">Unesite naslov</string>
     <string name="video_settings_description">Opis</string>
@@ -319,19 +267,16 @@
     <string name="video_not_vip_confirm">Isključiti zaključavanje lozinkom?</string>
     <string name="video_not_vip_main_button">Isključi</string>
     <string name="video_not_vip_other_button">Otkaži</string>
-
     <string name="profile_album_settings_edit_error">Ne možete uređivati ovaj album</string>
     <string name="visibility_on">Omogućeno</string>
     <string name="visibility_off">Onemogućeno</string>
     <string name="no_album_title">Još nemate nijedan album.</string>
     <string name="no_album_text">Dodavanje albuma je lako i možete odmah započeti.</string>
     <string name="add_album">Dodaj novi album</string>
-
     <string name="profile_video_settings_edit_error">Ne možete uređivati ovaj videozapis</string>
     <string name="no_video_title">Još nemate nijedan videozapis.</string>
     <string name="no_video_text">Dodavanje videozapisa je lako i možete započeti odmah.</string>
     <string name="add_video">Dodaj novi videozapis</string>
-
     <string name="notification_profile">Profil</string>
     <string name="notification_message">Poruka</string>
     <string name="notification_album">Album</string>
@@ -341,37 +286,26 @@
     <string name="notification_friendship_accept">Prihvati</string>
     <string name="notification_dating_respond">Odgovori</string>
     <string name="notification_more_info">Saznajte više</string>
-
     <string name="notification_profile_view_title">Novi posjet profilu</string>
     <string name="notification_profile_view_text">%s je upravo posjetio/la vaš profil.</string>
-
     <string name="notification_dating_ad_title">Novi odgovor na oglas za sastanak</string>
-
     <string name="notification_friendship_request_title">Novi zahtjev za prijateljstvo</string>
     <string name="notification_friendship_request_text">Korisnik %s želi biti vaš prijatelj!</string>
-
     <string name="notification_friendship_approve_title">Zahtjev za prijateljstvo je prihvaćen</string>
     <string name="notification_friendship_approve_text">Čestitamo, vi i %s sada ste novi prijatelji.</string>
-
     <string name="notification_favourite_add_title">Uvršteni ste u favorite</string>
     <string name="notification_favourite_add_text">Korisnik %s dodao vas je u njegove favorite.</string>
-
     <string name="notification_album_comment_add_title">Novi komentar za album</string>
     <string name="notification_album_comment_add_text">%1$s dodao/la je komentar za vaš album \"%2$s\": %3$s</string>
-
     <string name="notification_video_comment_add_title">Novi komentar za videozapis</string>
     <string name="notification_video_comment_add_text">%1$s dodao/la je komentar za vaš videozapis \"%2$s\": %3$s</string>
-
     <string name="notification_album_approve_title">Album je odobren</string>
     <string name="notification_album_approve_text">Vaš album \"%s\" je odobren.</string>
-
     <string name="notification_video_approve_title">VIdeozapis je odobren</string>
     <string name="notification_video_approve_text">Vaš videozapis \"%s\" je odobren.</string>
-
     <string name="notification_update_text">Dostupna je nova poboljšana i sočnija verzija aplikacije. Želite li ju preuzeti?</string>
     <string name="dialog_android_unsupported_title">Nepodržana funkcija</string>
     <string name="dialog_android_unsupported_text">Žao nam je, ali vaša verzija Android sustava je prestara za korištenje ove funkcije :(</string>
-
     <string name="title_home">Početna stranica</string>
     <string name="title_blogs">Blogovi</string>
     <string name="title_stories">Priče</string>
@@ -383,33 +317,25 @@
     <string name="title_my_account">Moj račun</string>
     <string name="title_profile">Profil</string>
     <string name="title_dating">Upoznavanje</string>
-
     <string name="title_next_blogs">Više objava</string>
     <string name="blog_comment_disallowed">Trenutno ne možete dodati komentar na ovu objavu na blogu.</string>
-
     <string name="title_next_story">Više priča</string>
     <string name="story_comment_disallowed">Trenutno ne možete dodati komentar na ovu priču.</string>
-
     <string name="no_dating_ads_title">Nema pronađenih oglasa za upoznavanje</string>
     <string name="no_dating_ads_text">Nema pronađenih oglasa za upoznavanje prema odabranom filtru.</string>
-
     <string name="dating_reply_hint">Vaš odgovor</string>
     <string name="toast_dating_reply_sent">Odgovor je poslan</string>
     <string name="dating_reply_picture_attached">Fotografija je priložena</string>
     <string name="dialog_delete_attachment_title">Izbriši privitak</string>
     <string name="dialog_delete_attachment_text">Želite li stvarno izbrisati privitak?</string>
-
     <string name="dialog_report_ad_title">Prijavi oglas za upoznavanje</string>
-
     <string name="menu_profile_meatballs">Mogućnosti profila</string>
     <string name="menu_chat_room">Izbornik sobe za čavrljanje</string>
     <string name="menu_chat_room_webcam">Uključite fotoaparat</string>
-
     <string name="tab_blogs">Blog</string>
     <string name="tab_stories">Priče</string>
     <string name="tab_dating">Upoznavanje</string>
     <string name="tab_friends">Prijatelji</string>
-
     <string name="title_filter_height">Visina [cm]</string>
     <string name="title_filter_weight">Težina [kg]</string>
     <string name="user_with_albums">S albumima</string>
@@ -425,7 +351,6 @@
     <string name="filter_show_only">Samo prikaži</string>
     <string name="filter_user_online">Na mreži</string>
     <string name="filter_user_verified">Provjereno</string>
-
     <string name="album_contest_unavailable">Nema dostupnih natječaja</string>
     <string name="date_less_than_1_day">24 sata</string>
     <string name="date_less_than_7_days">7 dana</string>
@@ -433,23 +358,19 @@
     <string name="date_less_than_3_months">3 mjeseca</string>
     <string name="date_start">Datum početka</string>
     <string name="date_end">Datum završetka</string>
-
     <string name="video_theme_all">Sve teme</string>
     <string name="video_contest_unavailable">Nema dostupnih natječaja</string>
     <string name="filter_album_not_viewed">Neviđeno</string>
-
     <string name="notifications_ignored">Popis zanemarenih</string>
     <string name="notifications_my_account">Moj račun</string>
     <string name="notifications_albums">Albumi</string>
     <string name="notifications_videos">Videozapisi</string>
     <string name="notifications_dating">Upoznavanje</string>
-
     <string name="article_info_share">Podijeli s prijateljima</string>
     <string name="blog_number">Broj bloga</string>
     <string name="blog_url">URL bloga</string>
     <string name="story_number">Broj priče</string>
     <string name="story_url">URL priče</string>
-
     <string name="dating_reply">Odgovori</string>
     <string name="dating_highlight">Podigni oglas</string>
     <string name="dating_buy_top_dialog_title">Podigni oglas</string>
@@ -464,7 +385,6 @@
     <string name="dating_buy_top_dialog_send_sms">Pošalji automatski ispunjenu poruku</string>
     <string name="dating_buy_top_dialog_no_sms_data">Nije dostupno u ovoj državi</string>
     <string name="dating_buy_top_dialog_network_error">Greška veze</string>
-
     <string name="setup_notification_new_blog_comment">Novi komentar na objavu na blogu</string>
     <string name="setup_notification_new_story_comment">Novi komentar na priču</string>
     <string name="setup_notification_mention">Spominjanja</string>
@@ -476,7 +396,6 @@
     <string name="text_size_big">Veliko</string>
     <string name="color_theme_dark">Tamno</string>
     <string name="color_theme_light">Bijelo</string>
-
     <string name="video_settings_topic">Tema</string>
     <string name="video_settings_topic_default">Odaberi temu</string>
     <string name="no_album_for_state_title">Nemate albuma u stanju \"%s\".</string>
@@ -487,37 +406,27 @@
     <string name="notification_story">Priča</string>
     <string name="notification_add_to_calendar">Dodaj u kalendar</string>
     <string name="notification_event_detail">Pojedinosti o događaju</string>
-
     <string name="notification_blog_comment_add_title">Novi komentar na objavu na blogu</string>
     <string name="notification_blog_comment_add_text">%1$s je dodao/la komentar na vašu objavu na blogu \"%2$s\": %3$s</string>
-
     <string name="notification_story_comment_add_title">Novi komentar na priču</string>
     <string name="notification_story_comment_add_text">%1$s je dodao/la komentar na vašu priču \"%2$s\": %3$s</string>
-
     <string name="notification_mention_title">Novo spominjanje</string>
     <string name="notification_mention_text_album">%1$s vas je spomenuo/la u komentaru na album \"%2$s\": %3$s</string>
     <string name="notification_mention_text_video">%1$s vas je spomenuo/la u komentaru na videozapis \"%2$s\": %3$s</string>
     <string name="notification_mention_text_story">%1$s vas je spomenuo/la u komentaru na priču \"%2$s\": %3$s</string>
-    <string name="notification_mention_text_blog">%1$s vas je spomenuo/la u komentar na objavu na blogu \"%2$s\": %3$</string>
-
+    <string name="notification_mention_text_blog">%1$s vas je spomenuo/la u komentar na objavu na blogu \"%2$s\": %3$s</string>
     <string name="fab_add_album">Dodaj album</string>
     <string name="fab_add_video">Dodaj videozapis</string>
     <string name="fab_add_dating">Dodaj oglas za upoznavanje</string>
-
     <string name="my_account_content_settings">Izvor sadržaja</string>
     <string name="my_account_other_settings">Više postavki</string>
     <string name="my_account_content_source_max">Dozvoljeno je najviše %d država</string>
     <string name="all_countries">Sve države</string>
-
     <string name="new_album_save">Spremi i nastavi</string>
     <string name="warning">Upozorenje</string>
     <string name="dialog_new_album_back_press">Album se smatra dovršenim samo s poslanim slikama. Sve promjene koje napravite bit će odbačene.</string>
-
     <string name="dialog_album_settings_back_press">Sve promjene koje te napravili bit će odbačene.</string>
-
-
     <string name="new_video_save">Spremi i nastavi</string>
-
     <string name="album_upload_choose_photo">Pošalji fotografije</string>
     <string name="album_upload_send_to_review">Pošalji na odobrenje</string>
     <string name="photo_delete_dialog_title">Želite li izbrisati ovu fotografiju?</string>
@@ -545,9 +454,7 @@
     <string name="photos_limit_reached">Ograničenje prekoračeno, izbrišite %s fotografija</string>
     <string name="album_no_description">Album bez opisa</string>
     <string name="cant_leave_while_uploading">Nije moguće otići za vrijeme slanja</string>
-
     <string name="dialog_new_video_back_press">Videozapis neće biti izrađen. Sve napravljene promjene bit će odbačene.</string>
-
     <string name="video_upload_choose_video">Pošalji videozapis</string>
     <string name="delete_video">Izbriši videozapis</string>
     <string name="cancel_upload">Otkaži slanje</string>
@@ -569,31 +476,24 @@
     <string name="admin_message">Poruka administratora</string>
     <string name="toast_cant_load_video">Nije uspjelo slanje videozapisa</string>
     <string name="video_loading">Pričekajte da učitamo videozapis…</string>
-
     <string name="uploading_video">Šalje se videozapis</string>
     <string name="video_uploaded_percentage">Napredak slanja: %s %%</string>
     <string name="tap_to_retry">Dodirnite za novi pokušaj</string>
-
     <string name="photo_upload_notification_title">Slanje fotografije</string>
     <string name="photo_upload_notification_progress">Slanje u tijeku: %1$d/%2$d</string>
-
     <string name="album_delete_dialog_title">Želite li izbrisati album?</string>
     <string name="album_delete_dialog">Jeste li sigurni da želite izbrisati ovaj album?</string>
     <string name="delete">Izbriši</string>
     <string name="filter_all">Sve</string>
-
     <string name="video_delete_dialog_title">Želite li izbrisati videozapis?</string>
     <string name="video_delete_dialog">Jeste li sigurni da želite izbrisati ovaj videozapis?</string>
     <string name="video_delete_dialog_uploading">Videozapis se trenutno šalje. Jeste li sigurni da želite izbrisati ovaj videozapis?</string>
-
     <string name="logout_during_uploading_dialog_title">Želite li se odjaviti?</string>
     <string name="logout_during_uploading_dialog_content">Sve neposlane datoteke bit će izgubljene.</string>
-
     <string name="report_dialog_text">Odaberite razlog</string>
     <string name="report_dialog_send">Pošalji</string>
     <string name="report_dialog_toast_no_reason">Najprije odaberite razlog</string>
     <string name="report_dialog_toast_sent">Izvješće je poslano. Hvala.</string>
-
     <string name="message_popup_copy">Kopiraj u međuspremnik</string>
     <string name="message_popup_delete">Izbriši poruku</string>
     <string name="message_popup_report">Prijavi</string>
@@ -612,7 +512,6 @@
     <string name="notification_message_received">Dobili ste novu poruku</string>
     <string name="conversation_empty">Napišite poruku, pošaljite fotografiju ili samo smješka :)</string>
     <string name="conversation_dating_reply">Odgovor za upoznavanje</string>
-
     <string name="buy_vip_title">Postanite VIP član</string>
     <string name="vip_promo_title">Posebna ponuda</string>
     <string name="vip_promo_title_ends_today">Posebna ponuda (završava danas)</string>
@@ -627,20 +526,16 @@
     <string name="vip_unsuccessful_payment_title">Otkazano plaćanje</string>
     <string name="thank_you">Hvala.</string>
     <string name="notification_vip_payment">Vašem računu dodano je %d dana VIP članstva.</string>
-
     <string name="sms_price">Cijena jedne primljene poruke je %s s PDV-om.</string>
     <string name="vip_send_sms_instructions">Pošaljite SMS poruku s tekstom %1$s na %2$s</string>
-
     <string name="vip_get_one_day_for_free">Uzmite 1 dan besplatnog VIP članstva</string>
     <string name="vip_recurring_paymenthod_question">Želite li plan s popustom ili jednokratno plaćanje?</string>
     <string name="vip_recurring_payment_button_title">Automatsko produljenje</string>
     <string name="vip_plus_one_day_free">+ 1 besplatni dan</string>
     <string name="vip_normal_payment_button_title">Jednokratno plaćanje</string>
     <string name="vip_recurring_payment_advantages">Prednost automatskog produljenja VIP članstva je u tome što ne morate pokretati i potvrđivati svako plaćanje. Svaki put kad započne novo razdoblje, dobit ćete potvrdu o produljenju.</string>
-
     <string name="no_users_title_general">Nema korisnika</string>
     <string name="no_users_message_general">Nema pronađenih korisnika</string>
-
     <string name="title_friends">Prijatelji</string>
     <string name="tab_friends_list">Prijatelji</string>
     <string name="tab_friends_requests">Novi zahtjevi</string>
@@ -659,7 +554,6 @@
     <string name="no_friend_requests_message">Nemate novih zahtjeva za prijateljstvom</string>
     <string name="dialog_reject_friend_request_title">Odbij zahtjev za prijateljstvom</string>
     <string name="dialog_reject_friend_request_content">Želite li zaista odbiti ovaj zahtjev za prijateljstvom?</string>
-
     <string name="title_favourites">Favoriti</string>
     <string name="tab_favourites_my_favourites">Moji favoriti</string>
     <string name="tab_favourites_favourited_me">Dodali mene u favorite</string>
@@ -667,18 +561,14 @@
     <string name="dialog_remove_favourite_content">Želite li zaista ukloniti %s iz favorita?</string>
     <string name="dialog_remove_favourite_confirm">Ukloni</string>
     <string name="toast_favourite_removed">Korisnik %s je uklonjen iz vaših favorita</string>
-
     <string name="no_favourited_users_title">Nema favorita</string>
     <string name="no_favourited_users_message">Nemate omiljenih korisnika</string>
     <string name="no_favourited_me_users_message">Nitko vas još nije dodao u favorite</string>
-
     <string name="title_visits">Posjete</string>
     <string name="close">Zatvori</string>
     <string name="no_visits_title">Nema posjeta</string>
     <string name="no_visits_message">Nitko još nije posjetio vaš profil</string>
-
     <string name="update_news_dialog_title">Novo u ovoj verziji</string>
-
     <string name="conversation_list_filter_all">Svi korisnici</string>
     <string name="conversation_list_filter_unread">Nepročitano</string>
     <string name="conversation_list_filter_friends">Od prijatelja</string>
@@ -698,7 +588,6 @@
     <string name="user_sent_a_photo">%s vam je poslao/la fotografiju</string>
     <string name="i_sent_a_photo">Poslali ste fotografiju</string>
     <string name="toolbar_share">Podijeli…</string>
-
     <string name="stories_offline_mode">Pregledavate priče u izvanmrežnom načinu rada.</string>
     <string name="blogs_offline_mode">Pregledavate blogove u izvanmrežnom načinu rada.</string>
     <string name="go_online_to_load_content">Povežite se s mrežom kako bi se učitao najnoviji sadržaj.</string>
@@ -709,7 +598,6 @@
     <string name="no_blogs_title">Nema pronađenih blogova</string>
     <string name="no_blogs_text_online">Nema blogova</string>
     <string name="no_blogs_text_offline">Nema izvanmrežnih blogova. Povežite se s mrežom kako bi se učitali novi blogovi.</string>
-
     <string name="tab_events_upcoming">Plan</string>
     <string name="tab_events_past">Povijest</string>
     <string name="no_events_title">Nema događaja</string>
@@ -720,7 +608,6 @@
     <string name="tab_event_info">Informacije</string>
     <string name="tab_event_people">Ljudi</string>
     <string name="tab_event_content">Albumi i videozapisi</string>
-
     <string name="event_i_will_attend_as">Odaberite koga ćete prijaviti</string>
     <string name="event_i_attended">Bio/la sam tamo</string>
     <string name="event_organizer">Organizator</string>
@@ -728,35 +615,28 @@
     <string name="event_date">Datum</string>
     <string name="event_time">Vrijeme</string>
     <string name="event_capacity">Kapacitet</string>
-
     <string name="event_attendee_count">Sudionika</string>
     <string name="event_entry">Ulaz</string>
     <string name="event_address">Adresa</string>
     <string name="event_description">Opis događaja</string>
     <string name="event_participants">Sudionika</string>
-
     <string name="toast_event_signed_in">Uspješno ste prijavljeni</string>
     <string name="toast_event_signed_out">Uspješno ste odjavljeni</string>
     <string name="event_comment_disallowed">Trenutno ne možete komentirati ovaj događaj.</string>
-
     <string name="event_button_man">Muškarac</string>
     <string name="event_button_woman">Žena</string>
     <string name="event_button_couple">Par</string>
-
     <string name="event_no_people_title">Nema sudionika</string>
     <string name="event_no_people_text">Još se nitko nije prijavio</string>
-
     <string name="event_availability_everyone">Događaj je otvoren za sve</string>
     <string name="event_availability_users_with_content">Samo za korisnike sa sadržajem</string>
     <string name="event_availability_verified_users">Samo za potvrđene korisnike</string>
     <string name="event_type_chat_room">događaj %s sobe za čavrljanje</string>
     <string name="event_type_users">Događaj korisnika</string>
     <string name="event_type_official">Službeni događaj</string>
-
     <string name="title_event">Događaj</string>
     <string name="notification_upcoming_event_start">Početak događaja: %s.</string>
     <string name="notification_upcoming_event_looking_forward">Nemojte zaboraviti svratiti, voljeli bismo vas vidjeti!</string>
-
     <string name="dialog_fingerprint_setup__title">Otiska prsta</string>
     <string name="dialog_fingerprint_setup_description">Dodirnite senzor kako biste provjerili autentičnost otiskom prsta</string>
     <string name="setup_fingerprint">Zaključavanje otiskom prsta</string>
@@ -769,49 +649,39 @@
     <string name="fingerprint_authentication_failed">Otisak prsta nije prepoznat</string>
     <string name="dialog_fingerprint_unavailable_title">Otisak prsta nije dostupan</string>
     <string name="dialog_fingerprint_unavailable_button">Idite u postavke</string>
-
     <string name="title_fingerprint_unlock">Otključavanje otiskom prsta</string>
     <string name="subtitle_fingerprint_unlock">Koristite otiska prsta pri otključavanju</string>
     <string name="use_pin_instead">Koristi PIN</string>
-
     <string name="tab_chat_board">Upravljačka ploča</string>
     <string name="tab_chat_rooms">Sobe</string>
-
     <string name="chat_dashboard_online_friends">Prijatelji u čavrljanju</string>
     <string name="chat_dashboard_online_friends_empty">Trenutno nema prijatelja koji čavrljaju.</string>
     <string name="chat_dashboard_most_popular_webcams">Najpopularnija strujanja</string>
     <string name="chat_dashboard_favourite_chatrooms">Vaše omiljene sobe za čavrljanje</string>
     <string name="chat_dashboard_favourite_chatrooms_empty">Još nemate omiljenih soba za čavrljanje.</string>
     <string name="chat_dashboard_newest_chatrooms">Najnovije sobe za čavrljanje</string>
-
     <string name="chat_room_empty">Ova soba je prazna.</string>
     <string name="chat_room_category_all">Sve kategorije</string>
     <string name="toast_chat_room_favourited">Soba %s je dodana u vaše favorite.</string>
     <string name="toast_chat_room_unfavourited">Sova %s je uklonjena iz vaših favorita.</string>
     <string name="chat_room_list_permanent">Trajne sobe za čavrljanje</string>
     <string name="chat_room_list_temporary">Privremene sobe za čavrljanje</string>
-
     <string name="chat_avatar_popup_button_chat">Čavrljanje</string>
     <string name="chat_avatar_popup_button_profile">Profil</string>
     <string name="chat_room_filter_show_empty">Prikaži prazne sobe</string>
     <string name="chat_room_filter_show_locked">Prikaži zaključane sobe</string>
     <string name="no_chat_rooms_text">Nema soba za odabrani filtar.</string>
-
     <string name="chat_online_friends_title">Prijatelji u čavrljanju</string>
     <string name="chat_most_popular_webcams_title">Najpopularnija strujanja</string>
-
     <string name="tab_chat_room_info">Pojedinosti i sobi</string>
     <string name="tab_chat_room_people">Ljudi u sobi</string>
-
     <string name="chat_room_info_description">Opis sobe</string>
     <string name="chat_room_info_category">Kategorija</string>
     <string name="chat_room_info_access">Pristup</string>
     <string name="chat_room_info_temp_admin">Privremeni administrator</string>
     <string name="chat_room_info_permanent_admins">Trajni administratori</string>
     <string name="chat_room_info_enter_button">Ulaz u sobu za čavrljanje</string>
-
     <string name="chat_room_people_empty">Nema nikoga u ovoj sobi.</string>
-
     <string name="title_dating_add">Novi oglas za upoznavanje</string>
     <string name="dating_add_category_title">Kategorija</string>
     <string name="dating_add_category_hint">Odaberi kategoriju</string>
@@ -824,14 +694,11 @@
     <string name="dating_add_toast_created">Oglas za upoznavanje je izrađen.</string>
     <string name="dating_add_dialog_backpress">Oglas za upoznavanje neće biti izrađen. Sve promjene koje ste napravili bit će izgubljene.</string>
     <string name="dating_add_toast_empty_fields">Sva polja moraju se ispuniti.</string>
-
     <string name="dating_add_dialog_forbidden_title">Samo jedan oglas za upoznavanje u %d sati</string>
     <string name="dating_add_dialog_forbidden_content">Danas ste već izradili oglas. Drugi možete dodati drugi.</string>
-
     <string name="dating_settings_no_dating_ads_title">Nemate oglasa za upoznavanje</string>
     <string name="dating_settings_no_dating_ads_text">Dodavanje oglasa za upoznavanje je jednostavno, isprobajte sada.</string>
     <string name="dating_settings_no_dating_ads_button">Dodaj oglas za upoznavanje</string>
-
     <string name="dating_settings_status_enabled">Na internetu</string>
     <string name="dating_settings_status_disabled">Otkazano</string>
     <string name="dating_settings_status_expired">Isteklo</string>
@@ -839,29 +706,23 @@
     <string name="dating_settings_button_extend">Produlji</string>
     <string name="dating_settings_button_edit">Uredi</string>
     <string name="dating_settings_status_edited">Uređeno</string>
-
     <string name="dating_settings_dialog_delete_title">Želite li izbrisati oglas za upoznavanje?</string>
     <string name="dating_settings_dialog_delete_text">Želite li zaista izbrisati ovaj oglas za upoznavanje?</string>
     <string name="dating_settings_dialog_delete_button_confirm">Izbriši</string>
     <string name="dating_settings_toast_dating_ad_deleted">Oglas za upoznavanje je izbrisan.</string>
-
     <string name="dialog_dating_extend_title">Produlji valjanost oglasa za upoznavanje</string>
     <string name="dialog_dating_extend_text">Vaš oglas za upoznavanje je istekao. Možete produljiti njegovu valjanost.</string>
     <string name="dialog_dating_extend_button_text">Produlji za %s</string>
     <string name="dialog_dating_extend_toast_successful">Valjanost oglasa za upoznavanje je produljena.</string>
-
     <string name="title_dating_edit">Uredi oglas za upoznavanje</string>
     <string name="dating_edit_button_text">Spremi promjene</string>
     <string name="dating_edit_toast_saved">Promjene su spremljene.</string>
     <string name="dating_edit_toast_empty_fields">Sva polja moraju biti ispunjena.</string>
-
     <string name="edittext_invalid_input_empty">%s mora biti ispunjeno</string>
-
     <string name="notification_channel_general">Opće obavijesti</string>
     <string name="notification_channel_messages">Obavijesti putem poruke</string>
     <string name="notification_channel_upload">Obavijesti o slanju sadržaja</string>
     <string name="notification_channel_webcams">Obavijesti o web kameri za čavrljanje</string>
-
     <string name="chat_room_empty_title">Nema poruka</string>
     <string name="chat_room_empty_text">Nema poruka u ovoj sobi.</string>
     <string name="chat_room_empty_text_friend_filter">Omogućili ste filtar \"Samo poruke prijatelja\".</string>
@@ -922,7 +783,6 @@
     <string name="dialog_webcam_data_connection_text">Koristite mobilnu podatkovnu vezu. Gledanje strujanja može dovesti do potrošnje velike količine podataka.</string>
     <string name="dialog_webcam_data_connection_button_confirm">Uključi fotoaparat</string>
     <string name="dialog_webcam_data_connection_button_cancel">Ostavi fotoaparat isključenim</string>
-
     <string name="dialog_chat_room_knock_title_main">Ova soba za čavrljanje je zaključana</string>
     <string name="dialog_chat_room_knock_title_waiting">Čeka se odgovor administratora sobe za čavrljanje…</string>
     <string name="dialog_chat_room_knock_text_main">Možete tražiti pristup sobi za čavrljanje ili se vratiti.</string>
@@ -931,7 +791,6 @@
     <string name="dialog_chat_room_knock_button_request">Zatraži pristup</string>
     <string name="dialog_chat_room_knock_button_cancel">Vrati se</string>
     <string name="toast_chat_room_knock_access_refused">Administrator nije dozvolio vaš ulaz u ovu sobu.</string>
-
     <string name="chat_room_settings_friends_messages_only">Samo poruke prijatelja</string>
     <string name="chat_room_settings_admin_handover_title">Predaj administratorska prava</string>
     <string name="chat_room_settings_admin_handover_chooser_title">Odaberi korisnika</string>
@@ -945,18 +804,15 @@
     <string name="chat_room_settings_font_size_bigger">Srednje</string>
     <string name="chat_room_settings_font_size_biggest">Veliko</string>
     <string name="chat_room_settings_webcam_sound_default_option">Uključen po zadanim postavkama</string>
-
     <string name="chat_room_whisper_empty_title">Još nema poruka</string>
     <string name="chat_room_whisper_empty_text">Napišite poruku ili samo smješka :)</string>
     <string name="chat_room_whisper_webcam_placeholder_title">Uključi: %s</string>
-
     <string name="profile_edit_section_profile_info">Opće informacije</string>
     <string name="profile_edit_sex_hobbies_title">Seksualni hobiji</string>
     <string name="profile_edit_sex_search_title">Pretraživanje</string>
     <string name="profile_edit_sex_search_purpose_title">Svrha pretraživanja</string>
     <string name="profile_edit_personal_description_title">Osobni opis</string>
     <string name="profile_edit_personal_description_hint">Unesite vaš osobni opis…</string>
-
     <string name="profile_edit_section_personal_info">Osobne informacije</string>
     <string name="profile_edit_section_personal_info_his">Informacije o njemu</string>
     <string name="profile_edit_section_personal_info_her">Informacije o njoj</string>
@@ -974,11 +830,9 @@
     <string name="profile_edit_skype_hint">Unesite vaš Skype ID…</string>
     <string name="profile_edit_phone_number_title">Telefonski broj</string>
     <string name="profile_edit_phone_number_hint">Unesite vaš telefonski broj…</string>
-
     <string name="profile_edit_chooser_not_filled">Nije uneseno</string>
     <string name="profile_edit_button_save">Spremi promjene</string>
     <string name="toast_profile_edit_changes_saved">Promjene su spremljene.</string>
-
     <string name="home_section_videos_title">Najnoviji videozapisi</string>
     <string name="home_section_albums_title">Najnoviji albumi</string>
     <string name="home_section_chat_title">Čavrljanje</string>
@@ -986,7 +840,6 @@
     <string name="home_section_events_title">Događaji</string>
     <string name="home_section_stories_title">Priče</string>
     <string name="home_section_blogs_title">Blogovi</string>
-
     <string name="home_section_videos_footer_title">Svi videozapisi</string>
     <string name="home_section_albums_footer_title">Svi albumi</string>
     <string name="home_section_chat_rooms_footer_title">Sve sobe za čavrljanje</string>
@@ -994,7 +847,6 @@
     <string name="home_section_events_footer_title">Svi događaji</string>
     <string name="home_section_stories_footer_title">Sve priče</string>
     <string name="home_section_blogs_footer_title">Svi blogovi</string>
-
     <string name="title_ignore_list">Popis ignoriranih</string>
     <string name="ignore_list_empty_title">Nema ignoriranih korisnika</string>
     <string name="ignore_list_empty_text">Vaš popis ignoriranih je prazan.</string>
@@ -1002,7 +854,6 @@
     <string name="dialog_ignore_list_remove_text">Želite li ukloniti %s s popisa ignoriranih?</string>
     <string name="dialog_ignore_list_remove_button_confirm">Ukloni</string>
     <string name="toast_ignore_list_user_removed">%s je uklonjen s vašeg popisa ignoriranih.</string>
-
     <string name="profile_options_add_favourite">Dodaj u favorite</string>
     <string name="profile_options_add_friend">Dodaj prijatelja</string>
     <string name="profile_options_mesage">Pošalji poruku</string>
@@ -1010,9 +861,7 @@
     <string name="dialog_ignore_list_add_title">Dodaj na popis ignoriranih</string>
     <string name="dialog_ignore_list_add_text">Želite li zaista dodati %s na popis ignoriranih?</string>
     <string name="dialog_ignore_list_add_button_confirm">Dodaj na popis ignoriranih</string>
-
     <string name="conversation_options_delete_conversation">Izbriši razgovor</string>
-
     <string name="janus_fragment_retry_text">Prekinuto. Pokušati ponovno?</string>
     <string name="janus_fragment_hangup_text">Fotoaparat je isključen</string>
     <string name="janus_error_hangup">Korisnik %s je isključio fotoaparat.</string>
@@ -1023,30 +872,23 @@
     <string name="janus_broadcast_service_notification_title">Vi emitirate</string>
     <string name="janus_broadcast_service_notification_text">Soba za čavrljanje: %s</string>
     <string name="janus_broadcast_service_notification_action_turn_off">Isključi kameru</string>
-
     <string name="bottomsheet_webcam_broadcast_title">Moj fotoaparat</string>
     <string name="bottomsheet_webcam_broadcast_switch_camera">Promijeni fotoaparat</string>
     <string name="bottomsheet_webcam_broadcast_mute">Utišaj</string>
     <string name="bottomsheet_webcam_broadcast_unmute">Uključi zvuk</string>
     <string name="bottomsheet_webcam_broadcast_turn_off">Isključi fotoaparat</string>
-
     <string name="bottomsheet_webcam_listener_title">Strujanje %s</string>
     <string name="bottomsheet_webcam_listener_maximize">Povećaj</string>
     <string name="bottomsheet_webcam_listener_whisper">Šapat</string>
     <string name="bottomsheet_webcam_listener_mute">Utišaj</string>
     <string name="bottomsheet_webcam_listener_unmute">Uključi zvuk</string>
     <string name="bottomsheet_webcam_listener_turn_off">Zatvori strujanje</string>
-
     <string name="webcam_detail_toolbar_title">Strujanja: %s</string>
-
     <string name="fab_add_chatroom">Dodaj sobu za čavrljanje</string>
-
     <string name="toast_chatroom_logout_warning">Napišite nešto u čavrljanje, inače ćete automatski biti odspojeni zbog neaktivnosti.</string>
     <string name="dialog_chat_room_timeout_title">Istek vremena zbog neaktivnosti</string>
     <string name="dialog_chat_room_timeout_text">Odjavljeni ste zbog neaktivnosti. Vratite se ili odaberite drugu sobu.</string>
-
     <string name="chat_room_settings_camera_permission_title">Tko može gledati moje strujanje</string>
-
     <string name="title_add_chat_room">Dodaj novu sobu za čavrljanje</string>
     <string name="chatroom_add_title_title">Naslov</string>
     <string name="chatroom_add_title_hint">Unesi naslov</string>
@@ -1063,5 +905,41 @@
     <string name="chatroom_add_allowed_users_couple">Par žene i muškarca</string>
     <string name="chatroom_add_country_title">Država</string>
     <string name="chatroom_add_error_not_allowed">Trenutno ne možete dodati novu sobu za čavrljanje.</string>
-
+    <string name="vip_qr_code_saved">QR kod spremljen u galeriji</string>
+    <string name="vip_qr_code_not_saved">Neuspjelo spremanje QR kod na svoju galeriju</string>
+    <string name="title_wallet">Novčanik</string>
+    <string name="notification_mfa_title">Nova prijava</string>
+    <string name="notification_mfa_verify_text">Potvrdite novu pokušaj prijave.</string>
+    <string name="notification_mfa_app_registration_title">Dvofaktorska autentifikacija</string>
+    <string name="notification_mfa_app_registration_text">Potvrdite da ovaj uređaj uparite sa svojim računom.</string>
+    <string name="dialog_mfa_countdown_progress_text">Istek sesije</string>
+    <string name="dialog_mfa_yes_text">Da</string>
+    <string name="dialog_mfa_no_text">Ne</string>
+    <string name="dialog_mfa_close_text">Zatvoriti</string>
+    <string name="dialog_mfa_verify_title">Novi pokušaj prijave</string>
+    <string name="dialog_mfa_verify_body_text">Novi se uređaj pokušava prijaviti na vaš račun. Uređaj: %1$s. Država: %2$s.
+\nNastaviti s prijavom\?</string>
+    <string name="dialog_mfa_verify_countdown_failed_text">Dvofaktorska autentifikacija je istekla.</string>
+    <string name="dialog_mfa_wrong_code_body_text">Dvofaktorski kôd za autentifikaciju koji ste unijeli bio je netočan ili je istekao.</string>
+    <string name="dialog_mfa_wrong_code_title">Netočan kôd</string>
+    <string name="dialog_mfa_wrong_code_button_enter_again">Pokušajte ponovo</string>
+    <string name="dialog_mfa_app_registration_dialog_title">Dvofaktorska autentifikacija</string>
+    <string name="dialog_mfa_app_registration_dialog_content">Potvrdite da ovaj uređaj uparite sa svojim računom.</string>
+    <string name="dialog_mfa_app_registration_countdown_failed_text">Uparivanje je isteklo.</string>
+    <string name="activity_mfa_bottomsheet_select_method_title">Odaberite drugu metodu</string>
+    <string name="activity_mfa_bottomsheet_contact_support">Obratite se podršci</string>
+    <string name="activity_mfa_button_choose_different_method">Odaberite drugu metodu</string>
+    <string name="activity_mfa_choose_sms_title">SMS autentifikacija</string>
+    <string name="activity_mfa_choose_totp_title">Aplikacija za provjeru autentičnosti</string>
+    <string name="activity_mfa_unsupported_method_toast">Dvofaktorska metoda autentifikacije trenutno nije podržana.</string>
+    <string name="activity_mfa_known_unsupported_method_toast">Dvofaktorska metoda provjere autentičnosti %s trenutno nije podržana.</string>
+    <string name="fragment_mfa_totp_title">Dvofaktorska prijava</string>
+    <string name="fragment_mfa_totp_subtitle">Prijavite se pomoću aplikacije za provjeru autentičnosti.</string>
+    <string name="fragment_mfa_totp_info">Otvorite aplikaciju za autentifikaciju i unesite 6-znamenkasti kod.</string>
+    <string name="fragment_mfa_sms_title">Dvofaktorska prijava</string>
+    <string name="fragment_mfa_sms_subtitle">Prijavite se s SMS kodom.</string>
+    <string name="fragment_mfa_sms_info_code_not_sent">Zatražite sms kod za prijavu.</string>
+    <string name="fragment_mfa_sms_info_code_sent_phonenumber">SMS s kontrolnim kodom poslan je na vaš telefon %s.</string>
+    <string name="fragment_mfa_sms_info_code_sent">Autentifikacijski kod je poslan na tvoj telefon.</string>
+    <string name="fragment_mfa_sms_request_code_text">Zatražite kod</string>
 </resources>
