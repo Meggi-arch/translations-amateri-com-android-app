@@ -63,7 +63,7 @@
     <string name="photo_count">Anzahl der Fotos</string>
     <string name="vip">VIP</string>
     <string name="certificated">Zertifizierung</string>
-    <string name="views">Views</string>
+    <string name="views">Ansichten</string>
     <string name="rating">Bewertung</string>
     <string name="comments">Kommentare</string>
     <string name="added">Hinzugefügt</string>
@@ -986,7 +986,7 @@
     <string name="blog_edit_send_for_approval_content">Möchten Sie diesen Blog-Beitrag wirklich veröffentlichen?</string>
     <string name="blog_edit_send_for_approval_confirm">Ja</string>
     <string name="blog_edit_send_for_approval_cancel">Ich werde es noch einmal überprüfen.</string>
-    <string name="blogs_settings_no_blogs_for_state_title">Sie haben keine Blogs im Status \"% s\".</string>
+    <string name="blogs_settings_no_blogs_for_state_title">Sie haben keine Blogs im Status \"%s\".</string>
     <string name="blogs_settings_no_blogs_title">Sie haben keine Blogs.</string>
     <string name="blogs_settings_no_blogs_text">Das Hinzufügen eines neuen Blogs ist einfach und Sie können sofort beginnen.</string>
     <string name="blogs_settings_empty_button_text">Einen neuen Blog hinzufügen</string>
