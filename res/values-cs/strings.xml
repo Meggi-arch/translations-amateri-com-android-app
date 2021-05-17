@@ -1307,4 +1307,34 @@
     <string name="dialog_mfa_no_text">Ne</string>
     <string name="dialog_mfa_yes_text">Ano</string>
     <string name="title_wallet">Peněženka</string>
+    <string name="fragment_mfa_sms_info_code_sent_phonenumber">Na váš telefon %s byla odeslána SMS s ověřovacím kódem.</string>
+    <string name="fragment_mfa_sms_request_code_text">Vyžádat si kód</string>
+    <string name="fragment_mfa_sms_info_code_sent">Ověřovací kód byl odeslán do vašeho telefonu.</string>
+    <string name="fragment_mfa_sms_info_code_not_sent">Vyžádejte si sms kód pro přihlášení.</string>
+    <string name="fragment_mfa_sms_subtitle">Přihlášení pomocí SMS kódu.</string>
+    <string name="fragment_mfa_totp_subtitle">Přihlášení pomocí ověřovací aplikace.</string>
+    <string name="fragment_mfa_totp_info">Otevřete aplikaci pro ověřování a zadejte šestimístný kód.</string>
+    <string name="fragment_mfa_sms_title">Dvoufaktorové přihlášení</string>
+    <string name="fragment_mfa_totp_title">Dvoufaktorové přihlášení</string>
+    <string name="activity_mfa_known_unsupported_method_toast">Metoda dvoufaktorového ověření %s není v současné době podporována.</string>
+    <string name="activity_mfa_unsupported_method_toast">Metoda dvoufaktorového ověřování není v současné době podporována.</string>
+    <string name="activity_mfa_choose_totp_title">Ověřovací aplikace</string>
+    <string name="activity_mfa_choose_sms_title">SMS ověření</string>
+    <string name="activity_mfa_button_choose_different_method">Vyberte jinou metodu</string>
+    <string name="activity_mfa_bottomsheet_select_method_title">Vyberte jinou metodu</string>
+    <string name="dialog_mfa_app_registration_countdown_failed_text">Platnost párování vypršela.</string>
+    <string name="dialog_mfa_app_registration_dialog_content">Potvrďte spárování tohoto zařízení s účtem.</string>
+    <string name="dialog_mfa_app_registration_dialog_title">Dvoufaktorové ověření</string>
+    <string name="dialog_mfa_wrong_code_button_enter_again">Zkusit znovu</string>
+    <string name="dialog_mfa_wrong_code_body_text">Zadaný dvoufaktorový ověřovací kód nebyl správný nebo jeho platnost vypršela.</string>
+    <string name="dialog_mfa_wrong_code_title">Nesprávný kód</string>
+    <string name="dialog_mfa_verify_countdown_failed_text">Dvoufaktorové ověření vypršelo.</string>
+    <string name="dialog_mfa_verify_body_text">K vašemu účtu se pokouší přihlásit nové zařízení. Zařízení: %1$s. Země: %2$s.
+\nPokračovat v přihlášení\?</string>
+    <string name="dialog_mfa_verify_title">Nový pokus o přihlášení</string>
+    <string name="dialog_mfa_countdown_progress_text">Vypršení platnosti relace</string>
+    <string name="notification_mfa_app_registration_text">Potvrďte spárování tohoto zařízení s účtem.</string>
+    <string name="notification_mfa_app_registration_title">Dvoufaktorové ověření</string>
+    <string name="notification_mfa_verify_text">Potvrďte prosím nový pokus o přihlášení.</string>
+    <string name="notification_mfa_title">Nové přihlášení</string>
 </resources>
