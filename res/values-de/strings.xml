@@ -1185,4 +1185,13 @@
     <string name="vip_bank_transfer_cz_reference">Variables Symbol:</string>
     <string name="vip_bank_transfer_cz_price">Preis:</string>
     <string name="vip_bank_transfer_cz_account_number">Kontonummer:</string>
+    <string name="dialog_mfa_close_text">Schliessen</string>
+    <string name="dialog_mfa_no_text">Nein</string>
+    <string name="dialog_mfa_yes_text">Ja</string>
+    <string name="dialog_mfa_countdown_progress_text">Ablaufsitzung</string>
+    <string name="notification_mfa_app_registration_text">Bestätigen Sie das Gerät mit Ihrem Konto paaren.</string>
+    <string name="notification_mfa_app_registration_title">Zwei-Faktor-Authentifizierung</string>
+    <string name="notification_mfa_verify_text">Bitte bestätigen Sie einen neuen Login-Versuch.</string>
+    <string name="notification_mfa_title">neue Login</string>
+    <string name="title_wallet">Brieftasche</string>
 </resources>
