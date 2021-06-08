@@ -1220,4 +1220,5 @@
     <string name="dialog_mfa_verify_body_text">Ein neues Gerät versucht, auf Ihr Konto einzuloggen. Gerät: %1$s. Land: %2$s.
 \nMit dem Login fortfahren\?</string>
     <string name="dialog_mfa_verify_title">Neuen Login-Versuch</string>
+    <string name="title_phone_number">Telefonnummer</string>
 </resources>
