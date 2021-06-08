@@ -948,4 +948,5 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">SMS z kodem weryfikacyjnym został wysłany na Twój telefon %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">Kod uwierzytelniający został wysłany na Twój telefon.</string>
     <string name="fragment_mfa_sms_request_code_text">Poproś o kod</string>
+    <string name="title_phone_number">Numer telefonu</string>
 </resources>
