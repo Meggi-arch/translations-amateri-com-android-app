@@ -1248,4 +1248,5 @@
     <string name="notification_mfa_verify_text">Potvrďte prosím nový pokus o prihlásenie.</string>
     <string name="notification_mfa_title">Nové prihlásenie</string>
     <string name="title_wallet">Peňaženka</string>
+    <string name="title_phone_number">Telefónne číslo</string>
 </resources>
