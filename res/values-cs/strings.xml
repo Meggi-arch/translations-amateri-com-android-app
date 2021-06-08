@@ -1337,4 +1337,5 @@
     <string name="notification_mfa_app_registration_title">Dvoufaktorové ověření</string>
     <string name="notification_mfa_verify_text">Potvrďte prosím nový pokus o přihlášení.</string>
     <string name="notification_mfa_title">Nové přihlášení</string>
+    <string name="title_phone_number">Telefonní číslo</string>
 </resources>
