@@ -942,4 +942,5 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">SMS s kontrolnim kodom poslan je na vaš telefon %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">Autentifikacijski kod je poslan na tvoj telefon.</string>
     <string name="fragment_mfa_sms_request_code_text">Zatražite kod</string>
+    <string name="title_phone_number">Broj telefona</string>
 </resources>
