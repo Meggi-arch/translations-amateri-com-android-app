@@ -1338,4 +1338,6 @@
     <string name="notification_mfa_verify_text">Potvrďte prosím nový pokus o přihlášení.</string>
     <string name="notification_mfa_title">Nové přihlášení</string>
     <string name="title_phone_number">Telefonní číslo</string>
+    <string name="notification_mfa_verify_approve">Schválit</string>
+    <string name="notification_mfa_verify_deny">Odmítnout</string>
 </resources>
