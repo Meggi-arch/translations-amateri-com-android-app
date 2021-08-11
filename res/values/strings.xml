@@ -554,6 +554,8 @@
     <string name="notification_blog_comment_add_text">%1$s has added a comment to your blog post \"%2$s\": %3$s</string>
     <string name="notification_mfa_title">New login</string>
     <string name="notification_mfa_verify_text">Please confirm a new login attempt.</string>
+    <string name="notification_mfa_verify_approve">Approve</string>
+    <string name="notification_mfa_verify_deny">Deny</string>
     <string name="notification_mfa_app_registration_title">Two-factor authentication</string>
     <string name="notification_mfa_app_registration_text">Confirm to pair this device with your account.</string>
     <string name="notification_story_comment_add_title">New story comment</string>
