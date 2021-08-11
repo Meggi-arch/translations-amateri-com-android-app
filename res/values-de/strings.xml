@@ -1221,4 +1221,6 @@
 \nMit dem Login fortfahren\?</string>
     <string name="dialog_mfa_verify_title">Neuen Login-Versuch</string>
     <string name="title_phone_number">Telefonnummer</string>
+    <string name="notification_mfa_verify_approve">Genehmigen</string>
+    <string name="notification_mfa_verify_deny">Ablehnen</string>
 </resources>
