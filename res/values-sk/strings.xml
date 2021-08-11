@@ -1249,4 +1249,6 @@
     <string name="notification_mfa_title">Nové prihlásenie</string>
     <string name="title_wallet">Peňaženka</string>
     <string name="title_phone_number">Telefónne číslo</string>
+    <string name="notification_mfa_verify_approve">Schváliť</string>
+    <string name="notification_mfa_verify_deny">Odmietnuť</string>
 </resources>
