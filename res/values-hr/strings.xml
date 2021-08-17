@@ -943,4 +943,12 @@
     <string name="fragment_mfa_sms_info_code_sent">Autentifikacijski kod je poslan na tvoj telefon.</string>
     <string name="fragment_mfa_sms_request_code_text">Zatražite kod</string>
     <string name="title_phone_number">Broj telefona</string>
+    <string name="vip_save_qr_code">Preuzmite QR kod</string>
+    <string name="vip_price_vat_info">Cijena je navedena s PDV -om.</string>
+    <string name="app_icon_normal">Normalna</string>
+    <string name="setup_app_icon">Ikona apki</string>
+    <string name="setup_privacy_title">Privatnost</string>
+    <string name="app_icon_discreet">Diskretna</string>
+    <string name="notification_mfa_verify_approve">Odobriti</string>
+    <string name="notification_mfa_verify_deny">Zanijekati</string>
 </resources>
