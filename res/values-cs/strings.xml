@@ -1340,4 +1340,8 @@
     <string name="title_phone_number">Telefonní číslo</string>
     <string name="notification_mfa_verify_approve">Schválit</string>
     <string name="notification_mfa_verify_deny">Odmítnout</string>
+    <string name="setup_privacy_title">Soukromí</string>
+    <string name="setup_app_icon">Ikona apky</string>
+    <string name="app_icon_normal">Normální</string>
+    <string name="app_icon_discreet">Diskrétní</string>
 </resources>
