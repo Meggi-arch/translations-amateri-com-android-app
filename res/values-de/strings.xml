@@ -1223,4 +1223,8 @@
     <string name="title_phone_number">Telefonnummer</string>
     <string name="notification_mfa_verify_approve">Genehmigen</string>
     <string name="notification_mfa_verify_deny">Ablehnen</string>
+    <string name="setup_privacy_title">Datenschutz</string>
+    <string name="setup_app_icon">App-Icon</string>
+    <string name="app_icon_normal">Normal</string>
+    <string name="app_icon_discreet">Diskret</string>
 </resources>
