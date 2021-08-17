@@ -1251,4 +1251,8 @@
     <string name="title_phone_number">Telefónne číslo</string>
     <string name="notification_mfa_verify_approve">Schváliť</string>
     <string name="notification_mfa_verify_deny">Odmietnuť</string>
+    <string name="setup_privacy_title">Súkromie</string>
+    <string name="setup_app_icon">Ikona apky</string>
+    <string name="app_icon_normal">Normálna</string>
+    <string name="app_icon_discreet">Diskrétna</string>
 </resources>
