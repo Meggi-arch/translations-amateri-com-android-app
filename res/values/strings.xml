@@ -1344,4 +1344,6 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
+    <string name="buy_credits">Buy credits</string>
+    <string name="owned_credits_amount"><b>%d</b> credits</string>
 </resources>
