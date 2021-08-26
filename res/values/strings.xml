@@ -1347,5 +1347,5 @@
     <string name="buy_credits">Buy credits</string>
     <string name="owned_credits_amount"><b>%d</b> credits</string>
     <string name="buy_vip">Buy VIP</string>
-    <string name="vip_days"><b>VIP</b> %d day</string>
+    <string name="vip_days"><b>VIP</b> %d days</string>
 </resources>
