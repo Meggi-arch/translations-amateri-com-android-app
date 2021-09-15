@@ -1366,6 +1366,7 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
+
     <string name="tab_wallet_overview">Overview</string>
     <string name="tab_wallet_buy_options">Buy</string>
     <string name="tab_wallet_history">History</string>
@@ -1415,4 +1416,8 @@
         <item quantity="one">credit</item>
         <item quantity="other">credits</item>
     </plurals>
+
+    <string name="buy_credits">Buy credits</string>
+    <string name="owned_credits_amount"><b>%d</b> credits</string>
+    <string name="buy_vip">Buy VIP</string>
 </resources>
