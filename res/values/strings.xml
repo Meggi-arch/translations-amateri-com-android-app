@@ -252,8 +252,13 @@
     <string name="video_address">Video URL</string>
     <!--Notification menu-->
     <string name="notifications_title">Notification</string>
+    <string name="notifications_vip_membership">VIP membership</string>
+    <string name="notifications_credits_amount">%d credits</string>
+    <string name="notifications_credits_top_up">Top up</string>
+    <string name="notifications_vip_buy">Buy</string>
     <string name="notifications_visits">Visits</string>
     <string name="notifications_messages">Messages</string>
+    <string name="notifications_notifications">Notifications</string>
     <string name="notifications_requests">Friend requests</string>
     <string name="notifications_favourites">Favourites</string>
     <string name="notifications_ignored">Ignore list</string>
@@ -701,6 +706,8 @@
     <string name="conversation_dating_reply">Dating reply</string>
     <string name="toast_camera_permissions_revoked">Please grant the app access to the camera.</string>
     <string name="conversation_user_ignored_error">User %s does not want you to send him/her any messages.</string>
+    <!-- NotificationListActivity -->
+    <string name="title_notification_list">Notifications</string>
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
     <string name="vip_promo_title">Special offer</string>
@@ -716,6 +723,10 @@
     <string name="vip_unsuccessful_payment_title">Cancelled payment</string>
     <string name="thank_you">Thank you.</string>
     <string name="notification_vip_payment">%d days of VIP membership have been credited to your account.</string>
+    <plurals name="vip_days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
     <plurals name="vip_days_remaining">
         <item quantity="one">%d day remaining</item>
         <item quantity="other">%d days remaining</item>
@@ -1074,6 +1085,14 @@
     <string name="dialog_delete_chat_message_button_confirm">Yes, delete</string>
     <string name="toast_chat_message_deleted">Message has been deleted.</string>
     <string name="toast_chat_webcam_slot_unavailable">The next stream won\'t fit in here anymore.</string>
+    <string name="dialog_wallet_reward_title">Reward for the user</string>
+    <string name="dialog_wallet_reward_body">How many credits would you like to reward the user with?</string>
+    <string name="dialog_wallet_reward_custom_value_hint">Custom</string>
+    <string name="dialog_wallet_reward_custom_value_divider">or</string>
+    <string name="dialog_wallet_reward_message_hint">Write a message…</string>
+    <string name="dialog_wallet_reward_private_message">Send privately</string>
+    <string name="dialog_wallet_reward_confirm">Reward</string>
+    <string name="dialog_wallet_reward_success_toast">Thank you! The reward will definitely make the user happy.</string>
     <string name="dialog_turn_off_webcam_title">Turn off the camera?</string>
     <string name="dialog_turn_off_webcam_text_broadcast">This will turn off your camera</string>
     <string name="dialog_turn_off_webcam_text_listener">This will turn off %s\' camera</string>
@@ -1256,6 +1275,7 @@
     <string name="bottomsheet_webcam_listener_title">%s\'s stream</string>
     <string name="bottomsheet_webcam_listener_maximize">Maximize</string>
     <string name="bottomsheet_webcam_listener_whisper">Whisper</string>
+    <string name="bottomsheet_webcam_listener_reward">Reward with credits</string>
     <string name="bottomsheet_webcam_listener_mute">Mute</string>
     <string name="bottomsheet_webcam_listener_unmute">Unmute</string>
     <string name="bottomsheet_webcam_listener_turn_off">Close the stream</string>
@@ -1297,6 +1317,8 @@
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
     <string-array name="update_news_dialog_items">
+        <item>Discreet icon</item>
+        <item>Autofill 2FA codes</item>
         <item>Performance and stability improvements</item>
         <item>Bug fixes</item>
     </string-array>
@@ -1344,4 +1366,53 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
+    <string name="tab_wallet_overview">Overview</string>
+    <string name="tab_wallet_buy_options">Buy</string>
+    <string name="tab_wallet_history">History</string>
+    <string name="view_wallet_top_up_get">Get</string>
+    <string name="wallet_current_balance">Current balance</string>
+    <string name="wallet_choose_pricelevel">Choose an amount</string>
+    <string name="dating_buy_top_dialog_send_wallet">Send credits</string>
+
+    <string name="wallet_transaction_type_text_topup">Topup</string>
+    <string name="wallet_transaction_type_text_refund">Refund</string>
+    <string name="wallet_transaction_type_text_vip">VIP</string>
+    <string name="wallet_transaction_type_text_vip_gift">VIP</string>
+    <string name="wallet_transaction_type_text_dating_top">Dating TOP</string>
+    <string name="wallet_transaction_type_text_content_reward">Content</string>
+    <string name="wallet_transaction_type_text_webcam_reward">User %s has given you credits for your stream</string>
+
+    <string name="wallet_buy_credit_title">Buy credits</string>
+    <string name="wallet_buy_credit_title_button">Buy credits</string>
+
+
+    <string name="payment_selection_gift_vip_title">Gift VIP</string>
+    <string name="payment_selection_dating_top_up_title">Topup ad</string>
+    <string name="payment_selection_country_title">Country</string>
+    <string name="payment_selection_country_select">Select country</string>
+    <string name="payment_selection_payment_type">Select payment type</string>
+    <string name="payment_selection_change_payment">Change payment</string>
+    <string name="payment_selection_enter_sms_code">Enter SMS code</string>
+    <string name="payment_selection_write_messages">Write a message</string>
+    <string name="payment_selection_cancel_text">Cancel</string>
+    <string name="payment_selection_ok_text_pay_sms">Send SMS</string>
+    <string name="payment_selection_ok_text_pay_wallet">Send</string>
+
+    <string name="payment_selection_type_sms_title">SMS Payment</string>
+    <string name="payment_selection_type_sms_subtitle">Easiest way of payment</string>
+    <string name="payment_selection_type_wallet_title">Wallet</string>
+    <string name="payment_selection_type_wallet_subtitle">New internal current of Amateri.com</string>
+
+    <string name="payment_selection_success_topup">Dating ad was successfully topped up</string>
+    <string name="payment_selection_success_gift_vip">VIP successfully donated</string>
+
+
+    <plurals name="credits">
+        <item quantity="one">Credit</item>
+        <item quantity="other">Credits</item>
+    </plurals>
+    <plurals name="credits_small">
+        <item quantity="one">credit</item>
+        <item quantity="other">credits</item>
+    </plurals>
 </resources>
