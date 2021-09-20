@@ -1366,7 +1366,6 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
-
     <string name="tab_wallet_overview">Overview</string>
     <string name="tab_wallet_buy_options">Buy</string>
     <string name="tab_wallet_history">History</string>
@@ -1374,7 +1373,6 @@
     <string name="wallet_current_balance">Current balance</string>
     <string name="wallet_choose_pricelevel">Choose an amount</string>
     <string name="dating_buy_top_dialog_send_wallet">Send credits</string>
-
     <string name="wallet_transaction_type_text_topup">Topup</string>
     <string name="wallet_transaction_type_text_refund">Refund</string>
     <string name="wallet_transaction_type_text_vip">VIP</string>
@@ -1382,11 +1380,8 @@
     <string name="wallet_transaction_type_text_dating_top">Dating TOP</string>
     <string name="wallet_transaction_type_text_content_reward">Content</string>
     <string name="wallet_transaction_type_text_webcam_reward">User %s has given you credits for your stream</string>
-
     <string name="wallet_buy_credit_title">Buy credits</string>
     <string name="wallet_buy_credit_title_button">Buy credits</string>
-
-
     <string name="payment_selection_gift_vip_title">Gift VIP</string>
     <string name="payment_selection_dating_top_up_title">Topup ad</string>
     <string name="payment_selection_country_title">Country</string>
@@ -1398,16 +1393,12 @@
     <string name="payment_selection_cancel_text">Cancel</string>
     <string name="payment_selection_ok_text_pay_sms">Send SMS</string>
     <string name="payment_selection_ok_text_pay_wallet">Send</string>
-
     <string name="payment_selection_type_sms_title">SMS Payment</string>
     <string name="payment_selection_type_sms_subtitle">Easiest way of payment</string>
     <string name="payment_selection_type_wallet_title">Wallet</string>
-    <string name="payment_selection_type_wallet_subtitle">New internal current of Amateri.com</string>
-
+    <string name="payment_selection_type_wallet_subtitle">New internal currency of Amateri.com</string>
     <string name="payment_selection_success_topup">Dating ad was successfully topped up</string>
     <string name="payment_selection_success_gift_vip">VIP successfully donated</string>
-
-
     <plurals name="credits">
         <item quantity="one">Credit</item>
         <item quantity="other">Credits</item>
@@ -1416,7 +1407,6 @@
         <item quantity="one">credit</item>
         <item quantity="other">credits</item>
     </plurals>
-
     <string name="buy_credits">Buy credits</string>
     <string name="owned_credits_amount"><b>%d</b> credits</string>
     <string name="buy_vip">Buy VIP</string>
