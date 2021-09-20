@@ -1301,4 +1301,24 @@
     <string name="payment_selection_write_messages">Napísať správu</string>
     <string name="payment_selection_cancel_text">Zrušiť</string>
     <string name="payment_selection_ok_text_pay_sms">Poslať SMS</string>
+    <string name="payment_selection_ok_text_pay_wallet">Poslať</string>
+    <string name="payment_selection_type_sms_title">SMS Platba</string>
+    <string name="payment_selection_type_sms_subtitle">Najjednoduchší spôsob platby</string>
+    <string name="payment_selection_type_wallet_title">Peňaženka</string>
+    <string name="payment_selection_type_wallet_subtitle">Nová interná mena Amateri.com</string>
+    <string name="payment_selection_success_topup">Inzerát bol úspešne topovaný</string>
+    <string name="payment_selection_success_gift_vip">VIP bolo úspešne darované</string>
+    <plurals name="credits">
+        <item quantity="one">Kredit</item>
+        <item quantity="few">Kredity</item>
+        <item quantity="other">Kreditov</item>
+    </plurals>
+    <plurals name="credits_small">
+        <item quantity="one">kredit</item>
+        <item quantity="few">kredity</item>
+        <item quantity="other">kreditov</item>
+    </plurals>
+    <string name="buy_credits">Kúpiť kredity</string>
+    <string name="owned_credits_amount"><b>%d</b> kreditov</string>
+    <string name="buy_vip">Kúpiť VIP</string>
 </resources>
