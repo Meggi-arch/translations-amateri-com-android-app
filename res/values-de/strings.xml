@@ -1227,4 +1227,6 @@
     <string name="setup_app_icon">App-Icon</string>
     <string name="app_icon_normal">Normal</string>
     <string name="app_icon_discreet">Diskret</string>
+    <string name="notifications_vip_membership">VIP-Mitgliedschaft</string>
+    <string name="notifications_credits_amount">%d credits</string>
 </resources>
