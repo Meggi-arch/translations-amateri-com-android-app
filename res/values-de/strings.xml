@@ -1237,4 +1237,10 @@
         <item quantity="one">%d Tag</item>
         <item quantity="other">%d Tage</item>
     </plurals>
+    <string name="dialog_wallet_reward_title">Belohnung für die Nutzer</string>
+    <string name="dialog_wallet_reward_body">Mit wie vielen Credits möchten Sie die Nutzer belohnen\?</string>
+    <string name="dialog_wallet_reward_custom_value_hint">Benutzerdefiniert</string>
+    <string name="dialog_wallet_reward_custom_value_divider">oder</string>
+    <string name="dialog_wallet_reward_message_hint">Nachricht schreiben…</string>
+    <string name="dialog_wallet_reward_private_message">Privat senden</string>
 </resources>
