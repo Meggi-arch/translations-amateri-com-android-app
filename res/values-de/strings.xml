@@ -1229,4 +1229,12 @@
     <string name="app_icon_discreet">Diskret</string>
     <string name="notifications_vip_membership">VIP-Mitgliedschaft</string>
     <string name="notifications_credits_amount">%d credits</string>
+    <string name="notifications_credits_top_up">Werbung bewerben</string>
+    <string name="notifications_vip_buy">Kaufen</string>
+    <string name="notifications_notifications">Notifikationen</string>
+    <string name="title_notification_list">Notifikationen</string>
+    <plurals name="vip_days">
+        <item quantity="one">%d Tag</item>
+        <item quantity="other">%d Tage</item>
+    </plurals>
 </resources>
