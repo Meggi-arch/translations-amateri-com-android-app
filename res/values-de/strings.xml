@@ -1256,4 +1256,38 @@
     <string name="wallet_transaction_type_text_refund">Erstattung</string>
     <string name="wallet_transaction_type_text_vip">VIP</string>
     <string name="wallet_transaction_type_text_vip_gift">VIP</string>
+    <string name="buy_credits">Credits kaufen</string>
+    <string name="owned_credits_amount"><b>%d</b> credits</string>
+    <string name="view_wallet_top_up_get">Siehe</string>
+    <string name="wallet_transaction_type_text_dating_top">Werbeanzeige</string>
+    <string name="wallet_buy_credit_title">Credits kaufen</string>
+    <string name="wallet_buy_credit_title_button">Credits kaufen</string>
+    <string name="payment_selection_gift_vip_title">Geschenk VIP</string>
+    <string name="payment_selection_dating_top_up_title">Werbung bewerben</string>
+    <string name="payment_selection_country_title">Land</string>
+    <string name="payment_selection_country_select">Land auswählen</string>
+    <string name="payment_selection_payment_type">Zahlungsart wählen</string>
+    <string name="payment_selection_cancel_text">Abbrechen</string>
+    <string name="payment_selection_ok_text_pay_sms">SMS versenden</string>
+    <string name="payment_selection_change_payment">Zahlung ändern</string>
+    <string name="payment_selection_enter_sms_code">SMS-Code eingeben</string>
+    <string name="payment_selection_write_messages">Nachricht schreiben</string>
+    <string name="payment_selection_ok_text_pay_wallet">Absenden</string>
+    <string name="payment_selection_type_sms_title">SMS-Zahlung</string>
+    <string name="payment_selection_type_sms_subtitle">Die einfachste Art der Bezahlung</string>
+    <string name="payment_selection_type_wallet_title">Brieftasche</string>
+    <string name="payment_selection_type_wallet_subtitle">Neue interne Währung von Amateri.com</string>
+    <string name="payment_selection_success_topup">Dating-Anzeige wurde erfolgreich beworben</string>
+    <string name="payment_selection_success_gift_vip">VIP erfolgreich gespendet</string>
+    <plurals name="credits">
+        <item quantity="one">Credit</item>
+        <item quantity="other">Credits</item>
+    </plurals>
+    <plurals name="credits_small">
+        <item quantity="one">credit</item>
+        <item quantity="other">credits</item>
+    </plurals>
+    <string name="buy_vip">VIP kaufen</string>
+    <string name="wallet_transaction_type_text_content_reward">Inhalt</string>
+    <string name="wallet_transaction_type_text_webcam_reward">Benutzer %s hat Ihnen Credits für Ihren Stream gegeben</string>
 </resources>
