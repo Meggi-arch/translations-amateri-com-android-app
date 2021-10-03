@@ -1380,7 +1380,7 @@
     <string name="wallet_transaction_type_text_vip_gift">VIP</string>
     <string name="wallet_transaction_type_text_dating_top">Topovaný inzerát</string>
     <string name="wallet_transaction_type_text_content_reward">Obsah</string>
-    <string name="wallet_transaction_type_text_webcam_reward">Uživatel %s vám daroval kredity za váš stream</string>
+    <string name="wallet_transaction_type_text_webcam_reward">Stream</string>
     <string name="wallet_buy_credit_title">Koupit kredity</string>
     <string name="wallet_buy_credit_title_button">Koupit kredity</string>
     <string name="payment_selection_gift_vip_title">Darovat VIP</string>
