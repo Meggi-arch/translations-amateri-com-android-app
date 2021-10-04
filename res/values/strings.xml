@@ -1373,13 +1373,6 @@
     <string name="wallet_current_balance">Current balance</string>
     <string name="wallet_choose_pricelevel">Choose an amount</string>
     <string name="dating_buy_top_dialog_send_wallet">Send credits</string>
-    <string name="wallet_transaction_type_text_topup">Topup</string>
-    <string name="wallet_transaction_type_text_refund">Refund</string>
-    <string name="wallet_transaction_type_text_vip">VIP</string>
-    <string name="wallet_transaction_type_text_vip_gift">VIP</string>
-    <string name="wallet_transaction_type_text_dating_top">Dating TOP</string>
-    <string name="wallet_transaction_type_text_content_reward">Content</string>
-    <string name="wallet_transaction_type_text_webcam_reward">Stream</string>
     <string name="wallet_buy_credit_title">Buy credits</string>
     <string name="wallet_buy_credit_title_button">Buy credits</string>
     <string name="payment_selection_gift_vip_title">Gift VIP</string>

@@ -1252,14 +1252,9 @@
     <string name="tab_wallet_history">Geschichte</string>
     <string name="wallet_current_balance">Aktuelle Bilanz</string>
     <string name="dating_buy_top_dialog_send_wallet">Credits senden</string>
-    <string name="wallet_transaction_type_text_topup">Nachfüllen</string>
-    <string name="wallet_transaction_type_text_refund">Erstattung</string>
-    <string name="wallet_transaction_type_text_vip">VIP</string>
-    <string name="wallet_transaction_type_text_vip_gift">VIP</string>
     <string name="buy_credits">Credits kaufen</string>
     <string name="owned_credits_amount"><b>%d</b> credits</string>
     <string name="view_wallet_top_up_get">Siehe</string>
-    <string name="wallet_transaction_type_text_dating_top">Werbeanzeige</string>
     <string name="wallet_buy_credit_title">Credits kaufen</string>
     <string name="wallet_buy_credit_title_button">Credits kaufen</string>
     <string name="payment_selection_gift_vip_title">Geschenk VIP</string>
@@ -1288,6 +1283,4 @@
         <item quantity="other">credits</item>
     </plurals>
     <string name="buy_vip">VIP kaufen</string>
-    <string name="wallet_transaction_type_text_content_reward">Inhalt</string>
-    <string name="wallet_transaction_type_text_webcam_reward">Benutzer %s hat Ihnen Credits für Ihren Stream gegeben</string>
 </resources>
