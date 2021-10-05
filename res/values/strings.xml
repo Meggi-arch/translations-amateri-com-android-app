@@ -1375,6 +1375,8 @@
     <string name="dating_buy_top_dialog_send_wallet">Send credits</string>
     <string name="wallet_buy_credit_title">Buy credits</string>
     <string name="wallet_buy_credit_title_button">Buy credits</string>
+    <string name="wallet_transaction_date_today">Today</string>
+    <string name="wallet_transaction_date_yesterday">Yesterday</string>
     <string name="payment_selection_gift_vip_title">Gift VIP</string>
     <string name="payment_selection_dating_top_up_title">Topup ad</string>
     <string name="payment_selection_country_title">Country</string>
