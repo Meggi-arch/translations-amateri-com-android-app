@@ -1405,4 +1405,7 @@
     <string name="buy_credits">Buy credits</string>
     <string name="owned_credits_amount"><b>%d</b> credits</string>
     <string name="buy_vip">Buy VIP</string>
+    <string name="report_dialog_description_hint">Additional description</string>
+    <string name="bottomsheet_webcam_listener_report">Report</string>
+    <string name="wallet_buy_credit_no_payments_found">No payment option found</string>
 </resources>
