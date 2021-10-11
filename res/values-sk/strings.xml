@@ -63,7 +63,7 @@
     <string name="photo_count">počet fotiek</string>
     <string name="vip">VIP</string>
     <string name="certificated">certifikácia</string>
-    <string name="views">Zobrazení</string>
+    <string name="views">Zobrazenia</string>
     <string name="rating">hodnotení</string>
     <string name="comments">komentáre</string>
     <string name="added">pridané</string>
@@ -1314,4 +1314,9 @@
     <string name="buy_credits">Kúpiť kredity</string>
     <string name="owned_credits_amount"><b>%d</b> kreditov</string>
     <string name="buy_vip">Kúpiť VIP</string>
+    <string name="report_dialog_description_hint">Dodatočný popis</string>
+    <string name="wallet_buy_credit_no_payments_found">Nenašla sa žiadna možnosť platby</string>
+    <string name="wallet_transaction_date_today">Dnes</string>
+    <string name="wallet_transaction_date_yesterday">Včera</string>
+    <string name="bottomsheet_webcam_listener_report">Nahlásenie</string>
 </resources>
