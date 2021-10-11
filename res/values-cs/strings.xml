@@ -1403,4 +1403,9 @@
         <item quantity="few">kredity</item>
         <item quantity="other">kreditů</item>
     </plurals>
+    <string name="report_dialog_description_hint">Další popis</string>
+    <string name="wallet_transaction_date_today">Dnes</string>
+    <string name="wallet_transaction_date_yesterday">Včera</string>
+    <string name="bottomsheet_webcam_listener_report">Nahlášení</string>
+    <string name="wallet_buy_credit_no_payments_found">Nebyla nalezena žádná možnost platby</string>
 </resources>
