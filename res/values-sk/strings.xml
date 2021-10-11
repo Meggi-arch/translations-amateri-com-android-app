@@ -1319,4 +1319,8 @@
     <string name="wallet_transaction_date_today">Dnes</string>
     <string name="wallet_transaction_date_yesterday">Včera</string>
     <string name="bottomsheet_webcam_listener_report">Nahlásenie</string>
+    <string name="update_news_dialog_items_0">Kreditná peňaženka</string>
+    <string name="update_news_dialog_items_1">Odmeny</string>
+    <string name="update_news_dialog_items_2">Hlásenie chatu a správ</string>
+    <string name="update_news_dialog_items_3">Opravy chýb</string>
 </resources>
