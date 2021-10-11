@@ -1319,7 +1319,7 @@
     <string-array name="update_news_dialog_items">
         <item>Credit Wallet</item>
         <item>Rewards</item>
-        <item>Chat and Messages Reporing</item>
+        <item>Chat and Messages Reporting</item>
         <item>Bug fixes</item>
     </string-array>
     <string name="vip_sepa_iban">IBAN:</string>
