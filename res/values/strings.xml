@@ -1317,11 +1317,16 @@
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
     <string-array name="update_news_dialog_items">
-        <item>Credit Wallet</item>
-        <item>Rewards</item>
-        <item>Chat and Messages Reporting</item>
-        <item>Bug fixes</item>
+        <item>@string/update_news_dialog_items_0</item>
+        <item>@string/update_news_dialog_items_1</item>
+        <item>@string/update_news_dialog_items_2</item>
+        <item>@string/update_news_dialog_items_3</item>
     </string-array>
+    <string name="update_news_dialog_items_0">Credit Wallet</string>
+    <string name="update_news_dialog_items_1">Rewards</string>
+    <string name="update_news_dialog_items_2">Chat and Messages Reporting</string>
+    <string name="update_news_dialog_items_3">Bug fixes</string>
+
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
