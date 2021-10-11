@@ -1283,4 +1283,9 @@
         <item quantity="other">credits</item>
     </plurals>
     <string name="buy_vip">VIP kaufen</string>
+    <string name="wallet_transaction_date_today">Heute</string>
+    <string name="wallet_transaction_date_yesterday">Gestern</string>
+    <string name="report_dialog_description_hint">Zusätzliche Beschreibung</string>
+    <string name="bottomsheet_webcam_listener_report">Report</string>
+    <string name="wallet_buy_credit_no_payments_found">Keine Zahlungsoption gefunden</string>
 </resources>
