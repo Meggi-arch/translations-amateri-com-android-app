@@ -1317,9 +1317,9 @@
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
     <string-array name="update_news_dialog_items">
-        <item>Discreet icon</item>
-        <item>Autofill 2FA codes</item>
-        <item>Performance and stability improvements</item>
+        <item>Credit Wallet</item>
+        <item>Rewards</item>
+        <item>Chat and Messages Reporing</item>
         <item>Bug fixes</item>
     </string-array>
     <string name="vip_sepa_iban">IBAN:</string>
