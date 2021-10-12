@@ -1341,7 +1341,7 @@
         <item>@string/wallet_additional_info_items_2</item>
     </string-array>
     <string name="wallet_additional_info_items_0">Kúpiť VIP</string>
-    <string name="wallet_additional_info_items_1">Dobít</string>
+    <string name="wallet_additional_info_items_1">Topovať inzerát</string>
     <string name="wallet_additional_info_close">Zavrieť</string>
     <string name="wallet_additional_info_buy_credits">Kúpiť</string>
     <string name="wallet_additional_info_items_2">Odmeňte za vaše obľúbené vysielanie na chatu a obsah</string>
