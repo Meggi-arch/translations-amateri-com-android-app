@@ -1308,6 +1308,11 @@
     <string name="wallet_additional_info_text">Credits sind eine neue interne Währung, die Ihre Erfahrung mit Amateri.com verbessert.
 \n
 \nWas können Sie mit Credits kaufen\?</string>
+    <string-array name="wallet_additional_info_items">
+        <item>@string/wallet_additional_info_items_0</item>
+        <item>@string/wallet_additional_info_items_1</item>
+        <item>@string/wallet_additional_info_items_2</item>
+    </string-array>
     <string name="wallet_additional_info_items_0">VIP kaufen</string>
     <string name="wallet_additional_info_items_1">Abgerufen</string>
     <string name="wallet_additional_info_items_2">Belohne deine Lieblings-Chat-Streams und -Inhalte</string>

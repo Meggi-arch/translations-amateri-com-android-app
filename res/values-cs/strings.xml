@@ -1424,6 +1424,11 @@
     <string name="wallet_additional_info_text">Kredity jsou novou interní měnou, která zlepšuje váš zážitek na Amateri.com.
 \n
 \nCo si můžete za kredity koupit\?</string>
+    <string-array name="wallet_additional_info_items">
+        <item>@string/wallet_additional_info_items_0</item>
+        <item>@string/wallet_additional_info_items_1</item>
+        <item>@string/wallet_additional_info_items_2</item>
+    </string-array>
     <string name="wallet_additional_info_items_0">Koupit VIP</string>
     <string name="wallet_additional_info_items_1">Dobít</string>
     <string name="wallet_additional_info_items_2">Odměnte za vaše oblíbené vysílání na chatu a obsah</string>
