@@ -1288,6 +1288,12 @@
     <string name="report_dialog_description_hint">Zusätzliche Beschreibung</string>
     <string name="bottomsheet_webcam_listener_report">Report</string>
     <string name="wallet_buy_credit_no_payments_found">Keine Zahlungsoption gefunden</string>
+    <string-array name="update_news_dialog_items">
+        <item>@string/update_news_dialog_items_0</item>
+        <item>@string/update_news_dialog_items_1</item>
+        <item>@string/update_news_dialog_items_2</item>
+        <item>@string/update_news_dialog_items_3</item>
+    </string-array>
     <string name="update_news_dialog_items_0">Credit Brieftasche</string>
     <string name="update_news_dialog_items_1">Belohnungen</string>
     <string name="update_news_dialog_items_2">Berichte über Chats und Nachrichten</string>
