@@ -1430,7 +1430,7 @@
         <item>@string/wallet_additional_info_items_2</item>
     </string-array>
     <string name="wallet_additional_info_items_0">Koupit VIP</string>
-    <string name="wallet_additional_info_items_1">Dobít</string>
+    <string name="wallet_additional_info_items_1">Topovat inzerát</string>
     <string name="wallet_additional_info_items_2">Odměnte za vaše oblíbené vysílání na chatu a obsah</string>
     <string name="wallet_additional_info_close">Zavřít</string>
     <string name="wallet_additional_info_buy_credits">Koupit</string>
