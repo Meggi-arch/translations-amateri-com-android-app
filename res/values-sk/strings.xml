@@ -1325,4 +1325,19 @@
     <string name="update_news_dialog_items_1">Odmeny</string>
     <string name="update_news_dialog_items_2">Hlásenie chatu a správ</string>
     <string name="update_news_dialog_items_3">Opravy chýb</string>
+    <string name="wallet_last_transactions_header">Posledné transakcie</string>
+    <string name="no_transaction_found_description">Nemáte žiadnu históriu transakcií.</string>
+    <string name="wallet_credits_header">kredity</string>
+    <string name="wallet_transaction_fee">(%d poplatok v kreditoch)</string>
+    <string name="no_transaction_found">Žiadne transakcie</string>
+    <string name="no_transaction_additional_info">Na čo slúžia kredity\?</string>
+    <string name="wallet_additional_info_title">Na čo slúžia kredity\?</string>
+    <string name="wallet_additional_info_text">Kredity sú novou internou menou, ktorá zlepšuje váš zážitok s Amateri.com.
+\n
+\nČo si môžete kúpiť za kredity\?</string>
+    <string name="wallet_additional_info_items_0">Kúpiť VIP</string>
+    <string name="wallet_additional_info_items_1">Dobít</string>
+    <string name="wallet_additional_info_close">Zavrieť</string>
+    <string name="wallet_additional_info_buy_credits">Kúpiť</string>
+    <string name="wallet_additional_info_items_2">Odmeňte za vaše obľúbené vysielanie na chatu a obsah</string>
 </resources>
