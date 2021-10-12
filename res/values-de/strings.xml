@@ -1298,4 +1298,19 @@
     <string name="update_news_dialog_items_1">Belohnungen</string>
     <string name="update_news_dialog_items_2">Berichte über Chats und Nachrichten</string>
     <string name="update_news_dialog_items_3">Fehlerbehebungen</string>
+    <string name="wallet_last_transactions_header">Letzte Transaktionen</string>
+    <string name="wallet_credits_header">credits</string>
+    <string name="wallet_transaction_fee">(%d Kreditgebühr)</string>
+    <string name="no_transaction_found">Keine Transaktionen</string>
+    <string name="no_transaction_found_description">Sie haben keine Transaktionshistorie.</string>
+    <string name="no_transaction_additional_info">Wofür sind Credits da\?</string>
+    <string name="wallet_additional_info_title">Wofür sind Credits da\?</string>
+    <string name="wallet_additional_info_text">Credits sind eine neue interne Währung, die Ihre Erfahrung mit Amateri.com verbessert.
+\n
+\nWas können Sie mit Credits kaufen\?</string>
+    <string name="wallet_additional_info_items_0">VIP kaufen</string>
+    <string name="wallet_additional_info_items_1">Abgerufen</string>
+    <string name="wallet_additional_info_items_2">Belohne deine Lieblings-Chat-Streams und -Inhalte</string>
+    <string name="wallet_additional_info_close">Schließen</string>
+    <string name="wallet_additional_info_buy_credits">Kaufen</string>
 </resources>
