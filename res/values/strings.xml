@@ -1382,6 +1382,9 @@
     <string name="wallet_buy_credit_title_button">Buy credits</string>
     <string name="wallet_transaction_date_today">Today</string>
     <string name="wallet_transaction_date_yesterday">Yesterday</string>
+    <string name="wallet_last_transactions_header">Last transactions</string>
+    <string name="wallet_credits_header">credits</string>
+    <string name="wallet_transaction_fee">(%d credits fee)</string>
     <string name="payment_selection_gift_vip_title">Gift VIP</string>
     <string name="payment_selection_dating_top_up_title">Topup ad</string>
     <string name="payment_selection_country_title">Country</string>
@@ -1413,4 +1416,20 @@
     <string name="report_dialog_description_hint">Additional description</string>
     <string name="bottomsheet_webcam_listener_report">Report</string>
     <string name="wallet_buy_credit_no_payments_found">No payment option found</string>
+    <string name="no_transaction_found">No transactions</string>
+    <string name="no_transaction_found_description">You have no transaction history.</string>
+    <string name="no_transaction_additional_info">What are credits for?</string>
+    <string name="wallet_additional_info_title">What are credits for?</string>
+    <string name="wallet_additional_info_text">Credits are new internal currency which enhances your experience with Amateri.com.\n\nWhat can you buy with credits?</string>
+    <string-array name="wallet_additional_info_items">
+        <item>@string/wallet_additional_info_items_0</item>
+        <item>@string/wallet_additional_info_items_1</item>
+        <item>@string/wallet_additional_info_items_2</item>
+    </string-array>
+    <string name="wallet_additional_info_items_0">Buy VIP</string>
+    <string name="wallet_additional_info_items_1">Top UP</string>
+    <string name="wallet_additional_info_items_2">Reward your favorite chat streams and content</string>
+    <string name="wallet_additional_info_close">Close</string>
+    <string name="wallet_additional_info_buy_credits">Buy</string>
+
 </resources>
