@@ -1243,13 +1243,10 @@
     <string name="dialog_wallet_reward_custom_value_divider">oder</string>
     <string name="dialog_wallet_reward_message_hint">Nachricht schreiben…</string>
     <string name="dialog_wallet_reward_private_message">Privat senden</string>
-    <string name="tab_wallet_overview">Übersicht</string>
     <string name="wallet_choose_pricelevel">Wählen Sie einen Betrag</string>
     <string name="dialog_wallet_reward_confirm">Belohnung</string>
     <string name="dialog_wallet_reward_success_toast">Dankeschön! Die Belohnung wird den Benutzer auf jeden Fall glücklich machen.</string>
     <string name="bottomsheet_webcam_listener_reward">Mit Credits belohnen</string>
-    <string name="tab_wallet_buy_options">Kaufen</string>
-    <string name="tab_wallet_history">Geschichte</string>
     <string name="wallet_current_balance">Aktuelle Bilanz</string>
     <string name="dating_buy_top_dialog_send_wallet">Credits senden</string>
     <string name="buy_credits">Credits kaufen</string>

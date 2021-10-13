@@ -1277,9 +1277,6 @@
     <string name="dialog_wallet_reward_confirm">Odmena</string>
     <string name="dialog_wallet_reward_success_toast">Ďakujeme! Odmena určite poteší používateľa.</string>
     <string name="bottomsheet_webcam_listener_reward">Odmeniť kreditmi</string>
-    <string name="tab_wallet_overview">Prehľad</string>
-    <string name="tab_wallet_buy_options">Kúpiť</string>
-    <string name="tab_wallet_history">História</string>
     <string name="view_wallet_top_up_get">Získať</string>
     <string name="wallet_current_balance">Aktuálny zostatok</string>
     <string name="wallet_choose_pricelevel">Vyberte sumu</string>

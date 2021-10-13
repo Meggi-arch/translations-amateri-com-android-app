@@ -1371,9 +1371,6 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
-    <string name="tab_wallet_overview">Overview</string>
-    <string name="tab_wallet_buy_options">Buy</string>
-    <string name="tab_wallet_history">History</string>
     <string name="view_wallet_top_up_get">Get</string>
     <string name="wallet_current_balance">Current balance</string>
     <string name="wallet_choose_pricelevel">Choose an amount</string>
