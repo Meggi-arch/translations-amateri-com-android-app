@@ -614,6 +614,11 @@
     <string name="conversation_dating_reply">Odpověď na inzerát</string>
     <string name="toast_camera_permissions_revoked">Prosím, povolte aplikaci využívání fotoaparátu.</string>
     <string name="conversation_user_ignored_error">Uživatel %s si nepřeje, abyste mu psali jakékoliv zprávy.</string>
+    <!-- NotificationListActivity -->
+    <string name="title_notification_list">Upozornění</string>
+    <string name="notification_settings">Nastavit upozornění</string>
+    <string name="no_notifications_title">Žádná upozornění</string>
+    <string name="no_notifications_message">V tuto chvíli nemáte žádná nová upozornění. Najdete zde upozornění na komentáře, lajky fotek a videí, atd.</string>
     <!-- Buy VIP -->
     <string name="buy_vip_title">Staňte se VIP členem</string>
     <string name="vip_promo_title">Speciální nabídka</string>

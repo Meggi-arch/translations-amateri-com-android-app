@@ -708,6 +708,9 @@
     <string name="conversation_user_ignored_error">User %s does not want you to send him/her any messages.</string>
     <!-- NotificationListActivity -->
     <string name="title_notification_list">Notifications</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="no_notifications_title">No notifications</string>
+    <string name="no_notifications_message">At the moment, you don\'t have any new notifications. Here you\'ll find notifications about new comments, likes on photos and videos, etc.</string>
     <!-- Buy VIP -->
     <string name="buy_vip_title">Become a VIP member</string>
     <string name="vip_promo_title">Special offer</string>
