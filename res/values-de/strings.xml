@@ -1315,4 +1315,7 @@
     <string name="wallet_additional_info_items_2">Belohne deine Lieblings-Chat-Streams und -Inhalte</string>
     <string name="wallet_additional_info_close">Schließen</string>
     <string name="wallet_additional_info_buy_credits">Kaufen</string>
+    <string name="notification_settings">Einstellungen für Benachrichtigungen</string>
+    <string name="no_notifications_title">Keine Benachrichtigungen</string>
+    <string name="no_notifications_message">Im Moment haben Sie keine neuen Benachrichtigungen. Hier finden Sie Benachrichtigungen über neue Kommentare, Likes auf Fotos und Videos usw.</string>
 </resources>
