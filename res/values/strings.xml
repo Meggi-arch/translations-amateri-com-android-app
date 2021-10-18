@@ -254,7 +254,7 @@
     <string name="notifications_title">Notification</string>
     <string name="notifications_vip_membership">VIP membership</string>
     <string name="notifications_credits_amount">%d credits</string>
-    <string name="notifications_credits_top_up">Top up</string>
+    <string name="notifications_credits_top_up">Buy</string>
     <string name="notifications_vip_buy">Buy</string>
     <string name="notifications_visits">Visits</string>
     <string name="notifications_messages">Messages</string>
