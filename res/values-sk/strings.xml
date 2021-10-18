@@ -1342,4 +1342,7 @@
     <string name="wallet_additional_info_close">Zavrieť</string>
     <string name="wallet_additional_info_buy_credits">Kúpiť</string>
     <string name="wallet_additional_info_items_2">Odmeňte za vaše obľúbené vysielanie na chatu a obsah</string>
+    <string name="notification_settings">Nastaviť upozornenia</string>
+    <string name="no_notifications_title">Žiadne upozornenia</string>
+    <string name="no_notifications_message">Momentálne nemáte žiadne nové upozornenia. Tu nájdete upozornenia na nové komentáre, lajky na fotografiách a videách atď.</string>
 </resources>
