@@ -993,8 +993,9 @@
     <string name="blogs_settings_delete_toast">Blog post has been successfully deleted.</string>
     <!-- MessagesSettingsFragment -->
     <string name="messages_settings_title">Who can contact me</string>
-    <string name="messages_settings_info_description">All conditions must be met for users to contact you.\n
-        \nFriends can always write to you regardless of the conditions you set.</string>
+    <string name="messages_settings_info_description">All conditions must be met for users to contact you.
+\n
+\nFriends can always write to you regardless of the conditions you set.</string>
     <string name="messages_settings_everyone">All users</string>
     <string name="messages_settings_content_users">With albums/videos</string>
     <string name="messages_settings_vip">VIP users</string>
@@ -1329,7 +1330,6 @@
     <string name="update_news_dialog_items_1">Rewards</string>
     <string name="update_news_dialog_items_2">Chat and Messages Reporting</string>
     <string name="update_news_dialog_items_3">Bug fixes</string>
-
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
@@ -1431,5 +1431,4 @@
     <string name="wallet_additional_info_items_2">Reward your favorite chat streams and content</string>
     <string name="wallet_additional_info_close">Close</string>
     <string name="wallet_additional_info_buy_credits">Buy</string>
-
 </resources>
