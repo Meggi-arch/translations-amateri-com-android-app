@@ -1359,7 +1359,6 @@
     <string name="notifications_vip_buy">Koupit</string>
     <string name="notifications_notifications">Upozornení</string>
     <string name="notifications_credits_amount">%d kreditů</string>
-    <string name="title_notification_list">Upozornění</string>
     <plurals name="vip_days">
         <item quantity="one">%d den</item>
         <item quantity="few">%d dny</item>
