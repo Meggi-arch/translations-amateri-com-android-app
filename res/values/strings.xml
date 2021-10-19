@@ -1254,6 +1254,8 @@
     <string name="dialog_ignore_list_add_text">Do you really want to add %s to ignore list?</string>
     <string name="dialog_ignore_list_add_button_confirm">Add to ignore list</string>
     <!-- Conversation options bottomsheet -->
+    <string name="conversation_options_photo_view">Show photos only</string>
+    <string name="conversation_options_close_photo_view">Close the photo view</string>
     <string name="conversation_options_delete_conversation">Delete conversation</string>
     <string name="conversation_options_add_favourite">Add to favourites</string>
     <string name="conversation_options_remove_favourite">Remove from favourites</string>
