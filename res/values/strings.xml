@@ -389,6 +389,11 @@
     <string name="search_video_hint">Search in videos</string>
     <string name="search_user_hint">Search in users</string>
     <string name="search_collections_hint">Search in collections</string>
+    <!--WalletSettingsFragment-->
+    <string name="settings_wallet_section_rewards">Rewards</string>
+    <string name="settings_wallet_accept_rewards_for_content">Accept rewards for your content</string>
+    <string name="settings_wallet_content_rewards_only_for_verified_users">Only verified users can get rewards for their content.</string>
+    <string name="settings_wallet_accept_rewards_for_streaming">Accept rewards for your chat streaming</string>
     <!--ApplicationSettingsFragment-->
     <string name="setup_notifications">Notifications</string>
     <string name="setup_notification_new_message">New message</string>
