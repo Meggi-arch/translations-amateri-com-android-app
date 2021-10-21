@@ -532,6 +532,9 @@
     <string name="no_video_title">You have no videos.</string>
     <string name="no_video_text">To add a video is easy and you can start right now.</string>
     <string name="add_video">Add new video</string>
+    <!--ProfileCollectionsSettingsFragment-->
+    <string name="no_collections_title">You have no collections.</string>
+    <string name="no_collections_text">You can save albums and videos to collections.</string>
     <!--Notification Actions-->
     <string name="notification_profile">Profile</string>
     <string name="notification_message">Message</string>
