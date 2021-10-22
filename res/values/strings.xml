@@ -265,6 +265,7 @@
     <string name="notifications_my_account">My account</string>
     <string name="notifications_albums">Albums</string>
     <string name="notifications_videos">Videos</string>
+    <string name="notifications_collections">Collections</string>
     <string name="notifications_blogs">Blog posts</string>
     <string name="notifications_dating">Dating</string>
     <string name="notifications_notes">Notes</string>
