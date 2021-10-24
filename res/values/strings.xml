@@ -536,6 +536,8 @@
     <!--ProfileCollectionsSettingsFragment-->
     <string name="no_collections_title">You have no collections.</string>
     <string name="no_collections_text">You can save albums and videos to collections.</string>
+    <string name="public_collection">Public collection</string>
+    <string name="private_collection">Private collection</string>
     <!--Notification Actions-->
     <string name="notification_profile">Profile</string>
     <string name="notification_message">Message</string>
