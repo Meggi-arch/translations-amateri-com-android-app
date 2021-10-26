@@ -30,6 +30,7 @@
     <string name="title_new_version">New version!</string>
     <string name="title_album_settings">Album settings</string>
     <string name="title_video_settings">Video settings</string>
+    <string name="title_collection_settings">Collection settings</string>
     <string name="title_new_album">Add new album</string>
     <string name="title_new_video">Add new video</string>
     <string name="title_my_account">My account</string>
@@ -517,6 +518,18 @@
     <string name="comment_sort_dialog_title">Comment order</string>
     <string name="comment_sort_by_date">By date</string>
     <string name="comment_sort_by_language">By language</string>
+    <!--CollectionSettingsActivity-->
+    <string name="collection_settings_title">Title</string>
+    <string name="collection_settings_title_hint">Enter title</string>
+    <string name="collection_settings_description">Description</string>
+    <string name="collection_settings_description_hint">Enter description</string>
+    <string name="collection_settings_visibility">Visibility</string>
+    <string name="collection_settings_visibility_default">Select visibility</string>
+    <string name="collection_settings_save">Save</string>
+    <string name="collection_settings_save_success">Changes saved</string>
+    <string name="collection_settings_missing_title">Please enter the title</string>
+    <string name="collection_settings_missing_description">Please enter the description</string>
+    <string name="collection_settings_missing_visibility">Please select the visibility</string>
     <!--ProfileAlbumSettingsFragment-->
     <string name="profile_album_settings_edit_error">You cannot edit this album</string>
     <string name="visibility_on">Enabled</string>
