@@ -528,7 +528,6 @@
     <string name="collection_settings_save">Save</string>
     <string name="collection_settings_save_success">Changes saved</string>
     <string name="collection_settings_missing_title">Please enter the title</string>
-    <string name="collection_settings_missing_description">Please enter the description</string>
     <string name="collection_settings_missing_visibility">Please select the visibility</string>
     <!--ProfileAlbumSettingsFragment-->
     <string name="profile_album_settings_edit_error">You cannot edit this album</string>
