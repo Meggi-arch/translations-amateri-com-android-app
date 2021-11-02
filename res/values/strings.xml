@@ -56,6 +56,12 @@
     <!--VideoDetailActivity-->
     <string name="title_next_videos">More videos</string>
     <string name="video_comment_disallowed">You cannot add a comment to this video now.</string>
+    <!--CollectionDetailActivity-->
+    <string name="title_next_collections">More collections</string>
+    <string name="collection_comment_disallowed">You cannot add a comment to this collection now.</string>
+    <string name="collection_deleted_successfully">Collection has been successfully deleted.</string>
+    <string name="dialog_delete_collection_title">Delete collection</string>
+    <string name="dialog_delete_collection_text">Do you really want to delete this collection?</string>
     <!--BlogDetailActivity-->
     <string name="title_next_blogs">More posts</string>
     <string name="blog_comment_disallowed">You cannot add a comment to this blog post now.</string>
