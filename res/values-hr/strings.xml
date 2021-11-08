@@ -951,4 +951,5 @@
     <string name="app_icon_discreet">Diskretna</string>
     <string name="notification_mfa_verify_approve">Odobriti</string>
     <string name="notification_mfa_verify_deny">Zanijekati</string>
+    <string name="wallet_additional_info_buy_credits">Kupi</string>
 </resources>
