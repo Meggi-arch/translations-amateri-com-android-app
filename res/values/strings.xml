@@ -351,6 +351,7 @@
     <string name="dating_filter_profile">With photo</string>
     <string name="dating_reply">Reply</string>
     <string name="dating_highlight">Top ad</string>
+    <string name="dating_report">Report</string>
     <string name="dating_buy_top_dialog_title">Top ad</string>
     <string name="dating_buy_top_dialog_main_text_first">You can Top the ad to the 1st place right now.</string>
     <string name="dating_buy_top_dialog_main_text_second">Using the Top feature makes the dating ad more visible and it will maintain a top position in its category for %d days.</string>
