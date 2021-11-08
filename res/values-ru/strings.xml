@@ -9,7 +9,7 @@
     <string name="title_people">Люди</string>
     <string name="title_logout">Выход</string>
     <string name="title_version">Версия %s</string>
-    <string name="title_feedback">Отправить отзыв</string>
+    <string name="title_feedback">Поддержка</string>
     <string name="title_new_version">Новая версия!</string>
     <string name="tab_latest">Новое</string>
     <string name="tab_best">Лучшее</string>
@@ -148,7 +148,7 @@
     <string name="vip_dialog_activate">Я хочу стать VIP-пользователем</string>
     <string name="vip_dialog_login">Войти</string>
     <string name="vip_dialog_register">Зарегистрироваться</string>
-    <string name="title_activity_feedback">Отправить отзыв</string>
+    <string name="title_activity_feedback">Поддержка</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">категория</string>
     <string name="feedback_message">ваше сообщение</string>
@@ -1013,7 +1013,50 @@
     <string name="title_messages">Сообщения</string>
     <string name="title_safe_mode_enabled">Выключить скромный режим</string>
     <string name="title_safe_mode_disabled">Включить скромный режим</string>
-    <string name="profile_last_online">Последний раз в сети</string>
+    <string name="profile_last_online">Последний вход</string>
     <string name="title_location">Локация</string>
     <string name="menu_filter">Фильтр</string>
+    <string name="title_wallet">Кошелек</string>
+    <string name="tab_most_commented">Большинство комментариев</string>
+    <string name="tab_updated">Обновленный</string>
+    <string name="tab_collections">Коллекции</string>
+    <string name="collections_filter_show_all">Показать коллекции</string>
+    <string name="title_collections">Коллекции</string>
+    <plurals name="collections_filter_show">
+        <item quantity="one">Показать %d коллекцию</item>
+        <item quantity="few">Показать %d коллекции</item>
+        <item quantity="many">Показать %d коллекций</item>
+        <item quantity="other">Показать %d коллекций</item>
+    </plurals>
+    <string name="title_phone_number">Номер телефона</string>
+    <string name="dialog_report_comment_title">Комментарий к отчету</string>
+    <string name="report_comment_text">Отчет</string>
+    <string name="profile_add_friend_already_friend">Ранее добавленные</string>
+    <string name="profile_add_friend_already_requested">Ранее запрошенные</string>
+    <plurals name="topics">
+        <item quantity="one">%d тема</item>
+        <item quantity="few">%d темы</item>
+        <item quantity="many">%d тем</item>
+        <item quantity="other">%d тем</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дней</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+        <item quantity="other">%d месяцев</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+        <item quantity="other">%d лет</item>
+    </plurals>
+    <string name="menu_chat_room_tap">Попросите включить камеру</string>
+    <string name="basic_filter">Основной фильтр</string>
 </resources>
