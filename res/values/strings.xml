@@ -1474,4 +1474,9 @@
     <string name="wallet_additional_info_items_2">Reward your favorite chat streams and content</string>
     <string name="wallet_additional_info_close">Close</string>
     <string name="wallet_additional_info_buy_credits">Buy</string>
+    <string name="webview_error_file_chooser">Cannot Open File Chooser</string>
+    <string name="webview_file_downloaded">File saved</string>
+    <string name="webview_error_image_download">Image download failed</string>
+    <string name="webview_image_download_header">Image Download</string>
+    <string name="webview_image_download_save_item_title">Save image</string>
 </resources>
