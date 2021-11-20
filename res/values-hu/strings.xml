@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="general_error">Jaj!</string>
+    <string name="general_error_no_connection">Úgy tűnik, hogy nincs internetkapcsolat. Kérjük, próbálja meg később újra.</string>
+    <string name="general_loading">Türelem, adatokat töltök be</string>
+    <string name="ok">Rendben</string>
+    <string name="cancel">Törölje</string>
+    <string name="save">Mentés</string>
+    <string name="dialog_android_unsupported_title">Nem támogatott funkció</string>
+    <string name="dialog_android_unsupported_text">Sajnáljuk, de az Ön operációs rendszere túl régi ahhoz, hogy ezt a funkciót használhassa :(</string>
+    <string name="general_empty_title">Itt nincs semmi.</string>
+    <string name="general_empty_text">Nincs mit mutatni :(</string>
+    <string name="title_home">Honlap</string>
+    <string name="title_album">Fotóalbumok</string>
+    <string name="title_wallet">Pénztárca</string>
+    <string name="title_videos">Videók</string>
+    <string name="title_people">Az emberek</string>
+    <string name="title_blogs">Blogok</string>
+    <string name="title_stories">Történetek</string>
+    <string name="title_events">Találkozók</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_settings">Beállítások</string>
+    <string name="title_application_settings">Alkalmazás beállításai</string>
+    <string name="title_safe_mode_disabled">Tisztességes üzemmód bekapcsolása</string>
+    <string name="title_safe_mode_enabled">Tisztességes üzemmód kikapcsolása</string>
+    <string name="title_logout">Kijelentkezés</string>
+    <string name="title_version">Verzió %s</string>
+    <string name="title_feedback">Kapcsolat</string>
+    <string name="title_new_version">Új verzió!</string>
+    <string name="title_album_settings">Album beállítások</string>
+    <string name="title_video_settings">Video beállítások</string>
+    <string name="title_collection_settings">Gyűjtési beállítások</string>
+</resources>
