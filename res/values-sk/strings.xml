@@ -1345,4 +1345,5 @@
     <string name="notification_settings">Nastaviť upozornenia</string>
     <string name="no_notifications_title">Žiadne upozornenia</string>
     <string name="no_notifications_message">Momentálne nemáte žiadne nové upozornenia. Tu nájdete upozornenia na nové komentáre, lajky na fotografiách a videách atď.</string>
+    <string name="title_collection_settings">Nastavenie kolekcií</string>
 </resources>
