@@ -92,6 +92,7 @@
     <string name="menu_filter">Filter</string>
     <string name="menu_forum_topics">List sorted by</string>
     <string name="action_try_again">Try again</string>
+    <string name="hint_email">Email</string>
     <string name="hint_username">Nickname</string>
     <string name="hint_password">Password</string>
     <string name="tab_albums">Albums</string>
