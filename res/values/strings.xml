@@ -1491,6 +1491,7 @@
     <string name="notification_discreet_title">New notification</string>
     <string name="notification_discreet_content">You have new notification.</string>
     <string name="buy_vip_wallet_dialog_text">Do you want to buy %s for %d credits?</string>
+    <string name="buy_vip_wallet_dialog_ok_button_text">Buy</string>
     <string name="buy_vip_wallet_success_text">VIP has been successfully activated</string>
 
 </resources>
