@@ -1490,4 +1490,5 @@
     <string name="webview_image_download_save_item_title">Save image</string>
     <string name="notification_discreet_title">New notification</string>
     <string name="notification_discreet_content">You have new notification.</string>
+    <string name="buy_vip_wallet_dialog_text">Do you want to buy %s for %d credits?</string>
 </resources>
