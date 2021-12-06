@@ -1495,5 +1495,7 @@
     <string name="buy_vip_wallet_dialog_text">Do you want to buy %s for %d credits?</string>
     <string name="buy_vip_wallet_dialog_ok_button_text">Buy</string>
     <string name="buy_vip_wallet_success_text">VIP has been successfully activated</string>
-
+    <string name="bottomsheet_content_detail_more_information">More information</string>
+    <string name="bottomsheet_content_detail_report">Report</string>
+    <string name="profile_options_report_user">Report</string>
 </resources>
