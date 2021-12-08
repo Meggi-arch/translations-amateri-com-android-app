@@ -1393,6 +1393,9 @@
     <string name="vip_save_qr_code">Download QR code</string>
     <string name="vip_qr_code_saved">QR code saved to your gallery</string>
     <string name="vip_qr_code_not_saved">Failed to save QR code to your gallery</string>
+    <!-- Captcha -->
+    <string name="captcha_session_timeout_error">The challenge expired.</string>
+    <string name="captcha_rate_limited_error">You\'re making too many requests.</string>
     <!-- Mfa -->
     <string name="dialog_mfa_countdown_progress_text">Session expiration</string>
     <string name="dialog_mfa_yes_text">Yes</string>
