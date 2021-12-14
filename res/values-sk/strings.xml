@@ -1346,4 +1346,24 @@
     <string name="no_notifications_title">Žiadne upozornenia</string>
     <string name="no_notifications_message">Momentálne nemáte žiadne nové upozornenia. Tu nájdete upozornenia na nové komentáre, lajky na fotografiách a videách atď.</string>
     <string name="title_collection_settings">Nastavenie kolekcií</string>
+    <string name="hint_email">Email</string>
+    <string name="dating_report">Nahlásiť</string>
+    <string name="title_new_collection">Pridať novú zbierku</string>
+    <string name="title_next_collections">Ďalšie zbierky</string>
+    <string name="collection_comment_disallowed">Teraz nemôžete pridať komentár k tejto zbierke.</string>
+    <string name="collection_deleted_successfully">Zbierka bola úspešne vymazaná.</string>
+    <string name="dialog_delete_collection_title">Odstránenie zbierky</string>
+    <string name="dialog_delete_collection_text">Naozaj chcete zmazať túto zbierku\?</string>
+    <string name="notifications_collections">Zbierky</string>
+    <string name="dating_saved">Uložené</string>
+    <string name="dating_saved_success">Inzerát bol pridaný do uložených</string>
+    <string name="dating_unsaved_success">Inzerát bol odstránený z uložených</string>
+    <string name="dating_save">Uložiť</string>
+    <string name="settings_wallet_accept_rewards_for_content">Prijímať odmeny za svoj obsah</string>
+    <string name="settings_wallet_section_rewards">Odmeny</string>
+    <string name="settings_wallet_content_rewards_only_for_verified_users">Odmeny za svoj obsah môžu získať len overený užívatelia.</string>
+    <string name="settings_wallet_accept_rewards_for_streaming">Prijímať odmeny za vysielanie na chate</string>
+    <string name="collection_settings_title_hint">Zadajte názov</string>
+    <string name="collection_settings_description">Popis</string>
+    <string name="collection_settings_title">Názov</string>
 </resources>
