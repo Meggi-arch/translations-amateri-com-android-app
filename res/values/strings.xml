@@ -305,6 +305,10 @@
     <string name="button_login">Log in</string>
     <string name="button_registration">Sign up</string>
     <string name="button_entry">Enter without login</string>
+    <!--RegistrationActivity-->
+    <string name="registration_continue">Continue</string>
+    <string name="registration_sign_up_with_google">Sign up with Google</string>
+    <string name="registration_terms_and_conditions"><![CDATA[By signing up, you accept our <a href="https://www.amateri.com/en/legal/general-terms-conditions">General Terms and Conditions</a> and <a href="https://www.amateri.com/en/legal/privacy">Privacy and Data Protection Policy</a>.]]></string>
     <!--FilterAlbumActivity | FilterUserActivity-->
     <string name="title_filter_results">Search results</string>
     <!--MyProfileActivity-->
