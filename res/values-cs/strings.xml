@@ -1436,7 +1436,7 @@
     <string name="wallet_additional_info_close">Zavřít</string>
     <string name="wallet_additional_info_buy_credits">Koupit</string>
     <string name="captcha_rate_limited_error">Máte příliš mnoho požadavků.</string>
-    <string name="dialog_mfa_missing_secret_content">Pravděpodobně jste mezitím aplikaci odinstalovali a vaše dvoufázová identifikace není platná. Zrušte ji a vytvořte si novou na webu.</string>
+    <string name="dialog_mfa_missing_secret_content">Pravděpodobně jste mezitím aplikaci odinstalovali a vaše dvoufaktorová identifikace není platná. Zrušte ji a vytvořte si novou na webu.</string>
     <string name="buy_vip_wallet_success_text">VIP bylo úspěšně aktivováno</string>
     <string name="webview_file_downloaded">Soubor uložen</string>
     <string name="title_collection_settings">Nastavení sbírky</string>
@@ -1494,4 +1494,7 @@
     <string name="webview_error_image_download">Stažení obrázku se nezdařilo</string>
     <string name="webview_image_download_header">Stažení obrázku</string>
     <string name="bottomsheet_content_detail_more_information">Více informací</string>
+    <string name="captcha_session_timeout_error">Výzva vypršela.</string>
+    <string name="profile_options_report_user">Nahlásit</string>
+    <string name="bottomsheet_content_detail_report">Nahlásit</string>
 </resources>
