@@ -1381,4 +1381,6 @@
     <string name="bottomsheet_content_detail_report">Report</string>
     <string name="profile_options_report_user">Report</string>
     <string name="buy_vip_wallet_dialog_ok_button_text">Kaufen</string>
+    <string name="setup_notification_mode">Diskrete Benachrichtigungen</string>
+    <string name="payment_selection_code_missing">SMS-Code muss eingegeben werden</string>
 </resources>
