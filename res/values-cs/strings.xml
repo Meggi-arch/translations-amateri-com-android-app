@@ -1498,4 +1498,6 @@
     <string name="profile_options_report_user">Nahlásit</string>
     <string name="bottomsheet_content_detail_report">Nahlásit</string>
     <string name="webview_error_file_chooser">Nelze otevřít Výběr souborů</string>
+    <string name="payment_selection_code_missing">Je potřeba vyplnit SMS kód</string>
+    <string name="setup_notification_mode">Diskrétní oznámení</string>
 </resources>
