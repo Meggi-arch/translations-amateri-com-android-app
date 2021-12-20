@@ -1501,4 +1501,5 @@
     <string name="bottomsheet_content_detail_more_information">More information</string>
     <string name="bottomsheet_content_detail_report">Report</string>
     <string name="profile_options_report_user">Report</string>
+    <string name="setup_notification_mode">Discreet notifications</string>
 </resources>
