@@ -1411,10 +1411,10 @@
     <string name="wallet_transaction_date_yesterday">Včera</string>
     <string name="bottomsheet_webcam_listener_report">Nahlášení</string>
     <string name="wallet_buy_credit_no_payments_found">Nebyla nalezena žádná možnost platby</string>
-    <string name="update_news_dialog_items_0">Kreditní peněženka</string>
-    <string name="update_news_dialog_items_1">Odměny</string>
-    <string name="update_news_dialog_items_2">Hlášení chatu a zpráv</string>
-    <string name="update_news_dialog_items_3">Opravy chyb</string>
+    <string name="update_news_dialog_items_0">nákup VIP členství prostřednictvím kreditů</string>
+    <string name="update_news_dialog_items_1">filtr na zobrazení fotek v konverzaci</string>
+    <string name="update_news_dialog_items_2">vytváření a úprava sbírek</string>
+    <string name="update_news_dialog_items_3">nastavení diskrétního oznamování</string>
     <string name="no_transaction_found_description">Nemáte žádnou transakční historii.</string>
     <string name="wallet_last_transactions_header">Poslední transakce</string>
     <string name="wallet_credits_header">kredity</string>
@@ -1500,4 +1500,8 @@
     <string name="webview_error_file_chooser">Nelze otevřít Výběr souborů</string>
     <string name="payment_selection_code_missing">Je potřeba vyplnit SMS kód</string>
     <string name="setup_notification_mode">Diskrétní oznámení</string>
+    <string name="update_news_dialog_items_4">možnost přidat v jazycích maďarštinu</string>
+    <string name="update_news_dialog_items_5">nahlášení nevhodného obsahu nebo profilu</string>
+    <string name="update_news_dialog_items_6">nový vzhled – ikony, barvy</string>
+    <string name="update_news_dialog_items_7">inzerát si můžete přidat do oblíbených</string>
 </resources>
