@@ -1375,11 +1375,19 @@
         <item>@string/update_news_dialog_items_1</item>
         <item>@string/update_news_dialog_items_2</item>
         <item>@string/update_news_dialog_items_3</item>
+        <item>@string/update_news_dialog_items_4</item>
+        <item>@string/update_news_dialog_items_5</item>
+        <item>@string/update_news_dialog_items_6</item>
+        <item>@string/update_news_dialog_items_7</item>
     </string-array>
-    <string name="update_news_dialog_items_0">Credit Wallet</string>
-    <string name="update_news_dialog_items_1">Rewards</string>
-    <string name="update_news_dialog_items_2">Chat and Messages Reporting</string>
-    <string name="update_news_dialog_items_3">Bug fixes</string>
+    <string name="update_news_dialog_items_0">purchase VIP membership via credits</string>
+    <string name="update_news_dialog_items_1">filter to display photos in conversation</string>
+    <string name="update_news_dialog_items_2">creating and editing collections</string>
+    <string name="update_news_dialog_items_3">discrete notification settings</string>
+    <string name="update_news_dialog_items_4">Hungarian language support</string>
+    <string name="update_news_dialog_items_5">report innappropriate content or profiles</string>
+    <string name="update_news_dialog_items_6">new look - icons, colours</string>
+    <string name="update_news_dialog_items_7">you can add an ad to your favourites</string>
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
