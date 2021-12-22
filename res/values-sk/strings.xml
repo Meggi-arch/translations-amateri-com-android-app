@@ -1318,10 +1318,10 @@
     <string name="wallet_transaction_date_today">Dnes</string>
     <string name="wallet_transaction_date_yesterday">Včera</string>
     <string name="bottomsheet_webcam_listener_report">Nahlásenie</string>
-    <string name="update_news_dialog_items_0">Kreditná peňaženka</string>
-    <string name="update_news_dialog_items_1">Odmeny</string>
-    <string name="update_news_dialog_items_2">Hlásenie chatu a správ</string>
-    <string name="update_news_dialog_items_3">Opravy chýb</string>
+    <string name="update_news_dialog_items_0">zakúpenie VIP členstva za kredity</string>
+    <string name="update_news_dialog_items_1">filter na zobrazenie fotografií v konverzácii</string>
+    <string name="update_news_dialog_items_2">vytváranie a úprava zbierok</string>
+    <string name="update_news_dialog_items_3">diskrétne nastavenia oznámení</string>
     <string name="wallet_last_transactions_header">Posledné transakcie</string>
     <string name="no_transaction_found_description">Nemáte žiadnu históriu transakcií.</string>
     <string name="wallet_credits_header">kredity</string>
@@ -1410,4 +1410,8 @@
     <string name="webview_image_download_save_item_title">Uložiť obrázok</string>
     <string name="setup_notification_mode">Diskrétne oznámenia</string>
     <string name="payment_selection_code_missing">Je potrebné vyplniť kód SMS</string>
+    <string name="update_news_dialog_items_4">Podpora maďarčiny</string>
+    <string name="update_news_dialog_items_5">nahlasovať nevhodný obsah alebo profily.</string>
+    <string name="update_news_dialog_items_6">nový vzhľad - ikony, farby</string>
+    <string name="update_news_dialog_items_7">môžete pridať reklamu do obľúbených</string>
 </resources>
