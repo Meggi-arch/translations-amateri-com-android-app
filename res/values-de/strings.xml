@@ -1291,10 +1291,10 @@
         <item>@string/update_news_dialog_items_2</item>
         <item>@string/update_news_dialog_items_3</item>
     </string-array>
-    <string name="update_news_dialog_items_0">Credit Brieftasche</string>
-    <string name="update_news_dialog_items_1">Belohnungen</string>
-    <string name="update_news_dialog_items_2">Berichte über Chats und Nachrichten</string>
-    <string name="update_news_dialog_items_3">Fehlerbehebungen</string>
+    <string name="update_news_dialog_items_0">VIP-Mitgliedschaft über Credits erwerben</string>
+    <string name="update_news_dialog_items_1">Filter zur Anzeige von Fotos im Gespräch</string>
+    <string name="update_news_dialog_items_2">Erstellen und Bearbeiten von Sammlungen</string>
+    <string name="update_news_dialog_items_3">diskrete Benachrichtigungseinstellungen</string>
     <string name="wallet_last_transactions_header">Letzte Transaktionen</string>
     <string name="wallet_credits_header">credits</string>
     <string name="wallet_transaction_fee">(%d Kreditgebühr)</string>
@@ -1383,4 +1383,8 @@
     <string name="buy_vip_wallet_dialog_ok_button_text">Kaufen</string>
     <string name="setup_notification_mode">Diskrete Benachrichtigungen</string>
     <string name="payment_selection_code_missing">SMS-Code muss eingegeben werden</string>
+    <string name="update_news_dialog_items_5">unangemessene Inhalte oder Profile melden</string>
+    <string name="update_news_dialog_items_6">neues Aussehen - Symbole, Farben</string>
+    <string name="update_news_dialog_items_7">Sie können eine Anzeige zu Ihren Favoriten hinzufügen</string>
+    <string name="update_news_dialog_items_4">Unterstützung der ungarischen Sprache</string>
 </resources>
