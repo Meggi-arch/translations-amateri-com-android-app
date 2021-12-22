@@ -1500,8 +1500,8 @@
     <string name="webview_error_file_chooser">Nelze otevřít Výběr souborů</string>
     <string name="payment_selection_code_missing">Je potřeba vyplnit SMS kód</string>
     <string name="setup_notification_mode">Diskrétní oznámení</string>
-    <string name="update_news_dialog_items_4">možnost přidat v jazycích maďarštinu</string>
-    <string name="update_news_dialog_items_5">nahlášení nevhodného obsahu nebo profilu</string>
+    <string name="update_news_dialog_items_4">Podpora maďarštiny</string>
+    <string name="update_news_dialog_items_5">nahlášení nevhodného obsahu nebo profilů</string>
     <string name="update_news_dialog_items_6">nový vzhled – ikony, barvy</string>
     <string name="update_news_dialog_items_7">inzerát si můžete přidat do oblíbených</string>
 </resources>
