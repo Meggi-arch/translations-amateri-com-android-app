@@ -1092,6 +1092,10 @@
         <item>@string/update_news_dialog_items_1</item>
         <item>@string/update_news_dialog_items_2</item>
         <item>@string/update_news_dialog_items_3</item>
+        <item>@string/update_news_dialog_items_4</item>
+        <item>@string/update_news_dialog_items_5</item>
+        <item>@string/update_news_dialog_items_6</item>
+        <item>@string/update_news_dialog_items_7</item>
     </string-array>
     <string name="title_safe_mode_disabled">Zapnúť slušný režím</string>
     <string name="title_safe_mode_enabled">Vypnúť slušný režím</string>

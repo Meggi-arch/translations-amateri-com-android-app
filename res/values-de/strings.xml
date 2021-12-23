@@ -1290,6 +1290,10 @@
         <item>@string/update_news_dialog_items_1</item>
         <item>@string/update_news_dialog_items_2</item>
         <item>@string/update_news_dialog_items_3</item>
+        <item>@string/update_news_dialog_items_4</item>
+        <item>@string/update_news_dialog_items_5</item>
+        <item>@string/update_news_dialog_items_6</item>
+        <item>@string/update_news_dialog_items_7</item>
     </string-array>
     <string name="update_news_dialog_items_0">VIP-Mitgliedschaft über Credits erwerben</string>
     <string name="update_news_dialog_items_1">Filter zur Anzeige von Fotos im Gespräch</string>
