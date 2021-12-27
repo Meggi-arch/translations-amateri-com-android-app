@@ -8,7 +8,7 @@
     <string name="save">Mentés</string>
     <string name="dialog_android_unsupported_title">Nem támogatott funkció</string>
     <string name="dialog_android_unsupported_text">Sajnáljuk, de az Ön operációs rendszere túl régi ahhoz, hogy ezt a funkciót használhassa :(</string>
-    <string name="general_empty_title">Itt nincs semmi.</string>
+    <string name="general_empty_title">Itt nincs semmi</string>
     <string name="general_empty_text">Nincs mit mutatni :(</string>
     <string name="title_home">Honlap</string>
     <string name="title_album">Fotóalbumok</string>
@@ -157,12 +157,12 @@
         <item quantity="other">%d évek</item>
     </plurals>
     <plurals name="people">
-        <item quantity="one">%d személynek tetszik</item>
-        <item quantity="other">%d embernek tetszik</item>
+        <item quantity="one">%d személy szereti</item>
+        <item quantity="other">%d személyek szeretik</item>
     </plurals>
     <plurals name="topics">
-        <item quantity="one">%d témakör</item>
-        <item quantity="other">%d témakörök</item>
+        <item quantity="one">%d téma</item>
+        <item quantity="other">%d témák</item>
     </plurals>
     <plurals name="collections_filter_show">
         <item quantity="one">%d gyűjtemény megjelenítése</item>
@@ -703,7 +703,7 @@
         <item quantity="other">%d hátralévő napok</item>
     </plurals>
     <string name="sms_price">Egyetlen kapott üzenet ára %s, beleértve az áfát is.</string>
-    <string name="vip_send_sms_instructions">Küldjön SMS-t az %1$s szöveggel az %2$s címre.</string>
+    <string name="vip_send_sms_instructions">Küldjön SMS-t az %1$s szöveggel az %2$s címre</string>
     <string name="vip_get_one_day_for_free">Szerezzen 1 nap VIP tagságot ingyenesen</string>
     <string name="vip_plus_one_day_free">+ 1 nap ingyen</string>
     <string name="online_users_only">Csak online felhasználók</string>
@@ -1096,7 +1096,7 @@
     <string name="janus_broadcast_service_notification_action_turn_off">Kapcsolja ki a kamerát</string>
     <string name="bottomsheet_webcam_broadcast_title">A kamerám</string>
     <string name="bottomsheet_webcam_listener_title">%s folyam</string>
-    <string name="bottomsheet_webcam_listener_maximize">"Maximalizálja a  címet"</string>
+    <string name="bottomsheet_webcam_listener_maximize">Maximalizálja a címet</string>
     <string name="bottomsheet_webcam_listener_whisper">Suttogás</string>
     <string name="bottomsheet_webcam_listener_reward">Jutalmazás kreditekkel</string>
     <string name="webcam_detail_toolbar_title">Folyamok: %s</string>
@@ -1357,4 +1357,25 @@
     <string name="fragment_mfa_sms_request_code_text">Kódkérés</string>
     <string name="wallet_choose_pricelevel">Válasszon egy összeget</string>
     <string name="dating_buy_top_dialog_send_wallet">Kreditek küldése</string>
+    <string name="wallet_additional_info_buy_credits">Vásároljon</string>
+    <string name="webview_error_file_chooser">Nem lehet megnyitni a Fájlválasztót</string>
+    <string name="profile_options_report_user">Jelentés</string>
+    <string name="payment_selection_code_missing">Az SMS kódot ki kell tölteni</string>
+    <string name="setup_notification_mode">Diszkrét értesítések</string>
+    <string name="registration_terms_and_conditions">A regisztrációval Ön elfogadja a &lt;a href=https://www.amateri.com/en/legal/general-terms-conditions&gt;Általános Szerződési Feltételeket&lt;/a&gt; és a &lt;a href=https://www.amateri.com/en/legal/privacy&gt;Adatvédelmi és adatvédelmi szabályzatot&lt;/a&gt;.</string>
+    <string name="registration_continue">Folytatás</string>
+    <string name="registration_sign_up_with_google">Regisztráljon a Google-nál</string>
+    <string name="wallet_additional_info_items_2">Jutalmazza kedvenc csettfolyamát és tartalmát</string>
+    <string name="wallet_additional_info_close">Bezárás</string>
+    <string name="webview_file_downloaded">Fájl mentve</string>
+    <string name="webview_error_image_download">A kép letöltése nem sikerült</string>
+    <string name="webview_image_download_header">Kép letöltése</string>
+    <string name="webview_image_download_save_item_title">Kép mentése</string>
+    <string name="buy_vip_wallet_dialog_ok_button_text">Vásároljon</string>
+    <string name="buy_vip_wallet_success_text">A VIP sikeresen aktiválódott</string>
+    <string name="bottomsheet_content_detail_more_information">További információk</string>
+    <string name="bottomsheet_content_detail_report">Jelentés</string>
+    <string name="notification_discreet_title">Új értesítés</string>
+    <string name="notification_discreet_content">Új értesítést kapott.</string>
+    <string name="buy_vip_wallet_dialog_text">Szeretne %s-t vásárolni %d kreditért\?</string>
 </resources>
