@@ -1415,7 +1415,8 @@
     <string name="setup_notification_mode">Diskrétne oznámenia</string>
     <string name="payment_selection_code_missing">Je potrebné vyplniť kód SMS</string>
     <string name="update_news_dialog_items_4">Podpora maďarčiny</string>
-    <string name="update_news_dialog_items_5">nahlasovať nevhodný obsah alebo profily.</string>
+    <string name="update_news_dialog_items_5">nahlasovať nevhodný obsah alebo profily</string>
     <string name="update_news_dialog_items_6">nový vzhľad - ikony, farby</string>
     <string name="update_news_dialog_items_7">môžete pridať reklamu do obľúbených</string>
+    <string name="registration_continue">Pokračovať</string>
 </resources>
