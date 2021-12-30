@@ -95,6 +95,7 @@
     <string name="hint_email">Email</string>
     <string name="hint_username">Nickname</string>
     <string name="hint_password">Password</string>
+    <string name="hint_nickname_or_email">Nickname or email</string>
     <string name="tab_albums">Albums</string>
     <string name="tab_videos">Videos</string>
     <string name="tab_blogs">Blog</string>
@@ -143,6 +144,7 @@
     <string name="title_sex_search_purpose">Purpose of search</string>
     <string name="title_personal_descr">Personal description</string>
     <string name="title_profile_address">Profile URL</string>
+    <string name="title_visibility_on_your_profile">Visibility on your profile</string>
     <string name="title_unknown">N/A</string>
     <string name="title_centimeters">cm</string>
     <string name="title_kilograms">kg</string>
@@ -303,12 +305,79 @@
     <string name="lists_error_dialog_retry">Repeat</string>
     <!--LoginActivity-->
     <string name="button_login">Log in</string>
+    <string name="button_login_with_google">Log in with Google</string>
     <string name="button_registration">Sign up</string>
     <string name="button_entry">Enter without login</string>
+    <string name="login_forgotten_password_button">Forgot password?</string>
+    <!--ResendVerificationEmailActivity-->
+    <string name="resend_verification_email_title">Resend email verification code</string>
+    <string name="resend_verification_email_resend_button">Resend</string>
+    <string name="resend_verification_email_success">The verification code has been resent.</string>
+    <!--EmailVerificationActivity-->
+    <string name="email_verification_title">Email verification</string>
+    <string name="email_verification_verified_and_logged_in">Your email was verified.</string>
+    <string name="email_verification_verified_and_can_log_in">Your email was verified, you can log in now.</string>
+    <!--RestoreAccountActivity-->
+    <string name="restore_account_title">Restore your account</string>
+    <string name="restore_account_submit_button">Submit</string>
+    <string name="restore_account_success">An email with instructions has been sent.</string>
+    <!--ForgottenPasswordActivity-->
+    <string name="forgotten_password_title">Forgotten password</string>
+    <string name="forgotten_password_submit_button">Submit</string>
+    <string name="forgotten_password_success">An email with instructions has been sent.</string>
+    <string name="forgotten_password_form_email_is_blank">Email must be filled.</string>
+    <string name="forgotten_password_form_email_is_invalid">Please enter a valid email address.</string>
+    <!--PasswordResetActivity-->
+    <string name="password_reset_title">Password reset</string>
+    <string name="password_reset_new_password">New password</string>
+    <string name="password_reset_repeat_new_password">Repeat new password</string>
+    <string name="password_reset_submit_button">Submit</string>
+    <string name="password_reset_password_changed">Your password has been changed, please log in.</string>
+    <string name="password_reset_form_password_is_empty">Password must be filled.</string>
+    <string name="password_reset_form_passwords_must_match">Passwords must match.</string>
+    <!-- PhoneVerificationActivity -->
+    <string name="phone_verification_title">Phone number verification</string>
+    <string name="phone_verification_visibility_on_your_profile">Visibility on your profile</string>
+    <string name="phone_verification_change_your_country">Change your country</string>
+    <string name="phone_verification_successfully_verified">You were successfully verified</string>
+    <string name="phone_verification_dialog_wrong_code_title">Incorrect code</string>
+    <string name="phone_verification_dialog_wrong_code_body_text">The verification code you entered was incorrect or expired.</string>
+    <string name="phone_verification_dialog_wrong_code_button_enter_again">Try again</string>
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
-    <string name="registration_terms_and_conditions">By signing up, you accept our &lt;a href=\"https://www.amateri.com/en/legal/general-terms-conditions\"&gt;General Terms and Conditions&lt;/a&gt; and &lt;a href=\"https://www.amateri.com/en/legal/privacy\"&gt;Privacy and Data Protection Policy&lt;/a&gt;.</string>
+    <string name="registration_terms_and_conditions"><![CDATA[By signing up, you accept our <a href="https://www.amateri.com/en/legal/general-terms-conditions">General Terms and Conditions</a> and <a href="https://www.amateri.com/en/legal/privacy">Privacy and Data Protection Policy</a>.]]></string>
+    <string name="registration_resend_verification_email">Resend email verification code</string>
+    <string name="registration_restore_your_account">Restore your account</string>
+    <string name="registration_already_have_an_account">Have an account? <u>Log in</u></string>
+    <string name="registration_form_email_is_blank">Email must be filled.</string>
+    <string name="registration_form_password_is_blank">Password must be filled.</string>
+    <string name="registration_form_email_is_invalid">Please enter a valid email address.</string>
+    <string name="registration_form_password_wrong_length">Password must have at least %d characters.</string>
+    <!--RegistrationSetupActivity-->
+    <string name="registration_sign_up_title">Join for free</string>
+    <string name="registration_sign_up_subtitle">and meet other Amateurs</string>
+    <string name="registration_setup_user_title">Introduce yourself</string>
+    <string name="registration_setup_user_subtitle">Please enter your nickname and select your gender</string>
+    <string name="registration_setup_location_title">Where you are from?</string>
+    <string name="registration_setup_location_subtitle">Select your country and region</string>
+    <string name="registration_nickname">Nickname</string>
+    <string name="registration_gender">Gender</string>
+    <string name="registration_gender_default">Select gender</string>
+    <string name="registration_region_default">Select region</string>
+    <!--RegistrationConfirmationActivity-->
+    <string name="registration_activated_title">Your account is ready!</string>
+    <string name="registration_activated_subtitle">TODO</string>
+    <string name="registration_activation_title">Activate your account</string>
+    <string name="registration_activation_subtitle">You are almost done</string>
+    <string name="registration_welcome_user">Welcome <b>%s</b>,\nwe\'re glad to have you on board!</string>
+    <string name="registration_account_is_created_but_not_activated">Your profile has been created, but hasn\'t been activated yet.</string>
+    <string name="registration_account_is_activated_log_in_now">Your profile has been activated! You can log in now.</string>
+    <string name="registration_activation_link_in_email">An activation link has been sent to your email address <b>%s</b>.</string>
+    <string name="registration_open_email_app">Open email app</string>
+    <string name="registration_open_email_app_title">Which app to open?</string>
+    <string name="registration_spam_folder_notice">If you can\'t find your email, please check the spam folder in your email client.</string>
+    <string name="registration_email_verified_outside_app_log_in">Done verifying the email? <u>Log in</u></string>
     <!--FilterAlbumActivity | FilterUserActivity-->
     <string name="title_filter_results">Search results</string>
     <!--MyProfileActivity-->
@@ -1427,6 +1496,7 @@
     <string name="dialog_mfa_missing_secret_content">You have probably unistalled the app meanwhile and your two-factor identification is not valid . Please cancel it and create new on the web.</string>
     <string name="dialog_mfa_missing_secret_goto_setting">Go to settings</string>
     <string name="dialog_mfa_missing_secret_cancel">Cancel</string>
+
     <string name="activity_mfa_bottomsheet_select_method_title">Select another method</string>
     <string name="activity_mfa_bottomsheet_contact_support">Contact support</string>
     <string name="activity_mfa_button_choose_different_method">Select another method</string>
@@ -1443,6 +1513,7 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
+
     <string name="view_wallet_top_up_get">Get</string>
     <string name="wallet_current_balance">Current balance</string>
     <string name="wallet_choose_pricelevel">Choose an amount</string>
