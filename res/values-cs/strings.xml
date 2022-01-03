@@ -1508,7 +1508,7 @@
     <string name="update_news_dialog_items_5">nahlášení nevhodného obsahu nebo profilů</string>
     <string name="update_news_dialog_items_6">nový vzhled – ikony, barvy</string>
     <string name="update_news_dialog_items_7">inzerát si můžete přidat do oblíbených</string>
-    <string name="registration_terms_and_conditions">Registrací přijímáte naše &lt;a href=https://www.amateri.com/en/legal/general-terms-conditions&gt;Všeobecné obchodní podmínky&lt;/a&gt; a &lt;a href=https://www.amateri.com/en/legal/privacy&gt;Zásady ochrany osobních údajů&lt;/a&gt;.</string>
+    <string name="registration_terms_and_conditions">Registrací přijímáte naše &lt;a href=https://www.amateri.com/cs/legal/general-terms-conditions&gt;Všeobecné obchodní podmínky&lt;/a&gt; a &lt;a href=https://www.amateri.com/cs/legal/privacy&gt;Zásady ochrany osobních údajů&lt;/a&gt;.</string>
     <string name="registration_continue">Pokračovat</string>
     <string name="registration_sign_up_with_google">Registrovat se přes Google</string>
 </resources>
