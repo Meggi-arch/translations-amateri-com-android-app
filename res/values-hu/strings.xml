@@ -1362,7 +1362,7 @@
     <string name="profile_options_report_user">Jelentés</string>
     <string name="payment_selection_code_missing">Az SMS kódot ki kell tölteni</string>
     <string name="setup_notification_mode">Diszkrét értesítések</string>
-    <string name="registration_terms_and_conditions">A regisztrációval Ön elfogadja a &lt;a href=https://www.amateri.com/en/legal/general-terms-conditions&gt;Általános Szerződési Feltételeket&lt;/a&gt; és a &lt;a href=https://www.amateri.com/en/legal/privacy&gt;Adatvédelmi és adatvédelmi szabályzatot&lt;/a&gt;.</string>
+    <string name="registration_terms_and_conditions">A regisztrációval Ön elfogadja a &lt;a href=https://www.amateri.com/hu/legal/general-terms-conditions&gt;Általános Szerződési Feltételeket&lt;/a&gt; és a &lt;a href=https://www.amateri.com/hu/legal/privacy&gt;Adatvédelmi és adatvédelmi szabályzatot&lt;/a&gt;.</string>
     <string name="registration_continue">Folytatás</string>
     <string name="registration_sign_up_with_google">Regisztráljon a Google-nál</string>
     <string name="wallet_additional_info_items_2">Jutalmazza kedvenc csettfolyamát és tartalmát</string>
