@@ -308,7 +308,7 @@
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
-    <string name="registration_terms_and_conditions"><![CDATA[By signing up, you accept our <a href="https://www.amateri.com/en/legal/general-terms-conditions">General Terms and Conditions</a> and <a href="https://www.amateri.com/en/legal/privacy">Privacy and Data Protection Policy</a>.]]></string>
+    <string name="registration_terms_and_conditions">By signing up, you accept our &lt;a href=\"https://www.amateri.com/en/legal/general-terms-conditions\"&gt;General Terms and Conditions&lt;/a&gt; and &lt;a href=\"https://www.amateri.com/en/legal/privacy\"&gt;Privacy and Data Protection Policy&lt;/a&gt;.</string>
     <!--FilterAlbumActivity | FilterUserActivity-->
     <string name="title_filter_results">Search results</string>
     <!--MyProfileActivity-->
