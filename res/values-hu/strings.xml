@@ -566,7 +566,7 @@
     <string name="new_collection_create_success">Létrehozott gyűjtemény</string>
     <string name="new_video_save">Ments és folytasd</string>
     <string name="new_collection_create_and_save_success">Az elemet felvették az új gyűjteménybe</string>
-    <string name="album_upload_choose_photo">Fotófeltöltés</string>
+    <string name="album_upload_choose_photo">Fotó feltöltés</string>
     <string name="album_upload_send_to_review">Küldje el jóváhagyásra</string>
     <string name="photo_delete_dialog_title">Töröljem ezt a fotót\?</string>
     <string name="photo_delete_dialog">Biztos, hogy törölni szeretné ezt a fotót\?</string>
