@@ -1571,9 +1571,19 @@
     <string name="buy_vip_wallet_dialog_text">Do you want to buy %s for %d credits?</string>
     <string name="buy_vip_wallet_dialog_ok_button_text">Buy</string>
     <string name="buy_vip_wallet_success_text">VIP has been successfully activated</string>
+    <string name="conversations_audio_record_permission_not_granted">Audio recording is to allowed</string>
+    <string name="conversations_audio_record_start_error">Audio recording start failed</string>
+    <string name="conversations_audio_record_start_error_create_folder">Audio recording could not create audio folder.</string>
+    <string name="conversation_audio_record_empty">Message seems to be empty, please try again</string>
+    <string name="conversation_audio_record_too_short">Voice message is too short to be sent.</string>
+    <string name="conversation_audio_record_max_duration_reached">Maximum allowed voice message duration has been reached.</string>
+    <string name="conversation_audio_record_max_size_reached">Maximum allowed voice message size has been reached.</string>
+    <string name="conversation_audio_record_seems_quiet">You seem to be quiet, check your microphone.</string>
+    <string name="conversation_audio_record_max_duration_approaching">Your recording is approaching maximum allowed limit for voice message.</string>
     <string name="bottomsheet_content_detail_more_information">More information</string>
     <string name="bottomsheet_content_detail_report">Report</string>
     <string name="profile_options_report_user">Report</string>
     <string name="setup_notification_mode">Discreet notifications</string>
     <string name="payment_selection_code_missing">SMS code must be filled</string>
+    <string name="setup_voice_message_enabled">Receive voice messages</string>
 </resources>
