@@ -1486,7 +1486,6 @@
     <string name="dialog_mfa_missing_secret_content">You have probably unistalled the app meanwhile and your two-factor identification is not valid . Please cancel it and create new on the web.</string>
     <string name="dialog_mfa_missing_secret_goto_setting">Go to settings</string>
     <string name="dialog_mfa_missing_secret_cancel">Cancel</string>
-
     <string name="activity_mfa_bottomsheet_select_method_title">Select another method</string>
     <string name="activity_mfa_bottomsheet_contact_support">Contact support</string>
     <string name="activity_mfa_button_choose_different_method">Select another method</string>
@@ -1503,7 +1502,6 @@
     <string name="fragment_mfa_sms_info_code_sent_phonenumber">An SMS with a verification code has been sent to your phone %s.</string>
     <string name="fragment_mfa_sms_info_code_sent">The authentication code has been sent to your phone.</string>
     <string name="fragment_mfa_sms_request_code_text">Request a code</string>
-
     <string name="view_wallet_top_up_get">Get</string>
     <string name="wallet_current_balance">Current balance</string>
     <string name="wallet_choose_pricelevel">Choose an amount</string>
@@ -1577,7 +1575,7 @@
     <string name="conversation_audio_record_empty">Message seems to be empty, please try again</string>
     <string name="conversation_audio_record_too_short">Voice message is too short to be sent.</string>
     <string name="conversation_audio_record_max_duration_reached">Maximum allowed voice message duration has been reached.</string>
-    <string name="conversation_audio_record_max_size_reached">Maximum allowed voice message size has been reached.</string>
+    <string name="conversation_audio_record_max_size_reached">Maximum allowed voice message duration has been reached.</string>
     <string name="conversation_audio_record_seems_quiet">You seem to be quiet, check your microphone.</string>
     <string name="conversation_audio_record_max_duration_approaching">Your recording is approaching maximum allowed limit for voice message.</string>
     <string name="bottomsheet_content_detail_more_information">More information</string>
