@@ -362,9 +362,8 @@
     <string name="registration_setup_location_title">Where you are from?</string>
     <string name="registration_setup_location_subtitle">Select your country and region</string>
     <string name="registration_nickname">Nickname</string>
-    <string name="registration_gender">Gender</string>
-    <string name="registration_gender_default">Select gender</string>
     <string name="registration_region_default">Select region</string>
+    <string name="registration_gender_not_selected">Please select your gender</string>
     <!--RegistrationConfirmationActivity-->
     <string name="registration_activated_title">Your account is ready!</string>
     <string name="registration_activated_subtitle">TODO</string>
