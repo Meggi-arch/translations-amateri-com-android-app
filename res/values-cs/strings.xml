@@ -1560,12 +1560,14 @@
     <string name="registration_email_verified_outside_app_log_in">Ověření e-mailu dokončeno\? <u>Přihlaste se</u></string>
     <string name="conversations_audio_record_permission_not_granted">Zvukový záznam je povolen</string>
     <string name="conversations_audio_record_start_error">Spuštění nahrávání zvuku se nezdařilo</string>
-    <string name="conversations_audio_record_start_error_create_folder">Při nahrávání zvuku se nepodařilo vytvořit zvukovou složku.</string>
-    <string name="conversation_audio_record_empty">Zdá se, že zpráva je prázdná, zkuste to prosím znovu</string>
+    <string name="conversations_audio_record_start_error_create_folder">Nahrávání hlasové zprávy se bohužel nezdařilo, zkuste to prosím znovu.</string>
+    <string name="conversation_audio_record_empty">Zdá se, že zpráva je prázdná, zkuste to prosím znovu.</string>
     <string name="conversation_audio_record_too_short">Hlasová zpráva je příliš krátká na to, aby mohla být odeslána.</string>
     <string name="conversation_audio_record_max_duration_reached">Bylo dosaženo maximální povolené délky hlasové zprávy.</string>
     <string name="conversation_audio_record_max_size_reached">Bylo dosaženo maximální povolené délky hlasové zprávy.</string>
     <string name="conversation_audio_record_seems_quiet">Zdá se, že jste potichu, zkontrolujte si mikrofon.</string>
     <string name="conversation_audio_record_max_duration_approaching">Váš záznam se blíží maximálnímu povolenému limitu pro hlasovou zprávu.</string>
     <string name="setup_voice_message_enabled">Přijímání hlasových zpráv</string>
+    <string name="registration_activation_link_in_email">Na vaši e-mailovou adresu byl zaslán aktivační odkaz <b>%s</b>.</string>
+    <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
 </resources>
