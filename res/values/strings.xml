@@ -306,6 +306,7 @@
     <!--LoginActivity-->
     <string name="button_login">Log in</string>
     <string name="button_login_with_google">Log in with Google</string>
+    <string name="button_sign_up_for_free">Sign up for free</string>
     <string name="button_registration">Sign up</string>
     <string name="button_entry">Enter without login</string>
     <string name="login_forgotten_password_button">Forgot password?</string>
