@@ -1570,4 +1570,6 @@
     <string name="setup_voice_message_enabled">Přijímání hlasových zpráv</string>
     <string name="registration_activation_link_in_email">Na vaši e-mailovou adresu byl zaslán aktivační odkaz <b>%s</b>.</string>
     <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
+    <string name="button_sign_up_for_free">Registrace zdarma</string>
+    <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
 </resources>
