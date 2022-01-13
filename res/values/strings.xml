@@ -445,6 +445,9 @@
     <string name="invalid_login_dialog_content">Incorrect login details entered.</string>
     <string name="invalid_login_dialog_retry">Try again</string>
     <string name="invalid_login_dialog_forgot_password">I’ve forgotten my password</string>
+    <string name="invalid_login_dialog_reset_password">Reset password</string>
+    <string name="invalid_login_dialog_resend_verification_email">Resend verification email</string>
+    <string name="invalid_login_dialog_restore_account">Restore account</string>
     <!--Feedback dialog-->
     <string name="feedback_dialog_title">Feedback</string>
     <string name="feedback_dialog_text">Thank you for helping us to develop this app. We’d love to receive your feedback, please click the link in the left menu.</string>
