@@ -366,18 +366,16 @@
     <string name="registration_region_default">Select region</string>
     <string name="registration_gender_not_selected">Please select your gender</string>
     <!--RegistrationConfirmationActivity-->
-    <string name="registration_activated_title">Your account is ready!</string>
-    <string name="registration_activated_subtitle">TODO</string>
-    <string name="registration_activation_title">Activate your account</string>
-    <string name="registration_activation_subtitle">You are almost done</string>
-    <string name="registration_welcome_user">Welcome <b>%s</b>,\nwe\'re glad to have you on board!</string>
-    <string name="registration_account_is_created_but_not_activated">Your profile has been created, but hasn\'t been activated yet.</string>
-    <string name="registration_account_is_activated_log_in_now">Your profile has been activated! You can log in now.</string>
-    <string name="registration_activation_link_in_email">An activation link has been sent to your email address <b>%s</b>.</string>
+    <string name="registration_welcome_title">%s,\nwelcome among us!</string>
+    <string name="registration_enjoy_amateurs">Come in and enjoy the world of Amateurs.</string>
+    <string name="registration_account_is_created_but_not_activated">Your profile has been created, but please note that it is not yet active.</string>
+    <string name="registration_activation_link_in_email">To complete your registration, just click on the link we sent to %s.</string>
+    <string name="registration_enter_to_app">Enter to app</string>
     <string name="registration_open_email_app">Open email app</string>
     <string name="registration_open_email_app_title">Which app to open?</string>
-    <string name="registration_spam_folder_notice">If you can\'t find your email, please check the spam folder in your email client.</string>
-    <string name="registration_email_verified_outside_app_log_in">Done verifying the email? <u>Log in</u></string>
+    <string name="registration_contact_support_title">Didn\'t receive the email?</string>
+    <string name="registration_contact_support_text">If you didn\'t get the email, please try looking in your spam folder or hang on for a few minutes.\n\nIf that doesn\'t work either, or if you have any other problem activating your account, please email us and we\'ll sort it out.</string>
+    <string name="registration_contact_support_button">Contact Support</string>
     <!--FilterAlbumActivity | FilterUserActivity-->
     <string name="title_filter_results">Search results</string>
     <!--MyProfileActivity-->

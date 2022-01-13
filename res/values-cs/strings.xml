@@ -1550,14 +1550,6 @@
     <string name="registration_gender">Pohlaví</string>
     <string name="registration_gender_default">Zvolte pohlaví</string>
     <string name="registration_region_default">Vyberte region</string>
-    <string name="registration_activated_title">Váš účet je hotový!</string>
-    <string name="registration_activation_title">Aktivace účtu</string>
-    <string name="registration_activation_subtitle">Jste téměř hotovi</string>
-    <string name="registration_welcome_user">%s, vítejte mezi námi!</string>
-    <string name="registration_account_is_created_but_not_activated">Váš profil byl vytvořen, ale ještě není aktivní.</string>
-    <string name="registration_account_is_activated_log_in_now">Váš profil byl aktivován! Nyní se můžete přihlásit.</string>
-    <string name="registration_spam_folder_notice">Pokud nemůžete najít svůj e-mail, zkontrolujte prosím složku spam v e-mailovém klientovi.</string>
-    <string name="registration_email_verified_outside_app_log_in">Ověření e-mailu dokončeno\? <u>Přihlaste se</u></string>
     <string name="conversations_audio_record_permission_not_granted">Zvukový záznam je povolen</string>
     <string name="conversations_audio_record_start_error">Spuštění nahrávání zvuku se nezdařilo</string>
     <string name="conversations_audio_record_start_error_create_folder">Nahrávání hlasové zprávy se bohužel nezdařilo, zkuste to prosím znovu.</string>
@@ -1568,8 +1560,6 @@
     <string name="conversation_audio_record_seems_quiet">Zdá se, že jste potichu, zkontrolujte si mikrofon.</string>
     <string name="conversation_audio_record_max_duration_approaching">Váš záznam se blíží maximálnímu povolenému limitu pro hlasovou zprávu.</string>
     <string name="setup_voice_message_enabled">Přijímání hlasových zpráv</string>
-    <string name="registration_activation_link_in_email">Na vaši e-mailovou adresu byl zaslán aktivační odkaz <b>%s</b>.</string>
-    <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
     <string name="button_sign_up_for_free">Registrace zdarma</string>
     <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
 </resources>
