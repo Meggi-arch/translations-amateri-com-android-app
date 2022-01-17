@@ -1377,7 +1377,7 @@
     <string name="payment_selection_dating_top_up_title">Topovat inzerát</string>
     <string name="payment_selection_country_title">Země</string>
     <string name="payment_selection_country_select">Vybrat krajinu</string>
-    <string name="payment_selection_payment_type">Vybrat spůsob platby</string>
+    <string name="payment_selection_payment_type">Vybrat způsob platby</string>
     <string name="payment_selection_change_payment">Změnit platbu</string>
     <string name="payment_selection_enter_sms_code">Vložte SMS kód</string>
     <string name="payment_selection_write_messages">Napsat správu</string>
@@ -1385,7 +1385,7 @@
     <string name="payment_selection_ok_text_pay_sms">Poslat SMS</string>
     <string name="payment_selection_ok_text_pay_wallet">Poslat</string>
     <string name="payment_selection_type_sms_title">SMS Platba</string>
-    <string name="payment_selection_type_sms_subtitle">Nejjednoduchší spůsob platby</string>
+    <string name="payment_selection_type_sms_subtitle">Nejjednodušší způsob platby</string>
     <string name="payment_selection_type_wallet_title">Peněženka</string>
     <string name="payment_selection_type_wallet_subtitle">Nová interní měna Amateri.com</string>
     <string name="payment_selection_success_topup">Inzerát byl úspěšně topován</string>
