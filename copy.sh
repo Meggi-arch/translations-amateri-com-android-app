@@ -1,0 +1,1 @@
+./copy_from_translate.sh ./res ../mobile/src/main/res
