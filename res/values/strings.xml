@@ -1458,14 +1458,7 @@
     <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
-    <string name="update_news_dialog_items_0">purchase VIP membership via credits</string>
-    <string name="update_news_dialog_items_1">filter to display photos in conversation</string>
-    <string name="update_news_dialog_items_2">creating and editing collections</string>
-    <string name="update_news_dialog_items_3">discrete notification settings</string>
-    <string name="update_news_dialog_items_4">Hungarian language support</string>
-    <string name="update_news_dialog_items_5">report innappropriate content or profiles</string>
-    <string name="update_news_dialog_items_6">new look - icons, colours</string>
-    <string name="update_news_dialog_items_7">you can add an ad to your favourites</string>
+    <string name="update_changelog">purchase VIP membership via credits\nfilter to display photos in conversation\ncreating and editing collections\ndiscrete notification settings\nHungarian language support\nreport innappropriate content or profiles\nnew look - icons, colours\nyou can add an ad to your favourites</string>
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
