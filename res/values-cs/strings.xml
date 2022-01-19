@@ -1405,10 +1405,6 @@
     <string name="wallet_transaction_date_yesterday">Včera</string>
     <string name="bottomsheet_webcam_listener_report">Nahlášení</string>
     <string name="wallet_buy_credit_no_payments_found">Nebyla nalezena žádná možnost platby</string>
-    <string name="update_news_dialog_items_0">nákup VIP členství prostřednictvím kreditů</string>
-    <string name="update_news_dialog_items_1">filtr na zobrazení fotek v konverzaci</string>
-    <string name="update_news_dialog_items_2">vytváření a úprava sbírek</string>
-    <string name="update_news_dialog_items_3">nastavení diskrétního oznamování</string>
     <string name="no_transaction_found_description">Nemáte žádnou transakční historii.</string>
     <string name="wallet_last_transactions_header">Poslední transakce</string>
     <string name="wallet_credits_header">kredity</string>
@@ -1494,10 +1490,6 @@
     <string name="webview_error_file_chooser">Nelze otevřít Výběr souborů</string>
     <string name="payment_selection_code_missing">Je potřeba vyplnit SMS kód</string>
     <string name="setup_notification_mode">Diskrétní oznámení</string>
-    <string name="update_news_dialog_items_4">Podpora maďarštiny</string>
-    <string name="update_news_dialog_items_5">nahlášení nevhodného obsahu nebo profilů</string>
-    <string name="update_news_dialog_items_6">nový vzhled – ikony, barvy</string>
-    <string name="update_news_dialog_items_7">inzerát si můžete přidat do oblíbených</string>
     <string name="registration_terms_and_conditions">Registrací přijímáte naše &lt;a href=https://www.amateri.com/cs/legal/general-terms-conditions&gt;Všeobecné obchodní podmínky&lt;/a&gt; a &lt;a href=https://www.amateri.com/cs/legal/privacy&gt;Zásady ochrany osobních údajů&lt;/a&gt;.</string>
     <string name="registration_continue">Pokračovat</string>
     <string name="registration_sign_up_with_google">Registrovat se přes Google</string>
@@ -1530,9 +1522,6 @@
     <string name="phone_verification_visibility_on_your_profile">Viditelnost na vašem profilu</string>
     <string name="phone_verification_change_your_country">Změňte svou zemi</string>
     <string name="phone_verification_successfully_verified">Byli jste úspěšně ověřeni</string>
-    <string name="phone_verification_dialog_wrong_code_title">Nesprávný kód</string>
-    <string name="phone_verification_dialog_wrong_code_body_text">Zadaný ověřovací kód byl nesprávný nebo jeho platnost vypršela.</string>
-    <string name="phone_verification_dialog_wrong_code_button_enter_again">Zkusit znovu</string>
     <string name="registration_resend_verification_email">Znovu odeslat kód pro ověření e-mailu</string>
     <string name="registration_restore_your_account">Obnovit svůj účet</string>
     <string name="registration_already_have_an_account">Máte účet\? <u>Přihlaste se</u></string>
@@ -1547,8 +1536,6 @@
     <string name="registration_setup_location_title">Odkud jste\?</string>
     <string name="registration_setup_location_subtitle">Vyberte svou zemi a region.</string>
     <string name="registration_nickname">Přezdívka</string>
-    <string name="registration_gender">Pohlaví</string>
-    <string name="registration_gender_default">Zvolte pohlaví</string>
     <string name="registration_region_default">Vyberte region</string>
     <string name="conversations_audio_record_permission_not_granted">Zvukový záznam je povolen</string>
     <string name="conversations_audio_record_start_error">Spuštění nahrávání zvuku se nezdařilo</string>

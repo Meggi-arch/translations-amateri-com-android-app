@@ -1285,10 +1285,6 @@
     <string name="report_dialog_description_hint">Zusätzliche Beschreibung</string>
     <string name="bottomsheet_webcam_listener_report">Report</string>
     <string name="wallet_buy_credit_no_payments_found">Keine Zahlungsoption gefunden</string>
-    <string name="update_news_dialog_items_0">VIP-Mitgliedschaft über Credits erwerben</string>
-    <string name="update_news_dialog_items_1">Filter zur Anzeige von Fotos im Gespräch</string>
-    <string name="update_news_dialog_items_2">Erstellen und Bearbeiten von Sammlungen</string>
-    <string name="update_news_dialog_items_3">diskrete Benachrichtigungseinstellungen</string>
     <string name="wallet_last_transactions_header">Letzte Transaktionen</string>
     <string name="wallet_credits_header">credits</string>
     <string name="wallet_transaction_fee">(%d Kreditgebühr)</string>
@@ -1377,10 +1373,6 @@
     <string name="buy_vip_wallet_dialog_ok_button_text">Kaufen</string>
     <string name="setup_notification_mode">Diskrete Benachrichtigungen</string>
     <string name="payment_selection_code_missing">SMS-Code muss eingegeben werden</string>
-    <string name="update_news_dialog_items_5">unangemessene Inhalte oder Profile melden</string>
-    <string name="update_news_dialog_items_6">neues Aussehen - Symbole, Farben</string>
-    <string name="update_news_dialog_items_7">Sie können eine Anzeige zu Ihren Favoriten hinzufügen</string>
-    <string name="update_news_dialog_items_4">Unterstützung der ungarischen Sprache</string>
     <string name="registration_continue">Weiter</string>
     <string name="registration_sign_up_with_google">Mit Google anmelden</string>
     <string name="registration_terms_and_conditions">Mit der Registrierung akzeptieren Sie unsere &lt;a href=https://www.amateri.com/de/legal/general-terms-conditions&gt;Allgemeinen Geschäftsbedingungen&lt;/a&gt; und &lt;a href=https://www.amateri.com/de/legal/privacy&gt;Datenschutzerklärung&lt;/a&gt;.</string>

@@ -1312,10 +1312,6 @@
     <string name="wallet_transaction_date_today">Dnes</string>
     <string name="wallet_transaction_date_yesterday">Včera</string>
     <string name="bottomsheet_webcam_listener_report">Nahlásenie</string>
-    <string name="update_news_dialog_items_0">zakúpenie VIP členstva za kredity</string>
-    <string name="update_news_dialog_items_1">filter na zobrazenie fotografií v konverzácii</string>
-    <string name="update_news_dialog_items_2">vytváranie a úprava zbierok</string>
-    <string name="update_news_dialog_items_3">diskrétne nastavenia oznámení</string>
     <string name="wallet_last_transactions_header">Posledné transakcie</string>
     <string name="no_transaction_found_description">Nemáte žiadnu históriu transakcií.</string>
     <string name="wallet_credits_header">kredity</string>
@@ -1404,10 +1400,6 @@
     <string name="webview_image_download_save_item_title">Uložiť obrázok</string>
     <string name="setup_notification_mode">Diskrétne oznámenia</string>
     <string name="payment_selection_code_missing">Je potrebné vyplniť kód SMS</string>
-    <string name="update_news_dialog_items_4">Podpora maďarčiny</string>
-    <string name="update_news_dialog_items_5">nahlasovať nevhodný obsah alebo profily</string>
-    <string name="update_news_dialog_items_6">nový vzhľad - ikony, farby</string>
-    <string name="update_news_dialog_items_7">môžete pridať reklamu do obľúbených</string>
     <string name="registration_continue">Pokračovať</string>
     <string name="registration_sign_up_with_google">Registrovať sa cez Google</string>
     <string name="registration_terms_and_conditions">Registráciou akceptujete naše &lt;a href=https://www.amateri.com/sk/legal/general-terms-conditions&gt;Všeobecné zmluvné podmienky&lt;/a&gt; a &lt;a href=https://www.amateri.com/sk/legal/privacy&gt;Zásady ochrany súkromia a údajov&lt;/a&gt;.</string>
@@ -1435,10 +1427,7 @@
     <string name="password_reset_submit_button">Odoslať</string>
     <string name="password_reset_password_changed">Vaše heslo bolo zmenené, prosím prihláste sa.</string>
     <string name="password_reset_form_password_is_empty">Heslo musí byť vyplnené.</string>
-    <string name="phone_verification_dialog_wrong_code_button_enter_again">Skúste to znova</string>
     <string name="phone_verification_successfully_verified">Boli ste úspešne overený</string>
-    <string name="phone_verification_dialog_wrong_code_title">Nesprávny kód</string>
-    <string name="phone_verification_dialog_wrong_code_body_text">Zadaný overovací kód bol nesprávny alebo jeho platnosť vypršala.</string>
     <string name="registration_already_have_an_account">Máte účet\? <u>Prihláste sa</u></string>
     <string name="registration_resend_verification_email">Znovu odoslať kód na overenie emailu</string>
     <string name="registration_restore_your_account">Obnovenie účtu</string>
@@ -1448,21 +1437,12 @@
     <string name="registration_form_password_wrong_length">Heslo musí mať aspoň %d znakov.</string>
     <string name="registration_setup_location_subtitle">Vyberte svoju krajinu a región</string>
     <string name="registration_region_default">Vyberte región</string>
-    <string name="registration_activated_title">Váš účet je pripravený!</string>
     <string name="registration_setup_location_title">Odkiaľ ste\?</string>
     <string name="registration_nickname">Užívateľské meno</string>
-    <string name="registration_activated_subtitle">TODO</string>
-    <string name="registration_activation_title">Aktivácia Vášho konta</string>
-    <string name="registration_activation_subtitle">Už ste takmer hotový</string>
-    <string name="registration_welcome_user">Vitajte <b>%s</b>,
-\nsme\'radi, že vás máme na palube!</string>
     <string name="registration_account_is_created_but_not_activated">Váš profil bol vytvorený, ale ešte nie je aktívny.</string>
-    <string name="registration_account_is_activated_log_in_now">Váš profil bol aktivovaný! Teraz sa môžete prihlásiť.</string>
     <string name="registration_activation_link_in_email">Na Vašu e-mailovú adresu bol odoslaný aktivačný odkaz <b>%s</b>.</string>
     <string name="registration_open_email_app">Otvorte e-mailovú aplikáciu</string>
     <string name="registration_open_email_app_title">Ktorú aplikáciu otvoriť\?</string>
-    <string name="registration_spam_folder_notice">Ak nemôžete svoj e-mail nájsť, skotrolujte prosím zložku spam v e-mailovom klientovi.</string>
-    <string name="registration_email_verified_outside_app_log_in">Skončili ste s overovaním e-mailu\? <u>Prihláste sa</u></string>
     <string name="conversations_audio_record_permission_not_granted">Nahrávanie zvuku je povolené</string>
     <string name="conversations_audio_record_start_error">Spustenie nahrávania zvuku zlyhalo</string>
     <string name="conversations_audio_record_start_error_create_folder">Nahrávanie hlasovej správy sa bohužiaľ nepodarilo, skúste to prosím znova.</string>

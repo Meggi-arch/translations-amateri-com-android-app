@@ -849,10 +849,6 @@
         <item quantity="other">kreditek</item>
     </plurals>
     <string name="captcha_session_timeout_error">A kihívás lejárt.</string>
-    <string name="update_news_dialog_items_4">Magyar nyelvű támogatás</string>
-    <string name="update_news_dialog_items_5">nem megfelelő tartalmak vagy profilok jelentése</string>
-    <string name="update_news_dialog_items_6">új megjelenés - ikonok, színek</string>
-    <string name="update_news_dialog_items_7">hozzáadhat egy hirdetést a kedvenceihez</string>
     <string name="dialog_mfa_missing_secret_title">Hiányzó hitelesítés</string>
     <string name="fragment_mfa_sms_info_code_sent">A hitelesítési kódot elküldtük a telefonjába.</string>
     <string name="wallet_buy_credit_title">Vásároljon krediteket</string>
@@ -1112,10 +1108,6 @@
     <string name="forum_topics_sort_count_desc">A hozzászólások száma szerint</string>
     <string name="forum_topics_sort_lastupdate_desc">Legutóbbi hozzászólások</string>
     <string name="bottomsheet_video_player_settings_title">Videóminőség beállítása</string>
-    <string name="update_news_dialog_items_1">szűrő a fotók megjelenítéséhez a beszélgetésben</string>
-    <string name="update_news_dialog_items_0">VIP tagság vásárlása kreditekkel</string>
-    <string name="update_news_dialog_items_2">gyűjtemények létrehozása és szerkesztése</string>
-    <string name="update_news_dialog_items_3">diszkrét értesítési beállítások</string>
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_price">Ár:</string>
     <string name="vip_sepa_reference">Hivatkozás:</string>
@@ -1407,9 +1399,6 @@
     <string name="phone_verification_visibility_on_your_profile">Láthatóság az Ön profilján</string>
     <string name="phone_verification_change_your_country">Váltson országot</string>
     <string name="phone_verification_successfully_verified">Önt sikeresen ellenőriztük</string>
-    <string name="phone_verification_dialog_wrong_code_title">Hibás kód</string>
-    <string name="phone_verification_dialog_wrong_code_body_text">A megadott ellenőrző kód hibás volt vagy lejárt.</string>
-    <string name="phone_verification_dialog_wrong_code_button_enter_again">Próbálja újra</string>
     <string name="registration_resend_verification_email">E-mail ellenőrző kód újraküldése</string>
     <string name="registration_restore_your_account">Fiókja visszaállítása</string>
     <string name="registration_already_have_an_account">Van fiókja\? <u>Log in</u></string>
@@ -1424,22 +1413,11 @@
     <string name="registration_setup_location_title">Honnan származik\?</string>
     <string name="registration_setup_location_subtitle">Válassza ki az országot és a régiót</string>
     <string name="registration_nickname">Becenév</string>
-    <string name="registration_gender">Nemek</string>
-    <string name="registration_gender_default">Válasszon nemet</string>
     <string name="registration_region_default">Válasszon régiót</string>
-    <string name="registration_activated_title">A fiókja készen áll!</string>
-    <string name="registration_activated_subtitle">TODO</string>
-    <string name="registration_activation_title">Aktiválja a fiókját</string>
-    <string name="registration_activation_subtitle">Majdnem kész van</string>
-    <string name="registration_welcome_user">Üdvözöljük <b>%s</b>,
-\nörülünk, hogy a fedélzeten van!</string>
     <string name="registration_account_is_created_but_not_activated">A profilodat létrehoztuk, de még nem aktiváltuk.</string>
-    <string name="registration_account_is_activated_log_in_now">A profilodat aktiváltuk! Most már be tud jelentkezni.</string>
     <string name="registration_activation_link_in_email">Aktiválási linket küldtünk az Ön e-mail címére <b>%s</b>.</string>
     <string name="registration_open_email_app">E-mail applikáció megnyitása</string>
     <string name="registration_open_email_app_title">Melyik applikációt nyissam meg\?</string>
-    <string name="registration_spam_folder_notice">Ha nem találja az e-mailt, kérjük, ellenőrizze a spam mappát az e-mail kliensében.</string>
-    <string name="registration_email_verified_outside_app_log_in">Megtörtént az e-mail ellenőrzése\? <u>Bejelentkezés</u></string>
     <string name="conversations_audio_record_permission_not_granted">A hangfelvételek rögzítése megengedett</string>
     <string name="conversations_audio_record_start_error">A hangfelvétel indítása sikertelen</string>
     <string name="conversations_audio_record_start_error_create_folder">Sajnos a hangüzenet felvétele sikertelen volt, kérjük, próbálja meg újra.</string>
