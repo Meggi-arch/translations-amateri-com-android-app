@@ -1483,4 +1483,8 @@
     <string name="registration_form_email_is_invalid">Zadajte prosím platnú emailovú adresu.</string>
     <string name="registration_setup_user_subtitle">Zadajte prosím svoju prezývku a vyberte svoje pohlavie</string>
     <string name="registration_gender_not_selected">Prosím, vyberte svoje pohlavie</string>
+    <string name="update_changelog">opravené chyby
+\nvylepšené používateľské prostredie
+\nupravené funkcie
+\nzvýšený výkon</string>
 </resources>
