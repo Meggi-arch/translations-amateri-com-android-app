@@ -1565,14 +1565,10 @@
     <string name="phone_Verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="phone_verification_code_sent">Na váš telefon %s byla odeslána SMS s ověřovacím kódem.</string>
     <string name="phone_verification_resend_code">Poslat znovu ověřovací kód</string>
-    <string name="update_changelog">zakoupit VIP členství prostřednictvím kreditů
-\nfiltr pro zobrazení fotek v konverzaci
-\nvytváření a úpravy sbírek
-\nnastavení diskrétního oznámení
-\npodpora maďarštiny
-\nnahlášení nevhodného obsahu nebo profilů
-\nnový vzhled - ikony, barvy
-\nmožnost přidat si inzerát do oblíbených</string>
+    <string name="update_changelog">opravené chyby
+\nvylepšené uživatelské prostředí
+\nupravené funkce
+\nzvýšený výkon</string>
     <string name="invalid_login_dialog_restore_account">Obnovení účtu</string>
     <string name="invalid_login_dialog_resend_verification_email">Zaslat znovu ověřovací e-mail</string>
 </resources>
