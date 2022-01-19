@@ -1458,7 +1458,10 @@
     <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
-    <string name="update_changelog">purchase VIP membership via credits\nfilter to display photos in conversation\ncreating and editing collections\ndiscrete notification settings\nHungarian language support\nreport innappropriate content or profiles\nnew look - icons, colours\nyou can add an ad to your favourites</string>
+    <string name="update_changelog">fixed bugs
+\nimproved user interface
+\nmodified features
+\nenhanced performance</string>
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
