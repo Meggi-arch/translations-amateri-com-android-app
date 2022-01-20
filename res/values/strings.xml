@@ -338,26 +338,19 @@
     <string name="password_reset_form_passwords_must_match">Passwords must match.</string>
     <!-- PhoneVerificationActivity -->
     <string name="phone_verification_title">Phone number verification</string>
+    <string name="phone_verification_code_title">Enter code from SMS</string>
+    <string name="phone_verification_code_subtitle">which we sent you to %s</string>
     <string name="phone_verification_visibility_on_your_profile">Visibility on your profile</string>
     <string name="phone_verification_change_your_country">Change your country</string>
     <string name="phone_verification_successfully_verified">You were successfully verified</string>
-    <string name="phone_Verification_enter_code_from_sms">Enter verification code from SMS</string>
-    <string name="phone_verification_code_sent">An SMS with a verification code has been sent to your phone %s.</string>
-    <string name="phone_verification_resend_code">Resend verification code</string>
-    <string name="phone_verification_info_number_will_stored_securely">\u2022 Your phone number will be stored securely and will not be published.</string>
-    <string name="phone_verification_info_number_from_country_on_profile">\u2022 Verification has to be done with a phone number of the country you provided in your profile.</string>
-    <string name="phone_verification_info_one_profile_per_number">\u2022 Only one profile can be verified by one phone number.</string>
+    <string name="phone_verification_enter_code_from_sms">Enter verification code from SMS</string>
+    <string name="phone_verification_resend_code">Resend code</string>
+    <string name="phone_verification_info_number_will_stored_securely">Your phone number will be stored securely and will not be published.</string>
+    <string name="phone_verification_info_number_from_country_on_profile">Verification has to be done with a phone number of the country you provided in your profile.</string>
+    <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by one phone number.</string>
     <!-- PhoneVerificationInfoBottomSheetDialog -->
-    <string name="phone_verification_info_title">Verify your profile with a phone number</string>
-    <string name="phone_verification_info_text">Why should I verify my profile with a phone number?</string>
-    <string-array name="phone_verification_info_items">
-        <item>@string/phone_verification_info_items_0</item>
-        <item>@string/phone_verification_info_items_1</item>
-        <item>@string/phone_verification_info_items_2</item>
-    </string-array>
-    <string name="phone_verification_info_items_0">You will significantly increase your credibility for other users. A verification confirmation will appear in your profile. Your phone number will remain hidden.</string>
-    <string name="phone_verification_info_items_1">If you lose your password and access to your email, you will be able to regain access to your user account by phone.</string>
-    <string name="phone_verification_info_items_2">With a verified phone number, you can set a higher level of account security that allows for two-factor authentication.</string>
+    <string name="phone_verification_info_title">Why should I verify my profile by a phone number?</string>
+    <string name="phone_verification_info_text">You will significantly increase your credibility for other users. The confirmation about the verification will appear in your profile. Your phone number will remain hidden.\n\nIn case of loss of password and access to your email, you will be able to restore access to your user account by your phone.\n\nWith a verified phone number, you can set up a higher level of account security that allows for two-factor authentication.</string>
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
