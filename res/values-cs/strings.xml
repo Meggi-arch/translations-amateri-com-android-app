@@ -1558,4 +1558,8 @@
 \nzvýšený výkon</string>
     <string name="invalid_login_dialog_restore_account">Obnovení účtu</string>
     <string name="invalid_login_dialog_resend_verification_email">Zaslat znovu ověřovací e-mail</string>
+    <string name="registration_welcome_title">%s,
+\nvítejte mezi námi!</string>
+    <string name="registration_enjoy_amateurs">Vstupte a užijte si svět Amatérů.</string>
+    <string name="invalid_login_dialog_reset_password">Obnovit heslo</string>
 </resources>
