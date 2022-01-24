@@ -14,6 +14,7 @@
     <string name="title_home">Homepage</string>
     <string name="title_album">Albums</string>
     <string name="title_wallet">Wallet</string>
+    <string name="title_verification">Verification</string>
     <string name="title_videos">Videos</string>
     <string name="title_people">People</string>
     <string name="title_blogs">Blogs</string>
@@ -338,6 +339,7 @@
     <string name="password_reset_form_passwords_must_match">Passwords must match.</string>
     <!-- PhoneVerificationActivity -->
     <string name="phone_verification_title">Phone number verification</string>
+    <string name="phone_verification_change_phone_number_title">Change your phone number</string>
     <string name="phone_verification_code_title">Enter code from SMS</string>
     <string name="phone_verification_code_subtitle">which we sent you to %s</string>
     <string name="phone_verification_visibility_on_your_profile">Visibility on your profile</string>
@@ -490,6 +492,19 @@
     <string name="settings_wallet_accept_rewards_for_content">Accept rewards for your content</string>
     <string name="settings_wallet_content_rewards_only_for_verified_users">Only verified users can get rewards for their content.</string>
     <string name="settings_wallet_accept_rewards_for_streaming">Accept rewards for your chat streaming</string>
+    <!--VerificationSettingsFragment-->
+    <string name="settings_verification_content_verification_title">Content verification</string>
+    <string name="settings_verification_phone_verification_title">Phone verification</string>
+    <string name="settings_verification_identity_verification_title">Identity verification</string>
+    <string name="settings_verification_content_verification_description">Verify your profile with a photo.</string>
+    <string name="settings_verification_content_verification_description_verified">The user %s is verified as a %s.</string>
+    <string name="settings_verification_phone_verification_description">Verify your profile using your phone number.</string>
+    <string name="settings_verification_phone_verification_description_verified">Your phone number %s is verified.</string>
+    <string name="settings_verification_identity_verification_description">Verify your age and identity with your ID to confirm legality of your content.</string>
+    <string name="settings_verification_change_phone_number_button">Change your phone number</string>
+    <string name="settings_verification_verified_button">Verified</string>
+    <string name="settings_verification_verify_button">Verify</string>
+    <string name="settings_verification_more_details_button">More details</string>
     <!--ApplicationSettingsFragment-->
     <string name="setup_notifications">Notifications</string>
     <string name="setup_notification_new_message">New message</string>
