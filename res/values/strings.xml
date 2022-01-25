@@ -394,7 +394,7 @@
     <string name="verify_text">Write your nick, current date, name amateri.com on the paper and take a photo with it. If you are using the profile as a pair, we need a verification photo from you both.</string>
     <string name="verify_more_info">More information</string>
     <string name="verify_send">Upload verification photo</string>
-    <string name="verify_done_text">New picture has beed sent. Verification photo will be checked by administrator. Thank you.</string>
+    <string name="verify_done_text">New picture has been sent. Verification photo will be checked by administrator. Thank you.</string>
     <string name="done">Done!</string>
     <!--ProfileActivity-->
     <string name="profile_user_chat_rooms">Chat rooms</string>
