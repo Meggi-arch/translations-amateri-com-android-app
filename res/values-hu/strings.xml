@@ -1398,7 +1398,6 @@
     <string name="phone_verification_title">Telefonszám ellenőrzése</string>
     <string name="phone_verification_visibility_on_your_profile">Láthatóság az Ön profilján</string>
     <string name="phone_verification_change_your_country">Váltson országot</string>
-    <string name="phone_verification_successfully_verified">Önt sikeresen ellenőriztük</string>
     <string name="registration_resend_verification_email">E-mail ellenőrző kód újraküldése</string>
     <string name="registration_restore_your_account">Fiókja visszaállítása</string>
     <string name="registration_already_have_an_account">Van fiókja\? <u>Log in</u></string>

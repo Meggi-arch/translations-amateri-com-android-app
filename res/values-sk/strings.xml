@@ -1427,7 +1427,6 @@
     <string name="password_reset_submit_button">Odoslať</string>
     <string name="password_reset_password_changed">Vaše heslo bolo zmenené, prosím prihláste sa.</string>
     <string name="password_reset_form_password_is_empty">Heslo musí byť vyplnené.</string>
-    <string name="phone_verification_successfully_verified">Boli ste úspešne overený</string>
     <string name="registration_already_have_an_account">Máte účet\? <u>Prihláste sa</u></string>
     <string name="registration_resend_verification_email">Znovu odoslať kód na overenie emailu</string>
     <string name="registration_restore_your_account">Obnovenie účtu</string>
