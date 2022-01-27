@@ -352,6 +352,10 @@
     <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by one phone number.</string>
     <!-- PhoneVerificationInfoBottomSheetDialog -->
     <string name="phone_verification_info_title">Why should I verify my profile by a phone number?</string>
+    <!-- PhoneVerificationChangeCountryBottomSheetDialog -->
+    <string name="phone_verification_change_country_title">Change country</string>
+    <string name="phone_verification_change_country_text">Verification needs to be done from the phone number from the country you specified in your profile.</string>
+    <string name="phone_verification_change_country_button_go_to_profile">Go to profile</string>
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
