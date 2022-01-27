@@ -1402,7 +1402,7 @@
     <string name="payment_selection_code_missing">Je potrebné vyplniť kód SMS</string>
     <string name="registration_continue">Pokračovať</string>
     <string name="registration_sign_up_with_google">Registrovať sa cez Google</string>
-    <string name="registration_terms_and_conditions">Registráciou akceptujete naše &lt;a href=https://www.amateri.com/sk/legal/general-terms-conditions&gt;Všeobecné zmluvné podmienky&lt;/a&gt; a &lt;a href=https://www.amateri.com/sk/legal/privacy&gt;Zásady ochrany súkromia a údajov&lt;/a&gt;.</string>
+    <string name="registration_terms_and_conditions">Registráciou akceptujete naše &lt;link:terms&gt;Všeobecné zmluvné podmienky&lt;/link&gt; a &lt;link:privacy&gt;Zásady ochrany súkromia a údajov&lt;/link&gt;.</string>
     <string name="hint_nickname_or_email">Prezývka alebo e-mail</string>
     <string name="title_visibility_on_your_profile">Viditeľnosť vášho profilu</string>
     <string name="resend_verification_email_resend_button">Znovu odoslať</string>

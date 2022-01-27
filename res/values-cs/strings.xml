@@ -1490,7 +1490,7 @@
     <string name="webview_error_file_chooser">Nelze otevřít Výběr souborů</string>
     <string name="payment_selection_code_missing">Je potřeba vyplnit SMS kód</string>
     <string name="setup_notification_mode">Diskrétní oznámení</string>
-    <string name="registration_terms_and_conditions">Registrací přijímáte naše &lt;a href=https://www.amateri.com/cs/legal/general-terms-conditions&gt;Všeobecné obchodní podmínky&lt;/a&gt; a &lt;a href=https://www.amateri.com/cs/legal/privacy&gt;Zásady ochrany osobních údajů&lt;/a&gt;.</string>
+    <string name="registration_terms_and_conditions">Registrací přijímáte naše &lt;link:terms&gt;Všeobecné obchodní podmínky&lt;/link&gt; a &lt;link:privacy&gt;Zásady ochrany osobních údajů&lt;/link&gt;.</string>
     <string name="registration_continue">Pokračovat</string>
     <string name="registration_sign_up_with_google">Registrovat se přes Google</string>
     <string name="hint_nickname_or_email">Přezdívka nebo e-mail</string>

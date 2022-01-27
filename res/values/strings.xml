@@ -356,7 +356,7 @@
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
-    <string name="registration_terms_and_conditions"><![CDATA[By signing up, you accept our <a href="https://www.amateri.com/en/legal/general-terms-conditions">General Terms and Conditions</a> and <a href="https://www.amateri.com/en/legal/privacy">Privacy and Data Protection Policy</a>.]]></string>
+    <string name="registration_terms_and_conditions">By signing up, you accept our &lt;link:terms&gt;General Terms and Conditions&lt;/link&gt; and &lt;link:privacy&gt;Privacy and Data Protection Policy&lt;/link&gt;.</string>
     <string name="registration_resend_verification_email">Resend email verification code</string>
     <string name="registration_restore_your_account">Restore your account</string>
     <string name="registration_already_have_an_account">Have an account? <u>Log in</u></string>
