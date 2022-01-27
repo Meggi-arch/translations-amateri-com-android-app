@@ -1423,7 +1423,6 @@
     <string name="password_reset_form_passwords_must_match">Heslá musia byť zhodné.</string>
     <string name="phone_verification_title">Overenie telefónneho čísla</string>
     <string name="phone_verification_visibility_on_your_profile">Viditeľnosť vášho profilu</string>
-    <string name="phone_verification_change_your_country">Zmeňte svoju krajinu</string>
     <string name="password_reset_submit_button">Odoslať</string>
     <string name="password_reset_password_changed">Vaše heslo bolo zmenené, prosím prihláste sa.</string>
     <string name="password_reset_form_password_is_empty">Heslo musí byť vyplnené.</string>

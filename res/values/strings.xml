@@ -348,7 +348,6 @@
     <string name="phone_verification_change_success_subtitle">Phone number was changed successfully.</string>
     <string name="phone_verification_success_thank_you">Thank you for making this place better and safer.</string>
     <string name="phone_verification_visibility_on_your_profile">Visibility on your profile</string>
-    <string name="phone_verification_change_your_country">Change your country</string>
     <string name="phone_verification_enter_code_from_sms">Enter verification code from SMS</string>
     <string name="phone_verification_resend_code">Resend code</string>
     <string name="phone_verification_info_number_will_stored_securely">Your phone number will be safely stored and will not be published without your consent.</string>

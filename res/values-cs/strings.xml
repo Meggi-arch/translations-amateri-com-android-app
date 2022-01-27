@@ -1520,7 +1520,6 @@
     <string name="password_reset_form_passwords_must_match">Hesla se musí shodovat.</string>
     <string name="phone_verification_title">Ověření telefonního čísla</string>
     <string name="phone_verification_visibility_on_your_profile">Viditelnost na vašem profilu</string>
-    <string name="phone_verification_change_your_country">Změňte svou zemi</string>
     <string name="registration_resend_verification_email">Znovu odeslat kód pro ověření e-mailu</string>
     <string name="registration_restore_your_account">Obnovit svůj účet</string>
     <string name="registration_already_have_an_account">Máte účet\? <u>Přihlaste se</u></string>
