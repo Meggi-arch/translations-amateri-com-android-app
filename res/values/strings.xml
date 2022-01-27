@@ -347,7 +347,7 @@
     <string name="phone_verification_successfully_verified">You were successfully verified</string>
     <string name="phone_verification_enter_code_from_sms">Enter verification code from SMS</string>
     <string name="phone_verification_resend_code">Resend code</string>
-    <string name="phone_verification_info_number_will_stored_securely">Your phone number will be stored securely and will not be published.</string>
+    <string name="phone_verification_info_number_will_stored_securely">Your phone number will be safely stored and will not be published without your consent.</string>
     <string name="phone_verification_info_number_from_country_on_profile">Verification has to be done with a phone number of the country you provided in your profile.</string>
     <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by one phone number.</string>
     <!-- PhoneVerificationInfoBottomSheetDialog -->
