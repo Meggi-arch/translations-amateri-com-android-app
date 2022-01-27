@@ -1551,7 +1551,7 @@
     <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
     <string name="phone_Verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="phone_verification_code_sent">Na váš telefon %s byla odeslána SMS s ověřovacím kódem.</string>
-    <string name="phone_verification_resend_code">Poslat znovu ověřovací kód</string>
+    <string name="phone_verification_resend_code">Znovu zaslat kód</string>
     <string name="update_changelog">opravené chyby
 \nvylepšené uživatelské prostředí
 \nupravené funkce
@@ -1562,4 +1562,32 @@
 \nvítejte mezi námi!</string>
     <string name="registration_enjoy_amateurs">Vstupte a užijte si svět Amatérů.</string>
     <string name="invalid_login_dialog_reset_password">Obnovit heslo</string>
+    <string name="registration_account_is_created_but_not_activated">Váš profil byl vytvořen, ale pozor, ještě není aktivní.</string>
+    <string name="registration_activation_link_in_email">Pro dokončení registrace stačí kliknout na odkaz, který jsme vám zaslali na adresu %s.</string>
+    <string name="registration_open_email_app">Otevření e-mailové aplikace</string>
+    <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
+    <string name="title_verification">Ověření</string>
+    <string name="phone_verification_code_title">Zadejte kód z SMS</string>
+    <string name="phone_verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
+    <string name="settings_verification_content_verification_title">Ověření obsahu</string>
+    <string name="phone_verification_code_subtitle">který jsme vám zaslali na %s</string>
+    <string name="settings_verification_phone_verification_title">Ověření telefonním číslem</string>
+    <string name="settings_verification_identity_verification_title">Ověření totožnosti</string>
+    <string name="settings_verification_content_verification_description">Ověřte svůj profil pomocí fotky.</string>
+    <string name="settings_verification_content_verification_description_verified">Uživatel %s je ověřen jako %s.</string>
+    <string name="settings_verification_phone_verification_description">Ověřte svůj profil pomocí telefonního čísla.</string>
+    <string name="settings_verification_phone_verification_description_verified">Vaše telefonní číslo %s je ověřeno.</string>
+    <string name="settings_verification_verified_button">Ověřeno</string>
+    <string name="settings_verification_verify_button">Ověřit</string>
+    <string name="settings_verification_more_details_button">Další podrobnosti</string>
+    <string name="phone_verification_info_number_from_country_on_profile">Ověření je potřeba provést pomocí telefonního čísla země, kterou jste uvedli ve svém profilu.</string>
+    <string name="phone_verification_info_one_profile_per_number">Jedním telefonním číslem lze ověřit pouze jeden profil.</string>
+    <string name="phone_verification_info_title">Proč bych měl svůj profil ověřit telefonním číslem\?</string>
+    <string name="phone_verification_info_number_will_stored_securely">Vaše telefonní číslo bude bezpečně uloženo a bez vašeho souhlasu nebude zveřejněno.</string>
+    <string name="registration_enter_to_app">Vstoupit do aplikace</string>
+    <string name="registration_contact_support_title">Nedostali jste e-mail\?</string>
+    <string name="registration_contact_support_text">Jestliže vám e-mail nedorazil, zkuste prosím kouknout do složky spam nebo vydržte pár minut.
+\n
+\nPokud ani to nepomohlo, nebo máte-li jiný problém s aktivací účtu, napište nám a vyřešíme to.</string>
+    <string name="registration_contact_support_button">Kontaktovat podporu</string>
 </resources>
