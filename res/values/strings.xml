@@ -339,6 +339,7 @@
     <string name="password_reset_form_passwords_must_match">Passwords must match.</string>
     <!-- PhoneVerificationActivity -->
     <string name="phone_verification_title">Phone number verification</string>
+    <string name="phone_verification_subtitle">Have a more credible profile</string>
     <string name="phone_verification_change_phone_number_title">Change your phone number</string>
     <string name="phone_verification_code_title">Enter code from SMS</string>
     <string name="phone_verification_code_subtitle">which we sent you to %s</string>
@@ -348,8 +349,7 @@
     <string name="phone_verification_enter_code_from_sms">Enter verification code from SMS</string>
     <string name="phone_verification_resend_code">Resend code</string>
     <string name="phone_verification_info_number_will_stored_securely">Your phone number will be safely stored and will not be published without your consent.</string>
-    <string name="phone_verification_info_number_from_country_on_profile">Verification has to be done with a phone number of the country you provided in your profile.</string>
-    <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by one phone number.</string>
+    <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by a single phone number.</string>
     <!-- PhoneVerificationInfoBottomSheetDialog -->
     <string name="phone_verification_info_title">Why should I verify my profile by a phone number?</string>
     <!-- PhoneVerificationChangeCountryBottomSheetDialog -->
