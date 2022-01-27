@@ -354,7 +354,10 @@
     <string name="phone_verification_info_number_will_stored_securely">Your phone number will be safely stored and will not be published without your consent.</string>
     <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by a single phone number.</string>
     <!-- PhoneVerificationInfoBottomSheetDialog -->
-    <string name="phone_verification_info_title">Why should I verify my profile by a phone number?</string>
+    <string name="phone_verification_info_title">What do you get with this verification?</string>
+    <string name="phone_verification_info_items_1">Increased credibility of your profile.</string>
+    <string name="phone_verification_info_items_2">Easily recover forgotten login credentials.</string>
+    <string name="phone_verification_info_items_3">The ability to set up a more secure two-step login.</string>
     <!-- PhoneVerificationChangeCountryBottomSheetDialog -->
     <string name="phone_verification_change_country_title">Change country</string>
     <string name="phone_verification_change_country_text">Verification needs to be done from the phone number from the country you specified in your profile.</string>
