@@ -6,6 +6,9 @@
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
+    <string name="close_button">Close</string>
+    <string name="continue_button">Continue</string>
+    <string name="complete_button">Complete</string>
     <string name="dialog_android_unsupported_title">Unsupported feature</string>
     <string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
     <string name="general_empty_title">Nothing is here</string>
