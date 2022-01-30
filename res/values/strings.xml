@@ -352,7 +352,6 @@
     <string name="phone_verification_info_one_profile_per_number">Only one profile can be verified by one phone number.</string>
     <!-- PhoneVerificationInfoBottomSheetDialog -->
     <string name="phone_verification_info_title">Why should I verify my profile by a phone number?</string>
-    <string name="phone_verification_info_text">You will significantly increase your credibility for other users. The confirmation about the verification will appear in your profile. Your phone number will remain hidden.\n\nIn case of loss of password and access to your email, you will be able to restore access to your user account by your phone.\n\nWith a verified phone number, you can set up a higher level of account security that allows for two-factor authentication.</string>
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
