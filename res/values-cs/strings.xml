@@ -192,7 +192,7 @@
     <string name="verify_text">Na papír napište svůj nick (přezdívku), aktuální datum, název amateri.com a s papírem v rukou se vyfoťte. Pokud využíváte profil jako pár, ověřovací fotku potřebujeme od obou.</string>
     <string name="verify_more_info">Více informací</string>
     <string name="verify_send">Nahrát ověřovací fotku</string>
-    <string name="verify_done_text">Nový obrázek byl úspěšně nahrán. Ověrovací fotka bude zkontrolována správcem. Děkujeme vám.</string>
+    <string name="verify_done_text">Nový obrázek byl úspěšně nahrán. Ověřovací fotka bude zkontrolována správcem. Děkujeme vám.</string>
     <string name="done">Hotovo!</string>
     <!--ProfileActivity-->
     <string name="profile_user_chat_rooms">Místnosti na chatu</string>
