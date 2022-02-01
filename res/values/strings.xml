@@ -299,6 +299,10 @@
     <!--Redirect dialog-->
     <string name="redirect_dialog_title">You will be redirected</string>
     <string name="redirect_dialog_content">This part of the application is only accessible via the web interface. Want to be redirected to the website?</string>
+    <!--Unverified dialog-->
+    <string name="unverified_dialog_title">Verification required</string>
+    <string name="unverified_dialog_content">This part of the application is only accessible to verified users.</string>
+    <string name="unverified_dialog_verify">Verify your profile</string>
     <!--Unauthorized dialog-->
     <string name="unauthorized_dialog_title">You aren’t logged in</string>
     <string name="unauthorized_dialog_content">You need to log in to use this function.</string>
