@@ -1580,7 +1580,7 @@
     <string name="settings_verification_more_details_button">Další podrobnosti</string>
     <string name="phone_verification_info_number_from_country_on_profile">Ověření je potřeba provést pomocí telefonního čísla země, kterou jste uvedli ve svém profilu.</string>
     <string name="phone_verification_info_one_profile_per_number">Jedním telefonním číslem lze ověřit pouze jeden profil.</string>
-    <string name="phone_verification_info_title">Proč bych měl svůj profil ověřit telefonním číslem\?</string>
+    <string name="phone_verification_info_title">Co získáte tímto ověřením\?</string>
     <string name="phone_verification_info_number_will_stored_securely">Vaše telefonní číslo bude bezpečně uloženo a bez vašeho souhlasu nebude zveřejněno.</string>
     <string name="registration_enter_to_app">Vstoupit do aplikace</string>
     <string name="registration_contact_support_title">Nedostali jste e-mail\?</string>
@@ -1588,4 +1588,20 @@
 \n
 \nPokud ani to nepomohlo, nebo máte-li jiný problém s aktivací účtu, napište nám a vyřešíme to.</string>
     <string name="registration_contact_support_button">Kontaktovat podporu</string>
+    <string name="phone_verification_success_title">Skvělé!</string>
+    <string name="phone_verification_success_thank_you">Děkujeme, že děláte toto místo lepší a bezpečnější.</string>
+    <string name="close_button">Zavřít</string>
+    <string name="continue_button">Pokračovat</string>
+    <string name="complete_button">Dokončit</string>
+    <string name="phone_verification_change_country_text">Ověření je potřeba provést z telefonního čísla ze země, kterou jste uvedli ve svém profilu.</string>
+    <string name="phone_verification_success_subtitle">Ověření telefonem proběhlo úspěšně.</string>
+    <string name="phone_verification_change_success_subtitle">Telefonní číslo bylo úspěšně změněno.</string>
+    <string name="phone_verification_info_items_1">Zvýšení důvěryhodnosti vašeho profilu.</string>
+    <string name="phone_verification_info_items_2">Snadné obnovení zapomenutých přihlašovacích údajů.</string>
+    <string name="phone_verification_info_items_3">Možnost nastavit bezpečnější dvoufázové přihlášení.</string>
+    <string name="phone_verification_change_country_title">Změna země</string>
+    <string name="phone_verification_subtitle">Mějte důvěryhodnější profil</string>
+    <string name="phone_verification_change_country_button_go_to_profile">Přejít na profil</string>
+    <string name="settings_verification_change_phone_number_button">Změnit své telefonní číslo</string>
+    <string name="phone_verification_change_phone_number_title">Změna vašeho telefonního čísla</string>
 </resources>
