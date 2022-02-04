@@ -1059,4 +1059,10 @@
     </plurals>
     <string name="menu_chat_room_tap">Попросите включить камеру</string>
     <string name="basic_filter">Основной фильтр</string>
+    <string name="close_button">Закрыть</string>
+    <string name="title_collection_settings">Настройки коллекции</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="complete_button">Завершить</string>
+    <string name="title_verification">Проверка</string>
+    <string name="title_new_collection">Добавить новую коллекцию</string>
 </resources>
