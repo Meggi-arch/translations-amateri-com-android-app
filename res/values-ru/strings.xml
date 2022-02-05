@@ -1065,4 +1065,22 @@
     <string name="complete_button">Завершить</string>
     <string name="title_verification">Проверка</string>
     <string name="title_new_collection">Добавить новую коллекцию</string>
+    <string name="collection_comment_disallowed">К данной коллекции нельзя сейчас добавить коментарий.</string>
+    <string name="collections_theme_all">Все темы</string>
+    <string name="dialog_delete_collection_title">Удалить коллекцию</string>
+    <string name="title_next_collections">Следующие коллекции</string>
+    <string name="collection_deleted_successfully">Коллекция была успешно удалена.</string>
+    <string name="dialog_delete_collection_text">Вы действительно хотите удалить коллекцию\?</string>
+    <string name="no_collections_found">Коллекция не была найдена</string>
+    <string name="notifications_vip_membership">VIP-членство</string>
+    <string name="hint_nickname_or_email">Ник или электронная почта</string>
+    <string name="title_visibility_on_your_profile">Видимость в вашем профиле</string>
+    <string name="hint_email">Электронная почта</string>
+    <plurals name="posts">
+        <item quantity="one">%d пост</item>
+        <item quantity="few">%d постов</item>
+        <item quantity="many">%d посты</item>
+        <item quantity="other">%d посты</item>
+    </plurals>
+    <string name="filter_user_favourites">Из избранного</string>
 </resources>
