@@ -1426,4 +1426,57 @@
     <string name="conversation_audio_record_seems_quiet">Úgy tűnik, hogy csendben van, ellenőrizze a mikrofonját.</string>
     <string name="conversation_audio_record_max_duration_approaching">Az Ön felvétele megközelíti a hangüzenet maximálisan megengedett határértékét.</string>
     <string name="setup_voice_message_enabled">Hangüzenetek fogadása</string>
+    <string name="title_verification">Hitelesítés</string>
+    <string name="phone_verification_code_title">Adja meg az SMS-ben kapott kódot</string>
+    <string name="phone_verification_code_subtitle">amelyet a %s címre küldtünk</string>
+    <string name="phone_verification_info_number_will_stored_securely">Az Ön telefonszámát biztonságosan tároljuk, és az Ön beleegyezése nélkül nem hozzuk nyilvánosságra.</string>
+    <string name="phone_verification_info_one_profile_per_number">Egy telefon számmal csak egy profil ellenőrizhető.</string>
+    <string name="phone_verification_resend_code">Kód újra küldése</string>
+    <string name="invalid_login_dialog_restore_account">Fiók visszaállítása</string>
+    <string name="continue_button">Folytatás</string>
+    <string name="complete_button">Teljes</string>
+    <string name="phone_verification_success_title">Nagyszerű!</string>
+    <string name="phone_verification_success_subtitle">A telefonos hitelesítés sikeres volt.</string>
+    <string name="phone_verification_success_thank_you">Köszönjük, hogy jobbá és biztonságosabbá tették ezt a helyet.</string>
+    <string name="phone_verification_info_title">Mit kap ezzel az igazolással\?</string>
+    <string name="phone_verification_info_items_1">Profilja hitelességének növelése.</string>
+    <string name="phone_verification_info_items_2">Könnyen helyreállíthatja az elfelejtett bejelentkezési adatokat.</string>
+    <string name="phone_verification_change_country_button_go_to_profile">Menjen a profilba</string>
+    <string name="registration_enjoy_amateurs">Jöjjön be és élvezze az amatőrök világát.</string>
+    <string name="registration_enter_to_app">Adja meg az alkalmazást</string>
+    <string name="registration_contact_support_title">Nem kapta meg az e-mailt\?</string>
+    <string name="settings_verification_phone_verification_title">Telefonos hitelesítés</string>
+    <string name="settings_verification_content_verification_description">Ellenőrizze profilját fotóval.</string>
+    <string name="settings_verification_phone_verification_description">Ellenőrizze profilját a telefon számával.</string>
+    <string name="settings_verification_phone_verification_description_verified">Az Ön telefon száma %s ellenőrzött.</string>
+    <string name="settings_verification_change_phone_number_button">Telefonszám módosítása</string>
+    <string name="settings_verification_verified_button">Hitelesített</string>
+    <string name="settings_verification_verify_button">Hitelesítse a</string>
+    <string name="settings_verification_more_details_button">További részletek</string>
+    <string name="close_button">Bezárás</string>
+    <string name="phone_verification_subtitle">Legyen hitelesebb a profilja</string>
+    <string name="phone_verification_change_phone_number_title">Telefonszám módosítása</string>
+    <string name="phone_verification_change_success_subtitle">A telefonszám sikeresen megváltozott.</string>
+    <string name="phone_verification_enter_code_from_sms">Adja meg az SMS-ben kapott hitelesítési kódot</string>
+    <string name="phone_verification_info_items_3">A biztonságosabb kétlépéses bejelentkezés beállításának lehetősége.</string>
+    <string name="phone_verification_change_country_title">Ország váltása</string>
+    <string name="phone_verification_change_country_text">Az ellenőrzést a profiljában megadott ország telefon számáról kell elvégezni.</string>
+    <string name="registration_gender_not_selected">Kérjük, válassza ki a nemét</string>
+    <string name="registration_welcome_title">%s,
+\nüdvözöljük közöttünk!</string>
+    <string name="registration_contact_support_text">Ha nem kapta meg az e-mailt, kérjük, keresse meg a spam mappában, vagy várjon néhány percet.
+\n
+\nHa ez sem működik, vagy ha bármilyen más problémája van a fiókja aktiválásával, kérjük, írjon nekünk e-mailt, és megoldjuk.</string>
+    <string name="registration_contact_support_button">Kapcsolat támogatás</string>
+    <string name="invalid_login_dialog_reset_password">Jelszó visszaállítása</string>
+    <string name="invalid_login_dialog_resend_verification_email">Ellenőrző e-mail újraküldése</string>
+    <string name="settings_verification_content_verification_title">Tartalom ellenőrzése</string>
+    <string name="settings_verification_identity_verification_title">Személyazonosság hitelesítése</string>
+    <string name="settings_verification_content_verification_description_verified">A %s felhasználó %s-ként van hitelesítve.</string>
+    <string name="settings_verification_identity_verification_description">Igazolja életkorát és személyazonosságát személyi igazolványával, hogy megerősítse tartalma jogszerűségét.</string>
+    <string name="update_changelog">javított hibák
+\njavított felhasználói felület
+\nmódosított funkciók
+\njavított teljesítmény</string>
+    <string name="button_sign_up_for_free">Ingyenes feliratkozás</string>
 </resources>
