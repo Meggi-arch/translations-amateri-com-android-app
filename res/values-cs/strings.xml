@@ -1547,8 +1547,7 @@
     <string name="setup_voice_message_enabled">Přijímání hlasových zpráv</string>
     <string name="button_sign_up_for_free">Registrace zdarma</string>
     <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
-    <string name="phone_Verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
-    <string name="phone_verification_code_sent">Na váš telefon %s byla odeslána SMS s ověřovacím kódem.</string>
+    <string name="phone_verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="phone_verification_resend_code">Znovu zaslat kód</string>
     <string name="update_changelog">opravené chyby
 \nvylepšené uživatelské prostředí
