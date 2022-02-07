@@ -1465,4 +1465,51 @@
 \nvylepšené používateľské prostredie
 \nupravené funkcie
 \nzvýšený výkon</string>
+    <string name="phone_verification_info_title">Čo získate týmto overením\?</string>
+    <string name="complete_button">Kompletné</string>
+    <string name="phone_verification_change_phone_number_title">Zmeňte svoje telefónne číslo</string>
+    <string name="phone_verification_code_title">Zadajte kód z SMS správy</string>
+    <string name="phone_verification_success_title">Skvelé!</string>
+    <string name="phone_verification_success_subtitle">Telefonické overenie bolo úspešné.</string>
+    <string name="phone_verification_change_success_subtitle">Telefónne číslo bolo úspešne zmenené.</string>
+    <string name="phone_verification_enter_code_from_sms">Zadajte overovací kód z SMS</string>
+    <string name="phone_verification_resend_code">Znovu odoslať kód</string>
+    <string name="phone_verification_info_one_profile_per_number">Jedným telefónnym číslom je možné overiť iba jeden profil.</string>
+    <string name="phone_verification_info_items_1">Zvýšenie dôveryhodnosti vášho profilu.</string>
+    <string name="phone_verification_change_country_title">Zmeňte krajinu</string>
+    <string name="phone_verification_change_country_button_go_to_profile">Prejsť na profil</string>
+    <string name="registration_welcome_title">%s,
+\nvitajte medzi nami!</string>
+    <string name="registration_enjoy_amateurs">Navštívte svet amatérov a vychutnajte si ho.</string>
+    <string name="invalid_login_dialog_resend_verification_email">Opätovné odoslanie overovacieho e-mailu</string>
+    <string name="invalid_login_dialog_restore_account">Obnovenie účtu</string>
+    <string name="settings_verification_phone_verification_title">Overenie telefónneho čísla</string>
+    <string name="settings_verification_identity_verification_title">Overenie totožnosti</string>
+    <string name="settings_verification_content_verification_description">Overte svoj profil pomocou fotky.</string>
+    <string name="settings_verification_phone_verification_description">Overte svoj profil pomocou telefónneho čísla.</string>
+    <string name="settings_verification_phone_verification_description_verified">Vaše telefónne číslo %s je overené.</string>
+    <string name="settings_verification_change_phone_number_button">Zmeňte svoje telefónne číslo</string>
+    <string name="settings_verification_verified_button">Overené</string>
+    <string name="settings_verification_verify_button">Overiť</string>
+    <string name="settings_verification_more_details_button">Viac informácií</string>
+    <string name="close_button">Zavrieť</string>
+    <string name="continue_button">Pokračovať</string>
+    <string name="title_verification">Overenie</string>
+    <string name="phone_verification_subtitle">Majte dôveryhodnejší profil</string>
+    <string name="phone_verification_code_subtitle">ktorú sme vám poslali na adresu %s</string>
+    <string name="phone_verification_success_thank_you">Ďakujeme, že ste toto miesto zlepšili a zvýšili jeho bezpečnosť.</string>
+    <string name="phone_verification_info_number_will_stored_securely">Vaše telefónne číslo bude bezpečne uložené a nebude zverejnené bez Vášho súhlasu.</string>
+    <string name="phone_verification_info_items_2">Jednoduché obnovenie zabudnutých prihlasovacích údajov.</string>
+    <string name="phone_verification_info_items_3">Možnosť nastaviť bezpečnejšie dvojfázové prihlásenie.</string>
+    <string name="phone_verification_change_country_text">Overenie je potrebné vykonať z telefónneho čísla krajiny, ktorú ste uviedli vo svojom profile.</string>
+    <string name="registration_enter_to_app">Vstúpte do aplikácie</string>
+    <string name="registration_contact_support_text">Ak ste e-mail nedostali, skúste sa pozrieť do priečinka so spamom, alebo počkajte niekoľko minút.
+\n
+\nAk ani to nepomôže, alebo ak máte akýkoľvek iný problém s aktiváciou účtu, napíšte nám a my to vyriešime.</string>
+    <string name="invalid_login_dialog_reset_password">Resetovanie hesla</string>
+    <string name="settings_verification_content_verification_title">Overenie obsahu</string>
+    <string name="settings_verification_content_verification_description_verified">Užívateľ %s je overený ako %s.</string>
+    <string name="settings_verification_identity_verification_description">Overte svoj vek a totožnosť pomocou svojho občianskeho preukazu, aby ste potvrdili legálnosť svojho obsahu.</string>
+    <string name="registration_contact_support_title">Nedostali ste e-mail\?</string>
+    <string name="registration_contact_support_button">Kontaktujte podporu</string>
 </resources>
