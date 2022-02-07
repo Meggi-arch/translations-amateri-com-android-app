@@ -625,7 +625,7 @@
     <string name="video_guidelines_1">Egyszerre csak egy videót tölthet fel.</string>
     <string name="video_guidelines_2">A videó minimális hossza: %s másodperc.</string>
     <string name="toast_video_too_big">A videó túl nagy. A megengedett maximális mérete %s MB. Kérjük, töltsön fel egy kisebb fájlt.</string>
-    <string name="video_upload_progress">%1$s %%-a %2$s MB-nak</string>
+    <string name="video_upload_progress">%1$s %% of %2$s MB</string>
     <string name="dialog_video_upload_cancel_title">Törölje a feltöltést\?</string>
     <string name="dialog_video_upload_cancel_content">Tényleg le akarja mondani a videó feltöltését\?</string>
     <string name="upload_complete">Feltöltés befejezve</string>
