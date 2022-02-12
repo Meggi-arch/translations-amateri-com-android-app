@@ -1132,4 +1132,7 @@
     <string name="password_reset_form_passwords_must_match">Пароли должны совпадать.</string>
     <string name="notifications_credits_top_up">Пополнить кредит</string>
     <string name="notifications_vip_buy">Купить</string>
+    <string name="phone_verification_change_country_button_go_to_profile">Перейти в профиль</string>
+    <string name="registration_sign_up_with_google">Зарегестрироваться через Google</string>
+    <string name="registration_continue">Продолжить</string>
 </resources>
