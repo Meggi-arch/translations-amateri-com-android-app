@@ -1608,7 +1608,8 @@
     <string name="unverified_dialog_content">Tato část aplikace je přístupná pouze ověřeným uživatelům.</string>
     <string name="unverified_dialog_verify">Ověřte svůj profil</string>
     <string name="setup_theme_title">Témata</string>
-    <string name="setup_theme">Typ tématu</string>
+    <string name="setup_theme">Barevné téma</string>
     <string name="app_theme_dark">Tmavé</string>
     <string name="app_theme_light">Světlé</string>
+    <string name="app_theme_auto">Automatické</string>
 </resources>
