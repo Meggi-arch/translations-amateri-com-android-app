@@ -1625,4 +1625,5 @@
     <string name="setup_notification_mode">Discreet notifications</string>
     <string name="payment_selection_code_missing">SMS code must be filled</string>
     <string name="setup_voice_message_enabled">Receive voice messages</string>
+    <string name="add_comment_verification_required">You need to verify your profile before you can add comments.</string>
 </resources>
