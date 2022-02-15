@@ -1112,6 +1112,9 @@
     <string name="dialog_profile_edit_leave_save_button">Uložit změny</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Zahodit změny a odejít</string>
     <!-- Homepage -->
+    <string name="home_banner_verification_title">Váš profil není ověřen</string>
+    <string name="home_banner_verification_message">Přidejte se k ověřeným uživatelům a buďte důvěryhodnější.</string>
+    <string name="home_banner_verification_action_verify_profile">Ověřit profil</string>
     <string name="home_section_favourites_videos_title">Videa mých oblíbených</string>
     <string name="home_section_favourites_albums_title">Fotoalba mých oblíbených</string>
     <string name="home_favourites_section_empty_text">Mí oblíbení zatím nic nepřidali</string>

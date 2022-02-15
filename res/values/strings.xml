@@ -1371,6 +1371,9 @@
     <string name="dialog_profile_edit_leave_save_button">Save changes</string>
     <string name="dialog_profile_edit_leave_dismiss_button">Discard changes and leave</string>
     <!-- Homepage -->
+    <string name="home_banner_verification_title">Your profile is not verified</string>
+    <string name="home_banner_verification_message">Join verified users and be more trustworthy.</string>
+    <string name="home_banner_verification_action_verify_profile">Verify profile</string>
     <string name="home_section_favourites_videos_title">Videos of my favourites</string>
     <string name="home_section_favourites_albums_title">Photo albums of my favourites</string>
     <string name="home_favourites_section_empty_text">My favorites have not added anything yet</string>
