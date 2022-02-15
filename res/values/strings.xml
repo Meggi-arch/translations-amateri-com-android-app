@@ -1569,6 +1569,8 @@
     <string name="payment_selection_type_wallet_subtitle">New internal currency of Amateri.com</string>
     <string name="payment_selection_success_topup">Dating ad was successfully topped up</string>
     <string name="payment_selection_success_gift_vip">VIP successfully donated</string>
+    <string name="payment_selection_type_sms_send_payment_top">Send an SMS with the text</string>
+    <string name="payment_selection_type_sms_send_payment_bottom">to phone number</string>
     <plurals name="credits">
         <item quantity="one">Credit</item>
         <item quantity="other">Credits</item>
