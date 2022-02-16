@@ -1232,4 +1232,97 @@
         <item quantity="many">Несколько %d часов назад</item>
         <item quantity="other">Несколько %d часов назад</item>
     </plurals>
+    <string name="conversation_phone_verification_required_button_verify">Проверить профиль</string>
+    <string name="conversation_phone_verification_required_button_contact">Контактировать поддержку</string>
+    <string name="no_notifications_title">Уведомлений нет</string>
+    <string name="i_sent_a_voice_message">Вы отослали голосовое сообщение</string>
+    <string name="collection_settings_save">Сохранить</string>
+    <string name="collection_settings_missing_title">Пожалуйста введите название</string>
+    <string name="no_collections_text">Альбомы и видео вы можете сохранять в коллекциях.</string>
+    <string name="public_collection">Публичная коллекция</string>
+    <string name="private_collection">Частная коллекция</string>
+    <string name="my_account_disconnect">Отключить</string>
+    <string name="my_account_preferred_language">Предпочитаемый язык содержания</string>
+    <plurals name="event_signed_in_people">
+        <item quantity="one">Авторизован %d человек</item>
+        <item quantity="few">Авторизовано %d человек</item>
+        <item quantity="many">Авторизовано %d человек</item>
+        <item quantity="other">Авторизовано %d человек</item>
+    </plurals>
+    <plurals name="event_attended_people">
+        <item quantity="one">Участвовал %d человек</item>
+        <item quantity="few">Участвовало %d человек</item>
+        <item quantity="many">Участвовало %d человек</item>
+        <item quantity="other">Участвовало %d человек</item>
+    </plurals>
+    <string name="collection_settings_visibility_default">Выберите видимость</string>
+    <plurals name="vip_days_remaining">
+        <item quantity="one">Остаётся %d день</item>
+        <item quantity="few">Остаётся %d дней</item>
+        <item quantity="many">Остаётся %d дней</item>
+        <item quantity="other">Остаётся %d дней</item>
+    </plurals>
+    <string name="collection_settings_save_success">Изменения были сохранены</string>
+    <string name="no_collections_title">У вас нет коллекций.</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">Новое сообщение</item>
+        <item quantity="few">%s новых сообщений</item>
+        <item quantity="many">%s новых сообщений</item>
+        <item quantity="other">%s новых сообщений</item>
+    </plurals>
+    <string name="notification_mfa_title">Новая авторизация</string>
+    <string name="conversation_phone_verification_required_message">Перед отправкой сообщения остальным пользователям вам нужно подтвердить свой профиль.</string>
+    <string name="notification_mfa_app_registration_text">Подтвердите спаривание этого устройства с учётной записью.</string>
+    <string name="my_account_content">Содержание</string>
+    <string name="user_sent_a_voice_message">%s вам послал голосовое сообщение</string>
+    <string name="my_account_disconnect_dialog_title">Отключить авторизацию социальных сетей\?</string>
+    <plurals name="event_capacity_people_number">
+        <item quantity="one">%d человек</item>
+        <item quantity="few">%d человек</item>
+        <item quantity="many">%d люди</item>
+        <item quantity="other">%d люди</item>
+    </plurals>
+    <string name="my_account_disconnect_dialog">Вы действительно хотите отключить авторизацию социальных сетей\?</string>
+    <plurals name="event_participants_total">
+        <item quantity="one">%d человек</item>
+        <item quantity="few">%d человек</item>
+        <item quantity="many">%d люди</item>
+        <item quantity="other">%d люди</item>
+    </plurals>
+    <string name="new_collection_create_and_save_success">Пункт был добавлен в новую коллекцию</string>
+    <string name="title_notification_list">Уведомление</string>
+    <string name="notification_settings">Установить уведомления</string>
+    <plurals name="vip_days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дней</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дней</item>
+    </plurals>
+    <string name="my_account_social_login_connect">Настроить</string>
+    <string name="new_collection_create">Создать</string>
+    <string name="unverified_dialog_title">Требуется проверка</string>
+    <string name="unverified_dialog_content">Эта часть приложения доступна только проверенным пользователям.</string>
+    <string name="unverified_dialog_verify">Проверьте свой профиль</string>
+    <string name="setup_theme_title">Темы</string>
+    <string name="app_theme_auto">Автоматически</string>
+    <string name="setup_theme">Цветная тема</string>
+    <string name="app_theme_dark">Тёмная</string>
+    <string name="app_theme_light">Светлая</string>
+    <string name="comment_sort_by_language">По языку</string>
+    <string name="collection_settings_title">Название</string>
+    <string name="collection_settings_title_hint">Введите название</string>
+    <string name="collection_settings_description">Описание</string>
+    <string name="collection_settings_description_hint">Вложите описание</string>
+    <string name="collection_settings_visibility">Видимость</string>
+    <string name="collection_settings_missing_visibility">Пожалуйста выберите видимость</string>
+    <string name="notification_mfa_verify_text">Пожалуйста подтвердите новую попытку авторизации.</string>
+    <string name="notification_mfa_verify_approve">Одобрить</string>
+    <string name="notification_mfa_verify_deny">Отказать</string>
+    <string name="notification_mfa_app_registration_title">Двойная проверка</string>
+    <string name="my_account_social_login">Авторизация социальных сетей</string>
+    <string name="my_account_social_login_disconnect">Отключить</string>
+    <string name="social_login_error">Ошибка</string>
+    <string name="my_account_preferred_language_not_set">Предпочитаемый язык содержания не может быть невыполненным</string>
+    <string name="new_collection_create_success">Коллекция создана</string>
+    <string name="no_notifications_message">В данный момент у вас нет новых уведомлений. Вы здесь найдёте уведомления на комментарии, лайки фоток и видео итд.</string>
 </resources>
