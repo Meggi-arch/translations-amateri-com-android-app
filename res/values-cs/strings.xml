@@ -1615,4 +1615,6 @@
     <string name="app_theme_dark">Tmavé</string>
     <string name="app_theme_light">Světlé</string>
     <string name="app_theme_auto">Automatické</string>
+    <string name="payment_selection_type_sms_send_payment_bottom">na telefonní číslo</string>
+    <string name="payment_selection_type_sms_send_payment_top">Odeslání SMS s textem</string>
 </resources>
