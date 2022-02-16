@@ -1617,4 +1617,8 @@
     <string name="app_theme_auto">Automatické</string>
     <string name="payment_selection_type_sms_send_payment_bottom">na telefonní číslo</string>
     <string name="payment_selection_type_sms_send_payment_top">Odeslání SMS s textem</string>
+    <string name="conversation_phone_verification_required_button_verify">Ověřit profil</string>
+    <string name="conversation_phone_verification_required_button_contact">Kontaktovat podporu</string>
+    <string name="conversation_phone_verification_required_message">Před odesláním zprávy ostatním uživatelům je potřeba ověřit svůj profil.</string>
+    <string name="add_comment_verification_required">Před přidáváním komentářů je potřeba ověřit svůj profil.</string>
 </resources>
