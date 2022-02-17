@@ -1137,7 +1137,7 @@
     <string name="registration_continue">Продолжить</string>
     <string name="registration_resend_verification_email">Заного отправить код для подтверждения адреса электронной почты</string>
     <string name="registration_restore_your_account">Обновить свой аккаунт</string>
-    <string name="registration_already_have_an_account">У вас есть аккаунт\?<u>Войдите</u></string>
+    <string name="registration_already_have_an_account">У вас есть аккаунт\? &lt;login&gt;Войдите&lt;/login&gt;</string>
     <string name="registration_setup_user_title">Представьтесь</string>
     <string name="registration_sign_up_subtitle">И присоединяйтесь к остальным любителям</string>
     <string name="registration_setup_user_subtitle">Пожалуйста введите свой ник и выберите пол</string>
@@ -1184,7 +1184,7 @@
     <string name="album_settings_missing_category">Пожалуйста выберите категорию</string>
     <string name="comment_sort_title">Порядок комментариев</string>
     <string name="comment_sort_dialog_title">Порядок комментариев</string>
-    <string name="registration_terms_and_conditions">Регестрируясь, вы принимаете наши &lt;link:terms&gt; общие положения и условия &lt;/link&gt; и &lt;link:privacy&gt; политику обработки персональных данных.</string>
+    <string name="registration_terms_and_conditions">Регестрируясь, вы принимаете наши &lt;terms&gt;общие положения и условия&lt;/terms&gt; и &lt;privacy&gt;политику обработки персональных данных&lt;/privacy&gt;.</string>
     <string name="settings_wallet_content_rewards_only_for_verified_users">Вознаграждение за свой контент могут получать только проверенные пользователи.</string>
     <string name="settings_verification_identity_verification_description">Проверьте свой возраст и личность с помощью своего удостоверения личности для подтверждения легальности своего содержания.</string>
     <string name="registration_form_email_is_blank">Адрес электронной почты должен быть выполнен.</string>

@@ -1375,5 +1375,5 @@
     <string name="payment_selection_code_missing">SMS-Code muss eingegeben werden</string>
     <string name="registration_continue">Weiter</string>
     <string name="registration_sign_up_with_google">Mit Google anmelden</string>
-    <string name="registration_terms_and_conditions">Mit der Registrierung akzeptieren Sie unsere &lt;link:terms&gt;Allgemeinen Geschäftsbedingungen&lt;/link&gt; und &lt;link:privacy&gt;Datenschutzerklärung&lt;/link&gt;.</string>
+    <string name="registration_terms_and_conditions">Mit der Registrierung akzeptieren Sie unsere &lt;terms&gt;Allgemeinen Geschäftsbedingungen&lt;/terms&gt; und &lt;privacy&gt;Datenschutzerklärung&lt;/privacy&gt;.</string>
 </resources>

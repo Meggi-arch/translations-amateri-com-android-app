@@ -1354,7 +1354,7 @@
     <string name="profile_options_report_user">Jelentés</string>
     <string name="payment_selection_code_missing">Az SMS kódot ki kell tölteni</string>
     <string name="setup_notification_mode">Diszkrét értesítések</string>
-    <string name="registration_terms_and_conditions">A regisztrációval Ön elfogadja a &lt;link:terms&gt;Általános Szerződési Feltételeket&lt;/link&gt; és a &lt;link:privacy&gt;Adatvédelmi és adatvédelmi szabályzatot&lt;/link&gt;.</string>
+    <string name="registration_terms_and_conditions">A regisztrációval Ön elfogadja a &lt;terms&gt;Általános Szerződési Feltételeket&lt;/terms&gt; és a &lt;privacy&gt;Adatvédelmi és adatvédelmi szabályzatot&lt;/privacy&gt;.</string>
     <string name="registration_continue">Folytatás</string>
     <string name="registration_sign_up_with_google">Regisztráljon a Google-nál</string>
     <string name="wallet_additional_info_items_2">Jutalmazza kedvenc csettfolyamát és tartalmát</string>
@@ -1399,7 +1399,7 @@
     <string name="phone_verification_visibility_on_your_profile">Láthatóság az Ön profilján</string>
     <string name="registration_resend_verification_email">E-mail ellenőrző kód újraküldése</string>
     <string name="registration_restore_your_account">Fiókja visszaállítása</string>
-    <string name="registration_already_have_an_account">Van fiókja\? <u>Log in</u></string>
+    <string name="registration_already_have_an_account">Van fiókja\? &lt;login&gt;Log in&lt;/login&gt;</string>
     <string name="registration_form_email_is_blank">Az e-mailt ki kell töltenie.</string>
     <string name="registration_form_password_is_blank">A jelszót ki kell töltenie.</string>
     <string name="registration_form_email_is_invalid">Kérjük, adjon meg egy érvényes e-mail címet.</string>

@@ -1402,7 +1402,7 @@
     <string name="payment_selection_code_missing">Je potrebné vyplniť kód SMS</string>
     <string name="registration_continue">Pokračovať</string>
     <string name="registration_sign_up_with_google">Registrovať sa cez Google</string>
-    <string name="registration_terms_and_conditions">Registráciou akceptujete naše &lt;link:terms&gt;Všeobecné zmluvné podmienky&lt;/link&gt; a &lt;link:privacy&gt;Zásady ochrany súkromia a údajov&lt;/link&gt;.</string>
+    <string name="registration_terms_and_conditions">Registráciou akceptujete naše &lt;terms&gt;Všeobecné zmluvné podmienky&lt;/terms&gt; a &lt;privacy&gt;Zásady ochrany súkromia a údajov&lt;/privacy&gt;.</string>
     <string name="hint_nickname_or_email">Prezývka alebo e-mail</string>
     <string name="title_visibility_on_your_profile">Viditeľnosť vášho profilu</string>
     <string name="resend_verification_email_resend_button">Znovu odoslať</string>
@@ -1426,7 +1426,7 @@
     <string name="password_reset_submit_button">Odoslať</string>
     <string name="password_reset_password_changed">Vaše heslo bolo zmenené, prosím prihláste sa.</string>
     <string name="password_reset_form_password_is_empty">Heslo musí byť vyplnené.</string>
-    <string name="registration_already_have_an_account">Máte účet\? <u>Prihláste sa</u></string>
+    <string name="registration_already_have_an_account">Máte účet\? &lt;login&gt;Prihláste sa&lt;/login&gt;</string>
     <string name="registration_resend_verification_email">Znovu odoslať kód na overenie emailu</string>
     <string name="registration_restore_your_account">Obnovenie účtu</string>
     <string name="registration_sign_up_title">Pripojte sa zadarmo</string>

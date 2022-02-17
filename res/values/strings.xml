@@ -371,10 +371,10 @@
     <!--RegistrationActivity-->
     <string name="registration_continue">Continue</string>
     <string name="registration_sign_up_with_google">Sign up with Google</string>
-    <string name="registration_terms_and_conditions">By signing up, you accept our &lt;link:terms&gt;General Terms and Conditions&lt;/link&gt; and &lt;link:privacy&gt;Privacy and Data Protection Policy&lt;/link&gt;.</string>
+    <string name="registration_terms_and_conditions">By signing up, you accept our &lt;terms&gt;General Terms and Conditions&lt;/terms&gt; and &lt;privacy&gt;Privacy and Data Protection Policy&lt;/privacy&gt;.</string>
     <string name="registration_resend_verification_email">Resend email verification code</string>
     <string name="registration_restore_your_account">Restore your account</string>
-    <string name="registration_already_have_an_account">Have an account? <u>Log in</u></string>
+    <string name="registration_already_have_an_account">Have an account? &lt;login&gt;Log in&lt;/login&gt;</string>
     <string name="registration_form_email_is_blank">Email must be filled.</string>
     <string name="registration_form_password_is_blank">Password must be filled.</string>
     <string name="registration_form_email_is_invalid">Please enter a valid email address.</string>
