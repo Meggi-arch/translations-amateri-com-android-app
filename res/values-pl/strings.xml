@@ -1108,10 +1108,10 @@
     <string name="registration_enjoy_amateurs">Wejdź i ciesz się światem Amatorów.</string>
     <string name="registration_continue">Kontynuuj</string>
     <string name="registration_sign_up_with_google">Zarejestruj się za pomocą Google</string>
-    <string name="registration_terms_and_conditions">Dokonując rejestrację akceptujesz nasze &lt;link:terms&gt;Ogólne warunki umowy&lt;/link&gt; oraz &lt;link:privacy&gt;Politykę prywatności i ochrony danych&lt;/link&gt;.</string>
+    <string name="registration_terms_and_conditions">Dokonując rejestrację akceptujesz nasze <terms>Ogólne warunki umowy</terms> oraz <privacy>Politykę prywatności i ochrony danych</privacy>.</string>
     <string name="registration_resend_verification_email">Wyślij ponownie kod z weryfikacją adresu e-mailowego</string>
     <string name="registration_restore_your_account">Aktywuj swoje konto ponownie</string>
-    <string name="registration_already_have_an_account">Masz konto\? <u>Zaloguj się</u></string>
+    <string name="registration_already_have_an_account">Masz konto\? <login>Zaloguj się</login></string>
     <string name="registration_form_email_is_blank">Pole e-mail musi zostać uzupełnione.</string>
     <string name="registration_form_password_is_blank">Hasło musi być uzupełnione.</string>
     <string name="registration_form_email_is_invalid">Prosimy wprowadzić ważny adres e-mailowy.</string>
