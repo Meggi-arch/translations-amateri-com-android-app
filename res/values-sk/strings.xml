@@ -1376,7 +1376,7 @@
     <string name="new_collection_create">Vytvoriť</string>
     <string name="new_collection_create_and_save_success">Položka bola pridaná do novej zbierky</string>
     <string name="new_collection_create_success">Zbierka vytvorená</string>
-    <string name="captcha_session_timeout_error">Výzva vypršala.</string>
+    <string name="captcha_session_timeout_error">Výzva bola ukončená.</string>
     <string name="captcha_rate_limited_error">Máte príliš veľa požiadaviek.</string>
     <string name="dialog_mfa_missing_secret_title">Chýbajúce overenie</string>
     <string name="webview_file_downloaded">Súbor je uložený</string>
@@ -1512,4 +1512,21 @@
     <string name="settings_verification_identity_verification_description">Overte svoj vek a totožnosť pomocou svojho občianskeho preukazu, aby ste potvrdili legálnosť svojho obsahu.</string>
     <string name="registration_contact_support_title">Nedostali ste e-mail\?</string>
     <string name="registration_contact_support_button">Kontaktujte podporu</string>
+    <string name="conversation_phone_verification_required_button_verify">Overenie profilu</string>
+    <string name="home_banner_verification_title">Váš profil nie je overený</string>
+    <string name="home_banner_verification_message">Pridajte sa k overeným používateľom a buďte dôveryhodnejší.</string>
+    <string name="home_banner_verification_action_verify_profile">Overenie profilu</string>
+    <string name="payment_selection_type_sms_send_payment_bottom">na telefónne číslo</string>
+    <string name="add_comment_verification_required">Pred pridaním komentárov musíte overiť svoj profil.</string>
+    <string name="conversation_phone_verification_required_message">Predtým, ako môžete posielať správy ostatným používateľom, musíte overiť svoj profil.</string>
+    <string name="conversation_phone_verification_required_button_contact">Kontakt na podporu</string>
+    <string name="payment_selection_type_sms_send_payment_top">Odoslať SMS s textom</string>
+    <string name="unverified_dialog_title">Vyžaduje sa overenie</string>
+    <string name="unverified_dialog_content">Táto časť aplikácie je prístupná len overeným používateľom.</string>
+    <string name="unverified_dialog_verify">Overenie vášho profilu</string>
+    <string name="setup_theme_title">Témy</string>
+    <string name="setup_theme">Druh témy</string>
+    <string name="app_theme_auto">Automatické</string>
+    <string name="app_theme_dark">Tmavé</string>
+    <string name="app_theme_light">Svetlé</string>
 </resources>
