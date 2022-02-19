@@ -1117,4 +1117,68 @@
     <string name="registration_form_email_is_invalid">Prosimy wprowadzić ważny adres e-mailowy.</string>
     <string name="notifications_blogs">Posty na blogu</string>
     <string name="notifications_notes">Uwagi</string>
+    <string name="registration_contact_support_button">Skontaktuj się z pomocą techniczną</string>
+    <string name="profile_user_chat_rooms">Chat roomy</string>
+    <string name="settings_verification_content_verification_description_verified">Użytkownik %s jest zweryfikowany jako %s.</string>
+    <string name="settings_verification_phone_verification_description">Zweryfikuj swój profil za pomocą numeru telefonu.</string>
+    <string name="settings_verification_change_phone_number_button">Zmienić numer telefonu</string>
+    <string name="settings_verification_verified_button">Zweryfikowano</string>
+    <string name="settings_verification_verify_button">Zweryfikuj</string>
+    <string name="settings_verification_more_details_button">Więcej szczegółów</string>
+    <string name="settings_wallet_accept_rewards_for_streaming">Przyjmij nagrody za strumieniowanie na czacie</string>
+    <string name="registration_activation_link_in_email">Aby zakończyć rejestrację, wystarczy kliknąć na link, który wysłaliśmy na adres %s.</string>
+    <string name="settings_verification_identity_verification_description">Zweryfikuj swój wiek i tożsamość za pomocą dowodu osobistego, aby potwierdzić legalność swoich treści.</string>
+    <string name="settings_verification_content_verification_description">Zweryfikuj swój profil za pomocą zdjęcia.</string>
+    <string name="registration_enter_to_app">Wejdź do aplikacji</string>
+    <string name="registration_open_email_app">Otwórz aplikację poczty e-mail</string>
+    <string name="registration_open_email_app_title">Którą aplikację otworzyć\?</string>
+    <string name="registration_contact_support_title">Nie otrzymałeś e-maila\?</string>
+    <string name="registration_contact_support_text">Jeśli nie otrzymałeś e-maila, spróbuj poszukać go w folderze spamu lub poczekaj kilka minut.
+\n
+\nJeśli to również nie zadziała, lub jeśli masz jakikolwiek inny problem z aktywacją konta, napisz do nas, a my to rozwiążemy.</string>
+    <string name="settings_wallet_content_rewards_only_for_verified_users">Tylko zweryfikowani użytkownicy mogą otrzymywać nagrody za swoją treść.</string>
+    <string name="settings_verification_content_verification_title">Weryfikacja treści</string>
+    <string name="settings_verification_phone_verification_title">Weryfikacja telefoniczna</string>
+    <string name="settings_verification_identity_verification_title">Weryfikacja tożsamości</string>
+    <string name="settings_verification_phone_verification_description_verified">Twój numer telefonu %s został zweryfikowany.</string>
+    <string name="setup_theme_title">Tematy</string>
+    <string name="app_theme_dark">Ciemny</string>
+    <string name="setup_theme">Kolor tematu</string>
+    <string name="app_theme_auto">Automatyczny</string>
+    <string name="app_theme_light">Jasny</string>
+    <plurals name="profile_last_online_minutes">
+        <item quantity="one">minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+        <item quantity="many">%d minut temu</item>
+        <item quantity="other">%d minut temu</item>
+    </plurals>
+    <plurals name="profile_last_online_days">
+        <item quantity="one">wczoraj</item>
+        <item quantity="few">%d dni temu</item>
+        <item quantity="many">%d dni temu</item>
+        <item quantity="other">%d dni temu</item>
+    </plurals>
+    <string name="profile_last_online">Ostatnie logowanie</string>
+    <plurals name="profile_last_online_seconds">
+        <item quantity="one">teraz</item>
+        <item quantity="few">%d sekundy temu</item>
+        <item quantity="many">%d sekund temu</item>
+        <item quantity="other">%d sekund temu</item>
+    </plurals>
+    <string name="dating_category">Kategoria</string>
+    <string name="dating_showonly">Pokaż tylko</string>
+    <string name="dating_country">Kraj</string>
+    <string name="dating_region">Region</string>
+    <string name="setup_update_unsupported_sdk">Przykro nam, ale Twoja wersja systemu Android jest zbyt stara, aby zainstalować nową wersję aplikacji :(</string>
+    <string name="setup_default_homescreen_title">Domyślny ekran główny</string>
+    <string name="setup_default_homescreen_dialog_title">Wybierz swój ekran domyślny</string>
+    <string name="setup_default_language_title">Język aplikacji</string>
+    <string name="setup_default_language_dialog_title">Wybierz język aplikacji</string>
+    <string name="language_default">Taki sam jak język systemowy</string>
+    <plurals name="profile_last_online_hours">
+        <item quantity="one">godzinę temu</item>
+        <item quantity="few">%d godziny temu</item>
+        <item quantity="many">%d godzin temu</item>
+        <item quantity="other">%d godzin temu</item>
+    </plurals>
 </resources>
