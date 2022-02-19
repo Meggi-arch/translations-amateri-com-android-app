@@ -1479,4 +1479,21 @@
 \nmódosított funkciók
 \njavított teljesítmény</string>
     <string name="button_sign_up_for_free">Ingyenes feliratkozás</string>
+    <string name="home_banner_verification_title">Az Ön profilja nem ellenőrzött</string>
+    <string name="home_banner_verification_message">Csatlakozzon az ellenőrzött felhasználókhoz, és legyen megbízhatóbb.</string>
+    <string name="home_banner_verification_action_verify_profile">A profil ellenőrzése</string>
+    <string name="add_comment_verification_required">A hozzászólások hozzáadása előtt ellenőriznie kell a profilját.</string>
+    <string name="payment_selection_type_sms_send_payment_top">Küldjön SMS-t a következő szöveggel</string>
+    <string name="payment_selection_type_sms_send_payment_bottom">a telefonszámra</string>
+    <string name="conversation_phone_verification_required_button_verify">A profil ellenőrzése</string>
+    <string name="conversation_phone_verification_required_button_contact">Kapcsolat felvétel a támogatással</string>
+    <string name="conversation_phone_verification_required_message">Mielőtt üzenetet küldhetne más felhasználók számára, ellenőriznie kell a profilját.</string>
+    <string name="unverified_dialog_title">Ellenőrzésre van szükség</string>
+    <string name="unverified_dialog_content">Az applikációnak ez a része csak ellenőrzött felhasználók számára érhető el.</string>
+    <string name="unverified_dialog_verify">Ellenőrizze a profilját</string>
+    <string name="setup_theme_title">Témakörök</string>
+    <string name="setup_theme">A téma típusa</string>
+    <string name="app_theme_auto">Automatikus</string>
+    <string name="app_theme_dark">Sötét</string>
+    <string name="app_theme_light">Világítás</string>
 </resources>
