@@ -148,7 +148,7 @@
     <string name="vip_dialog_activate">Chcę zostać członkiem VIP</string>
     <string name="vip_dialog_login">Zalogować</string>
     <string name="vip_dialog_register">Zarejestrować</string>
-    <string name="title_activity_feedback">Wysłać opinię</string>
+    <string name="title_activity_feedback">Wsparcie</string>
     <string name="feedback_email">e-mail</string>
     <string name="feedback_category">kategoria</string>
     <string name="feedback_message">Twoja wiadomość</string>
@@ -1181,4 +1181,37 @@
         <item quantity="many">%d godzin temu</item>
         <item quantity="other">%d godzin temu</item>
     </plurals>
+    <string name="dating_save">Zapisz</string>
+    <string name="dating_saved">Zapisane</string>
+    <string name="dating_saved_success">Ogłoszenie zostało dodane do zapisanych</string>
+    <string name="dating_report">Zgłoś</string>
+    <string name="invalid_login_dialog_reset_password">Resetowanie hasła</string>
+    <string name="invalid_login_dialog_resend_verification_email">Wyślij e-email weryfikacyjny ponownie</string>
+    <string name="invalid_login_dialog_restore_account">Przywróć konto</string>
+    <string name="settings_wallet_section_rewards">Nagrody</string>
+    <string name="collection_settings_description_hint">Wpisz opis</string>
+    <string name="collection_settings_visibility">Widoczność</string>
+    <string name="collection_settings_visibility_default">Wybierz widoczność</string>
+    <string name="collection_settings_save">Zapisz</string>
+    <string name="collection_settings_missing_visibility">Prosimy wybrać widoczność</string>
+    <string name="no_collections_title">Nie masz żadnych kolekcji.</string>
+    <string name="dating_unsaved_success">Ogłoszenie zostało usunięte ze zapisanych</string>
+    <string name="search_collections_hint">Wyszukiwanie w kolekcjach</string>
+    <string name="collection_settings_title">Tytuł</string>
+    <string name="collection_settings_title_hint">Wpisz tytuł</string>
+    <string name="collection_settings_description">Opis</string>
+    <string name="collection_settings_missing_title">Prosimy wpisać tytuł</string>
+    <string name="no_collections_text">Albumy i filmiki można wkładać do kolekcji.</string>
+    <string name="settings_wallet_accept_rewards_for_content">Przyjmuj nagrody za swoje treści</string>
+    <string name="collection_settings_save_success">Zmiany zostały zapisane</string>
+    <string name="dating_filter_notop">Bez umieszczania reklam u góry</string>
+    <string name="dating_filter_stars">Zapisane</string>
+    <string name="dating_filter_verified">Zweryfikowano</string>
+    <string name="dating_filter_profile">Ze zdjęciem</string>
+    <string name="album_settings_missing_category">Prosimy wybrać kategorię</string>
+    <string name="video_settings_missing_category">Prosimy wybrać kategorię</string>
+    <string name="comment_sort_title">Kolejność komentarzy</string>
+    <string name="comment_sort_dialog_title">Kolejność komentarzy</string>
+    <string name="comment_sort_by_date">Według daty</string>
+    <string name="comment_sort_by_language">Według języka</string>
 </resources>
