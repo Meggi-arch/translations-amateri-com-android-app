@@ -1214,4 +1214,22 @@
     <string name="comment_sort_dialog_title">Kolejność komentarzy</string>
     <string name="comment_sort_by_date">Według daty</string>
     <string name="comment_sort_by_language">Według języka</string>
+    <string name="notification_mfa_verify_approve">Zatwierdź</string>
+    <string name="notification_mfa_verify_deny">Odrzuć</string>
+    <string name="private_collection">Kolekcja prywatna</string>
+    <string name="public_collection">Kolekcja publiczna</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">Nowa wiadomość</item>
+        <item quantity="few">%s nowe wiadomości</item>
+        <item quantity="many">%s nowych wiadomości</item>
+        <item quantity="other">%s nowych wiadomości</item>
+    </plurals>
+    <string name="fab_add_blog">Dodaj post na blogu</string>
+    <string name="my_account_content">Treść</string>
+    <string name="my_account_hide_categories">Nie pokazuj kategorii</string>
+    <string name="my_account_social_login">Login do sieci społecznościowych</string>
+    <string name="my_account_social_login_connect">Ustaw</string>
+    <string name="my_account_social_login_disconnect">Odłącz</string>
+    <string name="my_account_disconnect_dialog_title">Odłączyć logowanie do sieci społecznościowych\?</string>
+    <string name="social_login_error">Błąd</string>
 </resources>
