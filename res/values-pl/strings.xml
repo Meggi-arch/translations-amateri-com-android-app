@@ -1232,4 +1232,13 @@
     <string name="my_account_social_login_disconnect">Odłącz</string>
     <string name="my_account_disconnect_dialog_title">Odłączyć logowanie do sieci społecznościowych\?</string>
     <string name="social_login_error">Błąd</string>
+    <string name="new_collection_create_success">Kolekcja została utworzona</string>
+    <string name="new_collection_create_and_save_success">Pozycja została dodana do nowej kolekcji</string>
+    <string name="no_notifications_title">Brak powiadomień</string>
+    <string name="no_notifications_message">W tej chwili nie masz żadnych nowych powiadomień. Tutaj znajdziesz powiadomienia o nowych komentarzach, polubieniach zdjęć i filmów, itp.</string>
+    <string name="new_collection_create">Utwórz</string>
+    <string name="my_account_disconnect_dialog">Czy naprawdę chcesz odłączyć ten login sieci społecznościowych\?</string>
+    <string name="my_account_disconnect">Odłącz</string>
+    <string name="my_account_preferred_language">Preferowany język treści</string>
+    <string name="my_account_preferred_language_not_set">Pole języka treści nie może zostać puste</string>
 </resources>
