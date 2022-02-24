@@ -1142,7 +1142,7 @@
     <string name="registration_sign_up_subtitle">И присоединяйтесь к остальным любителям</string>
     <string name="registration_setup_user_subtitle">Пожалуйста введите свой ник и выберите пол</string>
     <string name="registration_setup_location_title">Вы откуда\?</string>
-    <string name="registration_setup_location_subtitle">Выберите свою страну и регион.</string>
+    <string name="registration_setup_location_subtitle">Выберите свою страну и регион</string>
     <string name="registration_nickname">Ник</string>
     <string name="registration_contact_support_title">Вы не получили электронное письмо\?</string>
     <string name="registration_open_email_app_title">Которое приложение открыть\?</string>
