@@ -1564,7 +1564,7 @@
     <string name="invalid_login_dialog_reset_password">Obnovit heslo</string>
     <string name="registration_account_is_created_but_not_activated">Váš profil byl vytvořen, ale pozor, ještě není aktivní.</string>
     <string name="registration_activation_link_in_email">Pro dokončení registrace stačí kliknout na odkaz, který jsme vám zaslali na adresu %s.</string>
-    <string name="registration_open_email_app">Otevření e-mailové aplikace</string>
+    <string name="registration_open_email_app">Otevřít e-mailovou aplikaci</string>
     <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
     <string name="title_verification">Ověření</string>
     <string name="phone_verification_code_title">Zadejte kód z SMS</string>
