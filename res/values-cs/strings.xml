@@ -1535,7 +1535,7 @@
     <string name="registration_setup_user_title">Představte se</string>
     <string name="registration_setup_user_subtitle">Zadejte prosím svou přezdívku a vyberte své pohlaví</string>
     <string name="registration_setup_location_title">Odkud jste\?</string>
-    <string name="registration_setup_location_subtitle">Vyberte svou zemi a region.</string>
+    <string name="registration_setup_location_subtitle">Vyberte svou zemi a region</string>
     <string name="registration_nickname">Přezdívka</string>
     <string name="registration_region_default">Vyberte region</string>
     <string name="conversations_audio_record_permission_not_granted">Zvukový záznam je povolen</string>
