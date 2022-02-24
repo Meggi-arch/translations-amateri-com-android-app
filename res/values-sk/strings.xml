@@ -1439,7 +1439,7 @@
     <string name="registration_nickname">Užívateľské meno</string>
     <string name="registration_account_is_created_but_not_activated">Váš profil bol vytvorený, ale ešte nie je aktívny.</string>
     <string name="registration_activation_link_in_email">Na Vašu e-mailovú adresu bol odoslaný aktivačný odkaz <b>%s</b>.</string>
-    <string name="registration_open_email_app">Otvorte e-mailovú aplikáciu</string>
+    <string name="registration_open_email_app">Otvoriť e-mailovú aplikáciu</string>
     <string name="registration_open_email_app_title">Ktorú aplikáciu otvoriť\?</string>
     <string name="conversations_audio_record_permission_not_granted">Nahrávanie zvuku je povolené</string>
     <string name="conversations_audio_record_start_error">Spustenie nahrávania zvuku zlyhalo</string>
