@@ -1204,7 +1204,7 @@
     <string name="no_collections_text">Albumy i filmiki można wkładać do kolekcji.</string>
     <string name="settings_wallet_accept_rewards_for_content">Przyjmuj nagrody za swoje treści</string>
     <string name="collection_settings_save_success">Zmiany zostały zapisane</string>
-    <string name="dating_filter_notop">Bez umieszczania reklam u góry</string>
+    <string name="dating_filter_notop">Bez promowania reklamy</string>
     <string name="dating_filter_stars">Zapisane</string>
     <string name="dating_filter_verified">Zweryfikowano</string>
     <string name="dating_filter_profile">Ze zdjęciem</string>
@@ -1241,4 +1241,23 @@
     <string name="my_account_disconnect">Odłącz</string>
     <string name="my_account_preferred_language">Preferowany język treści</string>
     <string name="my_account_preferred_language_not_set">Pole języka treści nie może zostać puste</string>
+    <string name="conversation_phone_verification_required_message">Musisz zweryfikować swój profil, zanim będziesz mógł wysyłać wiadomości do innych użytkowników.</string>
+    <string name="conversation_phone_verification_required_button_verify">Zweryfikuj profil</string>
+    <string name="conversation_phone_verification_required_button_contact">Skontaktuj się z pomocą techniczną</string>
+    <string name="title_notification_list">Powiadomienia</string>
+    <string name="notification_settings">Ustawienia powiadomień</string>
+    <plurals name="vip_days">
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+        <item quantity="other">%d dni</item>
+    </plurals>
+    <string name="toast_camera_permissions_revoked">Prosimy o udostępnienie aplikacji dostępu do kamery.</string>
+    <string name="conversation_user_ignored_error">Użytkownik %s nie życzy sobie, aby otrzymywać od Ciebie jakiekolwiek wiadomości.</string>
+    <plurals name="vip_days_remaining">
+        <item quantity="one">pozostał %d dzień</item>
+        <item quantity="few">pozostały %d dni</item>
+        <item quantity="many">pozostało %d dni</item>
+        <item quantity="other">pozostało %d dni</item>
+    </plurals>
 </resources>
