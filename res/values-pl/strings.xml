@@ -1130,7 +1130,7 @@
     <string name="settings_verification_identity_verification_description">Zweryfikuj swój wiek i tożsamość za pomocą dowodu osobistego, aby potwierdzić legalność swoich treści.</string>
     <string name="settings_verification_content_verification_description">Zweryfikuj swój profil za pomocą zdjęcia.</string>
     <string name="registration_enter_to_app">Wejdź do aplikacji</string>
-    <string name="registration_open_email_app">Otwórz aplikację poczty e-mail</string>
+    <string name="registration_open_email_app">Otworzyć aplikację poczty e-mail</string>
     <string name="registration_open_email_app_title">Którą aplikację otworzyć\?</string>
     <string name="registration_contact_support_title">Nie otrzymałeś e-maila\?</string>
     <string name="registration_contact_support_text">Jeśli nie otrzymałeś e-maila, spróbuj poszukać go w folderze spamu lub poczekaj kilka minut.
