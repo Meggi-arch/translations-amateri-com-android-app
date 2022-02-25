@@ -1376,7 +1376,7 @@
     <string name="new_collection_create">Vytvoriť</string>
     <string name="new_collection_create_and_save_success">Položka bola pridaná do novej zbierky</string>
     <string name="new_collection_create_success">Zbierka vytvorená</string>
-    <string name="captcha_session_timeout_error">Výzva bola ukončená.</string>
+    <string name="captcha_session_timeout_error">Výzva vypršala.</string>
     <string name="captcha_rate_limited_error">Máte príliš veľa požiadaviek.</string>
     <string name="dialog_mfa_missing_secret_title">Chýbajúce overenie</string>
     <string name="webview_file_downloaded">Súbor je uložený</string>
