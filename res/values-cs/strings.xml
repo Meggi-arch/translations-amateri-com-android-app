@@ -1568,7 +1568,6 @@
     <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
     <string name="title_verification">Ověření</string>
     <string name="phone_verification_code_title">Zadejte kód z SMS</string>
-    <string name="phone_verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="settings_verification_content_verification_title">Ověření obsahu</string>
     <string name="phone_verification_code_subtitle">který jsme vám zaslali na %s</string>
     <string name="settings_verification_phone_verification_title">Ověření telefonním číslem</string>
@@ -1580,7 +1579,6 @@
     <string name="settings_verification_verified_button">Ověřeno</string>
     <string name="settings_verification_verify_button">Ověřit</string>
     <string name="settings_verification_more_details_button">Další podrobnosti</string>
-    <string name="phone_verification_info_number_from_country_on_profile">Ověření je potřeba provést pomocí telefonního čísla země, kterou jste uvedli ve svém profilu.</string>
     <string name="phone_verification_info_one_profile_per_number">Jedním telefonním číslem lze ověřit pouze jeden profil.</string>
     <string name="phone_verification_info_title">Co získáte tímto ověřením\?</string>
     <string name="phone_verification_info_number_will_stored_securely">Vaše telefonní číslo bude bezpečně uloženo a bez vašeho souhlasu nebude zveřejněno.</string>
