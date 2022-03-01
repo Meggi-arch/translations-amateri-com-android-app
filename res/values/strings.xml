@@ -2,6 +2,7 @@
 <resources>
     <string name="general_error">Ouch!</string>
     <string name="general_error_no_connection">It looks like there is no internet connection. Please try again later.</string>
+    <string name="error_missing_google_play_services">Sorry, you cannot use this feature, your device does not support Google Play services.</string>
     <string name="general_loading">Please wait while we load the data</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
