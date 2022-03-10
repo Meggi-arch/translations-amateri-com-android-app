@@ -56,6 +56,8 @@
     <string name="tab_notes">Moje poznámky</string>
     <string name="filter_advanced">Pokročilý filtr</string>
     <string name="filter_sort_by">Seřadit podle</string>
+    <string name="filter_topics">Témata</string>
+    <string name="filter_contests">Soutěže</string>
     <!--ProfileInfoFragment-->
     <string name="title_personal_info">Osobní údaje</string>
     <string name="title_sex">Pohlaví</string>

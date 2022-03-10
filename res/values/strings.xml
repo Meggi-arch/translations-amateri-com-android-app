@@ -116,6 +116,8 @@
     <string name="basic_filter">Basic filter</string>
     <string name="filter_advanced">Advanced filter</string>
     <string name="filter_sort_by">List sorted by</string>
+    <string name="filter_topics">Topics</string>
+    <string name="filter_contests">Contests</string>
     <string name="album_filter_show_all">Show albums</string>
     <string name="video_filter_show_all">Show videos</string>
     <string name="collections_filter_show_all">Show collections</string>
