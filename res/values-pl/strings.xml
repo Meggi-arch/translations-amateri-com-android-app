@@ -1260,4 +1260,46 @@
         <item quantity="many">pozostało %d dni</item>
         <item quantity="other">pozostało %d dni</item>
     </plurals>
+    <string name="user_sent_a_voice_message">%s wysłał Ci wiadomość głosową</string>
+    <string name="i_sent_a_voice_message">Wysłałeś wiadomość głosową</string>
+    <plurals name="event_capacity_people_number">
+        <item quantity="one">%d osoba</item>
+        <item quantity="few">%d osoby</item>
+        <item quantity="many">%d osób</item>
+        <item quantity="other">%d osób</item>
+    </plurals>
+    <plurals name="event_participants_total">
+        <item quantity="one">%d osoba</item>
+        <item quantity="few">%d osoby</item>
+        <item quantity="many">%d osób</item>
+        <item quantity="other">%d osób</item>
+    </plurals>
+    <plurals name="event_signed_in_people">
+        <item quantity="one">Zalogowała się %d osoba</item>
+        <item quantity="few">Zalogowały się %d osoby</item>
+        <item quantity="many">Zalogowało się %d osób</item>
+        <item quantity="other">Zalogowało się %d osób</item>
+    </plurals>
+    <plurals name="event_attended_people">
+        <item quantity="one">Udział brała %d osoba</item>
+        <item quantity="few">Udział brały %d osoby</item>
+        <item quantity="many">Udział brało %d osób</item>
+        <item quantity="other">Udział brało %d osób</item>
+    </plurals>
+    <plurals name="notification_upcoming_event_signed_users">
+        <item quantity="one">Zalogowano już %d osobę.</item>
+        <item quantity="few">Zalogowano już %d osoby.</item>
+        <item quantity="many">Zalogowano już %d osób.</item>
+        <item quantity="other">Zalogowano już %d osób.</item>
+    </plurals>
+    <string name="new_note_add_note">Dodaj uwagę</string>
+    <string name="new_note_add_hint">Wprowadź tekst…</string>
+    <string name="new_note_error">Tekst nie może być pusty.</string>
+    <string name="new_note_created">Notatka została utworzona pomyślnie.</string>
+    <string name="new_note_dialog_backpress">Nowa notatka nie zostanie utworzona. Wszystkie wprowadzone zmiany zostaną utracone.</string>
+    <string name="note_edit_title">Edytuj notatkę</string>
+    <string name="note_edit">Edytuj</string>
+    <string name="note_delete_dialog_backpress_text">Czy naprawdę chcesz usunąć tę notatkę\?</string>
+    <string name="note_delete_dialog_backpress_title">Usunąć tę notatkę\?</string>
+    <string name="note_edited">Notatka została pomyślnie edytowana.</string>
 </resources>
