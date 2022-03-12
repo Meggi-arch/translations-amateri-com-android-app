@@ -1302,4 +1302,46 @@
     <string name="note_delete_dialog_backpress_text">Czy naprawdę chcesz usunąć tę notatkę\?</string>
     <string name="note_delete_dialog_backpress_title">Usunąć tę notatkę\?</string>
     <string name="note_edited">Notatka została pomyślnie edytowana.</string>
+    <string name="error_missing_google_play_services">Niestety nie możesz skorzystać z tej funkcji, ponieważ Twoje urządzenie nie obsługuje usług Google Play.</string>
+    <string name="filter_topics">Tematy</string>
+    <string name="filter_contests">Konkursy</string>
+    <string name="note_delete_dialog_backpress_button">Usuń</string>
+    <string name="new_blog_header">Dodaj nowy wpis na blogu</string>
+    <string name="new_blog_title">Tytuł</string>
+    <string name="new_blog_title_hint">Wpisz tytuł</string>
+    <string name="new_blog_content">Formatowanie bloga</string>
+    <string name="new_blog_hint">Wskazówka</string>
+    <string name="new_blog_markdown">Użyj formatowania markdown</string>
+    <string name="new_blog_preview">Podgląd</string>
+    <string name="new_blog_text">Wprowadź tekst artykułu</string>
+    <string name="new_blog_save">Zapisz i kontynuuj</string>
+    <string name="new_blog_send_for_approval">Opublikuj wpis na blogu</string>
+    <string name="new_blog_created">Nowy wpis na blogu został pomyślnie utworzony.</string>
+    <string name="new_blog_sent_for_approval">Wpis na blogu został pomyślnie opublikowany.</string>
+    <string name="new_blog_empty_fields">Należy wypełnić wszystkie pola.</string>
+    <string name="new_blog_dialog_backpress">Wpis na blogu nie zostanie zapisany. Wszystkie wprowadzone zmiany zostaną utracone.</string>
+    <string name="blog_menu_delete">Usuń wpis na blogu</string>
+    <string name="blog_delete_content">Czy naprawdę chcesz usunąć ten wpis z bloga\?</string>
+    <string name="blog_deleted_successfully">Wpis został pomyślnie usunięty.</string>
+    <string name="blog_edit_header">Edytuj wpis</string>
+    <string name="blog_edited">Wpis na blogu został pomyślnie zapisany.</string>
+    <string name="blog_edit_dialog_backpress">Nowy wpis nie zostanie utworzony. Wszystkie wprowadzone zmiany zostaną utracone.</string>
+    <string name="blog_edit_send_for_approval_title">Opublikuj wpis na blogu</string>
+    <string name="blog_edit_send_for_approval_content">Czy na pewno chcesz opublikować ten post na blogu\?</string>
+    <string name="blog_edit_send_for_approval_confirm">Tak</string>
+    <string name="blog_edit_send_for_approval_cancel">Sprawdzę to jeszcze raz.</string>
+    <string name="blogs_settings_no_blogs_for_state_title">Nie masz żadnych wpisów w statusie \"%s\".</string>
+    <string name="blogs_settings_no_blogs_title">Nie masz żadnych wpisów na blogu.</string>
+    <string name="blogs_settings_no_blogs_text">Dodanie nowego wpisu jest łatwe i możesz zacząć natychmiast.</string>
+    <string name="blogs_settings_empty_button_text">Dodaj nowy wpis na blogu</string>
+    <string name="blogs_settings_edit_button">Edytuj</string>
+    <string name="blogs_settings_delete_title">Usunąć wpis na blogu\?</string>
+    <string name="blogs_settings_delete_text">Czy naprawdę chcesz usunąć ten wpis z bloga\?</string>
+    <string name="blogs_settings_delete_confirm">Usuń</string>
+    <string name="blogs_settings_delete_toast">Wpis na blogu został pomyślnie usunięty.</string>
+    <string name="messages_settings_title">Kto może się ze mną skontaktować</string>
+    <string name="messages_settings_info_description">Aby użytkownicy mogli się z Tobą skontaktować, muszą być spełnione wszystkie warunki.
+\n
+\nZnajomi zawsze mogą do Ciebie pisać niezależnie od ustalonych przez Ciebie warunków.</string>
+    <string name="messages_settings_everyone">Wszyscy użytkownicy</string>
 </resources>
