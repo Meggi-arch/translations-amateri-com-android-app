@@ -1621,4 +1621,5 @@
     <string name="conversation_phone_verification_required_button_contact">Kontaktovat podporu</string>
     <string name="conversation_phone_verification_required_message">Před odesláním zprávy ostatním uživatelům je potřeba ověřit svůj profil.</string>
     <string name="add_comment_verification_required">Před přidáváním komentářů je potřeba ověřit svůj profil.</string>
+    <string name="error_missing_google_play_services">Je nám líto, ale tuto funkci nemůžete použít, vaše zařízení nepodporuje služby Google Play.</string>
 </resources>
