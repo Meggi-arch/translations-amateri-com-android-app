@@ -1143,7 +1143,7 @@
     <string name="settings_verification_phone_verification_description_verified">Twój numer telefonu %s został zweryfikowany.</string>
     <string name="setup_theme_title">Tematy</string>
     <string name="app_theme_dark">Ciemny</string>
-    <string name="setup_theme">Kolor tematu</string>
+    <string name="setup_theme">Motyw kolorystyczny</string>
     <string name="app_theme_auto">Automatyczny</string>
     <string name="app_theme_light">Jasny</string>
     <plurals name="profile_last_online_minutes">
@@ -1344,4 +1344,65 @@
 \n
 \nZnajomi zawsze mogą do Ciebie pisać niezależnie od ustalonych przez Ciebie warunków.</string>
     <string name="messages_settings_everyone">Wszyscy użytkownicy</string>
+    <string name="dialog_wallet_reward_title">Nagroda dla użytkownika</string>
+    <string name="dialog_wallet_reward_confirm">Nagroda</string>
+    <string name="dialog_wallet_reward_success_toast">Dziękujemy! Użytkownik napewno ucieszy się z nagrody.</string>
+    <string name="dialog_wallet_reward_body">Iloma kredytami chciałbyś nagrodzić użytkownika\?</string>
+    <string name="dialog_wallet_reward_custom_value_hint">Własne</string>
+    <string name="dialog_wallet_reward_custom_value_divider">lub</string>
+    <string name="dialog_wallet_reward_message_hint">Napisz wiadomość…</string>
+    <string name="dialog_wallet_reward_private_message">Wyślij prywatnie</string>
+    <string name="dialog_chat_room_enter_button_cancel">Wstecz</string>
+    <string name="toast_webcam_start_user_request_received">%s prosi Cię o włączenie kamery!</string>
+    <string name="dialog_chat_room_enter_title_main">Wchodzę do pokoju czatu…</string>
+    <string name="dialog_chat_room_enter_forbidden">Wejście zabronione</string>
+    <string name="chat_room_settings_message_filtering_section_title">Filtrowanie wiedomości</string>
+    <string name="chat_room_settings_notifications_section_title">Powiadomienia</string>
+    <string name="chat_room_settings_webcam_knock">Prośby o włączenie kamery</string>
+    <string name="chat_room_settings_friend_enter">Wejście znajomego do pokoju czatu</string>
+    <string name="chat_room_settings_room_management_section_title">Ustawienia administratora</string>
+    <string name="chat_room_settings_chat_design_section__title">Wygląd czatu</string>
+    <string name="chat_room_settings_webcam_settings_section_title">Ustawienia kamery</string>
+    <string name="chat_room_settings_about_me_messages_only">Wiadomości o mnie</string>
+    <string name="chat_room_settings_other_settings_section_title">Inne</string>
+    <string name="chat_room_settings_hide_time_text">Ukryj czas wysłania wiadomości</string>
+    <string name="chat_room_settings_hide_avatar_text">Ukryj awatary użytkowników</string>
+    <string name="chat_room_settings_gender_colors_text">Kolory według płci</string>
+    <string name="chat_room_settings_camera_permission_genders">Według płci</string>
+    <string name="chat_room_settings_webcam_allow_men">Mężczyźni</string>
+    <string name="chat_room_settings_webcam_allow_women">Kobiety</string>
+    <string name="chat_room_settings_webcam_allow_couples">Pary</string>
+    <string name="chat_room_settings_webcam_allow_uncheck_warning">Przynajmniej 1 kategoria musi zostać dozwolona</string>
+    <string name="chat_room_settings_other_phone_sleep">Nie wyłączaj ekranu podczas rozmowy</string>
+    <string name="chat_room_whisper_user_left">%s opuścił/a czat…</string>
+    <plurals name="toast_webcam_start_request_received">
+        <item quantity="one">%d użytkownik prosi Cię o włączenie kamery!</item>
+        <item quantity="few">%d użytkownicy proszą Cię o włączenie kamery!</item>
+        <item quantity="many">%d użytkowników prosi Cię o włączenie kamery!</item>
+        <item quantity="other">%d użytkowników prosi Cię o włączenie kamery!</item>
+    </plurals>
+    <string name="messages_settings_content_users">Z albumami/nagraniami</string>
+    <string name="messages_settings_vip">Użytkownicy VIP</string>
+    <string name="messages_settings_verified">Zweryfikowani użytkownicy</string>
+    <string name="messages_settings_friends_only">Tylko znajomi</string>
+    <string name="messages_settings_country_title">Wybierz dozwolone kraje</string>
+    <string name="messages_settings_country_all">Wszystkie kraje</string>
+    <plurals name="edittext_invalid_input_short">
+        <item quantity="one">Prosimy wprowadzić co najmniej %d znak</item>
+        <item quantity="few">Prosimy wprowadzić co najmniej %d znaki</item>
+        <item quantity="many">Prosimy wprowadzić co najmniej %d znaków</item>
+        <item quantity="other">Prosimy wprowadzić co najmniej %d znaków</item>
+    </plurals>
+    <plurals name="edittext_invalid_input_long">
+        <item quantity="one">Prosimy wprowadzić co najwyżej %d znak</item>
+        <item quantity="few">Prosimy wprowadzić co najwyżej %d znaki</item>
+        <item quantity="many">Prosimy wprowadzić co najwyżej %d znaków</item>
+        <item quantity="other">Prosimy wprowadzić co najwyżej %d znaków</item>
+    </plurals>
+    <string name="popup_chat_room_user_filter_content_dating">Z ogłoszeniem</string>
+    <string name="toast_webcam_permission_denied_men">Ten użytkownik nie nadaje dla mężczyzn.</string>
+    <string name="toast_webcam_permission_denied_women">Ten użytkownik nie nadaje dla kobiet.</string>
+    <string name="toast_webcam_permission_denied_couples">Ten użytkownik nie nadaje dla par.</string>
+    <string name="toast_webcam_friend_enter">Twój znajomy %s właśnie wszedł do tego pokoju czatu.</string>
+    <string name="toast_webcam_start_requested">Poprosiłeś %s o włączenie kamery.</string>
 </resources>
