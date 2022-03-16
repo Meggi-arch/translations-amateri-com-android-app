@@ -29,6 +29,7 @@
     <string name="title_application_settings">Application settings</string>
     <string name="title_safe_mode_disabled">Enable decent mode</string>
     <string name="title_safe_mode_enabled">Disable decent mode</string>
+    <string name="title_decent_mode">Decent mode</string>
     <string name="title_logout">Log out</string>
     <string name="title_version">Version %s</string>
     <string name="title_feedback">Support</string>

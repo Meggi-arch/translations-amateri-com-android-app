@@ -18,6 +18,7 @@
     <string name="title_chat">Chat</string>
     <string name="title_safe_mode_disabled">Zapnout slušný režim</string>
     <string name="title_safe_mode_enabled">Vypnout slušný režim</string>
+    <string name="title_decent_mode">Slušný režim</string>
     <string name="title_logout">Odhlásit se</string>
     <string name="title_version">Verze %s</string>
     <string name="title_feedback">Kontakt</string>

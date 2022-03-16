@@ -1089,6 +1089,7 @@
     <!-- Update news dialog -->
     <string name="title_safe_mode_disabled">Zapnúť slušný režím</string>
     <string name="title_safe_mode_enabled">Vypnúť slušný režím</string>
+    <string name="title_decent_mode">Slušný režím</string>
     <string name="title_messages">Pošta</string>
     <string name="my_account_content">Obsah</string>
     <string name="my_account_social_login">Prihlásenie sociálnou sieťou</string>
