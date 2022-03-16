@@ -1565,7 +1565,7 @@
 \nvítejte mezi námi!</string>
     <string name="registration_enjoy_amateurs">Vstupte a užijte si svět Amatérů.</string>
     <string name="invalid_login_dialog_reset_password">Obnovit heslo</string>
-    <string name="registration_account_is_created_but_not_activated">Váš profil byl vytvořen, ale pozor, ještě není aktivní.</string>
+    <string name="registration_account_is_created_but_not_activated">Váš profil byl vytvořen, ale upozorňujeme, že ještě není aktivní.</string>
     <string name="registration_activation_link_in_email">Pro dokončení registrace stačí kliknout na odkaz, který jsme vám zaslali na adresu %s.</string>
     <string name="registration_open_email_app">Otevřít e-mailovou aplikaci</string>
     <string name="registration_open_email_app_title">Kterou aplikaci otevřít\?</string>
@@ -1621,6 +1621,6 @@
     <string name="conversation_phone_verification_required_button_verify">Ověřit profil</string>
     <string name="conversation_phone_verification_required_button_contact">Kontaktovat podporu</string>
     <string name="conversation_phone_verification_required_message">Před odesláním zprávy ostatním uživatelům je potřeba ověřit svůj profil.</string>
-    <string name="add_comment_verification_required">Před přidáváním komentářů je potřeba ověřit svůj profil.</string>
+    <string name="add_comment_verification_required">Bez ověření nemůžete přidávat komentáře.</string>
     <string name="error_missing_google_play_services">Je nám líto, ale tuto funkci nemůžete použít, vaše zařízení nepodporuje služby Google Play.</string>
 </resources>
