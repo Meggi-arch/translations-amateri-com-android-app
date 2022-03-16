@@ -1462,10 +1462,10 @@
     <string name="registration_form_email_is_invalid">Zadajte prosím platnú emailovú adresu.</string>
     <string name="registration_setup_user_subtitle">Zadajte prosím svoju prezývku a vyberte svoje pohlavie</string>
     <string name="registration_gender_not_selected">Prosím, vyberte svoje pohlavie</string>
-    <string name="update_changelog">opravené chyby
-\nvylepšené používateľské prostredie
-\nupravené funkcie
-\nzvýšený výkon</string>
+    <string name="update_changelog">možnosť prepnutia do tmavého režimu aplikácie
+\npridaná registrácia užívateľa
+\nfunkcia overenia telefónneho čísla
+\nvylepšené funkcie a vzhľad</string>
     <string name="phone_verification_info_title">Čo získate týmto overením\?</string>
     <string name="complete_button">Kompletné</string>
     <string name="phone_verification_change_phone_number_title">Zmeňte svoje telefónne číslo</string>
@@ -1533,4 +1533,5 @@
     <string name="error_missing_google_play_services">Je nám ľúto, ale túto funkciu nemôžete použiť, vaše zariadenie nepodporuje služby Google Play.</string>
     <string name="filter_topics">Témy</string>
     <string name="filter_contests">Súťaže</string>
+    <string name="add_comment_verification_required_title">Je potrebné overenie</string>
 </resources>
