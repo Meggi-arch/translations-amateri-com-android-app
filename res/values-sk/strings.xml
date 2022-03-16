@@ -1438,8 +1438,8 @@
     <string name="registration_region_default">Vyberte región</string>
     <string name="registration_setup_location_title">Odkiaľ ste\?</string>
     <string name="registration_nickname">Užívateľské meno</string>
-    <string name="registration_account_is_created_but_not_activated">Váš profil bol vytvorený, ale ešte nie je aktívny.</string>
-    <string name="registration_activation_link_in_email">Na Vašu e-mailovú adresu bol odoslaný aktivačný odkaz <b>%s</b>.</string>
+    <string name="registration_account_is_created_but_not_activated">Váš profil bol vytvorený, ale upozorňujeme, že ešte nie je aktívny.</string>
+    <string name="registration_activation_link_in_email">Na dokončenie registrácie stačí kliknúť na odkaz, ktorý sme poslali na %s.</string>
     <string name="registration_open_email_app">Otvoriť e-mailovú aplikáciu</string>
     <string name="registration_open_email_app_title">Ktorú aplikáciu otvoriť\?</string>
     <string name="conversations_audio_record_permission_not_granted">Nahrávanie zvuku je povolené</string>
@@ -1518,7 +1518,7 @@
     <string name="home_banner_verification_message">Pridajte sa k overeným používateľom a buďte dôveryhodnejší.</string>
     <string name="home_banner_verification_action_verify_profile">Overenie profilu</string>
     <string name="payment_selection_type_sms_send_payment_bottom">na telefónne číslo</string>
-    <string name="add_comment_verification_required">Pred pridaním komentárov musíte overiť svoj profil.</string>
+    <string name="add_comment_verification_required">Bez overenia nemôžete uverejňovať komentáre.</string>
     <string name="conversation_phone_verification_required_message">Predtým, ako môžete posielať správy ostatným používateľom, musíte overiť svoj profil.</string>
     <string name="conversation_phone_verification_required_button_contact">Kontakt na podporu</string>
     <string name="payment_selection_type_sms_send_payment_top">Odoslať SMS s textom</string>
@@ -1530,4 +1530,7 @@
     <string name="app_theme_auto">Automatické</string>
     <string name="app_theme_dark">Tmavé</string>
     <string name="app_theme_light">Svetlé</string>
+    <string name="error_missing_google_play_services">Je nám ľúto, ale túto funkciu nemôžete použiť, vaše zariadenie nepodporuje služby Google Play.</string>
+    <string name="filter_topics">Témy</string>
+    <string name="filter_contests">Súťaže</string>
 </resources>
