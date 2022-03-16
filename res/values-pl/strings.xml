@@ -1496,7 +1496,7 @@
     </plurals>
     <string name="buy_vip">Kup VIP</string>
     <string name="report_dialog_description_hint">Dodatkowy opis</string>
-    <string name="wallet_buy_credit_no_payments_found">Nie wybrano żadnej opcji płatności</string>
+    <string name="wallet_buy_credit_no_payments_found">Nie znaleziono żadnej opcji płatności</string>
     <string name="no_transaction_found">Brak transakcji</string>
     <string name="no_transaction_found_description">Nie masz historii transakcji.</string>
     <string name="wallet_additional_info_title">Do czego służą kredyty\?</string>
@@ -1555,4 +1555,7 @@
     <string name="forum_topics_sort_lastupdate_desc">Według najnowszych postów</string>
     <string name="bottomsheet_video_player_settings_title">Ustawienie jakości nagrań</string>
     <string name="home_settings_title">Edytuj stronę główną</string>
+    <string name="title_decent_mode">Tryb przyzwoity</string>
+    <string name="add_comment_verification_required_title">Potrzebujesz weryfikacji</string>
+    <string name="add_comment_verification_required">Bez weryfikacji nie można umieszczać komentarzy.</string>
 </resources>
