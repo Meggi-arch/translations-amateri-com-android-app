@@ -1555,10 +1555,10 @@
     <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
     <string name="phone_verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="phone_verification_resend_code">Znovu zaslat kód</string>
-    <string name="update_changelog">opravené chyby
-\nvylepšené uživatelské prostředí
-\nupravené funkce
-\nzvýšený výkon</string>
+    <string name="update_changelog">možnost přepnutí do tmavého režimu aplikace
+\npřidána registrace uživatele
+\nfunkce ověření telefonního čísla
+\nvylepšené funkce a vzhled</string>
     <string name="invalid_login_dialog_restore_account">Obnovení účtu</string>
     <string name="invalid_login_dialog_resend_verification_email">Zaslat znovu ověřovací e-mail</string>
     <string name="registration_welcome_title">%s,
@@ -1623,4 +1623,5 @@
     <string name="conversation_phone_verification_required_message">Před odesláním zprávy ostatním uživatelům je potřeba ověřit svůj profil.</string>
     <string name="add_comment_verification_required">Bez ověření nemůžete přidávat komentáře.</string>
     <string name="error_missing_google_play_services">Je nám líto, ale tuto funkci nemůžete použít, vaše zařízení nepodporuje služby Google Play.</string>
+    <string name="add_comment_verification_required_title">Je potřeba ověření</string>
 </resources>
