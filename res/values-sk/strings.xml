@@ -1438,7 +1438,7 @@
     <string name="registration_region_default">Vyberte región</string>
     <string name="registration_setup_location_title">Odkiaľ ste\?</string>
     <string name="registration_nickname">Užívateľské meno</string>
-    <string name="registration_account_is_created_but_not_activated">Váš profil bol vytvorený, ale upozorňujeme, že ešte nie je aktívny.</string>
+    <string name="registration_account_is_created_but_not_activated">Váš profil bol vytvorený, ale pozor, ešte nie je aktívny.</string>
     <string name="registration_activation_link_in_email">Na dokončenie registrácie stačí kliknúť na odkaz, ktorý sme poslali na %s.</string>
     <string name="registration_open_email_app">Otvoriť e-mailovú aplikáciu</string>
     <string name="registration_open_email_app_title">Ktorú aplikáciu otvoriť\?</string>
