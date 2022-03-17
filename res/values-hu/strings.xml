@@ -219,14 +219,14 @@
     <string name="photo_count">A fotók száma</string>
     <string name="vip">VIP</string>
     <string name="certificated">Ellenőrzött</string>
-    <string name="views">Nézetek</string>
+    <string name="views">Nézettség</string>
     <string name="rating">Értékelés</string>
-    <string name="comments">Megjegyzések</string>
+    <string name="comments">Hozzászólások</string>
     <string name="album_address">Album URL címe</string>
     <string name="added">Hozzáadva</string>
-    <string name="yes">Igen</string>
+    <string name="yes">Rendben</string>
     <string name="album_number">Album azonosító</string>
-    <string name="no">Nem</string>
+    <string name="no">Nincs</string>
     <string name="notifications_vip_membership">VIP tagság</string>
     <string name="notifications_credits_amount">%d kreditek</string>
     <string name="notifications_credits_top_up">Vásároljon</string>
@@ -403,7 +403,7 @@
     <string name="date_less_than_1_day">24 óra</string>
     <string name="video_theme_all">Minden témakör</string>
     <string name="video_contest_all">Verseny nem kiválasztott</string>
-    <string name="author">Szerző</string>
+    <string name="author">A szerző</string>
     <string name="category">Kategóriák</string>
     <string name="video_duration">Időtartam</string>
     <string name="video_number">Videó azonosító</string>
@@ -1412,8 +1412,8 @@
     <string name="registration_setup_location_subtitle">Válassza ki az országot és a régiót</string>
     <string name="registration_nickname">Becenév</string>
     <string name="registration_region_default">Válasszon régiót</string>
-    <string name="registration_account_is_created_but_not_activated">A profilodat létrehoztuk, de még nem aktiváltuk.</string>
-    <string name="registration_activation_link_in_email">Aktiválási linket küldtünk az Ön e-mail címére <b>%s</b>.</string>
+    <string name="registration_account_is_created_but_not_activated">Az Ön profilját létrehoztuk, de kérjük, vegye figyelembe, hogy még nem aktív.</string>
+    <string name="registration_activation_link_in_email">A regisztráció befejezéséhez kattintson a %s címre küldött linkre.</string>
     <string name="registration_open_email_app">E-mail applikáció megnyitása</string>
     <string name="registration_open_email_app_title">Melyik applikációt nyissam meg\?</string>
     <string name="conversations_audio_record_permission_not_granted">A hangfelvételek rögzítése megengedett</string>
@@ -1474,15 +1474,15 @@
     <string name="settings_verification_identity_verification_title">Személyazonosság hitelesítése</string>
     <string name="settings_verification_content_verification_description_verified">A %s felhasználó %s-ként van hitelesítve.</string>
     <string name="settings_verification_identity_verification_description">Igazolja életkorát és személyazonosságát személyi igazolványával, hogy megerősítse tartalma jogszerűségét.</string>
-    <string name="update_changelog">javított hibák
-\njavított felhasználói felület
-\nmódosított funkciók
-\njavított teljesítmény</string>
+    <string name="update_changelog">lehetőség a sötét alkalmazási módra való váltásra
+\nhozzáadott a felhasználó regisztrálása
+\ntelefonszám ellenőrző szolgáltatás
+\ntovábbfejlesztett szolgáltatások és megjelenés</string>
     <string name="button_sign_up_for_free">Ingyenes feliratkozás</string>
     <string name="home_banner_verification_title">Az Ön profilja nem ellenőrzött</string>
     <string name="home_banner_verification_message">Csatlakozzon az ellenőrzött felhasználókhoz, és legyen megbízhatóbb.</string>
     <string name="home_banner_verification_action_verify_profile">A profil ellenőrzése</string>
-    <string name="add_comment_verification_required">A hozzászólások hozzáadása előtt ellenőriznie kell a profilját.</string>
+    <string name="add_comment_verification_required">Ellenőrzés nélkül nem küldhet hozzászólásokat.</string>
     <string name="payment_selection_type_sms_send_payment_top">Küldjön SMS-t a következő szöveggel</string>
     <string name="payment_selection_type_sms_send_payment_bottom">a telefonszámra</string>
     <string name="conversation_phone_verification_required_button_verify">A profil ellenőrzése</string>
@@ -1496,4 +1496,9 @@
     <string name="app_theme_auto">Automatikus</string>
     <string name="app_theme_dark">Sötét</string>
     <string name="app_theme_light">Világítás</string>
+    <string name="error_missing_google_play_services">Sajnáljuk, ezt a funkciót nem tudja használni, az Ön készüléke nem támogatja a Google Play szolgáltatásokat.</string>
+    <string name="title_decent_mode">Tisztességes üzemmód</string>
+    <string name="filter_topics">Témák</string>
+    <string name="filter_contests">Versenyek</string>
+    <string name="add_comment_verification_required_title">Ellenőrzésre van szüksége</string>
 </resources>
