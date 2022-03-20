@@ -597,6 +597,8 @@
     <string name="report_dialog_toast_no_reason">Nejprve zvolte důvod</string>
     <string name="report_dialog_toast_sent">Hlášení bylo odesláno. Děkujeme vám.</string>
     <!-- Messaging -->
+    <string name="conversation_unsupported_message_text">Bohužel zprávu nelze zobrazit. Chcete-li ji zobrazit, aktualizujte prosím svou aplikaci.</string>
+    <string name="conversation_deleted_message_text">Tato zpráva byla smazána.</string>
     <string name="message_popup_copy">Kopírovat text</string>
     <string name="message_popup_delete">Smazat zprávu</string>
     <string name="message_popup_report">Nahlásit</string>
