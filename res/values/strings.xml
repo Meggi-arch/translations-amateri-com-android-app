@@ -1498,7 +1498,7 @@
     <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
-    <string name="update_changelog">option to switch to dark mode app
+    <string name="update_changelog">sending voice messages
 \nadded user registration
 \nfunction phone number verification
 \nimproved features and appearance</string>
