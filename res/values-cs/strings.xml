@@ -1557,7 +1557,7 @@
     <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
     <string name="phone_verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="phone_verification_resend_code">Znovu zaslat kód</string>
-    <string name="update_changelog">možnost přepnutí do tmavého režimu aplikace
+    <string name="update_changelog">odesílání hlasových zpráv
 \npřidána registrace uživatele
 \nfunkce ověření telefonního čísla
 \nvylepšené funkce a vzhled</string>
