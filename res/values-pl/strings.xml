@@ -1430,7 +1430,7 @@
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Nazwa odbiorcy:</string>
-    <string name="captcha_rate_limited_error">Składasz zbyt wiele próśb.</string>
+    <string name="captcha_rate_limited_error">Wystąpił błąd.</string>
     <string name="dialog_mfa_missing_secret_title">Brakująca weryfikacja</string>
     <string name="dialog_mfa_missing_secret_content">Prawdopodobnie w międzyczasie odinstalowałeś aplikację i Twoja weryfikacja dwuskładnikowa jest nieważna. Anuluj ją i utwórz nową za pomocą strony.</string>
     <string name="dialog_mfa_missing_secret_goto_setting">Przejdź do ustawień</string>
@@ -1460,7 +1460,7 @@
     <string name="setup_notification_mode">Dyskretne powiadomienia</string>
     <string name="payment_selection_code_missing">Należy wpisać kod SMS</string>
     <string name="bottomsheet_content_detail_report">Zgłoś</string>
-    <string name="captcha_session_timeout_error">Prośba wygasła.</string>
+    <string name="captcha_session_timeout_error">Sesja wygasła.</string>
     <string name="payment_selection_ok_text_pay_sms">Wyślij SMS</string>
     <string name="conversation_audio_record_max_duration_reached">Osiągnięto maksymalną dozwoloną długość wiadomości głosowej.</string>
     <string name="no_transaction_additional_info">Do czego służą kredyty\?</string>
@@ -1474,7 +1474,7 @@
     <string name="save_to_collection_no_collections">Nie masz żadnych kolekcji.</string>
     <string name="save_to_collection_collections_updated">Kolekcje zostały zaktualizowane</string>
     <string name="bottomsheet_webcam_listener_reward">Nagroda w kredytach</string>
-    <string name="update_changelog">naprawione błędy
+    <string name="update_changelog">możliwość ...
 \npoprawiono interfejs użytkownika
 \nzmodyfikowane funkcje
 \nzwiększona wydajność</string>
@@ -1521,7 +1521,7 @@
     <string name="conversation_options_close_photo_view">Zamknij wyświetlanie zdjęć</string>
     <string name="payment_selection_country_select">Wybierz kraj</string>
     <string name="payment_selection_enter_sms_code">Wprowadź kod SMS</string>
-    <string name="view_wallet_top_up_get">Przejdź</string>
+    <string name="view_wallet_top_up_get">Doładuj</string>
     <string name="profile_edit_section_location_title">Lokalizacja</string>
     <string name="profile_edit_section_location_country">Kraj</string>
     <string name="profile_edit_section_location_region">Region</string>
