@@ -486,9 +486,9 @@
     <string name="vip_dialog_register">Register</string>
     <!--FeedbackActivity-->
     <string name="title_activity_feedback">Support</string>
-    <string name="feedback_email">e-mail</string>
-    <string name="feedback_category">category</string>
-    <string name="feedback_message">your message</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_category">Category</string>
+    <string name="feedback_message">Your message</string>
     <string name="feedback_send">Send</string>
     <string name="feedback_category_default">Choose a category</string>
     <!--Change profile photo-->
