@@ -144,8 +144,8 @@
     <string name="vip_dialog_login">Prihlásiť sa</string>
     <string name="vip_dialog_register">Registrovať sa</string>
     <string name="title_activity_feedback">Kontakt</string>
-    <string name="feedback_email">e-mail</string>
-    <string name="feedback_category">kategória</string>
+    <string name="feedback_email">E-mail</string>
+    <string name="feedback_category">Kategória</string>
     <string name="feedback_message">Vaša správa</string>
     <string name="feedback_send">Odoslať</string>
     <string name="feedback_category_default">Vyberte si kategóriu</string>
@@ -1534,4 +1534,5 @@
     <string name="filter_topics">Témy</string>
     <string name="filter_contests">Súťaže</string>
     <string name="add_comment_verification_required_title">Je potrebné overenie</string>
+    <string name="conversation_unsupported_message_text">Je nám ľúto, správu nie je možné zobraziť. Ak ju chcete zobraziť, aktualizujte svoju aplikáciu.</string>
 </resources>
