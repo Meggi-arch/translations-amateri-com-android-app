@@ -273,8 +273,8 @@
     <string name="no_videos_found">Žádná videa nenalezena</string>
     <string name="video_duration">Délka</string>
     <string name="title_activity_feedback">Kontakt</string>
-    <string name="feedback_email">e-mail</string>
-    <string name="feedback_category">kategorie</string>
+    <string name="feedback_email">E-mail</string>
+    <string name="feedback_category">Kategorie</string>
     <string name="emoticon_dialog_close">Zavřít</string>
     <string name="search_hint">Hledat</string>
     <string name="search_user_hint">Hledat v uživatelích</string>
