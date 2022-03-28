@@ -1535,4 +1535,7 @@
     <string name="filter_contests">Súťaže</string>
     <string name="add_comment_verification_required_title">Je potrebné overenie</string>
     <string name="conversation_unsupported_message_text">Je nám ľúto, správu nie je možné zobraziť. Ak ju chcete zobraziť, aktualizujte svoju aplikáciu.</string>
+    <string name="album_settings_password">Heslo</string>
+    <string name="conversation_deleted_message_text">Táto správa bola zmazaná.</string>
+    <string name="video_settings_password">Heslo</string>
 </resources>
