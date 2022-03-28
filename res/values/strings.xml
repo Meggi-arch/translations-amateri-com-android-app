@@ -1113,6 +1113,7 @@
     <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
     <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
     <!-- NewNoteActivity -->
+    <string name="new_note_hint">Note</string>
     <string name="new_note_add_note">Add a note</string>
     <string name="new_note_add_hint">Enter the text…</string>
     <string name="new_note_error">The text cannot be empty.</string>
