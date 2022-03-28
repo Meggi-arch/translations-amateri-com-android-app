@@ -634,6 +634,7 @@
     <string name="video_settings_contest">Contest</string>
     <string name="video_settings_contest_default">Select contest</string>
     <string name="video_settings_vote">Voting enabled</string>
+    <string name="video_settings_password">Password</string>
     <string name="video_settings_password_text">Password lock</string>
     <string name="video_settings_password_hint">Enter password</string>
     <string name="video_settings_save">Submit</string>
