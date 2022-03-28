@@ -1626,4 +1626,6 @@
     <string name="add_comment_verification_required">Bez ověření nemůžete přidávat komentáře.</string>
     <string name="error_missing_google_play_services">Je nám líto, ale tuto funkci nemůžete použít, vaše zařízení nepodporuje služby Google Play.</string>
     <string name="add_comment_verification_required_title">Je potřeba ověření</string>
+    <string name="album_settings_password">Heslo</string>
+    <string name="video_settings_password">Heslo</string>
 </resources>
