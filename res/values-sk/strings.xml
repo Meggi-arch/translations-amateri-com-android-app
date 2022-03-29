@@ -77,7 +77,7 @@
     <string name="notifications_requests">Žiadosti o priateľstvo</string>
     <string name="notifications_favourites">Obľúbení</string>
     <string name="update_dialog_title">Nová verzia</string>
-    <string name="update_dialog_content">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcte si ju stiahnuť?</string>
+    <string name="update_dialog_content">Máme pre vás lepšiu, šťavnatejšiu verziu aplikácie. Chcete si ju stiahnuť\?</string>
     <string name="update_dialog_later">Neskôr</string>
     <string name="update_dialog_download">Stiahnuť</string>
     <string name="redirect_dialog_title">Budete presmerovaný</string>
