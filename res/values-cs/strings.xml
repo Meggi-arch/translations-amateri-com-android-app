@@ -1628,4 +1628,5 @@
     <string name="add_comment_verification_required_title">Je potřeba ověření</string>
     <string name="album_settings_password">Heslo</string>
     <string name="video_settings_password">Heslo</string>
+    <string name="new_note_hint">Poznámka</string>
 </resources>
