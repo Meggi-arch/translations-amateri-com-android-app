@@ -149,8 +149,8 @@
     <string name="vip_dialog_login">Zalogować</string>
     <string name="vip_dialog_register">Zarejestrować</string>
     <string name="title_activity_feedback">Wsparcie</string>
-    <string name="feedback_email">e-mail</string>
-    <string name="feedback_category">kategoria</string>
+    <string name="feedback_email">E-mail</string>
+    <string name="feedback_category">Kategoria</string>
     <string name="feedback_message">Twoja wiadomość</string>
     <string name="feedback_send">Wysłać</string>
     <string name="feedback_category_default">Wybierz kategorię</string>
@@ -1474,10 +1474,10 @@
     <string name="save_to_collection_no_collections">Nie masz żadnych kolekcji.</string>
     <string name="save_to_collection_collections_updated">Kolekcje zostały zaktualizowane</string>
     <string name="bottomsheet_webcam_listener_reward">Nagroda w kredytach</string>
-    <string name="update_changelog">możliwość ...
-\npoprawiono interfejs użytkownika
-\nzmodyfikowane funkcje
-\nzwiększona wydajność</string>
+    <string name="update_changelog">wysyłanie wiadomości głosowych
+\ndodano rejestracje użytkownika
+\nfunkcja weryfikacji numeru telefonu
+\nulepszone funkcje i wygląd</string>
     <string name="vip_bank_transfer_cz_account_number">Numer konta:</string>
     <string name="vip_bank_transfer_cz_price">Cena:</string>
     <string name="vip_bank_transfer_cz_reference">Numer zlecenia:</string>
@@ -1558,4 +1558,9 @@
     <string name="title_decent_mode">Tryb przyzwoity</string>
     <string name="add_comment_verification_required_title">Potrzebujesz weryfikacji</string>
     <string name="add_comment_verification_required">Bez weryfikacji nie można umieszczać komentarzy.</string>
+    <string name="conversation_unsupported_message_text">Przepraszamy, komunikat nie może zostać wyświetlony. Aby go zobaczyć, zaktualizuj swoją aplikację.</string>
+    <string name="new_note_hint">Uwaga</string>
+    <string name="album_settings_password">Hasło</string>
+    <string name="video_settings_password">Hasło</string>
+    <string name="conversation_deleted_message_text">Ta wiadomość została usunięta.</string>
 </resources>
