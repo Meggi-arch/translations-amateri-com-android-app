@@ -1525,17 +1525,18 @@
     <string name="unverified_dialog_title">Vyžaduje sa overenie</string>
     <string name="unverified_dialog_content">Táto časť aplikácie je prístupná len overeným používateľom.</string>
     <string name="unverified_dialog_verify">Overenie vášho profilu</string>
-    <string name="setup_theme_title">Témy</string>
+    <string name="setup_theme_title">Vzhľad aplikácie</string>
     <string name="setup_theme">Druh témy</string>
-    <string name="app_theme_auto">Automatické</string>
-    <string name="app_theme_dark">Tmavé</string>
-    <string name="app_theme_light">Svetlé</string>
+    <string name="app_theme_auto">Automatický</string>
+    <string name="app_theme_dark">Tmavý</string>
+    <string name="app_theme_light">Svetlý</string>
     <string name="error_missing_google_play_services">Je nám ľúto, ale túto funkciu nemôžete použiť, vaše zariadenie nepodporuje služby Google Play.</string>
     <string name="filter_topics">Témy</string>
     <string name="filter_contests">Súťaže</string>
     <string name="add_comment_verification_required_title">Je potrebné overenie</string>
-    <string name="conversation_unsupported_message_text">Je nám ľúto, správu nie je možné zobraziť. Ak ju chcete zobraziť, aktualizujte svoju aplikáciu.</string>
+    <string name="conversation_unsupported_message_text">Bohužiaľ správu nie je možné zobraziť. Ak ju chcete zobraziť, aktualizujte prosím svoju aplikáciu.</string>
     <string name="album_settings_password">Heslo</string>
     <string name="conversation_deleted_message_text">Táto správa bola zmazaná.</string>
     <string name="video_settings_password">Heslo</string>
+    <string name="new_note_hint">Poznámka</string>
 </resources>
