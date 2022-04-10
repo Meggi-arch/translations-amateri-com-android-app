@@ -603,6 +603,7 @@
     <string name="message_popup_delete">Smazat zprávu</string>
     <string name="message_popup_report">Nahlásit</string>
     <string name="message_popup_received">Přijato %s</string>
+    <string name="message_popup_sent">Odesláno %s</string>
     <string name="dialog_report_message_title">Nahlásit zprávu</string>
     <string name="toast_message_deleted">Zpráva byla smazána</string>
     <string name="toast_copied_message_text">Zpráva byla zkopírována do schránky!</string>
