@@ -1141,7 +1141,7 @@
     <string name="settings_verification_phone_verification_title">Weryfikacja telefoniczna</string>
     <string name="settings_verification_identity_verification_title">Weryfikacja tożsamości</string>
     <string name="settings_verification_phone_verification_description_verified">Twój numer telefonu %s został zweryfikowany.</string>
-    <string name="setup_theme_title">Tematy</string>
+    <string name="setup_theme_title">Wygląd aplikacji</string>
     <string name="app_theme_dark">Ciemny</string>
     <string name="setup_theme">Motyw kolorystyczny</string>
     <string name="app_theme_auto">Automatyczny</string>
