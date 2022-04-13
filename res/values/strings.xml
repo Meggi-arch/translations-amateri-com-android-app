@@ -122,6 +122,12 @@
     <string name="album_filter_show_all">Show albums</string>
     <string name="video_filter_show_all">Show videos</string>
     <string name="collections_filter_show_all">Show collections</string>
+    <!-- Reporting -->
+    <string name="dialog_report_profile_title">Report profile</string>
+    <string name="dialog_report_album_title">Report album</string>
+    <string name="dialog_report_video_title">Report video</string>
+    <string name="dialog_report_story_title">Report story</string>
+    <string name="dialog_report_blog_title">Report blog</string>
     <!--CommentsReporting-->
     <string name="dialog_report_comment_title">Report comment</string>
     <string name="report_comment_text">Report</string>

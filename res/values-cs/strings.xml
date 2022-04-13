@@ -1282,6 +1282,11 @@
     <string name="menu_filter">Filtr</string>
     <string name="menu_chat_room_tap">Poproste o zapnutí kamery</string>
     <string name="basic_filter">Základní filtr</string>
+    <string name="dialog_report_profile_title">Nahlásit profil</string>
+    <string name="dialog_report_album_title">Nahlásit album</string>
+    <string name="dialog_report_video_title">Nahlásit video</string>
+    <string name="dialog_report_story_title">Nahlásit povídku</string>
+    <string name="dialog_report_blog_title">Nahlásit blog</string>
     <string name="report_comment_text">Nahlásit</string>
     <string name="dialog_report_comment_title">Nahlásit komentář</string>
     <string name="toast_webcam_start_user_request_received">%s vás žádá, abyste zapnul/a svou kameru!</string>
