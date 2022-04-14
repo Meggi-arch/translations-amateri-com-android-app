@@ -868,6 +868,7 @@
     <string name="note_edit">Upravit</string>
     <string name="note_edited">Poznámka byla úspěšně upravena.</string>
     <string name="new_note_dialog_backpress">Poznámka nebude vytvořena. Provedené změny budou ztraceny.</string>
+    <string name="note_edit_dialog_backpress_text">Doposud provedené změny nebudou uloženy.</string>
     <string name="note_delete_dialog_backpress_title">Smazat tuto poznámku?</string>
     <string name="note_delete_dialog_backpress_text">Opravdu chcete smazat tuto poznámku?</string>
     <string name="note_delete_dialog_backpress_button">Smazat</string>

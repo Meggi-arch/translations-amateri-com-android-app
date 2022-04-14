@@ -1126,6 +1126,7 @@
     <string name="new_note_error">The text cannot be empty.</string>
     <string name="new_note_created">The note was created successfully.</string>
     <string name="new_note_dialog_backpress">New note will not be created. All changes you\'ve made will be lost.</string>
+    <string name="note_edit_dialog_backpress_text">All changes you\'ve made will be discarded.</string>
     <string name="note_edit_title">Edit the note</string>
     <string name="note_edit">Edit</string>
     <string name="note_edited">Note has been edited successfully.</string>
