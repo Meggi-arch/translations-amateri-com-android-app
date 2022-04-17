@@ -1512,4 +1512,5 @@
     <string name="registration_enjoy_amateurs">Treten Sie ein und genießen Sie die Welt der Amateure.</string>
     <string name="conversation_unsupported_message_text">Die Nachricht kann leider nicht angezeigt werden. Bitte aktualisieren Sie Ihre App, um sie zu sehen.</string>
     <string name="conversation_deleted_message_text">Diese Nachricht wurde gelöscht.</string>
+    <string name="message_popup_sent">Gesendet %s</string>
 </resources>
