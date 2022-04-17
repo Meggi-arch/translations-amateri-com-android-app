@@ -1563,4 +1563,11 @@
     <string name="album_settings_password">Hasło</string>
     <string name="video_settings_password">Hasło</string>
     <string name="conversation_deleted_message_text">Ta wiadomość została usunięta.</string>
+    <string name="dialog_report_album_title">Zgłoś album</string>
+    <string name="dialog_report_profile_title">Zgłoś profil</string>
+    <string name="dialog_report_video_title">Zgłoś nagranie</string>
+    <string name="dialog_report_blog_title">Zgłoś blog</string>
+    <string name="note_edit_dialog_backpress_text">Do teraz wykonane przez Ciebie zmiany nie zostaną zapisane.</string>
+    <string name="dialog_report_story_title">Zgłoś historię</string>
+    <string name="message_popup_sent">Wysłane %s.</string>
 </resources>
