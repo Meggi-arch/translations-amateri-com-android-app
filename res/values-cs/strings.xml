@@ -1366,7 +1366,7 @@
     <string name="notifications_vip_membership">VIP členství</string>
     <string name="notifications_credits_top_up">Dobít</string>
     <string name="notifications_vip_buy">Koupit</string>
-    <string name="notifications_notifications">Upozornení</string>
+    <string name="notifications_notifications">Upozornění</string>
     <string name="notifications_credits_amount">%d kreditů</string>
     <plurals name="vip_days">
         <item quantity="one">%d den</item>
