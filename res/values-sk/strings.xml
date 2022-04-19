@@ -1539,4 +1539,11 @@
     <string name="conversation_deleted_message_text">Táto správa bola zmazaná.</string>
     <string name="video_settings_password">Heslo</string>
     <string name="new_note_hint">Poznámka</string>
+    <string name="message_popup_sent">Odoslané %s</string>
+    <string name="dialog_report_album_title">Nahlásiť album</string>
+    <string name="dialog_report_video_title">Nahlásiť video</string>
+    <string name="dialog_report_story_title">Nahlásiť príbeh</string>
+    <string name="note_edit_dialog_backpress_text">Dosiaľ urobené zmeny nebudú uložené.</string>
+    <string name="dialog_report_profile_title">Nahlásiť profil</string>
+    <string name="dialog_report_blog_title">Nahlásiť blog</string>
 </resources>
