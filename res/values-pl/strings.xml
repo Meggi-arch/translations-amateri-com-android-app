@@ -1569,5 +1569,5 @@
     <string name="dialog_report_blog_title">Zgłoś blog</string>
     <string name="note_edit_dialog_backpress_text">Do teraz wykonane przez Ciebie zmiany nie zostaną zapisane.</string>
     <string name="dialog_report_story_title">Zgłoś historię</string>
-    <string name="message_popup_sent">Wysłane %s.</string>
+    <string name="message_popup_sent">Wysłane %s</string>
 </resources>
