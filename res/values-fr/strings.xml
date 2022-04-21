@@ -7,7 +7,7 @@
     <string name="title_people">Les gens</string>
     <string name="title_logout">Se déconnecter</string>
     <string name="title_version">Version %s</string>
-    <string name="title_feedback">Envoyer un feedback</string>
+    <string name="title_feedback">Soutien</string>
     <string name="title_new_version">Nouvelle version !</string>
     <string name="tab_latest">Le plus récent</string>
     <string name="tab_best">Le meilleur</string>
@@ -899,4 +899,27 @@
     <string name="chatroom_add_allowed_users_couple">Couple femme &amp; homme</string>
     <string name="chatroom_add_country_title">Pays</string>
     <string name="chatroom_add_error_not_allowed">Vous ne pouvez pas ajouter de nouvelle salle de chat maintenant.</string>
+    <string name="complete_button">Compléter</string>
+    <string name="close_button">Fermer</string>
+    <string name="continue_button">Continuer</string>
+    <string name="title_collections">Collections</string>
+    <string name="error_missing_google_play_services">Désolé, vous ne pouvez pas utiliser cette fonctionnalité, parce que votre appareil ne supporte pas des services Google Play.</string>
+    <string name="general_empty_title">Il n\'y a rien ici</string>
+    <string name="title_verification">Vérification</string>
+    <string name="title_wallet">Portefeuille</string>
+    <string name="title_notes">Remarques</string>
+    <string name="title_messages">Messages</string>
+    <string name="tab_most_commented">Les plus commentés</string>
+    <string name="tab_updated">Mise à jour</string>
+    <string name="title_decent_mode">Mode décent</string>
+    <string name="title_forum">Forum</string>
+    <string name="empty_notes_title">Il n\'y a rien ici</string>
+    <string name="title_collection_settings">Paramètres de la collection</string>
+    <string name="empty_notes_text">Vous pouvez ajouter des notes dans le profil de l\'utilisateur.</string>
+    <string name="title_new_collection">Ajouter une nouvelle collection</string>
+    <string name="tab_favourites">Des préférés</string>
+    <string name="save">Sauver</string>
+    <string name="general_empty_text">Il n\'y a rien à montrer :(</string>
+    <string name="title_safe_mode_disabled">Activer le mode décent</string>
+    <string name="title_safe_mode_enabled">Désactiver le mode décent</string>
 </resources>
