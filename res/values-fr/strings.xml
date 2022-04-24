@@ -108,20 +108,20 @@
     <string name="feedback_dialog_text">Merci de nous aider à développer notre appli. Nous serions très heureux de recevoir votre rétroaction, vous trouverez son lien en bas dans le menu gauche.</string>
     <!-- plurals -->
     <plurals name="people">
-        <item quantity="one">%s personne aime</item>
-        <item quantity="other">%s personnes aiment</item>
+        <item quantity="one">%d personne aime</item>
+        <item quantity="other">%d personnes aiment</item>
     </plurals>
     <plurals name="hours">
         <item quantity="one" tools:ignore="ImpliedQuantity">heure</item>
         <item quantity="other">heures</item>
     </plurals>
     <plurals name="user_filter_show">
-        <item quantity="one">Afficher %s profil</item>
-        <item quantity="other">Afficher %s profils</item>
+        <item quantity="one">Afficher %d profil</item>
+        <item quantity="other">Afficher %d profils</item>
     </plurals>
     <plurals name="album_filter_show">
-        <item quantity="one">Afficher %s album</item>
-        <item quantity="other">Afficher %s albums</item>
+        <item quantity="one">Afficher %d album</item>
+        <item quantity="other">Afficher %d albums</item>
     </plurals>
     <plurals name="video_filter_show">
         <item quantity="one">Afficher %s vidéo</item>
@@ -922,4 +922,73 @@
     <string name="general_empty_text">Il n\'y a rien à montrer :(</string>
     <string name="title_safe_mode_disabled">Activer le mode décent</string>
     <string name="title_safe_mode_enabled">Désactiver le mode décent</string>
+    <string name="profile_add_note">Ajouter une nouvelle note</string>
+    <plurals name="topics">
+        <item quantity="one">%d thème</item>
+        <item quantity="other">%d thèmes</item>
+    </plurals>
+    <string name="dialog_report_story_title">Signaler cet histoire</string>
+    <string name="dialog_report_blog_title">Signaler ce blog</string>
+    <string name="dialog_report_video_title">Signaler cette vidéo</string>
+    <string name="dialog_report_profile_title">Signaler ce profil</string>
+    <string name="dialog_report_album_title">Signaler cet album</string>
+    <string name="title_visibility_on_your_profile">Visibilité sur votre profil</string>
+    <plurals name="posts">
+        <item quantity="one">%d post</item>
+        <item quantity="other">%d posts</item>
+    </plurals>
+    <string name="user_with_dating">Avec des annonces de rencontres</string>
+    <string name="hint_nickname_or_email">Nick ou e-mail</string>
+    <string name="notifications_notifications">Notification</string>
+    <string name="title_phone_number">Numéro de téléphone</string>
+    <string name="tab_notes">Mes notes</string>
+    <string name="basic_filter">Filtre de base</string>
+    <string name="filter_topics">Thèmes</string>
+    <string name="filter_contests">Concours</string>
+    <string name="collections_filter_show_all">Afficher les collections</string>
+    <string name="dialog_report_comment_title">Signaler ce commentaire</string>
+    <string name="profile_add_friend_already_friend">Ajouté précédemment</string>
+    <string name="profile_add_friend_already_requested">Demandé précédemment</string>
+    <string name="collections_theme_all">Tous les thèmes</string>
+    <string name="no_collections_found">Aucune collection trouvée</string>
+    <string name="notifications_notes">Notes</string>
+    <string name="notifications_vip_membership">Adhésion VIP</string>
+    <string name="collection_comment_disallowed">Vous ne pouvez pas ajouter un commentaire à cette collection maintenant.</string>
+    <string name="title_next_collections">Plus de collections</string>
+    <string name="dialog_delete_collection_title">Supprimer la collection</string>
+    <string name="dialog_delete_collection_text">Voulez-vous vraiment supprimer cette collection \?</string>
+    <string name="collection_deleted_successfully">La collection a été supprimée avec succès.</string>
+    <string name="menu_chat_room_tap">Demandez d\'activer la caméra</string>
+    <string name="menu_filter">Filtre</string>
+    <string name="menu_homepage">Réglages</string>
+    <string name="menu_forum_topics">Trier par</string>
+    <string name="tab_collections">Collections</string>
+    <string name="report_comment_text">Signaler</string>
+    <string name="title_location">Localisation</string>
+    <string name="title_city">Ville</string>
+    <string name="title_sex_search">Recherche</string>
+    <string name="title_sex_search_purpose">Objectif de la recherche</string>
+    <string name="filter_user_favourites">Des préférés</string>
+    <string name="notifications_credits_amount">%d crédits</string>
+    <string name="notifications_vip_buy">Acheter</string>
+    <string name="notifications_credits_top_up">Recharger</string>
+    <string name="notifications_collections">Collections</string>
+    <string name="notifications_blogs">Posts de blog</string>
+    <plurals name="months">
+        <item quantity="one">%d mois</item>
+        <item quantity="other">%d mois</item>
+    </plurals>
+    <plurals name="collections_filter_show">
+        <item quantity="one">Afficher %d collection</item>
+        <item quantity="other">Afficher %d collections</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d jour</item>
+        <item quantity="other">%d jours</item>
+    </plurals>
+    <string name="hint_email">E-mail</string>
+    <plurals name="years">
+        <item quantity="one">%d an</item>
+        <item quantity="other">%d ans</item>
+    </plurals>
 </resources>
