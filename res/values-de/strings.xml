@@ -1519,4 +1519,13 @@
     <string name="dialog_report_story_title">Geschichte berichten</string>
     <string name="dialog_report_blog_title">Blog melden</string>
     <string name="note_edit_dialog_backpress_text">Alle Änderungen, die Sie vorgenommen haben, werden verworfen.</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Längere Sprachnachrichten</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Erhalten Sie ein VIP-Konto und senden Sie Nachrichten bis zu 15 Minuten lang.</string>
+    <string name="toast_lockscreen_permissions_not_granted">Bitte aktivieren Sie die Fingerabdruck-Berechtigung in den App-Einstellungen.</string>
+    <string name="locked_fingerprint_try_again">Erneut versuchen</string>
+    <string name="biometric_prompt_title">Biometrische Anmeldung aktivieren</string>
+    <string name="biometric_prompt_subtitle">Authentifizierung ist erforderlich</string>
+    <string name="biometric_prompt_description">Fingerabdruck-Überprüfung</string>
+    <string name="biometric_prompt_negative_button">Abbrechen</string>
+    <string name="biometric_prompt_canceled">Die Überprüfung wurde abgebrochen</string>
 </resources>
