@@ -1570,4 +1570,13 @@
     <string name="note_edit_dialog_backpress_text">Do teraz wykonane przez Ciebie zmiany nie zostaną zapisane.</string>
     <string name="dialog_report_story_title">Zgłoś historię</string>
     <string name="message_popup_sent">Wysłane %s</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Dłuższe wiadomości głosowe</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Uzyskaj status VIP i wysyłaj wiadomości o długości do 15 minut.</string>
+    <string name="toast_lockscreen_permissions_not_granted">Włącz uprawnienia dotyczące odcisków palców w ustawieniach aplikacji.</string>
+    <string name="biometric_prompt_description">Weryfikacja za pomocą odcisku palca</string>
+    <string name="biometric_prompt_negative_button">Zamknij</string>
+    <string name="locked_fingerprint_try_again">Spróbuj ponownie</string>
+    <string name="biometric_prompt_title">Włącz logowanie biometryczne</string>
+    <string name="biometric_prompt_subtitle">Wymagana jest weryfikacja</string>
+    <string name="biometric_prompt_canceled">Weryfikacja została anulowana</string>
 </resources>
