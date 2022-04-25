@@ -1636,4 +1636,13 @@
     <string name="album_settings_password">Heslo</string>
     <string name="video_settings_password">Heslo</string>
     <string name="new_note_hint">Poznámka</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Delší hlasové zprávy</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Získejte VIP a posílejte až 15minutové zprávy.</string>
+    <string name="biometric_prompt_negative_button">Zavřít</string>
+    <string name="toast_lockscreen_permissions_not_granted">V nastavení aplikace povolte oprávnění k otiskům prstů.</string>
+    <string name="locked_fingerprint_try_again">Zkusit znovu</string>
+    <string name="biometric_prompt_title">Povolení biometrického přihlášení</string>
+    <string name="biometric_prompt_subtitle">Je vyžadováno potvrzení</string>
+    <string name="biometric_prompt_description">Potvrzování otiskem prstu</string>
+    <string name="biometric_prompt_canceled">Potvrzení bylo zrušeno</string>
 </resources>
