@@ -128,7 +128,6 @@
     <string name="dialog_report_video_title">Report video</string>
     <string name="dialog_report_story_title">Report story</string>
     <string name="dialog_report_blog_title">Report blog</string>
-    <!--CommentsReporting-->
     <string name="dialog_report_comment_title">Report comment</string>
     <string name="report_comment_text">Report</string>
     <!--ProfileInfoFragment-->
@@ -856,6 +855,8 @@
     <!-- Messaging -->
     <string name="conversation_unsupported_message_text">Sorry, the message cannot be displayed. Please update your app to see it.</string>
     <string name="conversation_deleted_message_text">This message was deleted.</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Longer voice messages</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Get VIP and send messages up to 15 min.</string>
     <string name="message_popup_copy">Copy to clipboard</string>
     <string name="message_popup_delete">Delete message</string>
     <string name="message_popup_report">Report</string>
@@ -1063,6 +1064,8 @@
     <string name="toast_not_pin_protected">You need to enable PIN code lock to use this feature</string>
     <string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings.</string>
     <string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings.</string>
+    <string name="toast_lockscreen_permissions_not_granted">Please enable fingerprint permissions in application settings.</string>
+
     <string name="error_fingerprints_invalidated">Fingerprint unavailable. It looks like you have recently enrolled a new fingerprint. You can re-enable fingerprint lock in settings.</string>
     <string name="success">Success</string>
     <string name="fingerprint_authentication_failed">Fingerprint not recognized</string>
@@ -1072,6 +1075,13 @@
     <string name="title_fingerprint_unlock">Fingerprint unlock</string>
     <string name="subtitle_fingerprint_unlock">Use your finger to unlock</string>
     <string name="use_pin_instead">Use PIN</string>
+    <string name="locked_fingerprint_try_again">Try again</string>
+    <string name="biometric_prompt_title">Enable biometric login</string>
+    <string name="biometric_prompt_subtitle">Authentication is required</string>
+    <string name="biometric_prompt_description">Fingerprint Authentication</string>
+    <string name="biometric_prompt_negative_button">Cancel</string>
+    <string name="biometric_prompt_canceled">Authentication has been canceled</string>
+
     <!-- ChatActivity -->
     <string name="tab_chat_board">Dashboard</string>
     <string name="tab_chat_rooms">Rooms</string>
