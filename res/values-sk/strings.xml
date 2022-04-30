@@ -1546,4 +1546,13 @@
     <string name="note_edit_dialog_backpress_text">Dosiaľ urobené zmeny nebudú uložené.</string>
     <string name="dialog_report_profile_title">Nahlásiť profil</string>
     <string name="dialog_report_blog_title">Nahlásiť blog</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Dlhšie hlasové správy</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Získajte VIP a posielajte správy až 15minútové správy.</string>
+    <string name="toast_lockscreen_permissions_not_granted">V nastaveniach aplikácie povoľte oprávnenie k odtlačkom prstov.</string>
+    <string name="locked_fingerprint_try_again">Skúste to znova</string>
+    <string name="biometric_prompt_title">Povolenie biometrického prihlásenia</string>
+    <string name="biometric_prompt_subtitle">Vyžaduje sa overenie</string>
+    <string name="biometric_prompt_description">Potvrdenie odtlačkom prstu</string>
+    <string name="biometric_prompt_canceled">Potvrdenie bolo zrušené</string>
+    <string name="biometric_prompt_negative_button">Zavrieť</string>
 </resources>
