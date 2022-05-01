@@ -290,6 +290,11 @@
     <string name="profile_photo_library">Vyberte z knihovny</string>
     <string name="profile_photo_processing">Fotka se nahrává</string>
     <string name="profile_photo_change">Změnit profilovku</string>
+    <!--Comments-->
+    <string name="comment_reply_action">Odpovědět</string>
+    <string name="comment_show_more_replies_action">Zobrazit %d další odpovědi</string>
+    <string name="comment_author_label">Autor</string>
+    <!--Comment adding-->
     <string name="comment_write_hint">Napsat komentář</string>
     <string name="emoticon_no_emoticons">Žádné emotikony</string>
     <string name="search_album_hint">Hledat v albech</string>

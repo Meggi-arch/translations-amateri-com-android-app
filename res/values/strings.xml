@@ -501,6 +501,10 @@
     <string name="profile_photo_library">Select from library</string>
     <string name="profile_photo_processing">Uploading photo</string>
     <string name="profile_photo_change">Change profile photo</string>
+    <!--Comments-->
+    <string name="comment_reply_action">Reply</string>
+    <string name="comment_show_more_replies_action">Show %d more replies</string>
+    <string name="comment_author_label">Author</string>
     <!--Comment adding-->
     <string name="comment_write_hint">Write a comment</string>
     <string name="emoticon_dialog_close">Close</string>
@@ -1458,6 +1462,12 @@
     <string name="save_to_collection_no_collections">You don\'t have any collections.</string>
     <string name="save_to_collection_done">Done</string>
     <string name="save_to_collection_collections_updated">Collections were updated</string>
+    <!-- Comment actions bottomsheet -->
+    <string name="comment_actions_reply">Reply</string>
+    <string name="comment_actions_like">Like</string>
+    <string name="comment_actions_dislike">Dislike</string>
+    <string name="comment_actions_report">Report</string>
+    <string name="comment_actions_ignore_user">Ignore user</string>
     <!-- Chat webcams -->
     <string name="janus_fragment_retry_text">Interrupted. Retry?</string>
     <string name="janus_fragment_hangup_text">Camera turned off</string>
