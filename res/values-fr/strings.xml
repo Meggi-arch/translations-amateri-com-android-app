@@ -1156,4 +1156,20 @@
     <string name="setup_default_language_title">Langue de l\'application</string>
     <string name="collection_settings_save_success">Les modifications ont été enregistrées</string>
     <string name="collection_settings_missing_title">Veuillez rentrer le titre</string>
+    <string name="notification_mfa_verify_deny">Refuser</string>
+    <string name="my_account_content">Contenu</string>
+    <string name="notification_mfa_verify_approve">Approuver</string>
+    <string name="notification_mfa_title">Nouvelle connexion</string>
+    <string name="notification_mfa_app_registration_title">Authentification à deux facteurs</string>
+    <string name="fab_add_blog">Ajouter un article sur le blog</string>
+    <string name="no_collections_text">Vous pouvez enregistrer des albums et des vidéos dans des collections.</string>
+    <string name="public_collection">Collection publique</string>
+    <plurals name="notification_message_new_summary">
+        <item quantity="one">Nouveau message</item>
+        <item quantity="other">%s nouveaux messages</item>
+    </plurals>
+    <string name="notification_mfa_app_registration_text">Confirmez l\'association de cet appareil avec votre compte.</string>
+    <string name="notification_mfa_verify_text">Veuillez confirmer une nouvelle tentative de connexion.</string>
+    <string name="private_collection">Collection privée</string>
+    <string name="my_account_hide_categories">Ne pas afficher les catégories</string>
 </resources>
