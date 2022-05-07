@@ -1206,4 +1206,33 @@
     <string name="my_account_disconnect">Déconnecter</string>
     <string name="new_collection_create_success">Collection créée</string>
     <string name="new_collection_create_and_save_success">L\'article a été ajouté à la nouvelle collection</string>
+    <string name="toast_lockscreen_permissions_not_granted">Veuillez activer les autorisations d\'empreintes digitales dans les réglages de l\'application.</string>
+    <string name="locked_fingerprint_try_again">Réessayer</string>
+    <string name="biometric_prompt_title">Activer la connexion biométrique</string>
+    <string name="biometric_prompt_subtitle">L\'authentification est requise</string>
+    <string name="biometric_prompt_description">Authentification par empreinte digitale</string>
+    <string name="biometric_prompt_negative_button">Fermer</string>
+    <string name="biometric_prompt_canceled">L\'authentification a été annulée</string>
+    <string name="user_sent_a_voice_message">%s vous a envoyé un message vocal</string>
+    <string name="i_sent_a_voice_message">Vous avez envoyé un message vocal</string>
+    <plurals name="event_capacity_people_number">
+        <item quantity="one">%d personne</item>
+        <item quantity="other">%d personnes</item>
+    </plurals>
+    <plurals name="event_participants_total">
+        <item quantity="one">%d personne</item>
+        <item quantity="other">%d personnes</item>
+    </plurals>
+    <plurals name="event_signed_in_people">
+        <item quantity="one">%d personne s\'est inscrite</item>
+        <item quantity="other">%d personnes se sont inscrites</item>
+    </plurals>
+    <plurals name="event_attended_people">
+        <item quantity="one">%d personne a participé</item>
+        <item quantity="other">%d personnes ont participé</item>
+    </plurals>
+    <plurals name="notification_upcoming_event_signed_users">
+        <item quantity="one">%d personne s\'est déjà inscrite.</item>
+        <item quantity="other">%d personnes se sont déjà inscrites.</item>
+    </plurals>
 </resources>
