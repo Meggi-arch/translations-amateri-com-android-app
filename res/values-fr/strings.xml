@@ -1172,4 +1172,38 @@
     <string name="notification_mfa_verify_text">Veuillez confirmer une nouvelle tentative de connexion.</string>
     <string name="private_collection">Collection privée</string>
     <string name="my_account_hide_categories">Ne pas afficher les catégories</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Messages vocaux plus longs</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Obtenez le statut VIP et envoyez des messages avec une durée de jusqu\'à 15 minutes.</string>
+    <string name="my_account_disconnect_dialog">Voulez-vous vraiment verrouiller cette connexion par réseau social \?</string>
+    <string name="my_account_disconnect_dialog_title">Verrouiller la connexion par réseau social \?</string>
+    <string name="conversation_unsupported_message_text">Désolé, le message ne peut pas être affiché. Veuillez mettre à jour votre application pour voir le message.</string>
+    <string name="conversation_deleted_message_text">Ce message a été supprimé.</string>
+    <string name="title_notification_list">Notifications</string>
+    <string name="notification_settings">Réglages de notification</string>
+    <string name="no_notifications_title">Aucune notification</string>
+    <string name="message_popup_sent">Envoyé %s</string>
+    <string name="conversation_phone_verification_required_message">Il faut que vous vérifiez votre profil avant de pouvoir envoyer des messages aux autres utilisateurs.</string>
+    <string name="conversation_phone_verification_required_button_contact">Contacter le support</string>
+    <string name="conversation_phone_verification_required_button_verify">Vérifier le profil</string>
+    <string name="my_account_social_login_connect">Enregistrer</string>
+    <string name="toast_camera_permissions_revoked">Veuillez autoriser l\'application à accéder à la caméra.</string>
+    <string name="conversation_user_ignored_error">L\'utilisateur %s ne souhaite pas que vous lui écriviez des messages.</string>
+    <string name="no_notifications_message">Pour le moment, vous n’avez pas de nouvelles notifications. Vous trouverez ici des notifications concernant les nouveaux commentaires, les likes sur les photos et les vidéos, etc.</string>
+    <plurals name="vip_days">
+        <item quantity="one">%d jour</item>
+        <item quantity="other">%d jours</item>
+    </plurals>
+    <plurals name="vip_days_remaining">
+        <item quantity="one">%d jour restant</item>
+        <item quantity="other">%d jours restants</item>
+    </plurals>
+    <string name="my_account_social_login">Connexion par des réseaux sociaux</string>
+    <string name="new_collection_create">Créer</string>
+    <string name="my_account_social_login_disconnect">Déconnecter</string>
+    <string name="social_login_error">Erreur</string>
+    <string name="my_account_preferred_language">Langue préférée de contenu</string>
+    <string name="my_account_preferred_language_not_set">La langue de contenu préférée doit être définie</string>
+    <string name="my_account_disconnect">Déconnecter</string>
+    <string name="new_collection_create_success">Collection créée</string>
+    <string name="new_collection_create_and_save_success">L\'article a été ajouté à la nouvelle collection</string>
 </resources>
