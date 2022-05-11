@@ -1377,7 +1377,7 @@
     <string name="dialog_wallet_reward_body">Kolika kredity chcete uživatele odměnit\?</string>
     <string name="dialog_wallet_reward_custom_value_hint">Vlastní</string>
     <string name="dialog_wallet_reward_custom_value_divider">nebo</string>
-    <string name="dialog_wallet_reward_message_hint">Napsat správu…</string>
+    <string name="dialog_wallet_reward_message_hint">Napsat zprávu…</string>
     <string name="dialog_wallet_reward_private_message">Poslat soukromně</string>
     <string name="dialog_wallet_reward_confirm">Odměna</string>
     <string name="dialog_wallet_reward_success_toast">Děkujeme! Odměna uživatele určitě potěší.</string>
@@ -1395,7 +1395,7 @@
     <string name="payment_selection_payment_type">Vybrat způsob platby</string>
     <string name="payment_selection_change_payment">Změnit platbu</string>
     <string name="payment_selection_enter_sms_code">Vložte SMS kód</string>
-    <string name="payment_selection_write_messages">Napsat správu</string>
+    <string name="payment_selection_write_messages">Napsat zprávu</string>
     <string name="payment_selection_cancel_text">Zrušit</string>
     <string name="payment_selection_ok_text_pay_sms">Poslat SMS</string>
     <string name="payment_selection_ok_text_pay_wallet">Poslat</string>
