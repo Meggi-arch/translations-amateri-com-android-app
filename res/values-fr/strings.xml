@@ -1235,4 +1235,24 @@
         <item quantity="one">%d personne s\'est déjà inscrite.</item>
         <item quantity="other">%d personnes se sont déjà inscrites.</item>
     </plurals>
+    <string name="new_note_hint">Note</string>
+    <string name="new_blog_preview">Prévisualisation</string>
+    <string name="note_edit_dialog_backpress_text">Les modifications faites jusqu\'alors ne seront pas enregistrées.</string>
+    <string name="note_edit">Modifier</string>
+    <string name="new_note_add_hint">Entrez votre texte…</string>
+    <string name="new_note_created">La note a été créée avec succès.</string>
+    <string name="new_note_dialog_backpress">La note ne sera pas créée. Toutes les modifications que vous avez apportées seront perdues.</string>
+    <string name="new_note_add_note">Ajouter une note</string>
+    <string name="note_edit_title">Modifier la note</string>
+    <string name="note_delete_dialog_backpress_text">Voulez-vous vraiment supprimer cette note \?</string>
+    <string name="note_edited">La note a été modifiée avec succès.</string>
+    <string name="new_blog_title_hint">Rentrez le titre</string>
+    <string name="note_delete_dialog_backpress_title">Supprimer cette note \?</string>
+    <string name="new_blog_content">Formatage du blog</string>
+    <string name="new_blog_hint">Indice</string>
+    <string name="new_blog_markdown">Utiliser le formatage markdown</string>
+    <string name="note_delete_dialog_backpress_button">Supprimer</string>
+    <string name="new_blog_header">Ajouter un nouvel article sur le blog</string>
+    <string name="new_blog_title">Titre</string>
+    <string name="new_note_error">Le texte ne peut pas être vide.</string>
 </resources>
