@@ -1468,6 +1468,12 @@
     <string name="comment_actions_dislike">Dislike</string>
     <string name="comment_actions_report">Report</string>
     <string name="comment_actions_ignore_user">Ignore user</string>
+    <string name="comment_actions_delete">Delete</string>
+    <!-- Delete comment dialog -->
+    <string name="dialog_delete_comment_title">Delete comment</string>
+    <string name="dialog_delete_comment_text">Do you really want to delete the comment?</string>
+    <string name="dialog_delete_comment_button_confirm">Delete</string>
+    <string name="dialog_delete_comment_button_cancel">Cancel</string>
     <!-- Chat webcams -->
     <string name="janus_fragment_retry_text">Interrupted. Retry?</string>
     <string name="janus_fragment_hangup_text">Camera turned off</string>
