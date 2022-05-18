@@ -1428,4 +1428,13 @@
     <string name="dialog_mfa_missing_secret_cancel">Annuler</string>
     <string name="vip_save_qr_code">Télécharger le code QR</string>
     <string name="activity_mfa_bottomsheet_contact_support">Contacter le support</string>
+    <string name="activity_mfa_unsupported_method_toast">La méthode d\'authentification à deux facteurs n\'est pas actuellement prise en charge.</string>
+    <string name="activity_mfa_known_unsupported_method_toast">La méthode d\'authentification à deux facteurs %s n\'est pas prise en charge actuellement.</string>
+    <string name="fragment_mfa_totp_info">Ouvrez l\'application d\'authentification et entrez le code à 6 chiffres.</string>
+    <string name="fragment_mfa_sms_title">Connexion à deux facteurs</string>
+    <string name="fragment_mfa_sms_subtitle">Connectez-vous par code SMS.</string>
+    <string name="activity_mfa_choose_totp_title">Application d\'authentification</string>
+    <string name="fragment_mfa_totp_title">Connexion à deux facteurs</string>
+    <string name="fragment_mfa_totp_subtitle">Connectez-vous avec l\'application d\'authentification.</string>
+    <string name="fragment_mfa_sms_info_code_not_sent">Demandez un code sms pour vous connecter.</string>
 </resources>
