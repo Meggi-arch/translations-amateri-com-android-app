@@ -502,9 +502,11 @@
     <string name="profile_photo_processing">Uploading photo</string>
     <string name="profile_photo_change">Change profile photo</string>
     <!--Comments-->
+    <string name="comment_reply_for_user">Reply for</string>
     <string name="comment_reply_action">Reply</string>
     <string name="comment_show_more_replies_action">Show %d more replies</string>
     <string name="comment_author_label">Author</string>
+    <string name="comment_deleted_message_text">This comment was deleted.</string>
     <!--Comment adding-->
     <string name="comment_write_hint">Write a comment</string>
     <string name="emoticon_dialog_close">Close</string>
