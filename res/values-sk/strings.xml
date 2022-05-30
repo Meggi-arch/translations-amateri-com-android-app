@@ -139,7 +139,7 @@
     <string name="video_contest_all">Súťaž nezvolená</string>
     <string name="no_videos_found">Nenájdené žiadne videá</string>
     <string name="video_duration">Dĺžka</string>
-    <string name="vip_dialog_title">Ľutujeme, ale iba VIP užívatelia môžu využívať túto funkciu.</string>
+    <string name="vip_dialog_title">Ľutujeme, ale iba VIP členovia môžu využívať túto funkciu.</string>
     <string name="vip_dialog_activate">Chcem sa stať VIP členom</string>
     <string name="vip_dialog_login">Prihlásiť sa</string>
     <string name="vip_dialog_register">Registrovať sa</string>
@@ -1332,7 +1332,7 @@
     <string name="wallet_additional_info_items_1">Topovať inzerát</string>
     <string name="wallet_additional_info_close">Zavrieť</string>
     <string name="wallet_additional_info_buy_credits">Kúpiť</string>
-    <string name="wallet_additional_info_items_2">Odmeňte za vaše obľúbené vysielanie na chatu a obsah</string>
+    <string name="wallet_additional_info_items_2">Odmeňte vaše obľúbené vysielanie na chatu a obsah</string>
     <string name="notification_settings">Nastaviť upozornenia</string>
     <string name="no_notifications_title">Žiadne upozornenia</string>
     <string name="no_notifications_message">Momentálne nemáte žiadne nové upozornenia. Tu nájdete upozornenia na nové komentáre, lajky na fotografiách a videách atď.</string>
