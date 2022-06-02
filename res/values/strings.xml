@@ -1660,4 +1660,5 @@
     <string name="setup_voice_message_enabled">Receive voice messages</string>
     <string name="add_comment_verification_required_title">You need verification</string>
     <string name="add_comment_verification_required">You cannot post comments without verification.</string>
+    <string name="dialog_comment_composer_discard_changes">Typed message will be discarded.</string>
 </resources>
