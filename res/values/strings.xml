@@ -507,6 +507,7 @@
     <string name="comment_show_more_replies_action">Show %d more replies</string>
     <string name="comment_author_label">Author</string>
     <string name="comment_deleted_message_text">This comment was deleted.</string>
+    <string name="comment_unsupported_message_text">Sorry, the comment cannot be displayed. Please update your app to see it.</string>
     <!--Comment adding-->
     <string name="comment_write_hint">Write a comment</string>
     <string name="emoticon_dialog_close">Close</string>
