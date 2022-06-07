@@ -215,6 +215,102 @@
         <item quantity="one">%d post</item>
         <item quantity="other">%d posts</item>
     </plurals>
+
+    <!-- Relative time-span in the past -->
+    <string name="relative_time_span_yesterday">yesterday</string>
+    <string name="relative_time_span_a_moment_ago">a moment ago</string>
+    <plurals name="relative_time_span_minutes_ago">
+        <item quantity="one">%d minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
+    <plurals name="relative_time_span_seconds_ago">
+        <item quantity="one">%d second ago</item>
+        <item quantity="other">%d seconds ago</item>
+    </plurals>
+    <plurals name="relative_time_span_hours_ago">
+        <item quantity="one">%d hour ago</item>
+        <item quantity="other">%d hours ago</item>
+    </plurals>
+    <plurals name="relative_time_span_days_ago">
+        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+    <plurals name="relative_time_span_weeks_ago">
+        <item quantity="one">%d week ago</item>
+        <item quantity="other">%d weeks ago</item>
+    </plurals>
+    <plurals name="relative_time_span_months_ago">
+        <item quantity="one">%d month ago</item>
+        <item quantity="other">%d months ago</item>
+    </plurals>
+    <plurals name="relative_time_span_years_ago">
+        <item quantity="one">%d year ago</item>
+        <item quantity="other">%d years ago</item>
+    </plurals>
+
+    <!-- Relative time-span in the future -->
+    <string name="relative_time_span_tomorrow">tomorrow</string>
+    <string name="relative_time_span_in_a_moment">in a moment</string>
+    <plurals name="relative_time_span_in_minutes">
+        <item quantity="one">in %d minute</item>
+        <item quantity="other">in %d minutes</item>
+    </plurals>
+    <plurals name="relative_time_span_in_seconds">
+        <item quantity="one">in %d second</item>
+        <item quantity="other">in %d seconds</item>
+    </plurals>
+    <plurals name="relative_time_span_in_hours">
+        <item quantity="one">in %d hour</item>
+        <item quantity="other">in %d hours</item>
+    </plurals>
+    <plurals name="relative_time_span_in_days">
+        <item quantity="one">in %d day</item>
+        <item quantity="other">in %d days</item>
+    </plurals>
+    <plurals name="relative_time_span_in_weeks">
+        <item quantity="one">in %d week</item>
+        <item quantity="other">in %d weeks</item>
+    </plurals>
+    <plurals name="relative_time_span_in_months">
+        <item quantity="one">in %d month</item>
+        <item quantity="other">in %d months</item>
+    </plurals>
+    <plurals name="relative_time_span_in_years">
+        <item quantity="one">in %d year</item>
+        <item quantity="other">in %d years</item>
+    </plurals>
+
+    <!-- Relative time-span abbreviated -->
+    <string name="relative_time_span_abbrev_now">now</string>
+    <plurals name="relative_time_span_abbrev_minutes">
+        <item quantity="one">%dm</item>
+        <item quantity="other">%dm</item>
+    </plurals>
+    <plurals name="relative_time_span_abbrev_seconds">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
+    </plurals>
+    <plurals name="relative_time_span_abbrev_hours">
+        <item quantity="one">%dh</item>
+        <item quantity="other">%dh</item>
+    </plurals>
+    <plurals name="relative_time_span_abbrev_days">
+        <item quantity="one">%dd</item>
+        <item quantity="other">%dd</item>
+    </plurals>
+    <plurals name="relative_time_span_abbrev_weeks">
+        <item quantity="one">%dw</item>
+        <item quantity="other">%dw</item>
+    </plurals>
+    <plurals name="relative_time_span_abbrev_months">
+        <item quantity="one">%dM</item>
+        <item quantity="other">%dM</item>
+    </plurals>
+    <plurals name="relative_time_span_abbrev_years">
+        <item quantity="one">%dY</item>
+        <item quantity="other">%dY</item>
+    </plurals>
+
     <!--FilterUserFragment-->
     <string name="user_country_all">All countries</string>
     <string name="user_region_all">All regions</string>
