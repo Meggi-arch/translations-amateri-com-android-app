@@ -1561,6 +1561,8 @@
     <string name="save_to_collection_no_collections">You don\'t have any collections.</string>
     <string name="save_to_collection_done">Done</string>
     <string name="save_to_collection_collections_updated">Collections were updated</string>
+    <!-- ReactingUsersBottomSheet -->
+    <string name="reacting_users_no_reactions_message">There are no reactions.</string>
     <!-- Comment actions bottomsheet -->
     <string name="comment_actions_reply">Reply</string>
     <string name="comment_actions_like">Like</string>
