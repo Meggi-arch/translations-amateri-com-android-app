@@ -1661,4 +1661,10 @@
     <string name="add_comment_verification_required_title">You need verification</string>
     <string name="add_comment_verification_required">You cannot post comments without verification.</string>
     <string name="dialog_comment_composer_discard_changes">Typed message will be discarded.</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Send reward</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Create or add to collection</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Edit blog post</string>
+    <string name="bottomsheet_bottompanel_delete">Delete</string>
+    <string name="bottomsheet_bottompanel_share">Share</string>
+    <string name="bottomsheet_bottompanel_settings">Settings</string>
 </resources>
