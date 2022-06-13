@@ -1579,4 +1579,5 @@
     <string name="biometric_prompt_title">Włącz logowanie biometryczne</string>
     <string name="biometric_prompt_subtitle">Wymagana jest weryfikacja</string>
     <string name="biometric_prompt_canceled">Weryfikacja została anulowana</string>
+    <string name="dialog_comment_composer_discard_changes">Wpisana wiadomość zostanie odrzucona.</string>
 </resources>
