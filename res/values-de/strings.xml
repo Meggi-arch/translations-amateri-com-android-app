@@ -1512,7 +1512,7 @@
     <string name="registration_enjoy_amateurs">Treten Sie ein und genießen Sie die Welt der Amateure.</string>
     <string name="conversation_unsupported_message_text">Die Nachricht kann leider nicht angezeigt werden. Bitte aktualisieren Sie Ihre App, um sie zu sehen.</string>
     <string name="conversation_deleted_message_text">Diese Nachricht wurde gelöscht.</string>
-    <string name="message_popup_sent">Gesendet %s</string>
+    <string name="message_popup_sent">Gesendet an %s</string>
     <string name="dialog_report_profile_title">Profil melden</string>
     <string name="dialog_report_album_title">Album melden</string>
     <string name="dialog_report_video_title">Video melden</string>
@@ -1528,4 +1528,5 @@
     <string name="biometric_prompt_description">Fingerabdruck-Überprüfung</string>
     <string name="biometric_prompt_negative_button">Abbrechen</string>
     <string name="biometric_prompt_canceled">Die Überprüfung wurde abgebrochen</string>
+    <string name="dialog_comment_composer_discard_changes">Die getippte Nachricht wird verworfen.</string>
 </resources>
