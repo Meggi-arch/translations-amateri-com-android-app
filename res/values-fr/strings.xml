@@ -1181,7 +1181,7 @@
     <string name="title_notification_list">Notifications</string>
     <string name="notification_settings">Réglages de notification</string>
     <string name="no_notifications_title">Aucune notification</string>
-    <string name="message_popup_sent">Envoyé %s</string>
+    <string name="message_popup_sent">Envoyé à %s</string>
     <string name="conversation_phone_verification_required_message">Il faut que vous vérifiez votre profil avant de pouvoir envoyer des messages aux autres utilisateurs.</string>
     <string name="conversation_phone_verification_required_button_contact">Contacter le support</string>
     <string name="conversation_phone_verification_required_button_verify">Vérifier le profil</string>
@@ -1523,4 +1523,5 @@
     <string name="payment_selection_type_sms_send_payment_bottom">au numéro de téléphone</string>
     <string name="wallet_buy_credit_no_payments_found">Aucune option de paiement trouvée</string>
     <string name="no_transaction_found">Aucune transaction</string>
+    <string name="dialog_comment_composer_discard_changes">Le message tapé sera supprimé.</string>
 </resources>
