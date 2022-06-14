@@ -1645,4 +1645,11 @@
     <string name="biometric_prompt_subtitle">Je vyžadováno potvrzení</string>
     <string name="biometric_prompt_description">Potvrzování otiskem prstu</string>
     <string name="biometric_prompt_canceled">Potvrzení bylo zrušeno</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Odeslat odměnu</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Vytvořit nebo přidat do sbírky</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Upravit článek</string>
+    <string name="bottomsheet_bottompanel_delete">Smazat</string>
+    <string name="bottomsheet_bottompanel_share">Sdílet</string>
+    <string name="bottomsheet_bottompanel_settings">Nastavení</string>
+    <string name="dialog_comment_composer_discard_changes">Napsaná zpráva bude odstraněna.</string>
 </resources>
