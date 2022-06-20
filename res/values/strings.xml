@@ -1230,6 +1230,7 @@
     <string name="dating_add_country_title">Country</string>
     <string name="dating_add_region_title">Region</string>
     <string name="dating_add_gender_title">Sex</string>
+    <string name="dating_add_age_title">Age</string>
     <string name="dating_add_filter_only_verified">Only verified profile</string>
     <string name="dating_add_filter_only_vip">Only VIP</string>
     <string name="dating_add_filter_only_with_content">Only with album or video</string>
