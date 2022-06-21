@@ -1232,15 +1232,17 @@
     <string name="dating_add_region_title">Region</string>
     <string name="dating_add_gender_title">Sex</string>
     <string name="dating_add_age_title">Age</string>
-    <string name="dating_add_filter_only_verified">Only verified profile</string>
-    <string name="dating_add_filter_only_vip">Only VIP</string>
-    <string name="dating_add_filter_only_with_content">Only with album or video</string>
     <string name="dating_add_button_text">Create dating ad</string>
     <string name="dating_add_toast_created">Dating ad has been created.</string>
     <string name="dating_add_dialog_backpress">Dating ad will not be created. All changes you\'ve made will be lost.</string>
     <string name="dating_add_toast_empty_fields">All fields must be filled.</string>
     <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
     <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
+    <!-- DatingAdCriteria -->
+    <string name="dating_ad_criteria_age_range">Age %d-%d</string>
+    <string name="dating_ad_criteria_with_verification">With verification</string>
+    <string name="dating_ad_criteria_with_vip">With VIP membership</string>
+    <string name="dating_ad_criteria_with_content">With content</string>
     <!-- NewNoteActivity -->
     <string name="new_note_hint">Note</string>
     <string name="new_note_add_note">Add a note</string>
