@@ -1219,6 +1219,7 @@
     <string name="chat_room_people_empty">There is nobody in this room.</string>
     <!-- NewDatingActivity -->
     <string name="title_dating_add">New dating ad</string>
+    <string name="dating_add_new_label">New</string>
     <string name="dating_add_who_can_reply">Who can reply</string>
     <string name="dating_add_category_title">Category</string>
     <string name="dating_add_transgender_title">Transgender</string>
@@ -1231,6 +1232,7 @@
     <string name="dating_add_country_title">Country</string>
     <string name="dating_add_region_title">Region</string>
     <string name="dating_add_gender_title">Sex</string>
+    <string name="dating_add_user_filter_title">Only</string>
     <string name="dating_add_age_title">Age</string>
     <string name="dating_add_button_text">Create dating ad</string>
     <string name="dating_add_toast_created">Dating ad has been created.</string>
