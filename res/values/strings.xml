@@ -1241,8 +1241,8 @@
     <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
     <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
     <!-- DatingAdCriteria -->
-    <string name="dating_ad_criteria_not_met_title">You don\'t meet the criteria to reply</string>
-    <string name="dating_ad_criteria_not_met_message">Sorry, you cannot reply to this advert because you do not meet the criteria set by the user.</string>
+    <string name="dating_ad_criteria_not_met_title">Criteria not met</string>
+    <string name="dating_ad_criteria_not_met_message">Sorry, you cannot reply because you do not meet the criteria set by the user.</string>
     <string name="dating_ad_criteria_age_range">Age %d-%d</string>
     <string name="dating_ad_criteria_with_verification">With verification</string>
     <string name="dating_ad_criteria_with_vip">With VIP membership</string>
