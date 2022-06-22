@@ -1652,4 +1652,5 @@
     <string name="bottomsheet_bottompanel_share">Sdílet</string>
     <string name="bottomsheet_bottompanel_settings">Nastavení</string>
     <string name="dialog_comment_composer_discard_changes">Napsaná zpráva bude odstraněna.</string>
+    <string name="email_verification_navigate_login">Přihlášení</string>
 </resources>
