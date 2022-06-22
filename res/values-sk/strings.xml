@@ -1555,4 +1555,11 @@
     <string name="biometric_prompt_description">Potvrdenie odtlačkom prstu</string>
     <string name="biometric_prompt_canceled">Potvrdenie bolo zrušené</string>
     <string name="biometric_prompt_negative_button">Zavrieť</string>
+    <string name="dialog_comment_composer_discard_changes">Napísaná správa bude odstránená.</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Vytvoriť alebo pridať do zbierky</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Odoslať odmenu</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Upraviť článok</string>
+    <string name="bottomsheet_bottompanel_delete">Vymazať</string>
+    <string name="bottomsheet_bottompanel_share">Zdieľať</string>
+    <string name="bottomsheet_bottompanel_settings">Nastavenie</string>
 </resources>
