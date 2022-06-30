@@ -1653,4 +1653,8 @@
     <string name="bottomsheet_bottompanel_settings">Nastavení</string>
     <string name="dialog_comment_composer_discard_changes">Napsaná zpráva bude odstraněna.</string>
     <string name="email_verification_navigate_login">Přihlášení</string>
+    <string name="app_shortcut_short_label_conversations">Konverzace</string>
+    <string name="app_shortcut_short_label_chat">Chat</string>
+    <string name="app_shortcut_short_label_people">Lidé</string>
+    <string name="app_shortcut_short_label_decent_mode">Slušný režim</string>
 </resources>
