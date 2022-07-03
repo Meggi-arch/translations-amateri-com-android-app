@@ -157,8 +157,8 @@
         <item quantity="other">%d évek</item>
     </plurals>
     <plurals name="people">
-        <item quantity="one">%d embernek tetszik</item>
-        <item quantity="other">%d embereknek tetszik</item>
+        <item quantity="one">%d személynek tetszik</item>
+        <item quantity="other">%d személyeknek tetszik</item>
     </plurals>
     <plurals name="topics">
         <item quantity="one">%d téma</item>
@@ -219,14 +219,14 @@
     <string name="photo_count">A fotók száma</string>
     <string name="vip">VIP</string>
     <string name="certificated">Ellenőrzött</string>
-    <string name="views">Nézettség</string>
+    <string name="views">Tekintetek</string>
     <string name="rating">Értékelés</string>
-    <string name="comments">Hozzászólások</string>
+    <string name="comments">Megjegyzések</string>
     <string name="album_address">Album URL címe</string>
     <string name="added">Hozzáadva</string>
-    <string name="yes">Rendben</string>
+    <string name="yes">Igen</string>
     <string name="album_number">Album azonosító</string>
-    <string name="no">Nincs</string>
+    <string name="no">Nem</string>
     <string name="notifications_vip_membership">VIP tagság</string>
     <string name="notifications_credits_amount">%d kreditek</string>
     <string name="notifications_credits_top_up">Vásároljon</string>
@@ -297,8 +297,8 @@
     <string name="invalid_login_dialog_content">Helytelen bejelentkezési adatokat adott meg.</string>
     <string name="invalid_login_dialog_forgot_password">Elfelejtettem a jelszavam</string>
     <string name="vip_dialog_title">Sajnáljuk, de ezt a funkciót csak VIP-tagok használhatják.</string>
-    <string name="feedback_category">kategória</string>
-    <string name="feedback_message">az Ön üzenete</string>
+    <string name="feedback_category">Kategória</string>
+    <string name="feedback_message">Az Ön üzenete</string>
     <string name="emoticon_no_emoticons">Nincsenek hangulatjelek</string>
     <string name="search_hint">Keresés</string>
     <string name="search_album_hint">Keresni az albumokban</string>
@@ -441,7 +441,7 @@
     <string name="vip_dialog_login">Bejelentkezés</string>
     <string name="vip_dialog_register">Regisztráció</string>
     <string name="title_activity_feedback">Támogatás</string>
-    <string name="feedback_email">e-mail</string>
+    <string name="feedback_email">E-mail</string>
     <string name="feedback_send">Küldje el a</string>
     <string name="feedback_category_default">Válasszon kategóriát</string>
     <string name="profile_photo_camera">Készítsen egy fotót</string>
@@ -1474,10 +1474,10 @@
     <string name="settings_verification_identity_verification_title">Személyazonosság hitelesítése</string>
     <string name="settings_verification_content_verification_description_verified">A %s felhasználó %s-ként van hitelesítve.</string>
     <string name="settings_verification_identity_verification_description">Igazolja életkorát és személyazonosságát személyi igazolványával, hogy megerősítse tartalma jogszerűségét.</string>
-    <string name="update_changelog">lehetőség a sötét alkalmazási módra való váltásra
-\nhozzáadott a felhasználó regisztrálása
-\ntelefonszám ellenőrző szolgáltatás
-\ntovábbfejlesztett szolgáltatások és megjelenés</string>
+    <string name="update_changelog">hangüzenetek küldése
+\nhozzáadott felhasználói regisztráció
+\ntelefonszám ellenőrzés funkciója
+\njavított funkciók és a megjelenés</string>
     <string name="button_sign_up_for_free">Ingyenes feliratkozás</string>
     <string name="home_banner_verification_title">Az Ön profilja nem ellenőrzött</string>
     <string name="home_banner_verification_message">Csatlakozzon az ellenőrzött felhasználókhoz, és legyen megbízhatóbb.</string>
@@ -1491,14 +1491,47 @@
     <string name="unverified_dialog_title">Ellenőrzésre van szükség</string>
     <string name="unverified_dialog_content">Az applikációnak ez a része csak ellenőrzött felhasználók számára érhető el.</string>
     <string name="unverified_dialog_verify">Ellenőrizze a profilját</string>
-    <string name="setup_theme_title">Témakörök</string>
+    <string name="setup_theme_title">Applikáció megjelenése</string>
     <string name="setup_theme">A téma típusa</string>
     <string name="app_theme_auto">Automatikus</string>
-    <string name="app_theme_dark">Sötét</string>
-    <string name="app_theme_light">Világítás</string>
+    <string name="app_theme_dark">Sötétség</string>
+    <string name="app_theme_light">Világos</string>
     <string name="error_missing_google_play_services">Sajnáljuk, ezt a funkciót nem tudja használni, az Ön készüléke nem támogatja a Google Play szolgáltatásokat.</string>
     <string name="title_decent_mode">Tisztességes üzemmód</string>
     <string name="filter_topics">Témák</string>
     <string name="filter_contests">Versenyek</string>
     <string name="add_comment_verification_required_title">Ellenőrzésre van szüksége</string>
+    <string name="dialog_report_profile_title">Profil bejelentése</string>
+    <string name="album_settings_password">Jelszó</string>
+    <string name="conversation_promo_message_vip_voice_length_text">Legyen VIP és küldjön üzeneteket akár 15 percig.</string>
+    <string name="message_popup_sent">Elküldve %s</string>
+    <string name="toast_lockscreen_permissions_not_granted">Kérjük, engedélyezze az ujjlenyomat-engedélyeket az alkalmazás beállításaiban.</string>
+    <string name="locked_fingerprint_try_again">Próbálja meg újra</string>
+    <string name="conversation_unsupported_message_text">Sajnáljuk, az üzenet nem jeleníthető meg. Kérjük, frissítse az applikációját, hogy láthatóvá váljon.</string>
+    <string name="conversation_deleted_message_text">Ez az üzenet törlésre került.</string>
+    <string name="biometric_prompt_title">Biometrikus bejelentkezés engedélyezése</string>
+    <string name="biometric_prompt_negative_button">Kilépés</string>
+    <string name="new_note_hint">Megjegyzés</string>
+    <string name="dialog_comment_composer_discard_changes">A beírt üzenetet el lesz vetve.</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Jutalmat küldeni</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Gyűjtemény létrehozása vagy hozzáadása</string>
+    <string name="email_verification_navigate_login">Bejelentkezés</string>
+    <string name="conversation_promo_message_vip_voice_length_title">Hosszabb hangüzenetek</string>
+    <string name="biometric_prompt_subtitle">Hitelesítésre van szükség</string>
+    <string name="biometric_prompt_description">Ujjlenyomatos hitelesítés</string>
+    <string name="biometric_prompt_canceled">A hitelesítés törlésre került</string>
+    <string name="video_settings_password">Jelszó</string>
+    <string name="dialog_report_album_title">Album bejelentése</string>
+    <string name="dialog_report_video_title">Videó bejelentése</string>
+    <string name="dialog_report_story_title">Történet bejelentése</string>
+    <string name="dialog_report_blog_title">Blog bejelentése</string>
+    <string name="note_edit_dialog_backpress_text">Az összes elvégzett módosítás elvetésre kerül.</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Blog bejegyzés módosítása</string>
+    <string name="bottomsheet_bottompanel_delete">Törölni</string>
+    <string name="bottomsheet_bottompanel_share">Megosztás</string>
+    <string name="bottomsheet_bottompanel_settings">Beállítások</string>
+    <string name="app_shortcut_short_label_decent_mode">Tisztességes üzemmód</string>
+    <string name="app_shortcut_short_label_conversations">Beszélgetések</string>
+    <string name="app_shortcut_short_label_chat">Cset</string>
+    <string name="app_shortcut_short_label_people">Az emberek</string>
 </resources>
