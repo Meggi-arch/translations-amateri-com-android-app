@@ -764,6 +764,7 @@
     <string name="video_not_vip_other_button">Cancel</string>
     <string name="comment_sort_title">Comment order</string>
     <string name="comment_sort_dialog_title">Comment order</string>
+    <string name="comment_sort_by_popularity">By popularity</string>
     <string name="comment_sort_by_date">By date</string>
     <string name="comment_sort_by_language">By language</string>
     <!--CollectionSettingsActivity-->
