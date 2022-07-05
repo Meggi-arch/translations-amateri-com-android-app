@@ -1529,4 +1529,15 @@
     <string name="biometric_prompt_negative_button">Abbrechen</string>
     <string name="biometric_prompt_canceled">Die Überprüfung wurde abgebrochen</string>
     <string name="dialog_comment_composer_discard_changes">Die getippte Nachricht wird verworfen.</string>
+    <string name="email_verification_navigate_login">Anmeldung</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Belohnung senden</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Erstellen oder zur Sammlung hinzufügen</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Blogbeitrag bearbeiten</string>
+    <string name="bottomsheet_bottompanel_delete">Löschen</string>
+    <string name="bottomsheet_bottompanel_share">Teilen</string>
+    <string name="bottomsheet_bottompanel_settings">Einstellungen</string>
+    <string name="app_shortcut_short_label_decent_mode">Anständiger Modus</string>
+    <string name="app_shortcut_short_label_conversations">Konversationen</string>
+    <string name="app_shortcut_short_label_chat">Chat</string>
+    <string name="app_shortcut_short_label_people">Leute</string>
 </resources>
