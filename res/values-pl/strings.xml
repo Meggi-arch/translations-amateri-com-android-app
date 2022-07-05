@@ -1580,4 +1580,15 @@
     <string name="biometric_prompt_subtitle">Wymagana jest weryfikacja</string>
     <string name="biometric_prompt_canceled">Weryfikacja została anulowana</string>
     <string name="dialog_comment_composer_discard_changes">Wpisana wiadomość zostanie odrzucona.</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Utwórz lub dodaj do kolekcji</string>
+    <string name="email_verification_navigate_login">Login</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Wyślij nagrodę</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Edytuj wpis</string>
+    <string name="bottomsheet_bottompanel_delete">Usuń</string>
+    <string name="bottomsheet_bottompanel_share">Udostępnij</string>
+    <string name="bottomsheet_bottompanel_settings">Ustawienia</string>
+    <string name="app_shortcut_short_label_decent_mode">Tryb przyzwoity</string>
+    <string name="app_shortcut_short_label_conversations">Konwersacje</string>
+    <string name="app_shortcut_short_label_chat">Czat</string>
+    <string name="app_shortcut_short_label_people">Osoby</string>
 </resources>
