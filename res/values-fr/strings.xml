@@ -1524,4 +1524,15 @@
     <string name="wallet_buy_credit_no_payments_found">Aucune option de paiement trouvée</string>
     <string name="no_transaction_found">Aucune transaction</string>
     <string name="dialog_comment_composer_discard_changes">Le message tapé sera supprimé.</string>
+    <string name="bottomsheet_bottompanel_send_wallet_reward">Envoyer une récompense</string>
+    <string name="email_verification_navigate_login">Connexion</string>
+    <string name="bottomsheet_bottompanel_add_to_collection">Créer ou ajouter à une collection</string>
+    <string name="bottomsheet_bottompanel_edit_blog">Modifier l\'article de blog</string>
+    <string name="bottomsheet_bottompanel_delete">Supprimer</string>
+    <string name="bottomsheet_bottompanel_share">Partager</string>
+    <string name="bottomsheet_bottompanel_settings">Réglages</string>
+    <string name="app_shortcut_short_label_decent_mode">Mode décent</string>
+    <string name="app_shortcut_short_label_conversations">Conversations</string>
+    <string name="app_shortcut_short_label_chat">Chat</string>
+    <string name="app_shortcut_short_label_people">Gens</string>
 </resources>
