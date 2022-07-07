@@ -14,6 +14,7 @@
     <string name="dialog_android_unsupported_text">We are sorry, but your Android system version is too old to use this feature :(</string>
     <string name="general_empty_title">Nothing is here</string>
     <string name="general_empty_text">There\'s nothing to show :(</string>
+    <string name="new_feature_label">New</string>
     <!-- App Shortcuts -->
     <string name="app_shortcut_short_label_decent_mode">Decent mode</string>
     <string name="app_shortcut_short_label_conversations">Conversations</string>
@@ -1225,7 +1226,8 @@
     <string name="chat_room_people_empty">There is nobody in this room.</string>
     <!-- NewDatingActivity -->
     <string name="title_dating_add">New dating ad</string>
-    <string name="dating_add_new_label">New</string>
+    <string name="dating_add_advanced_settings">Advanced dating ad settings</string>
+    <string name="dating_add_location">Location you are searching in</string>
     <string name="dating_add_who_can_reply">Who can reply</string>
     <string name="dating_add_category_title">Category</string>
     <string name="dating_add_transgender_title">Transgender</string>
@@ -1238,7 +1240,7 @@
     <string name="dating_add_country_title">Country</string>
     <string name="dating_add_region_title">Region</string>
     <string name="dating_add_gender_title">Sex</string>
-    <string name="dating_add_user_filter_title">Only</string>
+    <string name="dating_add_user_filter_title">Only users</string>
     <string name="dating_add_age_title">Age</string>
     <string name="dating_add_button_text">Create dating ad</string>
     <string name="dating_add_toast_created">Dating ad has been created.</string>
@@ -1248,11 +1250,11 @@
     <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
     <!-- DatingAdCriteria -->
     <string name="dating_ad_criteria_not_met_title">Criteria not met</string>
-    <string name="dating_ad_criteria_not_met_message">Sorry, you cannot reply because you do not meet the criteria set by the user.</string>
+    <string name="dating_ad_criteria_not_met_message">Sorry, you cannot reply to this dating ad because you do not meet the criteria set by the user.</string>
     <string name="dating_ad_criteria_age_range">Age %d-%d</string>
-    <string name="dating_ad_criteria_with_verification">With verification</string>
+    <string name="dating_ad_criteria_with_verification">Verified users</string>
     <string name="dating_ad_criteria_with_vip">With VIP membership</string>
-    <string name="dating_ad_criteria_with_content">With content</string>
+    <string name="dating_ad_criteria_with_content">With albums/videos</string>
     <!-- NewNoteActivity -->
     <string name="new_note_hint">Note</string>
     <string name="new_note_add_note">Add a note</string>
