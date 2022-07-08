@@ -1562,4 +1562,12 @@
     <string name="bottomsheet_bottompanel_delete">Vymazať</string>
     <string name="bottomsheet_bottompanel_share">Zdieľať</string>
     <string name="bottomsheet_bottompanel_settings">Nastavenie</string>
+    <string name="report_dialog_missing_attachment">Je potrebné pripojiť prílohu</string>
+    <string name="report_dialog_select_attachment">Vyberte prílohu</string>
+    <string name="email_verification_navigate_login">Prihlásenie</string>
+    <string name="report_dialog_add_attachment">Pridať prílohu</string>
+    <string name="app_shortcut_short_label_decent_mode">Slušný režím</string>
+    <string name="app_shortcut_short_label_conversations">Konverzácie</string>
+    <string name="app_shortcut_short_label_chat">Chat</string>
+    <string name="app_shortcut_short_label_people">Ľudia</string>
 </resources>
