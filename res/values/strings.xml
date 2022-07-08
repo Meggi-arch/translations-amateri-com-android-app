@@ -1673,4 +1673,8 @@
     <string name="app_shortcut_short_label_conversations">Conversations</string>
     <string name="app_shortcut_short_label_chat">Chat</string>
     <string name="app_shortcut_short_label_people">People</string>
+    <!--Report dialog -->
+    <string name="report_dialog_add_attachment">Add attachment</string>
+    <string name="report_dialog_missing_attachment">Attachment is required</string>
+    <string name="report_dialog_select_attachment">Select attachment</string>
 </resources>
