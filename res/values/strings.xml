@@ -1065,7 +1065,6 @@
     <string name="toast_fingerprint_not_enrolled">No fingerprint configured. Please register at least one fingerprint in your device\'s Settings.</string>
     <string name="toast_lockscreen_disabled">Please enable lockscreen security in your device\'s Settings.</string>
     <string name="toast_lockscreen_permissions_not_granted">Please enable fingerprint permissions in application settings.</string>
-
     <string name="error_fingerprints_invalidated">Fingerprint unavailable. It looks like you have recently enrolled a new fingerprint. You can re-enable fingerprint lock in settings.</string>
     <string name="success">Success</string>
     <string name="fingerprint_authentication_failed">Fingerprint not recognized</string>
@@ -1081,7 +1080,6 @@
     <string name="biometric_prompt_description">Fingerprint Authentication</string>
     <string name="biometric_prompt_negative_button">Cancel</string>
     <string name="biometric_prompt_canceled">Authentication has been canceled</string>
-
     <!-- ChatActivity -->
     <string name="tab_chat_board">Dashboard</string>
     <string name="tab_chat_rooms">Rooms</string>
@@ -1675,6 +1673,6 @@
     <string name="app_shortcut_short_label_people">People</string>
     <!--Report dialog -->
     <string name="report_dialog_add_attachment">Add attachment</string>
-    <string name="report_dialog_missing_attachment">Attachment is required</string>
+    <string name="report_dialog_missing_attachment">Along with the reason for reporting, please upload evidence of your claim.</string>
     <string name="report_dialog_select_attachment">Select attachment</string>
 </resources>
