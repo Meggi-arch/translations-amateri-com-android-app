@@ -1517,10 +1517,10 @@
     <string name="forum_topics_sort_lastupdate_desc">By latest posts</string>
     <!-- VideoPlayerSettingsBottomSheet -->
     <string name="bottomsheet_video_player_settings_title">Video quality setting</string>
-    <string name="update_changelog">sending voice messages
-\nadded user registration
-\nfunction phone number verification
-\nimproved features and appearance</string>
+    <string name="update_changelog">fixed bugs
+\nimproved user interface
+\nmodified features
+\nenhanced performance</string>
     <string name="vip_sepa_iban">IBAN:</string>
     <string name="vip_sepa_bic">BIC:</string>
     <string name="vip_sepa_beneficiar_name">Beneficiary\'s name:</string>
