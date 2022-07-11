@@ -1564,10 +1564,10 @@
     <string name="registration_gender_not_selected">Vyberte prosím své pohlaví</string>
     <string name="phone_verification_enter_code_from_sms">Zadejte ověřovací kód z SMS</string>
     <string name="phone_verification_resend_code">Znovu zaslat kód</string>
-    <string name="update_changelog">odesílání hlasových zpráv
-\npřidána registrace uživatele
-\nfunkce ověření telefonního čísla
-\nvylepšené funkce a vzhled</string>
+    <string name="update_changelog">opravené chyby
+\nvylepšené uživatelské rozhraní
+\nupravené funkce
+\nzvýšený výkon</string>
     <string name="invalid_login_dialog_restore_account">Obnovení účtu</string>
     <string name="invalid_login_dialog_resend_verification_email">Zaslat znovu ověřovací e-mail</string>
     <string name="registration_welcome_title">%s,
@@ -1659,5 +1659,5 @@
     <string name="app_shortcut_short_label_decent_mode">Slušný režim</string>
     <string name="report_dialog_select_attachment">Vyberte přílohu</string>
     <string name="report_dialog_add_attachment">Přidat přílohu</string>
-    <string name="report_dialog_missing_attachment">Je potřeba připojit přílohu</string>
+    <string name="report_dialog_missing_attachment">Spolu s důvodem nahlášení nahrajte prosím důkazy o svém tvrzení.</string>
 </resources>
