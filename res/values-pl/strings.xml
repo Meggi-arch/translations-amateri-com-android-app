@@ -1474,10 +1474,10 @@
     <string name="save_to_collection_no_collections">Nie masz żadnych kolekcji.</string>
     <string name="save_to_collection_collections_updated">Kolekcje zostały zaktualizowane</string>
     <string name="bottomsheet_webcam_listener_reward">Nagroda w kredytach</string>
-    <string name="update_changelog">wysyłanie wiadomości głosowych
-\ndodano rejestracje użytkownika
-\nfunkcja weryfikacji numeru telefonu
-\nulepszone funkcje i wygląd</string>
+    <string name="update_changelog">naprawiono błędy
+\nulepszono interfejs użytkownika
+\nmodyfikacja funkcji
+\nzwiększona wydajność</string>
     <string name="vip_bank_transfer_cz_account_number">Numer konta:</string>
     <string name="vip_bank_transfer_cz_price">Cena:</string>
     <string name="vip_bank_transfer_cz_reference">Numer zlecenia:</string>
@@ -1591,4 +1591,7 @@
     <string name="app_shortcut_short_label_conversations">Konwersacje</string>
     <string name="app_shortcut_short_label_chat">Czat</string>
     <string name="app_shortcut_short_label_people">Osoby</string>
+    <string name="report_dialog_add_attachment">Dodaj załącznik</string>
+    <string name="report_dialog_missing_attachment">Wraz z powodem zgłoszenia prosimy o przesłanie dowodów na to, że Twoje roszczenie jest zasadne.</string>
+    <string name="report_dialog_select_attachment">Wybierz załącznik</string>
 </resources>
