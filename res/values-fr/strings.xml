@@ -1274,10 +1274,10 @@
     <string name="home_section_favourites_videos_title">Vidéos de mes favoris</string>
     <string name="dialog_mfa_verify_body_text">Un nouvel appareil essaie de se connecter à votre compte. Appareil : %1$s. Pays : %2$s.
 \nPoursuivre la connexion \?</string>
-    <string name="update_changelog">envoi de messages vocaux
-\najout de l\'enregistrement des utilisateurs
-\nfonction de vérification du numéro de téléphone
-\namélioration des fonctionnalités et de l\'apparence</string>
+    <string name="update_changelog">correction de bugs
+\namélioration de l\'interface utilisateur
+\nfonctionnalités modifiées
+\namélioration des performances</string>
     <string name="vip_bank_transfer_cz_reference">Symbole variable :</string>
     <string name="blogs_settings_edit_button">Modifier</string>
     <plurals name="edittext_invalid_input_short">
@@ -1535,4 +1535,7 @@
     <string name="app_shortcut_short_label_conversations">Conversations</string>
     <string name="app_shortcut_short_label_chat">Chat</string>
     <string name="app_shortcut_short_label_people">Gens</string>
+    <string name="report_dialog_add_attachment">Ajouter une pièce jointe</string>
+    <string name="report_dialog_select_attachment">Sélectionner une pièce jointe</string>
+    <string name="report_dialog_missing_attachment">En plus de la raison du signalement, veuillez télécharger les preuves de votre assertion.</string>
 </resources>
