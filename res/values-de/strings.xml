@@ -1454,10 +1454,10 @@
     <string name="setup_theme_title">Aussehen der App</string>
     <string name="setup_theme">Thema Typ</string>
     <string name="home_banner_verification_message">Schließen Sie sich verifizierten Nutzern an und werden Sie vertrauenswürdiger.</string>
-    <string name="update_changelog">Senden von Sprachnachrichten
-\nBenutzerregistrierung hinzugefügt
-\nFunktion der Telefonnummer-Überprüfung
-\nverbesserte Funktionen und Aussehen</string>
+    <string name="update_changelog">Behebung von Fehlern
+\nverbesserte Benutzeroberfläche
+\ngeänderte Funktionen
+\nverbesserte Leistung</string>
     <string name="payment_selection_type_sms_send_payment_top">Senden Sie eine SMS mit dem Text</string>
     <string name="payment_selection_type_sms_send_payment_bottom">an die Telefonnummer</string>
     <string name="conversation_phone_verification_required_message">Sie müssen Ihr Profil verifizieren, bevor Sie anderen Nutzern Nachrichten schicken können.</string>
@@ -1540,4 +1540,7 @@
     <string name="app_shortcut_short_label_conversations">Konversationen</string>
     <string name="app_shortcut_short_label_chat">Chat</string>
     <string name="app_shortcut_short_label_people">Leute</string>
+    <string name="report_dialog_add_attachment">Anhang hinzufügen</string>
+    <string name="report_dialog_select_attachment">Anhang auswählen</string>
+    <string name="report_dialog_missing_attachment">Bitte laden Sie neben dem Grund für die Meldung auch Beweise für Ihre Behauptung hoch.</string>
 </resources>
