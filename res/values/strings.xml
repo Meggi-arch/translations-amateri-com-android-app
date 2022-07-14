@@ -608,6 +608,7 @@
     <string name="comment_reply_action">Reply</string>
     <string name="comment_show_more_replies_action">Show %d more replies</string>
     <string name="comment_author_label">Author</string>
+    <string name="comment_edited_message_suffix">(edited)</string>
     <string name="comment_deleted_message_text">This comment was deleted.</string>
     <string name="comment_unsupported_message_text">Sorry, the comment cannot be displayed. Please update your app to see it.</string>
     <!--Comment adding-->
