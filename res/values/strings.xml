@@ -1246,7 +1246,7 @@
     <string name="dating_add_button_text">Create dating ad</string>
     <string name="dating_add_toast_created">Dating ad has been created.</string>
     <string name="dating_add_dialog_backpress">Dating ad will not be created. All changes you\'ve made will be lost.</string>
-    <string name="dating_add_toast_empty_fields">All fields must be filled.</string>
+    <string name="dating_add_toast_empty_fields">All mandatory fields must be filled.</string>
     <string name="dating_add_dialog_forbidden_title">Only one dating ad per %d hours</string>
     <string name="dating_add_dialog_forbidden_content">You have already created an ad today. You can add another one tomorrow.</string>
     <!-- DatingAdCriteria -->
