@@ -856,7 +856,7 @@
     <string name="dating_add_button_text">Přidat inzerát</string>
     <string name="dating_add_toast_created">Inzerát byl vytvořen.</string>
     <string name="dating_add_dialog_backpress">Inzerát nebude vytvořen. Provedené změny budou ztraceny.</string>
-    <string name="dating_add_toast_empty_fields">Musí být vyplněna všechna pole.</string>
+    <string name="dating_add_toast_empty_fields">Je třeba vyplnit všechna povinná pole.</string>
     <string name="dating_add_dialog_forbidden_title">Pouze jeden inzerát za %d hodin</string>
     <string name="dating_add_dialog_forbidden_content">Dnes jste již jeden inzerát přidal(a). Další můžete přidat opět zítra.</string>
     <!-- NewNoteActivity -->
