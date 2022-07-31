@@ -219,9 +219,9 @@
     <string name="photo_count">A fotók száma</string>
     <string name="vip">VIP</string>
     <string name="certificated">Ellenőrzött</string>
-    <string name="views">Tekintetek</string>
+    <string name="views">Nézettség</string>
     <string name="rating">Értékelés</string>
-    <string name="comments">Megjegyzések</string>
+    <string name="comments">Hozzászólások</string>
     <string name="album_address">Album URL címe</string>
     <string name="added">Hozzáadva</string>
     <string name="yes">Igen</string>
@@ -902,7 +902,7 @@
     <string name="dating_add_category_title">Kategória</string>
     <string name="dating_add_category_hint">Válasszon kategóriát</string>
     <string name="dating_add_dialog_backpress">A társkereső hirdetés nem jön létre. Minden elvégzett módosítás elveszik.</string>
-    <string name="dating_add_toast_empty_fields">Minden mezőt ki kell tölteni.</string>
+    <string name="dating_add_toast_empty_fields">Minden kötelező mezőt ki kell tölteni.</string>
     <string name="dating_add_validity_title">Érvényesség</string>
     <string name="dating_add_dialog_forbidden_title">Csak egy társkereső hirdetés %d óránként</string>
     <string name="dating_add_button_text">Hozzon létre társkereső hirdetést</string>
@@ -1474,10 +1474,10 @@
     <string name="settings_verification_identity_verification_title">Személyazonosság hitelesítése</string>
     <string name="settings_verification_content_verification_description_verified">A %s felhasználó %s-ként van hitelesítve.</string>
     <string name="settings_verification_identity_verification_description">Igazolja életkorát és személyazonosságát személyi igazolványával, hogy megerősítse tartalma jogszerűségét.</string>
-    <string name="update_changelog">hangüzenetek küldése
-\nhozzáadott felhasználói regisztráció
-\ntelefonszám ellenőrzés funkciója
-\njavított funkciók és a megjelenés</string>
+    <string name="update_changelog">javított hibák
+\ntovábbfejlesztett felhasználói felület
+\nmódosított funkciók
+\nmegnövekedett teljesítmény</string>
     <string name="button_sign_up_for_free">Ingyenes feliratkozás</string>
     <string name="home_banner_verification_title">Az Ön profilja nem ellenőrzött</string>
     <string name="home_banner_verification_message">Csatlakozzon az ellenőrzött felhasználókhoz, és legyen megbízhatóbb.</string>
@@ -1534,4 +1534,7 @@
     <string name="app_shortcut_short_label_conversations">Beszélgetések</string>
     <string name="app_shortcut_short_label_chat">Cset</string>
     <string name="app_shortcut_short_label_people">Az emberek</string>
+    <string name="report_dialog_add_attachment">Melléklet hozzáadása</string>
+    <string name="report_dialog_missing_attachment">A bejelentés okával együtt kérjük, töltse fel az állítását alátámasztó bizonyítékokat is.</string>
+    <string name="report_dialog_select_attachment">Válassza ki a mellékletet</string>
 </resources>
