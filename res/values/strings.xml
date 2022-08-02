@@ -1582,7 +1582,10 @@
     <string name="wallet_transaction_date_yesterday">Yesterday</string>
     <string name="wallet_last_transactions_header">Last transactions</string>
     <string name="wallet_credits_header">credits</string>
-    <string name="wallet_transaction_fee">(%d credits fee)</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(%d credits fee)</item>
+        <item quantity="other">(%d credits fee)</item>
+    </plurals>
     <string name="payment_selection_gift_vip_title">Gift VIP</string>
     <string name="payment_selection_dating_top_up_title">Topup ad</string>
     <string name="payment_selection_country_title">Country</string>
