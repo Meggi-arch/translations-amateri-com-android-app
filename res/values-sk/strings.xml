@@ -1569,4 +1569,9 @@
     <string name="app_shortcut_short_label_conversations">Konverzácie</string>
     <string name="app_shortcut_short_label_chat">Chat</string>
     <string name="app_shortcut_short_label_people">Ľudia</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(poplatok %d kredit)</item>
+        <item quantity="few">(poplatok %d kreditov)</item>
+        <item quantity="other">(poplatok %d kredity)</item>
+    </plurals>
 </resources>
