@@ -1423,7 +1423,6 @@
     <string name="no_transaction_found_description">Nemáte žádnou transakční historii.</string>
     <string name="wallet_last_transactions_header">Poslední transakce</string>
     <string name="wallet_credits_header">kredity</string>
-    <string name="wallet_transaction_fee">(%d kreditů poplatek)</string>
     <string name="no_transaction_found">Žádné transakce</string>
     <string name="no_transaction_additional_info">K čemu jsou kredity\?</string>
     <string name="wallet_additional_info_title">K čemu jsou kredity\?</string>

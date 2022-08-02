@@ -1287,7 +1287,6 @@
     <string name="wallet_buy_credit_no_payments_found">Keine Zahlungsoption gefunden</string>
     <string name="wallet_last_transactions_header">Letzte Transaktionen</string>
     <string name="wallet_credits_header">credits</string>
-    <string name="wallet_transaction_fee">(%d Kreditgebühr)</string>
     <string name="no_transaction_found">Keine Transaktionen</string>
     <string name="no_transaction_found_description">Sie haben keine Transaktionshistorie.</string>
     <string name="no_transaction_additional_info">Wofür sind Credits da\?</string>

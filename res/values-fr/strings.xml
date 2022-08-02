@@ -1490,7 +1490,6 @@
     <string name="wallet_transaction_date_yesterday">Hier</string>
     <string name="payment_selection_gift_vip_title">Donner l\'adhésion VIP comme cadeau</string>
     <string name="payment_selection_dating_top_up_title">Promouvoir l\'annonce</string>
-    <string name="wallet_transaction_fee">(%d frais en crédits)</string>
     <string name="payment_selection_country_select">Choisissez un pays</string>
     <string name="payment_selection_ok_text_pay_wallet">Envoyer</string>
     <string name="payment_selection_cancel_text">Annuler</string>

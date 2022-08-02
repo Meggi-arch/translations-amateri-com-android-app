@@ -1316,7 +1316,6 @@
     <string name="wallet_last_transactions_header">Posledné transakcie</string>
     <string name="no_transaction_found_description">Nemáte žiadnu históriu transakcií.</string>
     <string name="wallet_credits_header">kredity</string>
-    <string name="wallet_transaction_fee">(%d poplatok v kreditoch)</string>
     <string name="no_transaction_found">Žiadne transakcie</string>
     <string name="no_transaction_additional_info">Na čo slúžia kredity\?</string>
     <string name="wallet_additional_info_title">Na čo slúžia kredity\?</string>

@@ -1417,7 +1417,6 @@
     <string name="wallet_transaction_date_yesterday">Wczoraj</string>
     <string name="wallet_last_transactions_header">Ostatnie transakcje</string>
     <string name="wallet_credits_header">kredyty</string>
-    <string name="wallet_transaction_fee">(%d opłata w kredytach)</string>
     <string name="payment_selection_write_messages">Napisz wiadomość</string>
     <string name="payment_selection_cancel_text">Anuluj</string>
     <string name="payment_selection_ok_text_pay_wallet">Wyślij</string>

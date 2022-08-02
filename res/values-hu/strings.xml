@@ -1137,7 +1137,6 @@
     <string name="wallet_current_balance">Jelenlegi egyenleg</string>
     <string name="wallet_credits_header">kreditek</string>
     <string name="wallet_transaction_date_yesterday">Tegnap</string>
-    <string name="wallet_transaction_fee">(%d kreditek díja)</string>
     <string name="payment_selection_gift_vip_title">VIP ajándékozás</string>
     <string name="wallet_last_transactions_header">Utolsó tranzakciók</string>
     <string name="payment_selection_country_select">Válassza ki az országot</string>
