@@ -1659,4 +1659,9 @@
     <string name="report_dialog_select_attachment">Vyberte přílohu</string>
     <string name="report_dialog_add_attachment">Přidat přílohu</string>
     <string name="report_dialog_missing_attachment">Spolu s důvodem nahlášení nahrajte prosím důkazy o svém tvrzení.</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(poplatek %d kredit)</item>
+        <item quantity="few">(poplatek %d kredity)</item>
+        <item quantity="other">(poplatek %d kreditů)</item>
+    </plurals>
 </resources>
