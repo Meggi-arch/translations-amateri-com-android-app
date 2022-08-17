@@ -421,6 +421,16 @@
     <string name="verify_send">Upload verification photo</string>
     <string name="verify_done_text">New picture has been sent. Verification photo will be checked by administrator. Thank you.</string>
     <string name="done">Done!</string>
+    <!-- Profile photo options bottomsheet -->
+    <string name="change_profile_photo_title">Change profile photo</string>
+    <string name="change_profile_photo_gallery_action">Pick from gallery</string>
+    <string name="change_profile_photo_camera_action">Take with camera</string>
+    <string name="change_profile_photo_delete_action">Delete photo</string>
+    <!-- Delete profile photo dialog-->
+    <string name="delete_profile_photo_dialog_title">Delete profile picture?</string>
+    <string name="delete_profile_photo_dialog_message">Are you sure you want to delete your profile picture?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Keep</string>
+    <string name="delete_profile_photo_dialog_delete_action">Delete</string>
     <!--ProfileActivity-->
     <string name="profile_user_chat_rooms">Chat rooms</string>
     <string name="profile_last_online">Last login</string>
