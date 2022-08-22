@@ -660,7 +660,7 @@
     <string name="dating_add_button_text">Anzeige hinzufügen</string>
     <string name="dating_add_toast_created">Anzeige erstellt.</string>
     <string name="dating_add_dialog_backpress">Anzeige wird nicht erstellt. Vorgenomene Änderungen werden nicht gespeichert.</string>
-    <string name="dating_add_toast_empty_fields">Alle Felder müssen ausgefüllt werden.</string>
+    <string name="dating_add_toast_empty_fields">Alle Pflichtfelder müssen ausgefüllt werden.</string>
     <string name="dating_add_dialog_forbidden_title">Nur eine Anzeige in %d Stunden</string>
     <string name="dating_add_dialog_forbidden_content">Heute haben Sie schon eine Azneige hinzugefügt. Sie können weitere morgen hinzufügen.</string>
     <string name="dating_settings_no_dating_ads_title">Sie haben keine Anzeigen</string>
