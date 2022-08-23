@@ -1536,4 +1536,32 @@
     <string name="report_dialog_add_attachment">Melléklet hozzáadása</string>
     <string name="report_dialog_missing_attachment">A bejelentés okával együtt kérjük, töltse fel az állítását alátámasztó bizonyítékokat is.</string>
     <string name="report_dialog_select_attachment">Válassza ki a mellékletet</string>
+    <string name="change_profile_photo_title">Profilfotó módosítása</string>
+    <string name="delete_profile_photo_dialog_message">Biztos, hogy törölni szeretné a profil fotót\?</string>
+    <string name="dating_add_advanced_settings">Speciális társkereső hirdetés beállításai</string>
+    <string name="dating_add_who_can_reply">Ki válaszolhat</string>
+    <string name="dating_add_transgender_title">Transznemű</string>
+    <string name="dating_add_country_title">Ország</string>
+    <string name="dating_ad_criteria_not_met_title">A kritériumok nem teljesültek</string>
+    <string name="dating_ad_criteria_not_met_message">Sajnáljuk, de nem tud erre a társkereső hirdetésre válaszolni, mert nem felel meg a felhasználó által meghatározott feltételeknek.</string>
+    <string name="dating_ad_criteria_with_verification">Ellenőrzött felhasználók</string>
+    <string name="dating_ad_criteria_with_vip">A VIP tagsággal</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(%d kredit díja)</item>
+        <item quantity="other">(%d kreditek díja)</item>
+    </plurals>
+    <string name="new_feature_label">Új</string>
+    <string name="change_profile_photo_gallery_action">Válasszon ki a galériából</string>
+    <string name="change_profile_photo_camera_action">Fényképezőgéppel felvenni</string>
+    <string name="change_profile_photo_delete_action">Fotó törlése</string>
+    <string name="delete_profile_photo_dialog_title">Törölni a profilfotót\?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Tartson a címen.</string>
+    <string name="delete_profile_photo_dialog_delete_action">Törlés</string>
+    <string name="dating_add_location">A keresett hely</string>
+    <string name="dating_add_region_title">Régió</string>
+    <string name="dating_add_gender_title">Szex</string>
+    <string name="dating_add_user_filter_title">Csak a felhasználóknak</string>
+    <string name="dating_add_age_title">Életkor</string>
+    <string name="dating_ad_criteria_age_range">Életkora %d-%d</string>
+    <string name="dating_ad_criteria_with_content">Albumokkal/videókkal</string>
 </resources>
