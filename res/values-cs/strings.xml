@@ -1664,4 +1664,28 @@
         <item quantity="few">(poplatek %d kredity)</item>
         <item quantity="other">(poplatek %d kreditů)</item>
     </plurals>
+    <string name="new_feature_label">Nové</string>
+    <string name="change_profile_photo_title">Změnit profilovou fotku</string>
+    <string name="change_profile_photo_gallery_action">Vybrat z galerie</string>
+    <string name="change_profile_photo_camera_action">Použít foťák</string>
+    <string name="change_profile_photo_delete_action">Smazat fotku</string>
+    <string name="delete_profile_photo_dialog_title">Smazat profilovou fotku\?</string>
+    <string name="delete_profile_photo_dialog_message">Opravdu chcete odstranit svůj profilový obrázek\?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Ponechat</string>
+    <string name="delete_profile_photo_dialog_delete_action">Smazat</string>
+    <string name="dating_add_advanced_settings">Pokročilé nastavení inzerátů</string>
+    <string name="dating_add_location">Lokalita, ve které hledáte</string>
+    <string name="dating_add_who_can_reply">Kdo může odpovídat</string>
+    <string name="dating_add_transgender_title">Transgender</string>
+    <string name="dating_add_country_title">Země</string>
+    <string name="dating_add_region_title">Region</string>
+    <string name="dating_add_gender_title">Pohlaví</string>
+    <string name="dating_add_user_filter_title">Pouze uživatelé</string>
+    <string name="dating_add_age_title">Věk</string>
+    <string name="dating_ad_criteria_not_met_title">Kritéria nejsou splněna</string>
+    <string name="dating_ad_criteria_not_met_message">Je nám líto, ale na tento inzerát nemůžete odpovědět, protože nesplňujete kritéria zadaná uživatelem.</string>
+    <string name="dating_ad_criteria_age_range">Věk %d-%d</string>
+    <string name="dating_ad_criteria_with_verification">Ověření uživatelé</string>
+    <string name="dating_ad_criteria_with_vip">S VIP členstvím</string>
+    <string name="dating_ad_criteria_with_content">S alby/videi</string>
 </resources>
