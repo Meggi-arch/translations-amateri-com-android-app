@@ -1542,4 +1542,13 @@
     <string name="report_dialog_add_attachment">Anhang hinzufügen</string>
     <string name="report_dialog_select_attachment">Anhang auswählen</string>
     <string name="report_dialog_missing_attachment">Bitte laden Sie neben dem Grund für die Meldung auch Beweise für Ihre Behauptung hoch.</string>
+    <string name="new_feature_label">Neu</string>
+    <string name="change_profile_photo_title">Profilfoto ändern</string>
+    <string name="change_profile_photo_gallery_action">Aus der Galerie wählen</string>
+    <string name="change_profile_photo_camera_action">Mit der Kamera aufnehmen</string>
+    <string name="change_profile_photo_delete_action">Foto löschen</string>
+    <string name="delete_profile_photo_dialog_title">Profilfoto löschen\?</string>
+    <string name="delete_profile_photo_dialog_message">Sind Sie sicher, dass Sie Ihr Profilfoto löschen möchten\?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Behalten</string>
+    <string name="delete_profile_photo_dialog_delete_action">Löschen</string>
 </resources>
