@@ -1574,4 +1574,28 @@
         <item quantity="few">(poplatok %d kreditov)</item>
         <item quantity="other">(poplatok %d kredity)</item>
     </plurals>
+    <string name="new_feature_label">Nové</string>
+    <string name="change_profile_photo_camera_action">Použiť foťák</string>
+    <string name="dating_add_advanced_settings">Pokročilé nastavenie izerátov</string>
+    <string name="dating_ad_criteria_not_met_message">Je nám ľúto, ale na tento inzerát nemôžete odpovedať, pretože nespĺňate kritériá stanovené užívateľom.</string>
+    <string name="change_profile_photo_title">Zmeniť profilovú fotku</string>
+    <string name="change_profile_photo_gallery_action">Vybrať z galérie</string>
+    <string name="change_profile_photo_delete_action">Zmazať fotku</string>
+    <string name="delete_profile_photo_dialog_title">Zmazať profilovú fotku\?</string>
+    <string name="delete_profile_photo_dialog_message">Naozaj chcete zmazať svoj profilový obrázok\?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Nechať</string>
+    <string name="delete_profile_photo_dialog_delete_action">Zmazať</string>
+    <string name="dating_add_location">Lokalita, v ktorej hľadáte</string>
+    <string name="dating_add_who_can_reply">Kto môže odpovedať</string>
+    <string name="dating_add_transgender_title">Transgender</string>
+    <string name="dating_add_country_title">Krajina</string>
+    <string name="dating_add_region_title">Región</string>
+    <string name="dating_add_gender_title">Pohlavie</string>
+    <string name="dating_add_user_filter_title">Iba užívatelia</string>
+    <string name="dating_add_age_title">Vek</string>
+    <string name="dating_ad_criteria_not_met_title">Kritériá nie sú splnené</string>
+    <string name="dating_ad_criteria_age_range">Vek %d-%d</string>
+    <string name="dating_ad_criteria_with_verification">Overení užívatelia</string>
+    <string name="dating_ad_criteria_with_vip">S VIP členstvom</string>
+    <string name="dating_ad_criteria_with_content">S albumami/videami</string>
 </resources>
