@@ -1551,4 +1551,23 @@
     <string name="delete_profile_photo_dialog_message">Sind Sie sicher, dass Sie Ihr Profilfoto löschen möchten\?</string>
     <string name="delete_profile_photo_dialog_keep_action">Behalten</string>
     <string name="delete_profile_photo_dialog_delete_action">Löschen</string>
+    <string name="dating_add_advanced_settings">Erweiterte Einstellungen der Anzeigen</string>
+    <string name="dating_add_location">Ort, an dem Sie suchen</string>
+    <string name="dating_add_who_can_reply">Wer kann antworten</string>
+    <string name="dating_add_transgender_title">Transgender</string>
+    <string name="dating_add_country_title">Land</string>
+    <string name="dating_add_region_title">Region</string>
+    <string name="dating_add_gender_title">Geschlecht</string>
+    <string name="dating_add_user_filter_title">Nur Benutzer</string>
+    <string name="dating_add_age_title">Alter</string>
+    <string name="dating_ad_criteria_not_met_title">Kriterien nicht erfüllt</string>
+    <string name="dating_ad_criteria_not_met_message">Sie können leider nicht auf diese Anzeige antworten, da Sie die vom Benutzer festgelegten Kriterien nicht erfüllen.</string>
+    <string name="dating_ad_criteria_age_range">Alter %d-%d</string>
+    <string name="dating_ad_criteria_with_verification">Überprüfte Benutzer</string>
+    <string name="dating_ad_criteria_with_vip">Mit VIP-Mitgliedschaft</string>
+    <string name="dating_ad_criteria_with_content">Mit Alben/Videos</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(Gebühr von %d Kredit)</item>
+        <item quantity="other">(Gebühr von %d Kredite)</item>
+    </plurals>
 </resources>
