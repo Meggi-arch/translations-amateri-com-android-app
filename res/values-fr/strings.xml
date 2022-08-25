@@ -1537,4 +1537,13 @@
     <string name="report_dialog_add_attachment">Ajouter une pièce jointe</string>
     <string name="report_dialog_select_attachment">Sélectionner une pièce jointe</string>
     <string name="report_dialog_missing_attachment">En plus de la raison du signalement, veuillez télécharger les preuves de votre assertion.</string>
+    <string name="new_feature_label">Nouveau</string>
+    <string name="change_profile_photo_title">Changer la photo de profil</string>
+    <string name="change_profile_photo_gallery_action">Choisir dans la galerie</string>
+    <string name="change_profile_photo_camera_action">Prendre avec l\'appareil photo</string>
+    <string name="change_profile_photo_delete_action">Supprimer la photo</string>
+    <string name="delete_profile_photo_dialog_title">Supprimer la photo de profil \?</string>
+    <string name="delete_profile_photo_dialog_message">Êtes-vous sûr de vouloir supprimer votre photo de profil \?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Garder</string>
+    <string name="delete_profile_photo_dialog_delete_action">Supprimer</string>
 </resources>
