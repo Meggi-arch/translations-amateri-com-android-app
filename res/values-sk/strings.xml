@@ -1576,7 +1576,7 @@
     </plurals>
     <string name="new_feature_label">Nové</string>
     <string name="change_profile_photo_camera_action">Použiť foťák</string>
-    <string name="dating_add_advanced_settings">Pokročilé nastavenie izerátov</string>
+    <string name="dating_add_advanced_settings">Pokročilé nastavenie inzerátov</string>
     <string name="dating_ad_criteria_not_met_message">Je nám ľúto, ale na tento inzerát nemôžete odpovedať, pretože nespĺňate kritériá stanovené užívateľom.</string>
     <string name="change_profile_photo_title">Zmeniť profilovú fotku</string>
     <string name="change_profile_photo_gallery_action">Vybrať z galérie</string>
