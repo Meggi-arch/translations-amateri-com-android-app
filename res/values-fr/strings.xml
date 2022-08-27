@@ -687,7 +687,7 @@
     <string name="dating_add_button_text">Ajouter une annonce</string>
     <string name="dating_add_toast_created">Annonce créée.</string>
     <string name="dating_add_dialog_backpress">L\'annonce ne sera pas créée. Les modifications faites seront perdues.</string>
-    <string name="dating_add_toast_empty_fields">Tous les champs doivent être remplis.</string>
+    <string name="dating_add_toast_empty_fields">Tous les champs obligatoires doivent être remplis.</string>
     <string name="dating_add_dialog_forbidden_title">Seulement une annonce toutes les %d heures</string>
     <string name="dating_add_dialog_forbidden_content">Vous avez déjà ajouté une annonce aujourd\'hui. Vous pourrez en rajouter une autre demain.</string>
     <string name="dating_settings_no_dating_ads_title">Vous n\'avez aucune annonce</string>
@@ -1546,4 +1546,23 @@
     <string name="delete_profile_photo_dialog_message">Êtes-vous sûr de vouloir supprimer votre photo de profil \?</string>
     <string name="delete_profile_photo_dialog_keep_action">Garder</string>
     <string name="delete_profile_photo_dialog_delete_action">Supprimer</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(frais de %d crédit)</item>
+        <item quantity="other">(frais de %d crédits)</item>
+    </plurals>
+    <string name="dating_add_advanced_settings">Paramètres avancés des annonces de rencontres</string>
+    <string name="dating_add_location">Emplacement dans lequel vous cherchez</string>
+    <string name="dating_add_who_can_reply">Qui peut répondre</string>
+    <string name="dating_add_transgender_title">Transgenre</string>
+    <string name="dating_add_country_title">Pays</string>
+    <string name="dating_add_region_title">Région</string>
+    <string name="dating_add_gender_title">Sexe</string>
+    <string name="dating_ad_criteria_not_met_message">Désolé, vous ne pouvez pas répondre à cette annonce de rencontre car vous ne répondez pas aux critères définis par l\'utilisateur.</string>
+    <string name="dating_ad_criteria_age_range">Âge %d-%d</string>
+    <string name="dating_add_user_filter_title">Seuls les utilisateurs</string>
+    <string name="dating_ad_criteria_with_verification">Utilisateurs vérifiés</string>
+    <string name="dating_add_age_title">Âge</string>
+    <string name="dating_ad_criteria_not_met_title">Les critères ne sont pas respectés</string>
+    <string name="dating_ad_criteria_with_vip">Avec l\'adhésion VIP</string>
+    <string name="dating_ad_criteria_with_content">Avec albums/vidéos</string>
 </resources>
