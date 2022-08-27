@@ -685,7 +685,7 @@
     <string name="dating_add_button_text">Dodaj ogłoszenie</string>
     <string name="dating_add_toast_created">Utworzono ogłoszenie.</string>
     <string name="dating_add_dialog_backpress">Ogłoszenie nie zostanie utworzone. Wszystkie wykonane zmiany zostaną stracone.</string>
-    <string name="dating_add_toast_empty_fields">Należy wypełnić wszystkie pola.</string>
+    <string name="dating_add_toast_empty_fields">Wszystkie pola obowiązkowe muszą być wypełnione.</string>
     <string name="dating_add_dialog_forbidden_title">Tylko jedno ogłoszenie w ciągu %d godzin</string>
     <string name="dating_add_dialog_forbidden_content">Już dzisiaj utworzyłeś ogłoszenie. Jutro możesz dodać nowe.</string>
     <string name="dating_settings_no_dating_ads_title">Nie ma ogłoszeń</string>
@@ -1593,4 +1593,34 @@
     <string name="report_dialog_add_attachment">Dodaj załącznik</string>
     <string name="report_dialog_missing_attachment">Wraz z powodem zgłoszenia prosimy o przesłanie dowodów na to, że Twoje roszczenie jest zasadne.</string>
     <string name="report_dialog_select_attachment">Wybierz załącznik</string>
+    <plurals name="wallet_transaction_fee">
+        <item quantity="one">(opłata w wysokości %d kredytu)</item>
+        <item quantity="few">(opłata w wysokości %d kredytów)</item>
+        <item quantity="many">(opłataw wysokości %d kredytów)</item>
+        <item quantity="other">(opłataw wysokości %d kredytów)</item>
+    </plurals>
+    <string name="dating_add_advanced_settings">Zaawansowane ustawienia ogłoszeń randkowych</string>
+    <string name="dating_add_location">Lokalizacja, w której szukasz</string>
+    <string name="dating_ad_criteria_not_met_message">Przepraszamy, nie możesz odpowiedzieć na to ogłoszenie randkowe, ponieważ nie spełniasz kryteriów określonych przez użytkownika.</string>
+    <string name="new_feature_label">Nowe</string>
+    <string name="change_profile_photo_title">Zmień zdjęcie profilowe</string>
+    <string name="change_profile_photo_gallery_action">Wybierz z galerii</string>
+    <string name="change_profile_photo_camera_action">Użyj aparatu</string>
+    <string name="change_profile_photo_delete_action">Usuń zdjęcie</string>
+    <string name="delete_profile_photo_dialog_title">Usunąć zdjęcie profilowe\?</string>
+    <string name="delete_profile_photo_dialog_message">Czy na pewno chcesz usunąć swoje zdjęcie profilowe\?</string>
+    <string name="delete_profile_photo_dialog_keep_action">Zachowaj</string>
+    <string name="delete_profile_photo_dialog_delete_action">Usuń</string>
+    <string name="dating_add_who_can_reply">Kto może odpowiedzieć</string>
+    <string name="dating_add_transgender_title">Osoba transpłciowa</string>
+    <string name="dating_add_country_title">Kraj</string>
+    <string name="dating_add_region_title">Region</string>
+    <string name="dating_add_gender_title">Płeć</string>
+    <string name="dating_add_user_filter_title">Tylko użytkownicy</string>
+    <string name="dating_add_age_title">Wiek</string>
+    <string name="dating_ad_criteria_not_met_title">Kryteria niespełnione</string>
+    <string name="dating_ad_criteria_age_range">Wiek %d-%d</string>
+    <string name="dating_ad_criteria_with_verification">Użytkownicy zweryfikowani</string>
+    <string name="dating_ad_criteria_with_vip">Z członkostwem VIP</string>
+    <string name="dating_ad_criteria_with_content">Z albumami/nagraniami</string>
 </resources>
