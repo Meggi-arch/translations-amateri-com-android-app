@@ -1684,6 +1684,8 @@
     <string name="bottomsheet_content_detail_report">Report</string>
     <string name="profile_options_report_user">Report</string>
     <string name="setup_notification_mode">Discreet notifications</string>
+    <string name="setup_screen_security_title">Screen security</string>
+    <string name="setup_screen_security_summary">Block screenshots and hide the screen on the recent activity list.</string>
     <string name="payment_selection_code_missing">SMS code must be filled</string>
     <string name="setup_voice_message_enabled">Receive voice messages</string>
     <string name="add_comment_verification_required_title">You need verification</string>

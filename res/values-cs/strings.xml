@@ -1504,6 +1504,8 @@
     <string name="webview_error_file_chooser">Nelze otevřít Výběr souborů</string>
     <string name="payment_selection_code_missing">Je potřeba vyplnit SMS kód</string>
     <string name="setup_notification_mode">Diskrétní oznámení</string>
+    <string name="setup_screen_security_title">Zabezpečení obrazovky</string>
+    <string name="setup_screen_security_summary">Blokování snímků obrazovky a skrytí obsahu obrazovky na seznamu nedávné aktivity.</string>
     <string name="registration_terms_and_conditions">Registrací přijímáte naše &lt;terms&gt;Všeobecné obchodní podmínky&lt;/terms&gt; a &lt;privacy&gt;Zásady ochrany osobních údajů&lt;/privacy&gt;.</string>
     <string name="registration_continue">Pokračovat</string>
     <string name="registration_sign_up_with_google">Registrovat se přes Google</string>
