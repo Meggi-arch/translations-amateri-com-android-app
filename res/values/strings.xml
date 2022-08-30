@@ -610,6 +610,10 @@
     <string name="dialog_pin_remove">Remove</string>
     <string name="dialog_pin_create">Create</string>
     <!--AlbumSettingsActivity-->
+    <string name="album_settings_type_free_title">Free album</string>
+    <string name="album_settings_type_free_summary">All users will see the album</string>
+    <string name="album_settings_type_paid_title">Paid album</string>
+    <string name="album_settings_type_paid_summary">Album monetized for credits</string>
     <string name="album_settings_title">Title</string>
     <string name="album_settings_title_hint">Enter title</string>
     <string name="album_settings_description">Description</string>
