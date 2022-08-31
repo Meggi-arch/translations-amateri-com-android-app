@@ -58,6 +58,9 @@
     <string name="tab_most_commented">Most commented</string>
     <string name="tab_updated">Updated</string>
     <!--AlbumDetailActivity-->
+    <string name="album_paid_photos_count">%d more photos</string>
+    <string name="album_paid_photos_price">for %d credits</string>
+    <string name="album_buy_album_action">Buy album</string>
     <string name="title_comments">Comments</string>
     <string name="title_next_albums">More albums</string>
     <string name="album_comment_disallowed">You cannot add a comment to this album now.</string>
@@ -1711,4 +1714,13 @@
     <string name="report_dialog_add_attachment">Add attachment</string>
     <string name="report_dialog_missing_attachment">Along with the reason for reporting, please upload evidence of your claim.</string>
     <string name="report_dialog_select_attachment">Select attachment</string>
+    <!--Payment Confirmation dialog -->
+    <string name="payment_confirmation_dialog_title">Payment confirmation</string>
+    <string name="payment_confirmation_dialog_buy_album_text">Buy album &lt;album&gt;%1$s&lt;/album&gt; from user %2$s?</string>
+    <string name="payment_confirmation_dialog_credits_price">%d credits</string>
+    <string name="payment_confirmation_dialog_buy_action">Buy</string>
+    <!--Insufficient Credits dialog -->
+    <string name="insufficient_credits_dialog_title">Insufficient credits</string>
+    <string name="insufficient_credits_dialog_text">Sorry, but you don\'t have enough credits in your wallet.</string>
+    <string name="insufficient_credits_dialog_buy_credits_action">Buy credits</string>
 </resources>
